@@ -1,0 +1,83 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+20	35	GO:0035822	gene conversion	gene	 recombination 
+154	165	GO:0006281	DNA repair.	DNA	DNA repair.
+203	208	GO:0005623	cells	cell	ndica
+259	283	GO:0000725	(recombinational) repair	recombinational	(recombinational) repair
+426	449	GO:0000725	recombinational repair.	recombinational	recombinational repair.
+486	508	GO:0000725	recombinational repair	recombinational	nation via interaction
+691	702	GO:0051235	sequestered	maintenance	els designe
+749	754	GO:0005623	cell,	cell	iated
+887	897	GO:0006281	DNA repair	DNA	red, and w
+967	989	GO:0000725	recombinational repair	recombinational	nherited breast cancer
+995	1000	GO:0005623	Cells	cell	Cells
+1011	1016	GO:0005623	cells	cell	t BRC
+1019	1026	GO:0003675	protein	obsolete	protein
+1038	1044	GO:0005623	cells,	cell	any ca
+1050	1055	GO:0005623	cells	cell	ells,
+1145	1150	GO:0005623	cells	cell	of th
+1159	1166	GO:0003675	protein	obsolete	protein
+1312	1319	GO:0003675	protein	obsolete	protein
+1347	1358	GO:0003677	DNA binding	DNA	mong mammal
+1418	1428	GO:0006281	DNA repair	DNA	DNA repair
+1657	1664	GO:0003675	protein	obsolete	in reco
+1660	1682	GO:0000725	recombinational repair	recombinational	recombinational repair
+1752	1759	GO:0051320	S phase	S	S phase
+1903	1907	GO:0005623	Cell	cell	Cell
+1927	1939	GO:0051179	localization	localization	either BRCA1
+1973	1979	GO:0005623	cells,	cell	g agen
+2034	2038	GO:0005623	cell	cell	cell
+2058	2080	GO:0000725	recombinational repair	recombinational	recombinational repair
+2109	2116	GO:0003675	protein	obsolete	teracts
+2138	2143	GO:0005623	cells	cell	inase
+2168	2178	GO:0005737	cytoplasm,	cytoplasm	in contact
+2224	2231	GO:0003675	protein	obsolete	wed int
+2302	2307	GO:0005623	cells	cell	may h
+2335	2347	GO:0051179	localization	localization	RC repeats o
+2401	2406	GO:0005623	Cells	cell	Cells
+2420	2427	GO:0005634	nucleus	nucleus	/2 fail
+2431	2438	GO:0005488	binding	binding	form da
+2519	2527	GO:0003675	proteins	obsolete	proteins
+2522	2532	GO:0006810	transport,	transport	teins are 
+2549	2558	GO:0009058	formation	biosynthetic	formation
+2569	2578	GO:0005737	cytoplasm	cytoplasm	nase comp
+2583	2592	GO:0051235	sequester	maintenance	 at the s
+2628	2638	GO:0006810	transport.	transport	 genetic m
+2722	2727	GO:0005623	cells	cell	cells
+2973	2979	GO:0005623	cells,	cell	cells,
+3052	3075	GO:0000725	recombinational repair.	recombinational	recombinational repair.
+3222	3227	GO:0005623	cells	cell	cells
+3423	3430	GO:0005488	binding	binding	 encode
+3470	3479	GO:0003675	protein),	obsolete	protein),
+3539	3549	GO:0065007	regulatory	biological	t intron e
+3580	3589	GO:0000496	base pair	base	base pair
+3798	3805	GO:0005488	binding	binding	equence
+3854	3870	GO:0006260	DNA replication.	DNA	ir of the DSB vi
+3892	3907	GO:0035822	gene conversion	gene	gene conversion
+3914	3936	GO:0000725	recombinational repair	recombinational	 The configuration of 
+4106	4110	GO:0005623	cell	cell	cell
+4251	4256	GO:0005623	cells	cell	cells
+4268	4275	GO:0003675	protein	obsolete	ive BRC
+4278	4285	GO:0003675	protein	obsolete	protein
+4376	4414	GO:0000724	RAD51-dependent recombinational repair	double-strand	nation. Expression of I-SceI resulted 
+4431	4436	GO:0005623	cells	cell	cells
+4491	4499	GO:0003675	proteins	obsolete	n pancre
+4510	4514	GO:0005623	cell	cell	cell
+4537	4542	GO:0005623	cells	cell	cells
+4600	4607	GO:0003675	protein	obsolete	protein
+4808	4812	GO:0005623	cell	cell	cell
+4910	4915	GO:0005623	cells	cell	cells
+5054	5076	GO:0000725	recombinational repair	recombinational	recombinational repair
+5265	5287	GO:0000725	recombinational repair	recombinational	recombinational repair
+5310	5315	GO:0005623	cells	cell	cells
+5425	5429	GO:0005623	cell	cell	cell
+5471	5478	GO:0003675	protein	obsolete	protein
+5495	5518	GO:0000725	recombinational repair.	recombinational	is line was found to ha
+5612	5624	GO:0006810	transporting	transport	 observed wa
+5638	5646	GO:0005634	nucleus.	nucleus	ld to si
+5993	6016	GO:0000725	recombinational repair.	recombinational	BRCA2 (S. Powell, perso
+6198	6203	GO:0005623	cells	cell	cells
+6262	6284	GO:0000725	recombinational repair	recombinational	recombinational repair
+6277	6285	GO:0003675	protein;	obsolete	 repair 
+6326	6330	GO:0005623	cell	cell	cell
+6384	6409	GO:0000724	homology-directed repair.	double-strand	be fully responsible for 
+6541	6556	GO:0035822	gene conversion	gene	epancy between 

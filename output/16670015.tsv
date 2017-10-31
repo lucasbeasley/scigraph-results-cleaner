@@ -1,0 +1,122 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+25	31	GO:0040007	growth	growth	growth
+92	102	GO:0023052	signaling,	signaling	Background
+108	114	GO:0040007	growth	growth	growth
+111	118	GO:0040007	growth,	growth	wth (hg
+171	182	GO:0032502	development	developmental	ait loci (Q
+185	199	GO:0019915	lipid storage,	lipid	 affecting gro
+196	203	GO:0040007	growth,	growth	growth,
+221	228	GO:0007618	mating.	mating	cass co
+221	228	GO:1990277	mating.	parasexual	cass co
+221	228	GO:0000747	mating.	conjugation	cass co
+221	228	GO:0009291	mating.	unidirectional	cass co
+222	233	GO:0032502	development	developmental	ass composi
+274	285	GO:0005694	chromosomes	chromosome	chromosomes
+290	297	GO:0004239	mapping	obsolete	) 1, 2,
+500	506	GO:0040007	growth	growth	or wil
+669	675	GO:0040007	growth	growth	 entir
+750	756	GO:0040007	growth	growth	ic cha
+826	832	GO:0040007	growth	growth	growth
+1025	1033	GO:0003675	protein,	obsolete	L on MMU
+1164	1170	GO:0040007	growth	growth	growth
+1270	1276	GO:0040007	growth	growth	ttribu
+1266	1276	GO:0004196	Proteinase	obsolete	ly attribu
+1266	1276	GO:0004175	Proteinase	endopeptidase	ly attribu
+1302	1310	GO:0003675	protein,	obsolete	novel ph
+1292	1312	GO:0040008	regulation of growth	regulation	 however, novel phen
+1391	1397	GO:0040007	growth	growth	Conclu
+1413	1422	GO:0007586	digestion	digestion	ongenic s
+1580	1586	GO:0040007	growth	growth	growth
+1614	1633	GO:0098687	chromosomal regions	chromosomal	 use of mouse model
+1664	1671	GO:0003675	protein	obsolete	 into t
+1686	1696	GO:0023052	signaling,	signaling	monogenic 
+1692	1703	GO:0005694	chromosome;	chromosome	nic syndrom
+1887	1893	GO:0040007	growth	growth	growth
+1938	1944	GO:0040007	growth	growth	oderat
+1986	1992	GO:0040007	growth	growth	i (QTL
+1986	1993	GO:0007618	matings	mating	i (QTL)
+1986	1993	GO:1990277	matings	parasexual	i (QTL)
+1986	1993	GO:0000747	matings	conjugation	i (QTL)
+1986	1993	GO:0009291	matings	unidirectional	i (QTL)
+2023	2030	GO:0007618	matings	mating	s, envi
+2023	2030	GO:1990277	matings	parasexual	s, envi
+2023	2030	GO:0000747	matings	conjugation	s, envi
+2023	2030	GO:0009291	matings	unidirectional	s, envi
+2111	2117	GO:0040007	growth	growth	growth
+2163	2174	GO:0032502	Development	developmental	wever, litt
+2378	2385	GO:0007618	matings	mating	ait int
+2378	2385	GO:1990277	matings	parasexual	ait int
+2378	2385	GO:0000747	matings	conjugation	ait int
+2378	2385	GO:0009291	matings	unidirectional	ait int
+2382	2389	GO:0003675	protein	obsolete	into on
+2645	2651	GO:0040007	growth	growth	omplex
+2664	2671	GO:0035188	hatched	hatching	tium (C
+2668	2675	GO:0016088	insulin	obsolete	 (CTC) 
+2869	2888	GO:0098687	chromosomal regions	chromosomal	e boundaries are de
+2893	2900	GO:0003675	protein	obsolete	 by gen
+2897	2903	GO:0040007	growth	growth	geneti
+3021	3028	GO:0003675	protein	obsolete	his is 
+3201	3208	GO:0003675	protein	obsolete	er of r
+3220	3252	GO:0035556	intracellular signaling pathway,	intracellular	crosses from 10 to five [5,6]. T
+3299	3305	GO:0040007	growth	growth	identi
+3318	3324	GO:0040007	Growth	growth	inheri
+3464	3470	GO:0040007	growth	growth	ed to 
+3469	3475	GO:0040007	growth	growth	 succe
+3468	3477	GO:0046903	secretion	secretion	o success
+3493	3508	GO:0010467	gene expression	gene	use QTL for a w
+3527	3536	GO:0023052	signaling	signaling	, includi
+3539	3545	GO:0040007	growth	growth	growth
+3547	3553	GO:0040007	growth	growth	nd obe
+3555	3566	GO:0032502	development	developmental	ty [7-13]. 
+3656	3663	GO:0007618	mating.	mating	us dele
+3656	3663	GO:1990277	mating.	parasexual	us dele
+3656	3663	GO:0000747	mating.	conjugation	us dele
+3656	3663	GO:0009291	mating.	unidirectional	us dele
+3705	3712	GO:0004239	mapping	obsolete	 of the
+3778	3785	GO:0003675	protein	obsolete	 of Soc
+3829	3840	GO:0032502	Development	developmental	ndependentl
+3834	3849	GO:0006351	transcriptional	transcription,	ndently enginee
+3890	3896	GO:0040007	growth	growth	a numb
+3887	3901	GO:0005131	growth hormone	growth	ed a number of
+3907	3925	GO:0007165	signaling pathway.	signal	types in common wi
+3960	3967	GO:0003675	protein	obsolete	L which
+3974	3983	GO:0023052	signaling	signaling	the pheno
+4059	4074	GO:0010467	gene expression	gene	r QTL have been
+4075	4081	GO:0004239	mapped	obsolete	mapped
+4282	4288	GO:0040007	growth	growth	stasis
+4322	4329	GO:0040007	growth,	growth	ions, i
+4414	4423	GO:0008152	metabolic	metabolic	metabolic
+4414	4423	GO:0007552	metabolic	metamorphosis	metabolic
+4530	4536	GO:0040007	growth	growth	]. Sin
+4591	4602	GO:0005694	chromosome;	chromosome	ate growth 
+4595	4609	GO:0005131	growth hormone	growth	growth hormone
+4635	4652	GO:0030073	insulin secretion	insulin	hese background e
+4657	4676	GO:0042593	glucose homeostasis	glucose	s are the result of
+4685	4691	GO:0040007	growth	growth	hism i
+4741	4759	GO:0007165	signaling pathway.	signal	signaling pathway.
+4857	4862	GO:0031672	Bands	A	impor
+4949	4955	GO:0040007	growth	growth	growth
+5051	5058	GO:0004239	mapping	obsolete	the F2,
+5087	5102	GO:0010467	gene expression	gene	eletion (hg/hg)
+5377	5384	GO:0007618	mating.	mating	e ident
+5377	5384	GO:1990277	mating.	parasexual	e ident
+5377	5384	GO:0000747	mating.	conjugation	e ident
+5377	5384	GO:0009291	mating.	unidirectional	e ident
+5383	5394	GO:0032502	development	developmental	tified, alo
+5393	5405	GO:0032502	development.	developmental	ong with 12 
+5398	5413	GO:0010467	gene expression	gene	ith 12 addition
+5550	5561	GO:0032502	Development	developmental	on MMU5, Wg
+5654	5660	GO:0040007	growth	growth	on was
+5724	5730	GO:0040007	growth	growth	oped s
+5731	5738	GO:0003675	protein	obsolete	eed con
+5848	5866	GO:0098687	chromosomal region	chromosomal	chromosomal region
+5935	5942	GO:0004239	mapping	obsolete	with id
+6134	6140	GO:0040007	growth	growth	, base
+6164	6175	GO:0009056	degradation	catabolic	tential QTL
+6190	6199	GO:0023052	signaling	signaling	s, genes 
+6245	6267	GO:0016567	protein ubiquitination	protein	on overlapped hg modif
+6443	6449	GO:0040007	growth	growth	the se
+6530	6540	GO:0005694	chromosome	chromosome	 of eight 
+6682	6689	GO:0004239	mapping	obsolete	ions br
+6720	6726	GO:0040007	growth	growth	reated
+7022	7028	GO:0040007	growth	growth	solate

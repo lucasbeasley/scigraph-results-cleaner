@@ -1,0 +1,45 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+340	361	GO:0034701	tripeptidase activity	tripeptidase	rodegenerative diseas
+500	507	GO:0003675	protein	obsolete	t neith
+528	536	GO:0003675	proteins	obsolete	s of the
+597	601	GO:0019013	core	viral	evio
+808	815	GO:0003675	Protein	obsolete	n the g
+877	885	GO:0003675	protein.	obsolete	although
+884	890	GO:0048788	Ribbon	cytoskeleton	h clea
+990	994	GO:0019013	core	viral	. A 
+1194	1202	GO:0003675	proteins	obsolete	and may 
+1276	1283	GO:0005488	binding	binding	cates a
+1438	1446	GO:0045292	splices.	mRNA	e where 
+1481	1488	GO:0005488	binding	binding	binding
+1636	1645	GO:0003675	proteins,	obsolete	 more spe
+1727	1731	GO:0019013	core	viral	se I
+2029	2038	GO:0003675	proteins.	obsolete	hat mutat
+2153	2157	GO:0019013	core	viral	erat
+2335	2346	GO:0032502	development	developmental	ut, however
+2425	2432	GO:0003675	protein	obsolete	curate 
+2786	2793	GO:0051235	storage	maintenance	 that i
+2812	2816	GO:0005623	cell	cell	the 
+2817	2821	GO:0019013	core	viral	tili
+2845	2853	GO:0003675	protein,	obsolete	ved cata
+2859	2864	GO:0030315	triad	T-tubule	triad
+2944	2957	GO:0016467	ATP synthase,	obsolete	in and its se
+2944	2957	GO:0016468	ATP synthase,	obsolete	in and its se
+2963	2970	GO:0003675	protein	obsolete	variant
+3267	3273	GO:0030315	triad.	T-tubule	ial me
+3383	3391	GO:0003675	protein,	obsolete	blished 
+3655	3662	GO:0005488	binding	binding	the exp
+4013	4020	GO:0003675	protein	obsolete	e tools
+4200	4213	GO:0044214	transmembrane	spanning	ign of specif
+4200	4213	GO:0016021	transmembrane	integral	ign of specif
+4214	4220	GO:0043495	anchor	protein	c inhi
+4364	4372	GO:0003675	protein.	obsolete	f sedoli
+4425	4432	GO:0003675	protein	obsolete	e enzym
+4505	4514	GO:0003675	proteins,	obsolete	aved off 
+4623	4630	GO:0003675	protein	obsolete	pecies 
+4711	4720	GO:0003675	proteins,	obsolete	 full-len
+4749	4756	GO:0043495	anchors	protein	ino aci
+4764	4772	GO:0005202	collagen	obsolete	ged in a
+4906	4928	GO:0051405	collagenase activity),	obsolete	deletion in the proseg
+4906	4928	GO:0008133	collagenase activity),	obsolete	deletion in the proseg
+5365	5370	GO:0005488	bound	binding	spond
+5860	5867	GO:0005488	binding	binding	e mamma

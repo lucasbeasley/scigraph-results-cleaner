@@ -1,0 +1,138 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+3	7	GO:0005623	cell	cell	ium-
+99	107	GO:0033867	fasting.	Fas-activated	A dehydr
+99	107	GO:0033867	fasting.	Fas-activated	A dehydr
+211	215	GO:0031672	band	A	in h
+228	233	GO:0004617	serum	phosphoglycerate	ter u
+253	257	GO:0031672	band	A	enes
+246	258	GO:0009405	pathogenesis	pathogenesis	 pathogenesi
+342	347	GO:0004617	serum	phosphoglycerate	targe
+356	360	GO:0005623	cell	cell	mbry
+374	380	GO:0005623	cells.	cell	 cells
+376	382	GO:0033867	fasted	Fas-activated	ells. 
+376	382	GO:0033867	fasted	Fas-activated	ells. 
+481	488	GO:0033867	fasting	Fas-activated	e at 4 
+481	488	GO:0033867	fasting	Fas-activated	e at 4 
+491	496	GO:0004617	serum	phosphoglycerate	with 
+501	509	GO:0033867	fasting.	Fas-activated	 fasting
+660	668	GO:0001906	necrosis	cell	pups dem
+660	668	GO:0019835	necrosis	cytolysis	pups dem
+660	668	GO:0008220	necrosis	obsolete	pups dem
+660	668	GO:0070265	necrosis	necrotic	pups dem
+660	668	GO:0008219	necrosis	cell	pups dem
+660	668	GO:0001906	necrosis	cell	pups dem
+660	668	GO:0019835	necrosis	cytolysis	pups dem
+660	668	GO:0008220	necrosis	obsolete	pups dem
+660	668	GO:0070265	necrosis	necrotic	pups dem
+660	668	GO:0008219	necrosis	cell	pups dem
+889	894	GO:0004617	Serum	phosphoglycerate	s of 
+906	926	GO:0019395	fatty acid oxidation	fatty	 fatty acid oxidatio
+931	943	GO:0009405	pathogenesis	pathogenesis	 pathogenesi
+952	962	GO:0008152	metabolism	metabolic	n diseases
+952	962	GO:0008152	metabolism	metabolic	n diseases
+972	993	GO:0019395	fatty acid oxidation.	fatty	 fatty acid oxidation
+1106	1117	GO:0008152	metabolism.	metabolic	 metabolism
+1133	1153	GO:0019395	fatty acid oxidation	fatty	 fatty acid oxidatio
+1269	1276	GO:0033867	fasting	Fas-activated	 fastin
+1286	1295	GO:0008152	Metabolic	metabolic	 Metaboli
+1286	1295	GO:0007552	Metabolic	metamorphosis	 Metaboli
+1593	1597	GO:0033867	fast	Fas-activated	mous
+1741	1747	GO:0016265	deaths	death	high r
+1741	1747	GO:0016265	deaths	death	high r
+1752	1763	GO:0007565	gestational	female	f newborn l
+1752	1763	GO:0007565	gestational	female	f newborn l
+1819	1825	GO:0033867	fasted	Fas-activated	ical c
+1947	1954	GO:0033867	fasting	Fas-activated	ficient
+1947	1954	GO:0033867	fasting	Fas-activated	ficient
+1999	2006	GO:0045292	spliced	mRNA	 unders
+2141	2153	GO:0009405	pathogenesis	pathogenesis	acids provid
+2141	2153	GO:0009405	pathogenesis	pathogenesis	acids provid
+2168	2173	GO:0033867	fast.	Fas-activated	ciall
+2181	2188	GO:0033867	fasting	Fas-activated	 fastin
+2201	2221	GO:0019395	Fatty acid oxidation	fatty	 Fatty acid oxidatio
+2232	2244	GO:0005739	mitochondria	mitochondrion	 mitochondri
+2264	2269	GO:0033867	fast.	Fas-activated	repea
+2342	2349	GO:0045292	spliced	mRNA	-CoA de
+2472	2479	GO:0003675	protein	obsolete	 protei
+2489	2497	GO:0001906	necrosis	cell	, specif
+2489	2497	GO:0019835	necrosis	cytolysis	, specif
+2489	2497	GO:0008220	necrosis	obsolete	, specif
+2489	2497	GO:0070265	necrosis	necrotic	, specif
+2489	2497	GO:0008219	necrosis	cell	, specif
+2631	2639	GO:0001906	necrosis	cell	bed in t
+2631	2639	GO:0019835	necrosis	cytolysis	bed in t
+2631	2639	GO:0008220	necrosis	obsolete	bed in t
+2631	2639	GO:0070265	necrosis	necrotic	bed in t
+2631	2639	GO:0008219	necrosis	cell	bed in t
+2641	2649	GO:0005634	nucleus,	nucleus	 nucleus
+2668	2676	GO:0005829	cytosol,	cytosol	 cytosol
+2703	2723	GO:0005759	mitochondrial matrix	mitochondrial	 mitochondrial matri
+2751	2762	GO:0016528	sarcoplasm,	sarcoplasm	ochondrial 
+2747	2768	GO:0005759	mitochondrial matrix,	mitochondrial	 mitochondrial matrix
+2778	2788	GO:0030016	myofibrils	myofibril	 monomers 
+2833	2839	GO:0005634	Nuclei	nucleus	matic 
+2852	2865	GO:0070991	MCAD activity	medium-chain-acyl-CoA	 MCAD activit
+2883	2892	GO:0031982	vesicular	vesicle	 complete
+2892	2913	GO:0019395	fatty acid oxidation.	fatty	 fatty acid oxidation
+2911	2920	GO:0005730	nucleoli.	nucleolus	on. Inher
+3295	3302	GO:0003675	protein	obsolete	atients
+3350	3358	GO:0033867	fasting.	Fas-activated	 fasting
+3453	3461	GO:0003823	antibody	antigen	totic hy
+3453	3461	GO:0019815	antibody	B	totic hy
+3453	3461	GO:0042571	antibody	immunoglobulin	totic hy
+3475	3484	GO:0003823	antibody.	antigen	 Reye-lik
+3475	3484	GO:0019815	antibody.	B	 Reye-lik
+3475	3484	GO:0042571	antibody.	immunoglobulin	 Reye-lik
+3532	3540	GO:0003675	protein.	obsolete	ly 59% o
+3546	3553	GO:0003675	protein	obsolete	ents pr
+3550	3560	GO:0007586	digestion,	digestion	 presentin
+3550	3560	GO:0007586	digestion,	digestion	 presentin
+3644	3649	GO:0005623	cells	cell	 The 
+3644	3649	GO:0005623	cells	cell	 The 
+3648	3660	GO:0009405	pathogenesis	pathogenesis	 pathogenesi
+3682	3691	GO:0008152	metabolic	metabolic	 metaboli
+3682	3691	GO:0007552	metabolic	metamorphosis	 metaboli
+3691	3699	GO:0003823	antibody	antigen	c distur
+3691	3699	GO:0019815	antibody	B	c distur
+3691	3699	GO:0042571	antibody	immunoglobulin	c distur
+3719	3726	GO:0003675	protein	obsolete	iency i
+3798	3805	GO:0003675	protein	obsolete	versial
+3831	3841	GO:0003823	antibodies	antigen	 deficienc
+3831	3841	GO:0019815	antibodies	B	 deficienc
+3831	3841	GO:0042571	antibodies	immunoglobulin	 deficienc
+3880	3892	GO:0009405	pathogenesis	pathogenesis	 pathogenesi
+3887	3902	GO:0003824	Enzyme activity	catalytic	enesis of MCAD 
+3953	3971	GO:0006118	electron transport	obsolete	s for human patien
+4122	4127	GO:0005623	cells	cell	 cell
+4316	4320	GO:0005623	cell	cell	arge
+4316	4320	GO:0005623	cell	cell	arge
+4329	4342	GO:0070991	MCAD activity	medium-chain-acyl-CoA	Generation of
+4516	4521	GO:0005623	cells	cell	 cell
+4764	4775	GO:0006412	Translation	translation	 Translatio
+4932	4937	GO:0016265	dying	death	ature
+4961	4972	GO:0006412	translation	translation	 translatio
+4966	4987	GO:0001171	Reverse transcription	reverse	slation of only seven
+4966	4987	GO:0001171	Reverse transcription	reverse	slation of only seven
+5076	5084	GO:0033867	fasting,	Fas-activated	inal dom
+5208	5215	GO:0033867	fasting	Fas-activated	trategy
+5330	5337	GO:0007618	matings	mating	compass
+5330	5337	GO:1990277	matings	parasexual	compass
+5330	5337	GO:0000747	matings	conjugation	compass
+5330	5337	GO:0009291	matings	unidirectional	compass
+5361	5369	GO:0007618	matings.	mating	 sequenc
+5361	5369	GO:1990277	matings.	parasexual	 sequenc
+5361	5369	GO:0000747	matings.	conjugation	 sequenc
+5361	5369	GO:0009291	matings.	unidirectional	 sequenc
+5435	5443	GO:0007618	matings.	mating	 the end
+5435	5443	GO:1990277	matings.	parasexual	 the end
+5435	5443	GO:0000747	matings.	conjugation	 the end
+5435	5443	GO:0009291	matings.	unidirectional	 the end
+5444	5451	GO:0033867	Fasting	Fas-activated	genous 
+5515	5522	GO:0033867	fasting	Fas-activated	the dis
+5557	5563	GO:0033867	fasted	Fas-activated	alysis
+5601	5606	GO:0005623	cells	cell	 cell
+5621	5626	GO:0004617	serum	phosphoglycerate	CR. P
+5808	5814	GO:0033867	fasted	Fas-activated	 to a 
+5864	5868	GO:0005623	cell	cell	 cel
+5914	5918	GO:0005623	cell	cell	 cel
+6653	6659	GO:0033867	fasted	Fas-activated	groups

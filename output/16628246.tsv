@@ -1,0 +1,393 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+15	22	GO:0003675	protein	obsolete	fects T
+27	32	GO:0005623	cells	cell	blast
+33	44	GO:0032502	Development	developmental	Development
+81	88	GO:0003675	protein	obsolete	 Extrae
+109	120	GO:0016049	cell growth	cell	ract ATRX i
+142	153	GO:0007049	cell cycle.	cell	of the SNF2
+152	161	GO:0003823	antibody.	antigen	2 family 
+152	161	GO:0019815	antibody.	B	2 family 
+152	161	GO:0042571	antibody.	immunoglobulin	2 family 
+143	166	GO:0042981	regulation of apoptosis	regulation	f the SNF2 family of AT
+170	175	GO:0005623	cells	cell	/heli
+180	188	GO:0003675	proteins	obsolete	proteins
+187	197	GO:0065007	regulatory	biological	s thought 
+209	224	GO:0010467	gene expression	gene	gene expression
+219	224	GO:0005623	cells	cell	ssion
+237	242	GO:0005623	cells	cell	 chro
+238	247	GO:0000785	chromatin	chromatin	chromatin
+246	250	GO:0005623	cell	cell	n at
+260	268	GO:0003675	protein)	obsolete	ci. Muta
+273	281	GO:0003823	antibody	antigen	 in ATRX
+273	281	GO:0019815	antibody	B	 in ATRX
+273	281	GO:0042571	antibody	immunoglobulin	 in ATRX
+321	326	GO:0005623	cells	cell	eneti
+334	347	GO:0009793	embryogenesis	embryo	e associated 
+334	347	GO:0009792	embryogenesis	embryo	e associated 
+334	347	GO:0009790	embryogenesis	embryo	e associated 
+357	362	GO:0005623	cells	cell	ts in
+368	377	GO:0003675	proteins.	obsolete	proteins.
+379	387	GO:0016020	membrane	membrane	o better
+384	406	GO:0006915	induction of apoptosis	apoptotic	ter understand the rol
+419	430	GO:0032502	development	developmental	development
+425	432	GO:0007067	mitosis	mitotic	pment a
+459	464	GO:0031672	bands	A	ties 
+476	480	GO:0005623	cell	cell	 (al
+496	511	GO:0006351	transcriptional	transcription,	mental retardat
+512	518	GO:0005623	cells,	cell	on, X-
+523	532	GO:0097194	apoptosis	execution	d) syndro
+523	532	GO:0006915	apoptosis	apoptotic	d) syndro
+523	533	GO:0065007	regulation	biological	d) syndrom
+562	575	GO:0006351	transcription	transcription,	ed the homolo
+573	580	GO:0007067	mitotic	mitotic	log in 
+580	585	GO:0005623	cells	cell	mice,
+580	603	GO:0006415	translation termination	translational	mice, Atrx, at the 8- t
+604	611	GO:0023052	signals	signaling	 16-cel
+604	612	GO:0016020	membrane	membrane	 16-cell
+595	619	GO:0048468	terminal differentiation	cell	the 8- to 16-cell stage 
+622	634	GO:0032502	development.	developmental	development.
+613	638	GO:0048468	terminal differentiation.	cell	stage of development. The
+639	647	GO:0003675	protein,	obsolete	protein,
+649	656	GO:0003675	protein	obsolete	trx, wa
+669	673	GO:0005623	cell	cell	y ex
+670	681	GO:0032502	Development	developmental	 expressed,
+706	717	GO:0032502	development	developmental	r Atrx impl
+726	732	GO:0005623	cells,	cell	 gastr
+772	791	GO:0001835	blastocysts hatched	blastocyst	nd 9.5 days postcoi
+789	798	GO:0097194	Apoptosis	execution	oitus due
+789	798	GO:0006915	Apoptosis	apoptotic	oitus due
+796	802	GO:0016265	death,	death	ue to 
+801	815	GO:0035805	zona pellucida	egg	 a defect in f
+807	815	GO:0003823	antibody	antigen	ect in f
+807	815	GO:0019815	antibody	B	ect in f
+807	815	GO:0042571	antibody	immunoglobulin	ect in f
+814	823	GO:0009058	formation	biosynthetic	formation
+832	837	GO:0005623	Cells	cell	xtrae
+833	838	GO:0007618	mated	mating	traem
+833	838	GO:1990277	mated	parasexual	traem
+833	838	GO:0000747	mated	conjugation	traem
+833	838	GO:0009291	mated	unidirectional	traem
+858	863	GO:0005623	cells	cell	 one 
+943	953	GO:0005694	chromosome	chromosome	r female m
+983	991	GO:0003823	antibody	antigen	ll allel
+983	991	GO:0019815	antibody	B	ll allel
+983	991	GO:0042571	antibody	immunoglobulin	ll allel
+983	991	GO:0042600	chorion;	chorion	ll allel
+1028	1039	GO:0032502	development	developmental	nal X chrom
+1032	1044	GO:0000805	X chromosome	X	X chromosome
+1042	1049	GO:0003675	protein	obsolete	me is n
+1042	1051	GO:0097194	apoptotic	execution	me is nor
+1042	1051	GO:0006915	apoptotic	apoptotic	me is nor
+1087	1096	GO:0097194	apoptotic	execution	tissues. 
+1087	1096	GO:0006915	apoptotic	apoptotic	tissues. 
+1138	1144	GO:0040007	Growth	growth	s esta
+1149	1160	GO:0032259	Methylation	methylation	ed a normal
+1158	1168	GO:0005694	chromosome	chromosome	al placent
+1184	1189	GO:0005623	Cells	cell	o esc
+1222	1226	GO:0005623	cell	cell	d X-
+1232	1237	GO:0005623	cells	cell	vatio
+1234	1241	GO:0003675	protein	obsolete	tion in
+1249	1254	GO:0005623	cells	cell	issue
+1245	1260	GO:0006306	DNA Methylation	DNA	se tissues. Tog
+1262	1266	GO:0005623	cell	cell	her 
+1280	1284	GO:0005623	cell	cell	 dem
+1288	1293	GO:0005623	cells	cell	rate 
+1305	1310	GO:0005623	Cells	cell	d, sp
+1311	1317	GO:0005623	cells)	cell	cific,
+1355	1362	GO:0007618	Matings	mating	velopme
+1355	1362	GO:1990277	Matings	parasexual	velopme
+1355	1362	GO:0000747	Matings	conjugation	velopme
+1355	1362	GO:0009291	Matings	unidirectional	velopme
+1353	1364	GO:0032502	development	developmental	development
+1398	1403	GO:0005623	cells	cell	sent 
+1404	1409	GO:0005623	cells	cell	n exa
+1400	1413	GO:0007369	gastrulation.	gastrulation	nt an example
+1428	1433	GO:0005623	cells	cell	 impr
+1442	1447	GO:0005623	cells	cell	hromo
+1453	1458	GO:0005623	cells	cell	nacti
+1439	1465	GO:0009048	X chromosome inactivation.	dosage	X chromosome inactivation.
+1490	1499	GO:0009058	formation	biosynthetic	 a class 
+1498	1506	GO:0016020	membrane	membrane	 of prot
+1501	1508	GO:0003675	protein	obsolete	 protei
+1502	1510	GO:0003675	proteins	obsolete	proteins
+1531	1546	GO:0006323	DNA is packaged	DNA	DNA is packaged
+1540	1551	GO:0032502	development	developmental	ckaged into
+1552	1562	GO:0000785	chromatin,	chromatin	chromatin,
+1599	1607	GO:0003675	proteins	obsolete	proteins
+1615	1622	GO:0005634	nucleus	nucleus	nucleus
+1623	1632	GO:0016020	Membranes	membrane	to DNA. I
+1663	1669	GO:0040007	growth	growth	influe
+1673	1689	GO:0010467	gene expression.	gene	gene expression.
+1730	1736	GO:0016265	death,	death	ated o
+1749	1763	GO:0000803	sex chromosome	sex	sex chromosome
+1761	1769	GO:0003675	protein.	obsolete	me (X), 
+1802	1814	GO:0032502	development.	developmental	uman disease
+1836	1841	GO:0005623	cells	cell	ciate
+1862	1868	GO:0005623	cells.	cell	h prot
+1864	1873	GO:0003675	proteins.	obsolete	proteins.
+1888	1894	GO:0040007	Growth	growth	 (XMUT
+1899	1910	GO:0032259	Methylation	methylation	ve multiple
+1903	1915	GO:0032259	methylation,	methylation	ultiple deve
+1909	1917	GO:0003823	antibody	antigen	e develo
+1909	1917	GO:0019815	antibody	B	e develo
+1909	1917	GO:0042571	antibody	immunoglobulin	e develo
+1928	1933	GO:0005623	cells	cell	ormal
+1934	1939	GO:0005623	Cells	cell	ties 
+1940	1951	GO:0032502	development	developmental	n a wide va
+1952	1957	GO:0005623	cells	cell	iety 
+2005	2013	GO:0003675	proteins	obsolete	proteins
+2009	2020	GO:0032259	methylation	methylation	eins like A
+2034	2038	GO:0005623	cell	cell	cell
+2112	2119	GO:0042600	chorion	chorion	 gene i
+2122	2134	GO:0000805	X chromosome	X	ice, Atrx. A
+2140	2148	GO:0016020	membrane	membrane	h affect
+2164	2175	GO:0016049	cell growth	cell	UTY) starte
+2180	2184	GO:0005623	cell	cell	deve
+2211	2215	GO:0005623	cell	cell	ly i
+2210	2215	GO:0005623	cells	cell	rly i
+2206	2216	GO:0005694	chromosome	chromosome	d early in
+2217	2228	GO:0032502	development	developmental	development
+2240	2247	GO:0003675	Protein	obsolete	y faile
+2281	2292	GO:0016049	cell growth	cell	e placenta,
+2329	2341	GO:0000805	X chromosome	X	X chromosome
+2358	2363	GO:0005623	cells	cell	t fro
+2358	2369	GO:0007610	behavioural	behavior	t from thei
+2368	2373	GO:0005623	cells	cell	ir fa
+2371	2378	GO:0003675	protein	obsolete	fathers
+2381	2389	GO:0003823	antibody	antigen	p), so i
+2381	2389	GO:0019815	antibody	B	p), so i
+2381	2389	GO:0042571	antibody	immunoglobulin	p), so i
+2413	2419	GO:0005634	nuclei	nucleus	heir m
+2412	2422	GO:0007049	cell cycle	cell	their moth
+2427	2436	GO:0097194	apoptosis	execution	 X chromo
+2427	2436	GO:0006915	apoptosis	apoptotic	 X chromo
+2428	2440	GO:0000805	X chromosome	X	X chromosome
+2433	2446	GO:0000805	X chromosome.	X	omosome (Xm) 
+2467	2478	GO:0032259	Methylation	methylation	al copy of 
+2515	2519	GO:0005623	cell	cell	t, l
+2506	2521	GO:0000792	heterochromatin	heterochromatin	edict that, lik
+2540	2547	GO:0003675	protein	obsolete	hey wou
+2550	2560	GO:0005694	chromosome	chromosome	fail to fo
+2594	2605	GO:0005694	chromosome.	chromosome	unexpectedl
+2587	2612	GO:0009048	X chromosome inactivation	dosage	uthors unexpectedly found
+2610	2616	GO:0023052	signal	signaling	nd thi
+2621	2637	GO:0016458	genes, silencing	gene	 to be so. They 
+2646	2661	GO:0016887	ATPase activity	ATPase	nstead, that in
+2667	2675	GO:0003823	antibody	antigen	females 
+2667	2675	GO:0019815	antibody	B	females 
+2667	2675	GO:0042571	antibody	immunoglobulin	females 
+2687	2692	GO:0005623	cells	cell	pater
+2697	2702	GO:0005623	cells	cell	 deri
+2750	2758	GO:0003823	antibody	antigen	e demons
+2750	2758	GO:0019815	antibody	B	e demons
+2750	2758	GO:0042571	antibody	immunoglobulin	e demons
+2767	2777	GO:0005694	chromosome	chromosome	 important
+2759	2800	GO:0060817	inactivation of the paternal X chromosome	inactivation	rated an important facet of X-chromosome 
+2890	2895	GO:0005623	cells	cell	l ret
+2951	2956	GO:0005623	cells	cell	genit
+2977	2984	GO:0003675	protein	obsolete	 It is 
+3139	3146	GO:0042600	chorion	chorion	e of β-
+3144	3156	GO:0016049	cell growth.	cell	β-globin tet
+3168	3173	GO:0005623	cells	cell	oglob
+3178	3195	GO:0016234	inclusion bodies)	inclusion	inclusion bodies)
+3241	3251	GO:0007049	cell cycle	cell	s occasion
+3262	3270	GO:0003675	protein.	obsolete	st haemo
+3303	3308	GO:0005623	cells	cell	rwise
+3372	3376	GO:0005623	cell	cell	nact
+3396	3406	GO:0007049	cell cycle	cell	emales hav
+3426	3431	GO:0005623	cells	cell	renti
+3450	3455	GO:0005623	cells	cell	the c
+3454	3464	GO:0005694	chromosome	chromosome	chromosome
+3478	3482	GO:0005623	cell	cell	bnor
+3490	3502	GO:0000805	X chromosome	X	le in a vari
+3547	3552	GO:0005623	cells	cell	ctiva
+3548	3555	GO:0007067	mitotic	mitotic	tivatio
+3607	3615	GO:0003675	protein.	obsolete	in carri
+3621	3626	GO:0005623	cells	cell	he AT
+3632	3637	GO:0007618	mated	mating	ndrom
+3632	3637	GO:1990277	mated	parasexual	ndrom
+3632	3637	GO:0000747	mated	conjugation	ndrom
+3632	3637	GO:0009291	mated	unidirectional	ndrom
+3640	3651	GO:0005694	chromosome.	chromosome	s caused by
+3677	3689	GO:0032502	development,	developmental	) that compr
+3687	3694	GO:0007067	mitosis	mitotic	prises 
+3791	3798	GO:0003675	protein	obsolete	protein
+3818	3825	GO:0007067	mitotic	mitotic	. As we
+3852	3859	GO:0003675	protein	obsolete	protein
+3928	3934	GO:0040007	growth	growth	 demon
+3961	3966	GO:0005623	cells	cell	oform
+3988	3997	GO:0003823	antibody,	antigen	a) is pro
+3988	3997	GO:0019815	antibody,	B	a) is pro
+3988	3997	GO:0042571	antibody,	immunoglobulin	a) is pro
+3981	4007	GO:0043065	up-regulation of apoptosis	positive	~200 kDa) is produced from
+4020	4025	GO:0005623	cells	cell	 of a
+4030	4038	GO:0003823	antibody	antigen	 7 kb, w
+4030	4038	GO:0019815	antibody	B	 7 kb, w
+4030	4038	GO:0042571	antibody	immunoglobulin	 7 kb, w
+4052	4063	GO:0032502	development	developmental	en intron 1
+4077	4084	GO:0045292	spliced	mRNA	spliced
+4086	4095	GO:0097194	apoptotic	execution	rom the p
+4086	4095	GO:0006915	apoptotic	apoptotic	rom the p
+4096	4101	GO:0005623	cells	cell	imary
+4131	4136	GO:0005623	cells	cell	 intr
+4135	4139	GO:0005623	cell	cell	roni
+4142	4151	GO:0097194	apoptotic	execution	oly(A) si
+4142	4151	GO:0006915	apoptotic	apoptotic	oly(A) si
+4152	4157	GO:0005623	cells	cell	nal i
+4179	4185	GO:0040007	growth	growth	homolo
+4177	4187	GO:0005694	chromosome	chromosome	e homolog 
+4208	4213	GO:0005623	cells	cell	x, is
+4235	4248	GO:0000805	X chromosome,	X	X chromosome,
+4243	4248	GO:0005623	cells	cell	some,
+4252	4262	GO:0007049	cell cycle	cell	 also give
+4262	4267	GO:0005623	cells	cell	s ris
+4283	4291	GO:0042600	chorion;	chorion	 (Atrx, 
+4297	4308	GO:0008219	cell death.	cell	Da) and tru
+4318	4329	GO:0016049	cell growth	cell	rxt, ~200 k
+4340	4345	GO:0005623	cells	cell	s [4,
+4343	4352	GO:0097194	apoptotic	execution	4,5]. Dis
+4343	4352	GO:0006915	apoptotic	apoptotic	4,5]. Dis
+4374	4379	GO:0005623	cells	cell	mutat
+4388	4393	GO:0005623	cells	cell	clust
+4390	4396	GO:0005623	cells,	cell	ustere
+4397	4406	GO:0097194	apoptotic	execution	 in two r
+4397	4406	GO:0006915	apoptotic	apoptotic	 in two r
+4422	4427	GO:0005623	cells	cell	ne: a
+4510	4516	GO:0040007	growth	growth	er mot
+4530	4536	GO:0005623	cells.	cell	to be 
+4554	4563	GO:0097194	apoptotic	execution	n-protein
+4554	4563	GO:0006915	apoptotic	apoptotic	n-protein
+4580	4589	GO:0000785	chromatin	chromatin	chromatin
+4599	4604	GO:0005623	cells	cell	the l
+4625	4637	GO:0032502	development.	developmental	 chromatin-r
+4632	4642	GO:0003823	antibodies	antigen	tin-remode
+4632	4642	GO:0019815	antibodies	B	tin-remode
+4632	4642	GO:0042571	antibodies	immunoglobulin	tin-remode
+4646	4650	GO:0005623	cell	cell	g pr
+4648	4657	GO:0003675	proteins,	obsolete	proteins,
+4674	4679	GO:0005623	cells	cell	 of d
+4729	4738	GO:0097194	Apoptosis	execution	importanc
+4729	4738	GO:0006915	Apoptosis	apoptotic	importanc
+4743	4750	GO:0007067	Mitosis	mitotic	these d
+4779	4784	GO:0005623	cells	cell	o rem
+4783	4790	GO:0007067	mitosis	mitotic	model c
+4789	4798	GO:0000785	chromatin	chromatin	chromatin
+4802	4807	GO:0005623	cells	cell	. It 
+4794	4809	GO:0006306	DNA methylation	DNA	atin [8]. It al
+4834	4849	GO:0000792	heterochromatin	heterochromatin	heterochromatin
+4864	4871	GO:0007067	mitotic	mitotic	ruited 
+4897	4906	GO:0097194	apoptotic	execution	nuclear b
+4897	4906	GO:0006915	apoptotic	apoptotic	nuclear b
+4897	4911	GO:0033620	nuclear bodies	Mei2	nuclear bodies
+4897	4911	GO:1990251	nuclear bodies	Mmi1	nuclear bodies
+4897	4911	GO:0016604	nuclear bodies	nuclear	nuclear bodies
+4907	4912	GO:0005623	cells	cell	dies 
+4927	4934	GO:0007067	mitotic	mitotic	ion wit
+4935	4940	GO:0005623	cells	cell	 Daxx
+4977	4982	GO:0016265	dying	death	X lea
+4996	5022	GO:0044728	changes in DNA methylation	DNA	changes in DNA methylation
+5016	5025	GO:0097194	apoptotic	execution	lation [1
+5016	5025	GO:0006915	apoptotic	apoptotic	lation [1
+5026	5031	GO:0005623	cells	cell	]. Ne
+5059	5069	GO:0008219	cell death	cell	ays in gen
+5066	5074	GO:0045292	splicing	mRNA	gene exp
+5069	5077	GO:0003823	antibody	antigen	e expres
+5069	5077	GO:0019815	antibody	B	e expres
+5069	5077	GO:0042571	antibody	immunoglobulin	e expres
+5066	5081	GO:0010467	gene expression	gene	gene expression
+5090	5097	GO:0007067	mitosis	mitotic	unclear
+5114	5118	GO:0019013	core	viral	core
+5135	5141	GO:0005623	cells,	cell	haemat
+5140	5147	GO:0003675	protein	obsolete	tologic
+5191	5196	GO:0005623	cells	cell	sts t
+5197	5202	GO:0005623	cells	cell	at, l
+5203	5214	GO:0005694	chromosome)	chromosome	ke the SWI2
+5243	5248	GO:0005623	cells	cell	rotei
+5242	5250	GO:0003675	protein,	obsolete	protein,
+5244	5250	GO:0040007	growth	growth	otein,
+5275	5288	GO:0006351	transcription	transcription,	transcription
+5291	5296	GO:0005623	cells	cell	 a di
+5321	5329	GO:0003823	antibody	antigen	s. Howev
+5321	5329	GO:0019815	antibody	B	s. Howev
+5321	5329	GO:0042571	antibody	immunoglobulin	s. Howev
+5351	5358	GO:0007067	mitotic	mitotic	 clearl
+5366	5373	GO:0003675	protein	obsolete	 to be 
+5375	5379	GO:0005623	cell	cell	und,
+5378	5390	GO:0000805	X chromosome	X	, at present
+5383	5395	GO:0032502	development.	developmental	present the 
+5418	5427	GO:0003823	antibody)	antigen	he only c
+5418	5427	GO:0019815	antibody)	B	he only c
+5418	5427	GO:0042571	antibody)	immunoglobulin	he only c
+5422	5428	GO:0005623	cells,	cell	nly co
+5448	5463	GO:0006351	transcriptional	transcription,	transcriptional
+5464	5474	GO:0065007	regulation	biological	regulation
+5470	5477	GO:0003675	protein	obsolete	tion by
+5471	5481	GO:0005694	chromosome	chromosome	ion by ATR
+5478	5484	GO:0045292	splice	mRNA	ATRX. 
+5490	5495	GO:0005623	cells	cell	 is c
+5495	5502	GO:0007067	mitotic	mitotic	urrentl
+5545	5552	GO:0003675	protein	obsolete	protein
+5566	5571	GO:0005623	Cells	cell	ian d
+5570	5582	GO:0032502	development.	developmental	development.
+5584	5589	GO:0005623	cells	cell	o inv
+5615	5622	GO:0003675	protein	obsolete	protein
+5630	5634	GO:0005623	cell	cell	mous
+5633	5641	GO:0003675	proteins	obsolete	se devel
+5636	5648	GO:0032502	development,	developmental	development,
+5682	5692	GO:0003823	antibodies	antigen	ted allele
+5682	5692	GO:0019815	antibodies	B	ted allele
+5682	5692	GO:0042571	antibodies	immunoglobulin	ted allele
+5711	5716	GO:0007618	mated	mating	n mou
+5711	5716	GO:1990277	mated	parasexual	n mou
+5711	5716	GO:0000747	mated	conjugation	n mou
+5711	5716	GO:0009291	mated	unidirectional	n mou
+5740	5744	GO:0005623	cell	cell	ells
+5739	5745	GO:0005623	cells,	cell	cells,
+5745	5755	GO:0009058	formation,	biosynthetic	 and used 
+5761	5766	GO:0005623	cells	cell	cells
+5751	5766	GO:0010467	gene expression	gene	sed these cells
+5785	5791	GO:0005623	cells,	cell	ect of
+5792	5796	GO:0005623	cell	cell	abla
+5797	5804	GO:0003675	Protein	obsolete	ing exp
+5797	5807	GO:0007610	behaviour.	behavior	ing expres
+5811	5816	GO:0005623	Cells	cell	 of t
+5836	5843	GO:0003675	protein	obsolete	protein
+5843	5849	GO:0040007	growth	growth	 in ES
+5850	5855	GO:0005623	cells	cell	cells
+5847	5871	GO:0048468	terminal differentiation	cell	ES cells and in mouse em
+5875	5880	GO:0005623	cells	cell	s. Re
+5903	5908	GO:0005623	Cells	cell	Cells
+5971	5983	GO:0032502	development.	developmental	ene is also 
+5979	5984	GO:0005623	cells	cell	lso X
+6035	6044	GO:0097194	apoptosis	execution	e Atrx al
+6035	6044	GO:0006915	apoptosis	apoptotic	e Atrx al
+6043	6049	GO:0005623	cells,	cell	llele 
+6060	6065	GO:0005623	cells	cell	cells
+6059	6070	GO:0032259	methylation	methylation	 cells woul
+6085	6090	GO:0005623	cells	cell	ive r
+6092	6107	GO:0006351	transcriptional	transcription,	e to the null s
+6131	6140	GO:0000785	chromatin	chromatin	 were rec
+6207	6212	GO:0005623	cells	cell	cells
+6211	6221	GO:0007049	Cell Cycle	cell	s using tw
+6236	6243	GO:0003675	protein	obsolete	tors th
+6248	6263	GO:0006306	DNA methylation	DNA	moved exon 18 o
+6264	6269	GO:0005623	Cells	cell	 the 
+6291	6296	GO:0005623	cells	cell	odes 
+6316	6322	GO:0005623	cells.	cell	en mot
+6321	6326	GO:0005623	cells	cell	tifs 
+6328	6343	GO:0006351	transcriptional	transcription,	mposing the con
+6400	6409	GO:0009058	formation	biosynthetic	he corres
+6407	6414	GO:0003675	protein	obsolete	espondi
+6428	6440	GO:0032502	development,	developmental	e yeast SNF2
+6441	6448	GO:0003675	protein	obsolete	protein
+6465	6470	GO:0005623	cells	cell	o sev
+6501	6516	GO:0010467	gene expression"	gene	gene expression
+6548	6552	GO:0005623	cell	cell	rget
+6558	6570	GO:0000805	X chromosome	X	nes with the
+6671	6676	GO:0005623	cells	cell	ct ta
+6732	6737	GO:0005623	cells	cell	efore
+6759	6763	GO:0005623	cell	cell	 str
+6960	6968	GO:0003823	antibody	antigen	allele a
+6960	6968	GO:0019815	antibody	B	allele a
+6960	6968	GO:0042571	antibody	immunoglobulin	allele a
+7096	7101	GO:0005623	cells	cell	nfirm

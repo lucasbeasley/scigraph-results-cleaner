@@ -1,0 +1,144 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+32	40	GO:0051321	meioses.	meiotic	ouse Coa
+32	40	GO:0007126	meioses.	meiotic	ouse Coa
+103	112	GO:0009058	synthesis	biosynthetic	coat or s
+136	148	GO:0032502	development;	developmental	ong their do
+143	149	GO:0043198	trunk,	dendritic	ir dor
+194	209	GO:0006351	transcriptional	transcription,	hat control reg
+230	243	GO:0043473	pigmentation,	pigmentation	pigmentation,
+300	304	GO:0005623	cell	cell	ar (
+301	308	GO:0003675	protein	obsolete	r (deH)
+320	332	GO:0043473	Pigmentation	pigmentation	rsoventral s
+357	369	GO:0042640	hair growth,	anagen	cially those
+366	376	GO:0005694	Chromosome	chromosome	ose under 
+384	399	GO:0010467	gene expression	gene	of the Agouti g
+404	408	GO:0005623	cell	cell	Mice
+399	410	GO:0005694	chromosomes	chromosome	ene. Mice c
+458	470	GO:0042640	hair growth,	anagen	mally have a
+515	528	GO:0001756	somitogenesis	somitogenesis	 yellow ventr
+538	549	GO:0032502	development	developmental	he deH muta
+555	562	GO:0004239	mapping	obsolete	aises t
+565	577	GO:0043473	pigmentation	pigmentation	pigmentation
+714	718	GO:0005623	cell	cell	on o
+762	767	GO:0005623	cells	cell	 in d
+787	799	GO:0043473	pigmentation	pigmentation	 correlates 
+834	846	GO:0043473	pigmentation	pigmentation	mations obse
+844	850	GO:0005623	cells.	cell	served
+851	855	GO:0005623	Cell	cell	in d
+861	873	GO:0043473	pigmentation	pigmentation	 animals. Co
+952	962	GO:0005694	chromosome	chromosome	aused by T
+985	1013	GO:0050931	pigment cell differentiation	pigment	Early embryonic expression o
+1027	1044	GO:0043588	skin development,	skin	sal mesenchyme is
+1042	1052	GO:0065007	regulatory	biological	is complem
+1311	1324	GO:0006351	transcription	transcription,	ral pigmentat
+1315	1327	GO:0043473	pigmentation	pigmentation	pigmentation
+1390	1394	GO:0005623	cell	cell	 emb
+1384	1394	GO:0009058	synthesis,	biosynthetic	 early emb
+1410	1414	GO:0005623	cell	cell	n of
+1470	1482	GO:0043473	pigmentation	pigmentation	pigmentation
+1484	1496	GO:0043473	pigmentation	pigmentation	oundary is n
+1547	1551	GO:0005623	cell	cell	cell
+1824	1835	GO:0032502	development	developmental	gene action
+1845	1858	GO:0043473	pigmentation.	pigmentation	nic developme
+1849	1861	GO:0032502	development,	developmental	development,
+1938	1950	GO:0043473	pigmentation	pigmentation	s widely rep
+2017	2028	GO:0032502	development	developmental	 that under
+2023	2035	GO:0043473	pigmentation	pigmentation	underlie reg
+2071	2083	GO:0043473	pigmentation	pigmentation	phology. Int
+2147	2159	GO:0043473	pigmentation	pigmentation	 adjacent re
+2332	2350	GO:0007165	signaling pathways	signal	signaling pathways
+2390	2400	GO:0005694	chromosome	chromosome	ires-daSil
+2441	2452	GO:0005694	chromosome.	chromosome	ich these p
+2481	2493	GO:0043473	pigmentation	pigmentation	nces between
+2537	2546	GO:0009058	synthesis	biosynthetic	s, differ
+2542	2552	GO:0009058	synthesis,	biosynthetic	fferences 
+2555	2565	GO:0065007	regulation	biological	the shape 
+2570	2576	GO:0043198	trunk.	dendritic	mber o
+2668	2672	GO:0031672	band	A	stri
+2736	2751	GO:0006351	transcriptional	transcription,	 animal from an
+2775	2781	GO:0043198	trunk,	dendritic	ent pa
+2774	2786	GO:0043473	pigmentation	pigmentation	ment pattern
+2830	2841	GO:0032502	development	developmental	 morphologi
+2830	2842	GO:0043473	pigmentation	pigmentation	 morphologic
+2962	2967	GO:0043198	trunk	dendritic	ated 
+2989	3001	GO:0043473	pigmentation	pigmentation	vironments, 
+3088	3097	GO:0009058	synthesis	biosynthetic	onsequent
+3119	3131	GO:0043473	pigmentation	pigmentation	pigment patt
+3154	3170	GO:0043588	skin development	skin	rized from an ev
+3179	3190	GO:0032502	development	developmental	y and ecolo
+3196	3202	GO:0043198	trunk.	dendritic	perspe
+3213	3217	GO:0031672	band	A	hman
+3263	3275	GO:0043473	pigmentation	pigmentation	, color vari
+3264	3276	GO:0043473	Pigmentation	pigmentation	 color varia
+3361	3366	GO:0043198	trunk	dendritic	; Sil
+3408	3415	GO:0031430	midline	M	 have b
+3468	3480	GO:0043473	pigmentation	pigmentation	ular or orga
+3565	3591	GO:0030318	melanocyte differentiation	melanocyte	ibute to regional differen
+3576	3598	GO:0043473PHENOTYPE	Pigmentation Phenotype	pigmentation	gional differences in 
+3596	3614	GO:0046148	pigment synthesis.	pigment	n vertebrate pigme
+3609	3622	GO:0043473	pigmentation.	pigmentation	pigmentation.
+3772	3777	GO:0005623	cells	cell	 in t
+3800	3804	GO:0005623	cell	cell	edy 
+3841	3858	GO:0038001	paracrine signals	paracrine	paracrine signals
+3851	3863	GO:0043473	pigmentation	pigmentation	signals cont
+3871	3883	GO:0043473	pigmentation	pigmentation	type of pigm
+3871	3883	GO:0042640	hair growth,	anagen	type of pigm
+3911	3921	GO:0005694	Chromosome	chromosome	 of the bo
+3914	3926	GO:0043473	pigmentation	pigmentation	 the body or
+3939	3947	GO:0007618	matings,	mating	times du
+3939	3947	GO:1990277	matings,	parasexual	times du
+3939	3947	GO:0000747	matings,	conjugation	times du
+3939	3947	GO:0009291	matings,	unidirectional	times du
+3956	3966	GO:0042633	hair cycle	hair	hair cycle
+3992	4008	GO:0043588	skin development	skin	al. 1996; Barsh 
+4043	4053	GO:0005694	Chromosome	chromosome	pigment gr
+4045	4057	GO:0043473	pigmentation	pigmentation	gment granul
+4043	4059	GO:0048770	pigment granules	pigment	pigment granules
+4179	4183	GO:0005623	cell	cell	cell
+4178	4205	GO:0030318	melanocyte differentiation,	melanocyte	 cell types, but that can v
+4206	4213	GO:0031430	midline	M	ry in d
+4231	4241	GO:0009058	synthesis,	biosynthetic	f the body
+4286	4297	GO:0042640	hair growth	anagen	, for all o
+4274	4300	GO:0001942	hair follicle development,	hair	01). However, for all of t
+4302	4309	GO:0031430	midline	M	se mech
+4314	4321	GO:0042603	capsule	capsule	s—white
+4318	4323	GO:0043198	Trunk	dendritic	ite s
+4360	4370	GO:0042470	melanosome	melanosome	melanosome
+4361	4373	GO:0043473	pigmentation	pigmentation	elanosome bi
+4383	4395	GO:0043473	pigmentation	pigmentation	ore is known
+4521	4533	GO:0043473	pigmentation	pigmentation	gional color
+4558	4563	GO:0043198	trunk	dendritic	 is a
+4690	4700	GO:0005694	Chromosome	chromosome	the bounda
+4714	4720	GO:0004314	matted	[acyl-carrier-protein]	sal an
+4742	4747	GO:0043198	trunk	dendritic	 is o
+4827	4832	GO:0005623	cells	cell	mmals
+4862	4884	GO:0043473PHENOTYPE	pigmentation phenotype	pigmentation	 in hair color is brou
+4866	4886	GO:0001501	skeletal development	skeletal	hair color is brough
+4944	4956	GO:0043473	pigmentation	pigmentation	lelic variat
+4974	4985	GO:0032502	development	developmental	gene (Bultm
+5080	5085	GO:0043198	trunk	dendritic	 (Mil
+5110	5117	GO:0003675	protein	obsolete	protein
+5202	5208	GO:0023052	signal	signaling	elanin
+5243	5250	GO:0003675	protein	obsolete	protein
+5243	5255	GO:0043473	Pigmentation	pigmentation	protein has 
+5270	5275	GO:0043198	trunk	dendritic	of ac
+5353	5363	GO:0042633	hair cycle	hair	hair cycle
+5375	5380	GO:0005623	cells	cell	 al. 
+5445	5457	GO:0032502	development,	developmental	regulated ex
+5462	5474	GO:0042640	hair growth.	anagen	ion is thoug
+5499	5508	GO:0009058	synthesis	biosynthetic	the cream
+5505	5517	GO:0042633	hair cycles,	hair	eam-colored 
+5565	5582	GO:0060173	limb development,	limb	lack-and-tan (at)
+5610	5622	GO:0043473	pigmentation	pigmentation	arkings arou
+5694	5705	GO:0032502	development	developmental	og breeds. 
+5755	5760	GO:0043198	trunk	dendritic	p and
+6308	6314	GO:0043198	trunk,	dendritic	ing et
+6434	6446	GO:0043473	pigmentation	pigmentation	the limb–bod
+6480	6492	GO:0043473	pigmentation	pigmentation	ddle of the 
+6537	6552	GO:0010467	gene expression	gene	 are also expre
+6698	6720	GO:0043473PHENOTYPE	pigmentation phenotype	pigmentation	 regulatory elements f
+6808	6828	GO:0004097	tyrosinase activity,	catechol	lished in the embryo
+6808	6828	GO:0004503	tyrosinase activity,	monophenol	lished in the embryo
+7147	7166	GO:0004097	tyrosinase activity	catechol	pigment made by hai
+7147	7166	GO:0004503	tyrosinase activity	monophenol	pigment made by hai
+7422	7433	GO:0042633	hair cycles	hair	icki et al.

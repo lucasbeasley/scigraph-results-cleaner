@@ -1,0 +1,73 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+68	84	GO:0010467	gene expression.	gene	 candidate genes
+103	108	GO:0005488	bound	binding	antit
+352	367	GO:0010467	gene expression	gene	small-effect qu
+398	406	GO:0005202	collagen	obsolete	collagen
+598	603	GO:0005488	bound	binding	small
+636	651	GO:0010467	gene expression	gene	gene expression
+847	861	GO:0071736	IgG2a antibody	IgG	ed during CIA;
+872	880	GO:0005202	collagen	obsolete	re strai
+1033	1047	GO:0071736	IgG2a antibody	IgG	ed genes, 117 
+1058	1066	GO:0005202	collagen	obsolete	train-sp
+1087	1097	GO:0005694	chromosome	chromosome	ecific dif
+1135	1160	GO:0046651	lymphocyte proliferation.	lymphocyte	hese 117 genes, 21 were l
+1219	1229	GO:0005694	chromosome	chromosome	TL and thu
+1270	1281	GO:0032502	development	developmental	roduction S
+1356	1371	GO:0010467	gene expression	gene	ving a small ef
+1462	1477	GO:0010467	gene expression	gene	ial autoimmune 
+1592	1607	GO:0010467	gene expression	gene	have shown evid
+1660	1675	GO:0010467	gene expression	gene	 regions did no
+1726	1741	GO:0010467	gene expression	gene	f linkage, with
+2087	2094	GO:0023052	signals	signaling	small e
+2298	2313	GO:0010467	gene expression	gene	i (QTL) in coll
+2302	2317	GO:0010467	gene expression	gene	TL) in collagen
+2387	2402	GO:0010467	gene expression	gene	nly one QTL, Ci
+2488	2503	GO:0010467	gene expression	gene	 16% of the phe
+2483	2507	GO:0046651	lymphocyte proliferation	lymphocyte	 only 16% of the phenoty
+2567	2571	GO:0005623	cell	cell	s su
+2659	2672	GO:0006351	transcription	transcription,	ough to reach
+2769	2785	GO:0006955	immune response.	immune	or complex disea
+2804	2819	GO:0006955	immune response	immune	e genetic basis
+2894	2909	GO:0010467	gene expression	gene	known genetic b
+2942	2950	GO:0003823	antibody	antigen	rful too
+2942	2950	GO:0019815	antibody	B	rful too
+2942	2950	GO:0042571	antibody	immunoglobulin	rful too
+2944	2960	GO:0006955	immune response,	immune	ul tools to sear
+2963	2971	GO:0005202	collagen	obsolete	for susc
+2957	2972	GO:0010467	gene expression	gene	earch for susce
+2961	2979	GO:0031090	organelle membrane	organelle	h for susceptibili
+2984	3004	GO:0005576	extracellular region	extracellular	nes for complex dise
+3121	3144	GO:0005911	intercellular junction.	cell-cell	ome since the first QTL
+3247	3262	GO:0010467	gene expression	gene	(QTGs) in the m
+3274	3289	GO:0010467	gene expression	gene	had been identi
+3316	3341	GO:0046651	lymphocyte proliferation,	lymphocyte	, most QTGs identified in
+3349	3376	GO:0032092	activation, protein binding	positive	models have the causal poly
+3392	3413	GO:0007219	notch signal pathway.	Notch	 protein-coding regio
+3435	3442	GO:0003675	protein	obsolete	protein
+3488	3504	GO:0010467	gene expression.	gene	 suggests, on th
+3506	3521	GO:0010467	gene expression	gene	one hand, that 
+3650	3665	GO:0010467	gene expression	gene	gene expression
+3668	3674	GO:0004707	(MAPK)	MAP	ght on
+3783	3798	GO:0010467	gene expression	gene	gene expression
+3874	3886	GO:0032502	development,	developmental	development,
+4006	4017	GO:0032502	development	developmental	ld be ident
+4114	4126	GO:0005694	chromosomes,	chromosome	ontrols. In 
+4197	4208	GO:0005694	chromosome;	chromosome	nd its anim
+4331	4342	GO:0032502	development	developmental	l stages of
+4819	4830	GO:0005694	chromosomes	chromosome	ys could al
+4888	4903	GO:0010467	gene expression	gene	gene expression
+4898	4913	GO:0010467	gene expression	gene	ssion because d
+5006	5016	GO:0065007	regulatory	biological	regulatory
+5403	5425	GO:0035556	protein kinase cascade	intracellular	all-effect QTL. At the
+5463	5478	GO:0010467	gene expression	gene	gene expression
+5669	5679	GO:0005694	chromosome	chromosome	n linked t
+6078	6088	GO:0005694	chromosome	chromosome	cles in th
+6144	6154	GO:0005694	chromosome	chromosome	al experim
+6215	6225	GO:0005694	chromosome	chromosome	A was indu
+6223	6227	GO:0004707	MAPK	MAP	duce
+6279	6289	GO:0005694	chromosome	chromosome	stablished
+6339	6349	GO:0005694	chromosome	chromosome	A/1J, FVB/
+6451	6466	GO:0010467	gene expression	gene	f bovine Collag
+6460	6468	GO:0005202	Collagen	obsolete	Collagen
+6589	6604	GO:0010467	gene expression	gene	 18 days after 
+6692	6703	GO:0032502	development	developmental	development

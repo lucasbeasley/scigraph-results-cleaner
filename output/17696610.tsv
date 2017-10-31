@@ -1,0 +1,559 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+12	21	GO:0051323	metaphase	metaphase	ene Check
+6	26	GO:0051598	Pachytene Checkpoint	meiotic	Pachytene Checkpoint
+45	58	GO:0009793	embryogenesis	embryo	ired for Comp
+45	58	GO:0009792	embryogenesis	embryo	ired for Comp
+45	58	GO:0009790	embryogenesis	embryo	ired for Comp
+65	72	GO:0051321	Meiotic	meiotic	Meiotic
+65	72	GO:0007126	Meiotic	meiotic	Meiotic
+76	86	GO:0005694	chromosome	chromosome	ombination
+81	93	GO:0032502	development,	developmental	ation but No
+95	103	GO:0007129	Synapsis	synapsis	Synapsis
+95	103	GO:0045202	Synapsis	synapse	Synapsis
+101	108	GO:0051321	meiotic	meiotic	is Abst
+101	108	GO:0007126	meiotic	meiotic	is Abst
+124	131	GO:0051321	meiotic	meiotic	n meios
+124	131	GO:0007126	meiotic	meiotic	n meios
+126	134	GO:0051321	meiosis,	meiotic	meiosis,
+126	134	GO:0007126	meiosis,	meiotic	meiosis,
+122	143	GO:0051598	pachytene checkpoint.	meiotic	ian meiosis, homologo
+146	156	GO:0005694	chromosome	chromosome	chromosome
+157	165	GO:0007129	synapsis	synapsis	synapsis
+157	165	GO:0045202	synapsis	synapse	synapsis
+152	171	GO:0005711	meiotic chromosomes	obsolete	some synapsis is co
+152	171	GO:0000794	meiotic chromosomes	condensed	some synapsis is co
+165	173	GO:0007129	synapsis	synapsis	 is coup
+165	173	GO:0045202	synapsis	synapse	 is coup
+174	179	GO:0005627	ascus	obsolete	ed wi
+180	189	GO:0009058	formation	biosynthetic	h recombi
+189	198	GO:0000239	pachytene	pachytene	nation. A
+239	248	GO:0007129	synapsis.	synapsis	 have che
+239	248	GO:0045202	synapsis.	synapse	 have che
+251	258	GO:0003675	protein	obsolete	oints t
+291	298	GO:0051321	meiotic	meiotic	 proces
+291	298	GO:0007126	meiotic	meiotic	 proces
+301	317	GO:0051325	(resting) phase.	interphase	. We report that
+335	340	GO:0005623	cells	cell	g (Tr
+349	358	GO:0000239	pachytene	pachytene	pachytene
+358	368	GO:0005694	chromosome	chromosome	 checkpoin
+349	369	GO:0051598	pachytene checkpoint	meiotic	pachytene checkpoint
+365	376	GO:0005694	chromosomes	chromosome	oint 2 (PCH
+369	377	GO:0007129	synapsis	synapsis	 2 (PCH2
+369	377	GO:0045202	synapsis	synapse	 2 (PCH2
+400	409	GO:0007127	meiosis I	meiosis	nt of the
+410	418	GO:0007129	synapsis	synapsis	synapsis
+410	418	GO:0045202	synapsis	synapse	synapsis
+487	514	GO:0005714	early recombination nodules	early	s required for completion o
+509	516	GO:0003675	protein	obsolete	ion of 
+516	523	GO:0051321	meiosis	meiotic	meiosis
+516	523	GO:0007126	meiosis	meiotic	meiosis
+572	580	GO:0000238	zygotene	zygotene	rmatocyt
+582	587	GO:0016265	death	death	death
+584	592	GO:0007129	synapsis	synapsis	ath in p
+584	592	GO:0045202	synapsis	synapse	ath in p
+589	598	GO:0009058	formation	biosynthetic	n pachyne
+603	613	GO:0005694	chromosome	chromosome	d loss of 
+614	622	GO:0007129	synapsis	synapsis	ocytes a
+614	622	GO:0045202	synapsis	synapse	ocytes a
+629	637	GO:0003823	antibody	antigen	irth. Th
+629	637	GO:0019815	antibody	B	irth. Th
+629	637	GO:0042571	antibody	immunoglobulin	irth. Th
+639	650	GO:0005694	chromosomes	chromosome	chromosomes
+658	667	GO:0009058	formation	biosynthetic	nt sperma
+675	682	GO:0007129	synapse	synapsis	synapse
+675	682	GO:0045202	synapse	synapse	synapse
+679	701	GO:0000725	recombinational repair	recombinational	pse fully, yet retain 
+702	709	GO:0003675	protein	obsolete	everal 
+728	744	GO:0008278	cohesin complex,	cohesin	ation intermedia
+774	785	GO:0005694	chromosomes	chromosome	 RPA. These
+786	797	GO:0005694	chromosomes	chromosome	chromosomes
+809	820	GO:0005694	Chromosomes	chromosome	ted the chi
+817	826	GO:0005712	chiasmata	chiasma	chiasmata
+824	834	GO:0003823	antibodies	antigen	ta markers
+824	834	GO:0019815	antibodies	B	ta markers
+824	834	GO:0042571	antibodies	immunoglobulin	ta markers
+854	864	GO:0003823	Antibodies	antigen	okadaic ac
+854	864	GO:0019815	Antibodies	B	okadaic ac
+854	864	GO:0042571	Antibodies	immunoglobulin	okadaic ac
+915	928	GO:0005694	chromosomes).	chromosome	sion to metap
+923	932	GO:0051323	metaphase	metaphase	metaphase
+949	961	GO:0005694	chromosomes.	chromosome	chromosomes.
+1004	1013	GO:0000781	telomeres	chromosome,	he recomb
+1004	1013	GO:0005696	telomeres	obsolete	he recomb
+1008	1015	GO:0005634	nuclei.	nucleus	ecombin
+1025	1033	GO:0007129	synapsis	synapsis	synapsis
+1025	1033	GO:0045202	synapsis	synapse	synapsis
+1042	1051	GO:0000239	pachytene	pachytene	o11, Mei1
+1042	1051	GO:0051323	Metaphase	metaphase	o11, Mei1
+1058	1067	GO:0000239	pachytene	pachytene	 and Dmc1
+1066	1074	GO:0000781	telomere	chromosome,	1 are al
+1066	1074	GO:0005696	telomere	obsolete	1 are al
+1134	1141	GO:0051321	meiotic	meiotic	meiotic
+1134	1141	GO:0007126	meiotic	meiotic	meiotic
+1128	1143	GO:0043234	protein complex	protein	 have meiotic c
+1158	1164	GO:0097649	tubule	A	ion in
+1151	1173	GO:0000725	recombinational repair	recombinational	t function in mice. Ou
+1176	1184	GO:0000781	telomere	chromosome,	ata indi
+1176	1184	GO:0005696	telomere	obsolete	ata indi
+1206	1214	GO:0003675	proteins	obsolete	quired a
+1222	1231	GO:0000781	telomeres	chromosome,	and invas
+1222	1231	GO:0005696	telomeres	obsolete	and invas
+1219	1234	GO:0042148	strand invasion	strand	strand invasion
+1236	1243	GO:0097649	tubules	A	or comp
+1246	1254	GO:0007129	synapsed	synapsis	ing a su
+1246	1254	GO:0045202	synapsed	synapse	ing a su
+1249	1258	GO:0097194	apoptotic	execution	 a subset
+1249	1258	GO:0006915	apoptotic	apoptotic	 a subset
+1254	1263	GO:0000239	pachytene	pachytene	bset of r
+1264	1276	GO:0005694	chromosomes.	chromosome	combination 
+1290	1301	GO:0005694	chromosomes	chromosome	ssibly not 
+1361	1368	GO:0003675	protein	obsolete	he firs
+1383	1390	GO:0003675	protein	obsolete	rate re
+1411	1417	GO:0005634	nuclei	nucleus	rom as
+1423	1433	GO:0003823	antibodies	antigen	s in mamma
+1423	1433	GO:0019815	antibodies	B	s in mamma
+1423	1433	GO:0042571	antibodies	immunoglobulin	s in mamma
+1438	1446	GO:0051321	meiosis,	meiotic	meiosis,
+1438	1446	GO:0007126	meiosis,	meiotic	meiosis,
+1445	1451	GO:0097649	tubule	A	, and 
+1473	1483	GO:0005694	chromosome	chromosome	dence that
+1484	1492	GO:0007129	synapsis	synapsis	unrepair
+1484	1492	GO:0045202	synapsis	synapse	unrepair
+1492	1500	GO:0051321	meiosis,	meiotic	ed DNA d
+1492	1500	GO:0007126	meiosis,	meiotic	ed DNA d
+1504	1515	GO:0003823	antibodies,	antigen	e alone can
+1504	1515	GO:0019815	antibodies,	B	e alone can
+1504	1515	GO:0042571	antibodies,	immunoglobulin	e alone can
+1520	1530	GO:0005694	chromosome	chromosome	ger the pa
+1528	1548	GO:0051598	pachytene checkpoint	meiotic	pachytene checkpoint
+1573	1581	GO:0007129	synapsis	synapsis	 Summary
+1573	1581	GO:0045202	synapsis	synapse	 Summary
+1606	1617	GO:0005694	chromosomes	chromosome	chromosomes
+1667	1673	GO:0023052	signal	signaling	entati
+1688	1696	GO:0007129	synapsed	synapsis	me of th
+1688	1696	GO:0045202	synapsed	synapse	me of th
+1697	1709	GO:0005694	chromosomes.	chromosome	 individual 
+1714	1718	GO:0031672	band	A	prod
+1720	1739	GO:0005711	Meiotic chromosomes	obsolete	ed them. During the
+1720	1739	GO:0000794	Meiotic chromosomes	condensed	ed them. During the
+1732	1740	GO:0051321	meiosis.	meiotic	ing the 
+1732	1740	GO:0007126	meiosis.	meiotic	ing the 
+1733	1742	GO:0000239	pachytene	pachytene	ng the pr
+1751	1759	GO:0051321	meiosis,	meiotic	meiosis,
+1751	1759	GO:0007126	meiosis,	meiotic	meiosis,
+1764	1774	GO:0008219	cell death	cell	maternal a
+1795	1802	GO:0051321	meiotic	meiotic	 each c
+1795	1802	GO:0007126	meiotic	meiotic	 each c
+1801	1811	GO:0005694	chromosome	chromosome	chromosome
+1812	1819	GO:0007129	synapse	synapsis	“synaps
+1812	1819	GO:0045202	synapse	synapse	“synaps
+1807	1830	GO:0009048	chromosome inactivation	dosage	some “synapse” with eac
+1838	1845	GO:0051321	meiotic	meiotic	(become
+1838	1845	GO:0007126	meiotic	meiotic	(become
+1845	1854	GO:0001741	XY body),	XY	 tightly 
+1868	1877	GO:0000785	chromatin	chromatin	xchange g
+1906	1914	GO:0007129	synapsis	synapsis	ss of re
+1906	1914	GO:0045202	synapsis	synapse	ss of re
+1939	1949	GO:0005695	chromatids	obsolete	e into dau
+1939	1949	GO:0005694	chromatids	chromosome	e into dau
+1953	1958	GO:0005623	cells	cell	r cel
+1960	1967	GO:0007129	synapse	synapsis	 in the
+1960	1967	GO:0045202	synapse	synapse	 in the
+1962	1969	GO:0003675	protein	obsolete	n the f
+1955	1975	GO:0000795	synaptonemal complex	synaptonemal	cells in the first o
+1976	1981	GO:0005488	bound	binding	 two 
+1972	1981	GO:0009058	formation	biosynthetic	t of two 
+1979	1986	GO:0051321	meiotic	meiotic	o meiot
+1979	1986	GO:0007126	meiotic	meiotic	o meiot
+1990	1998	GO:0007129	synapsis	synapsis	ell divi
+1990	1998	GO:0045202	synapsis	synapse	ell divi
+1987	2002	GO:0051301	cell divisions.	cell	c cell division
+2017	2027	GO:0005694	chromosome	chromosome	e chromoso
+2022	2029	GO:0003675	protein	obsolete	omosome
+2028	2036	GO:0007610	behavior	behavior	e behavi
+2054	2063	GO:0051323	metaphase	metaphase	rrors, so
+2090	2097	GO:0051321	meiotic	meiotic	d meiot
+2090	2097	GO:0007126	meiotic	meiotic	d meiot
+2088	2107	GO:0005711	meiotic chromosomes	obsolete	ved meiotic “checkp
+2088	2107	GO:0000794	meiotic chromosomes	condensed	ved meiotic “checkp
+2135	2145	GO:0005694	chromosome	chromosome	 of chromo
+2146	2154	GO:0007129	synapsis	synapsis	ome syna
+2146	2154	GO:0045202	synapsis	synapse	ome syna
+2169	2198	GO:0000077	DNA damage. These checkpoints	DNA	 of DNA damage. These checkpo
+2215	2220	GO:0005623	cells	cell	ive c
+2289	2298	GO:0051323	metaphase	metaphase	e studied
+2278	2298	GO:0051598	pachytene checkpoint	meiotic	 or eggs. We studied
+2323	2327	GO:0005623	cell	cell	mous
+2354	2361	GO:0003675	protein	obsolete	stant o
+2379	2388	GO:0003823	antibody.	antigen	ey role i
+2379	2388	GO:0019815	antibody.	B	ey role i
+2379	2388	GO:0042571	antibody.	immunoglobulin	ey role i
+2386	2393	GO:0051321	meiotic	meiotic	 in mei
+2386	2393	GO:0007126	meiotic	meiotic	 in mei
+2391	2400	GO:0007129	synapsing	synapsis	eiotic ch
+2391	2400	GO:0045202	synapsing	synapse	eiotic ch
+2390	2401	GO:0005694	chromosomes	chromosome	meiotic che
+2401	2420	GO:0005711	meiotic chromosomes	obsolete	ckpoint control. Th
+2401	2420	GO:0000794	meiotic chromosomes	condensed	ckpoint control. Th
+2433	2443	GO:0005694	chromosome	chromosome	ts reveale
+2444	2452	GO:0007129	synapsis	synapsis	 that in
+2444	2452	GO:0045202	synapsis	synapse	 that in
+2432	2452	GO:0051598	pachytene checkpoint	meiotic	nts revealed that in
+2481	2485	GO:0005488	bind	binding	role
+2478	2486	GO:0007129	synapsis	synapsis	nt role,
+2478	2486	GO:0045202	synapsis	synapse	nt role,
+2487	2494	GO:0003675	protein	obsolete	Trip13 
+2509	2518	GO:0000785	chromatin	chromatin	 one of t
+2511	2523	GO:0051179	Localization	localization	ne of the tw
+2555	2562	GO:0051321	meiosis	meiotic	 in mei
+2555	2562	GO:0007126	meiosis	meiotic	 in mei
+2553	2562	GO:0000239	pachytene	pachytene	on in mei
+2570	2581	GO:0005694	chromosomes	chromosome	t is requir
+2620	2631	GO:0005694	chromosomes	chromosome	The chromos
+2638	2646	GO:0007129	synapsed	synapsis	ill syna
+2638	2646	GO:0045202	synapsed	synapse	ill syna
+2650	2659	GO:0000239	pachytene	pachytene	 normally
+2657	2666	GO:0000239	pachytene	pachytene	ly, but a
+2697	2702	GO:0016265	death	death	ive d
+2699	2706	GO:0051321	meiotic	meiotic	e death
+2699	2706	GO:0007126	meiotic	meiotic	e death
+2702	2712	GO:0005694	chromosome	chromosome	eath of oo
+2722	2743	GO:0000077	DNA damage checkpoint	DNA	spermatocytes. These 
+2734	2745	GO:0032502	Development	developmental	s. These re
+2750	2756	GO:0005634	nuclei	nucleus	 indic
+2774	2785	GO:0003823	antibodies.	antigen	ion to a ch
+2774	2785	GO:0019815	antibodies.	B	ion to a ch
+2774	2785	GO:0042571	antibodies.	immunoglobulin	ion to a ch
+2776	2787	GO:0005694	chromosomes	chromosome	n to a chec
+2787	2796	GO:0000237	leptotene	leptotene	kpoint th
+2800	2807	GO:0051321	meiotic	meiotic	esponds
+2800	2807	GO:0007126	meiotic	meiotic	esponds
+2814	2823	GO:0007129	synapsis,	synapsis	led synap
+2814	2823	GO:0045202	synapsis,	synapse	led synap
+2812	2835	GO:0009048	chromosome inactivation	dosage	ailed synapsis, one exi
+2827	2836	GO:0000239	pachytene	pachytene	 one exis
+2847	2854	GO:0051321	meiotic	meiotic	fically
+2847	2854	GO:0007126	meiotic	meiotic	fically
+2870	2879	GO:0000239	pachytene	pachytene	ed DNA da
+2877	2886	GO:0000785	chromatin	chromatin	damage th
+2883	2890	GO:0051321	meiotic	meiotic	 that i
+2883	2890	GO:0007126	meiotic	meiotic	 that i
+2917	2927	GO:0003823	antibodies	antigen	on. Introd
+2917	2927	GO:0019815	antibodies	B	on. Introd
+2917	2927	GO:0042571	antibodies	immunoglobulin	on. Introd
+2934	2941	GO:0051321	meiotic	meiotic	The gen
+2934	2941	GO:0007126	meiotic	meiotic	The gen
+2986	2996	GO:0005694	chromosome	chromosome	 genome is
+2997	3005	GO:0007129	synapsis	synapsis	critical
+2997	3005	GO:0045202	synapsis	synapse	critical
+2995	3010	GO:0016310	phosphorylation	phosphorylation	s critical for 
+3008	3019	GO:0032502	development	developmental	r the preve
+3012	3027	GO:0007283	spermatogenesis	spermatogenesis	e prevention of
+3026	3030	GO:0005623	cell	cell	f bi
+3073	3083	GO:0005694	Chromosome	chromosome	he fidelit
+3084	3092	GO:0007129	Synapsis	synapsis	 of chro
+3084	3092	GO:0045202	Synapsis	synapse	 of chro
+3084	3094	GO:0005694	chromosome	chromosome	 of chromo
+3083	3094	GO:0005694	chromosomes	chromosome	y of chromo
+3092	3102	GO:0003823	antibodies	antigen	mosome dyn
+3092	3102	GO:0019815	antibodies	B	mosome dyn
+3092	3102	GO:0042571	antibodies	immunoglobulin	mosome dyn
+3098	3105	GO:0097649	tubules	A	 dynami
+3105	3114	GO:0007129	synapsed,	synapsis	cs before
+3105	3114	GO:0045202	synapsed,	synapse	cs before
+3110	3117	GO:0051321	meiosis	meiotic	fore th
+3110	3117	GO:0007126	meiosis	meiotic	fore th
+3121	3128	GO:0051321	meiotic	meiotic	rst mei
+3121	3128	GO:0007126	meiotic	meiotic	rst mei
+3124	3133	GO:0000785	chromatin	chromatin	 meiotic 
+3136	3148	GO:0051179	localization	localization	ision. Homol
+3150	3161	GO:0005694	chromosomes	chromosome	ous chromos
+3173	3181	GO:0007129	synapse,	synapsis	ir, syna
+3173	3181	GO:0045202	synapse,	synapse	ir, syna
+3183	3190	GO:0051321	meiotic	meiotic	e, unde
+3183	3190	GO:0007126	meiotic	meiotic	e, unde
+3203	3214	GO:0005694	chromosomes	chromosome	tion, and s
+3220	3230	GO:0006281	DNA repair	DNA	te properl
+3226	3232	GO:0005634	nuclei	nucleus	perly 
+3250	3260	GO:0005694	chromosome	chromosome	 Recombina
+3263	3274	GO:0005694	chromosomes	chromosome	n, which re
+3278	3288	GO:0006281	DNA repair	DNA	s repair d
+3287	3291	GO:0034023	Pure	5-(carboxyamino)imidazole	doub
+3298	3307	GO:0000237	leptotene	leptotene	nd breaks
+3307	3315	GO:0016020	membrane	membrane	 (DSBs) 
+3301	3316	GO:0006351	transcriptional	transcription,	breaks (DSBs) t
+3315	3323	GO:0000238	zygotene	zygotene	that are
+3335	3344	GO:0000239	pachytene	pachytene	 induced 
+3335	3356	GO:0000802	transverse filaments,	transverse	 induced in leptonema
+3354	3362	GO:0016020	membrane	membrane	ma, is c
+3370	3378	GO:0007129	synapsis	synapsis	ith syna
+3370	3378	GO:0045202	synapsis	synapse	ith syna
+3372	3387	GO:0000803	sex chromosomes	sex	h synapsis in b
+3383	3392	GO:0000239	pachytene	pachytene	in buddin
+3378	3398	GO:0000795	synaptonemal complex	synaptonemal	psis in budding yeas
+3405	3414	GO:0000239	Pachytene	pachytene	ammals. W
+3420	3428	GO:0003823	antibody	antigen	ur knowl
+3420	3428	GO:0019815	antibody	B	ur knowl
+3420	3428	GO:0042571	antibody	immunoglobulin	ur knowl
+3428	3434	GO:0005634	nuclei	nucleus	edge o
+3428	3438	GO:0006281	DNA repair	DNA	edge of th
+3488	3495	GO:0001741	XY body	XY	s exten
+3492	3497	GO:0019013	cores	viral	tensi
+3517	3525	GO:0007129	synapsis	synapsis	about th
+3517	3525	GO:0045202	synapsis	synapse	about th
+3529	3540	GO:0005694	chromosomes	chromosome	sassembly o
+3546	3555	GO:0000240	diplotene	diplotene	mbination
+3556	3562	GO:0005634	nuclei	nucleus	interm
+3575	3584	GO:0030849	autosomal	autosome	uitment o
+3582	3597	GO:0006260	DNA replication	DNA	 of DNA replica
+3598	3605	GO:0051321	Meiotic	meiotic	ion mac
+3598	3605	GO:0007126	Meiotic	meiotic	ion mac
+3605	3612	GO:0005488	Binding	binding	hinery 
+3614	3623	GO:0030849	autosomes	autosome	ring reco
+3615	3638	GO:0000725	recombinational repair,	recombinational	ing recombinational rep
+3633	3642	GO:0051323	metaphase	metaphase	l repair,
+3661	3674	GO:0000806	Y chromosomes	Y	 between diff
+3689	3697	GO:0007129	synapsed	synapsis	thways i
+3689	3697	GO:0045202	synapsed	synapse	thways i
+3738	3747	GO:0000240	diplotene	diplotene	lude homo
+3750	3760	GO:0005694	chromosome	chromosome	ous chromo
+3752	3761	GO:0051323	metaphase	metaphase	s chromos
+3765	3772	GO:0051321	meiosis	meiotic	pairing
+3765	3772	GO:0007126	meiosis	meiotic	pairing
+3787	3797	GO:0005694	chromosome	chromosome	red chromo
+3833	3844	GO:0005694	chromosomes	chromosome	 abrogating
+3902	3909	GO:0003675	protein	obsolete	llance 
+3942	3949	GO:0051321	meiotic	meiotic	sense m
+3942	3949	GO:0007126	meiotic	meiotic	sense m
+3953	3964	GO:0005694	chromosomes	chromosome	ic errors a
+3957	3967	GO:0048477	oogenesis,	oogenesis	rrors and 
+3971	3976	GO:0005623	cells	cell	inate
+3976	3991	GO:0007283	spermatogenesis	spermatogenesis	 cells containi
+4030	4037	GO:0003675	protein	obsolete	s, incl
+4057	4080	GO:0000725	recombinational repair.	recombinational	 Drosophila melanogaste
+4080	4090	GO:0009058	formation.	biosynthetic	r, C. eleg
+4086	4093	GO:0005634	nucleus	nucleus	elegans
+4147	4154	GO:0051321	meiotic	meiotic	ion and
+4147	4154	GO:0007126	meiotic	meiotic	ion and
+4152	4162	GO:0005694	chromosome	chromosome	nd/or chro
+4163	4171	GO:0007129	synapsis	synapsis	osome sy
+4163	4171	GO:0045202	synapsis	synapse	osome sy
+4180	4187	GO:0051321	meiotic	meiotic	igger m
+4180	4187	GO:0007126	meiotic	meiotic	igger m
+4181	4188	GO:0051321	meiotic	meiotic	gger me
+4181	4188	GO:0007126	meiotic	meiotic	gger me
+4202	4211	GO:0000239	pachytene	pachytene	n the pac
+4221	4240	GO:0007128	meiotic prophase I.	meiotic	ge of meiotic proph
+4251	4261	GO:0006281	DNA repair	DNA	 response 
+4258	4265	GO:0051321	meiotic	meiotic	se to m
+4258	4265	GO:0007126	meiotic	meiotic	se to m
+4283	4292	GO:0003675	proteins,	obsolete	referred 
+4300	4309	GO:0005712	chiasmata	chiasma	e “pachyt
+4296	4316	GO:0051598	pachytene checkpoint	meiotic	s the “pachytene che
+4337	4343	GO:0005634	nuclei	nucleus	 [5]).
+4342	4349	GO:0051321	meiotic	meiotic	. Genet
+4342	4349	GO:0007126	meiotic	meiotic	. Genet
+4358	4365	GO:0051321	meiotic	meiotic	ments i
+4358	4365	GO:0007126	meiotic	meiotic	ments i
+4381	4389	GO:0003675	proteins	obsolete	have ide
+4415	4424	GO:0000239	Pachytene	pachytene	chytene c
+4405	4425	GO:0051598	pachytene checkpoint	meiotic	 of the pachytene ch
+4438	4449	GO:0005694	Chromosomes	chromosome	inery (revi
+4465	4476	GO:0005694	chromosomes	chromosome	 addition t
+4465	4485	GO:0051598	pachytene checkpoint	meiotic	 addition to meiosis
+4479	4488	GO:0000239	pachytene	pachytene	eiosis-sp
+4487	4496	GO:0003675	proteins,	obsolete	pecific p
+4489	4500	GO:0005694	chromosomes	chromosome	cific prote
+4515	4525	GO:0003823	antibodies	antigen	ude factor
+4515	4525	GO:0019815	antibodies	B	ude factor
+4515	4525	GO:0042571	antibodies	immunoglobulin	ude factor
+4542	4550	GO:0007129	synapsis	synapsis	 in DNA 
+4542	4550	GO:0045202	synapsis	synapse	 in DNA 
+4548	4556	GO:0003675	proteins	obsolete	A damage
+4549	4558	GO:0023052	signaling	signaling	 damage s
+4562	4569	GO:0007067	mitotic	mitotic	ling in
+4562	4571	GO:0000239	pachytene	pachytene	ling in m
+4570	4575	GO:0005623	cells	cell	mitot
+4572	4578	GO:0005634	nuclei	nucleus	totic 
+4591	4596	GO:0005623	cells	cell	 Arab
+4609	4616	GO:0097649	tubules	A	ana doe
+4631	4651	GO:0051598	pachytene checkpoint	meiotic	 have a pachytene ch
+4640	4655	GO:0007283	spermatogenesis	spermatogenesis	achytene checkp
+4653	4661	GO:0007129	synapsis	synapsis	kpoint a
+4653	4661	GO:0045202	synapsis	synapse	kpoint a
+4661	4670	GO:0000239	pachytene	pachytene	kin to th
+4681	4690	GO:0000239	pachytene	pachytene	 [11], no
+4691	4697	GO:0005634	nuclei	nucleus	 do ma
+4700	4707	GO:0097649	tubules	A	Drosoph
+4708	4728	GO:0051598	pachytene checkpoint	meiotic	la. The pachytene ch
+4759	4768	GO:0000239	pachytene	pachytene	o aspects
+4769	4776	GO:0005634	nucleus	nucleus	of meio
+4767	4778	GO:0005694	chromosomes	chromosome	s of meioti
+4764	4782	GO:0005711	meiotic chromosome	obsolete	ects of meiotic ch
+4764	4782	GO:0000794	meiotic chromosome	condensed	ects of meiotic ch
+4783	4793	GO:0008152	metabolism	metabolic	omosome me
+4787	4796	GO:0007129	synapsis.	synapsis	ome metab
+4787	4796	GO:0045202	synapsis.	synapse	ome metab
+4801	4809	GO:0097649	tubules.	A	 in S. c
+4815	4822	GO:0097649	tubules	A	iae and
+4831	4840	GO:0000239	pachytene	pachytene	ns: (1) D
+4850	4860	GO:0005694	chromosome	chromosome	and (2) ch
+4852	4862	GO:0005694	chromosome	chromosome	d (2) chro
+4861	4868	GO:0005634	nucleus	nucleus	omosome
+4861	4869	GO:0007129	synapsis	synapsis	omosome 
+4861	4869	GO:0045202	synapsis	synapse	omosome 
+4863	4870	GO:0019013	cores).	viral	osome s
+4871	4877	GO:0005634	Nuclei	nucleus	napsis
+4884	4895	GO:0032502	development	developmental	. In mice, 
+4908	4919	GO:0005694	chromosomes	chromosome	cytes and o
+4910	4932	GO:0098687	chromosomes or regions	chromosomal	tes and oocytes harbor
+4936	4947	GO:0005694	chromosomes	chromosome	mutations t
+4999	5009	GO:0003823	antibodies	antigen	 are effic
+4999	5009	GO:0019815	antibodies	B	 are effic
+4999	5009	GO:0042571	antibodies	immunoglobulin	 are effic
+5003	5011	GO:0007129	synapsis	synapsis	 efficie
+5003	5011	GO:0045202	synapsis	synapse	 efficie
+5010	5017	GO:0045292	spliced	mRNA	ently e
+5036	5045	GO:0000239	pachytene	pachytene	ema, but 
+5048	5057	GO:0000239	pachytene	pachytene	rmatocyte
+5079	5094	GO:0044215	other organisms	other	ive to DSB repa
+5101	5109	GO:0007129	synapsis	synapsis	pendent 
+5101	5109	GO:0045202	synapsis	synapse	pendent 
+5101	5109	GO:0007129	synapsed	synapsis	pendent 
+5101	5109	GO:0045202	synapsed	synapse	pendent 
+5110	5119	GO:0000239	pachytene	pachytene	ynapsis d
+5120	5131	GO:0005694	chromosomes	chromosome	fects than 
+5127	5133	GO:0045292	splice	mRNA	han oo
+5128	5136	GO:0007129	synapsis	synapsis	an oocyt
+5128	5136	GO:0045202	synapsis	synapse	an oocyt
+5131	5138	GO:0051321	meiotic	meiotic	oocytes
+5131	5138	GO:0007126	meiotic	meiotic	oocytes
+5170	5178	GO:0051324	prophase	prophase	bination
+5186	5194	GO:0003823	antibody	antigen	ired for
+5186	5194	GO:0019815	antibody	B	ired for
+5186	5194	GO:0042571	antibody	immunoglobulin	ired for
+5187	5195	GO:0007129	synapsis	synapsis	red for 
+5187	5195	GO:0045202	synapsis	synapse	red for 
+5193	5202	GO:0051324	prophase,	prophase	r synapsi
+5204	5209	GO:0005623	cells	cell	in mi
+5209	5216	GO:0051321	meiotic	meiotic	ce (mut
+5209	5216	GO:0007126	meiotic	meiotic	ce (mut
+5218	5227	GO:0030849	autosomes	autosome	ions in r
+5241	5250	GO:0000239	pachytene	pachytene	enes such
+5251	5257	GO:0005634	nuclei	nucleus	as Dmc
+5250	5258	GO:0003823	antibody	antigen	 as Dmc1
+5250	5258	GO:0019815	antibody	B	 as Dmc1
+5250	5258	GO:0042571	antibody	immunoglobulin	 as Dmc1
+5285	5292	GO:0003675	protein	obsolete	[16]), 
+5293	5304	GO:0016791	phosphatase	phosphatase	t has remai
+5299	5306	GO:0001741	XY body	XY	remaine
+5297	5306	GO:0000239	pachytene	pachytene	s remaine
+5308	5328	GO:0051598	pachytene checkpoint	meiotic	formally uncertain w
+5342	5350	GO:0007129	synapsed	synapsis	s a dist
+5342	5350	GO:0045202	synapsed	synapse	s a dist
+5347	5367	GO:0051598	pachytene checkpoint	meiotic	istinct pachytene ch
+5358	5369	GO:0005694	chromosomes	chromosome	hytene chec
+5358	5369	GO:0009056	degradation	catabolic	hytene chec
+5396	5403	GO:0051321	meiotic	meiotic	ects in
+5396	5403	GO:0007126	meiotic	meiotic	ects in
+5389	5404	GO:0016310	phosphorylation	phosphorylation	 to defects in 
+5381	5405	GO:0030261	chromosome condensation,	chromosome	responds to defects in m
+5426	5433	GO:0001741	XY body	XY	 and if
+5430	5441	GO:0005695	chromatids.	obsolete	 if so, whe
+5430	5441	GO:0005694	chromatids.	chromosome	 if so, whe
+5435	5444	GO:0051323	metaphase	metaphase	o, whethe
+5461	5470	GO:0051323	metaphase	metaphase	ntical to
+5499	5503	GO:0031672	band	A	The 
+5508	5516	GO:0001741	XY body,	XY	nisms of
+5518	5538	GO:0051598	pachytene checkpoint	meiotic	utative pachytene ch
+5536	5545	GO:0030849	autosomal	autosome	checkpoin
+5551	5566	GO:0016310	phosphorylation	phosphorylation	rol remain unkn
+5565	5587	GO:0000793	condensed chromosomes,	condensed	nown in mammals, since
+5582	5602	GO:0051598	pachytene checkpoint	meiotic	since no mutations h
+5607	5614	GO:0051321	meiotic	meiotic	een ide
+5607	5614	GO:0007126	meiotic	meiotic	een ide
+5607	5616	GO:0000239	pachytene	pachytene	een ident
+5627	5634	GO:0003675	protein	obsolete	abolish
+5664	5671	GO:0001741	XY body	XY	r-local
+5685	5694	GO:0000239	pachytene	pachytene	e that wa
+5727	5732	GO:0016265	death	death	cerev
+5770	5779	GO:0000239	pachytene	pachytene	relieve p
+5778	5786	GO:0003675	proteins	obsolete	pachyten
+5776	5792	GO:0000803	sex chromosomes,	sex	e pachytene arre
+5808	5818	GO:0005694	chromosome	chromosome	zip1 mutan
+5819	5824	GO:0019013	cores	viral	s [8]
+5845	5855	GO:0003823	antibodies	antigen	ined to be
+5845	5855	GO:0019815	antibodies	B	ined to be
+5845	5855	GO:0042571	antibodies	immunoglobulin	ined to be
+5862	5872	GO:0051323	metaphases	metaphase	ential com
+5875	5883	GO:0007129	synapsed	synapsis	ent of t
+5875	5883	GO:0045202	synapsed	synapse	ent of t
+5878	5887	GO:0000239	pachytene	pachytene	 of the p
+5884	5889	GO:0019013	cores	viral	e pac
+5888	5896	GO:0007129	synapsis	synapsis	chytene 
+5888	5896	GO:0045202	synapsis	synapse	chytene 
+5900	5921	GO:0051598	pachytene checkpoint.	meiotic	psis (but not DSB rep
+5943	5951	GO:0003823	antibody	antigen	st and w
+5943	5951	GO:0019815	antibody	B	st and w
+5943	5951	GO:0042571	antibody	immunoglobulin	st and w
+5972	5979	GO:0051321	Meiotic	meiotic	hologs 
+5972	5979	GO:0007126	Meiotic	meiotic	hologs 
+5981	5990	GO:0000239	pachytene	pachytene	e present
+5991	5998	GO:0051321	meiotic	meiotic	in orga
+5991	5998	GO:0007126	meiotic	meiotic	in orga
+6008	6013	GO:0005623	cells	cell	 unde
+6018	6026	GO:0051321	meiosis,	meiotic	ynaptic 
+6018	6026	GO:0007126	meiosis,	meiotic	ynaptic 
+6022	6030	GO:0007129	Synapsis	synapsis	tic meio
+6022	6030	GO:0045202	Synapsis	synapse	tic meio
+6045	6053	GO:0051321	meiosis,	meiotic	ynaptic 
+6045	6053	GO:0007126	meiosis,	meiotic	ynaptic 
+6058	6067	GO:0051323	Metaphase	metaphase	is, promp
+6062	6071	GO:0000237	leptotene	leptotene	prompting
+6067	6074	GO:0007067	mitotic	mitotic	ting th
+6074	6083	GO:0097194	apoptosis	execution	e suggest
+6074	6083	GO:0006915	apoptosis	apoptotic	e suggest
+6109	6118	GO:0051323	Metaphase	metaphase	checkpoin
+6115	6124	GO:0000239	pachytene	pachytene	oint evol
+6125	6131	GO:0005634	nuclei	nucleus	ed to 
+6131	6151	GO:0000795	synaptonemal complex	synaptonemal	monitor synaptonemal
+6152	6158	GO:0002948	arcs).	archaeosine	comple
+6168	6188	GO:0051598	pachytene checkpoint	meiotic	ects from yeast to h
+6189	6196	GO:0051321	meiotic	meiotic	mans [1
+6189	6196	GO:0007126	meiotic	meiotic	mans [1
+6197	6203	GO:0005623	cells.	cell	]. Her
+6200	6209	GO:0000239	pachytene	pachytene	Here, we 
+6296	6301	GO:0005623	cells	cell	 also
+6296	6302	GO:0005634	nuclei	nucleus	 also 
+6305	6312	GO:0051321	meiosis	meiotic	ys a ro
+6305	6312	GO:0007126	meiosis	meiotic	ys a ro
+6377	6390	GO:0051179	localization,	localization	vidence for c
+6416	6435	GO:0005711	meiotic chromosomes	obsolete	 uncover a potentia
+6416	6435	GO:0000794	meiotic chromosomes	condensed	 uncover a potentia
+6429	6438	GO:0097194	apoptosis	execution	tential r
+6429	6438	GO:0006915	apoptosis	apoptotic	tential r
+6437	6446	GO:0000239	pachytene	pachytene	role for 
+6447	6459	GO:0005694	chromosomes,	chromosome	his protein 
+6482	6489	GO:0005634	nuclei.	nucleus	epair o
+6503	6512	GO:0051323	metaphase	metaphase	. Results
+6513	6519	GO:0005634	nuclei	nucleus	Trip13
+6526	6536	GO:0005694	chromosome	chromosome	idely Expr
+6524	6536	GO:0005694	chromosomes.	chromosome	 Widely Expr
+6533	6540	GO:0051321	meiotic	meiotic	xpresse
+6533	6540	GO:0007126	meiotic	meiotic	xpresse
+6537	6545	GO:0007129	synapsis	synapsis	ssed Mam
+6537	6545	GO:0045202	synapsis	synapse	ssed Mam
+6571	6582	GO:0005694	chromosomes	chromosome	th Unusual 
+6579	6584	GO:0019013	cores	viral	al Ph
+6600	6613	GO:0000800	axial element	lateral	ionships The 
+6614	6621	GO:0003675	protein	obsolete	ammalia
+6636	6643	GO:0051321	meiotic	meiotic	CH2, Tr
+6636	6643	GO:0007126	meiotic	meiotic	CH2, Tr
+6673	6679	GO:0023052	signal	signaling	 inter
+6712	6719	GO:0051321	meiotic	meiotic	tein wi
+6712	6719	GO:0007126	meiotic	meiotic	tein wi
+6720	6727	GO:0005634	nuclei.	nucleus	h exten
+6747	6754	GO:0051321	Meiotic	meiotic	logy in
+6747	6754	GO:0007126	Meiotic	meiotic	logy in
+6757	6762	GO:0016265	death	death	gions
+6790	6808	GO:0031577	spindle checkpoint	spindle	worm orthologs (Fi

@@ -1,0 +1,379 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	8	GO:0016020	Membrane	membrane	A Signal
+15	20	GO:0005623	cells	cell	hway 
+88	93	GO:0005623	cells	cell	n a c
+98	102	GO:0005623	cell	cell	 the
+113	118	GO:0005623	cells	cell	ogene
+121	127	GO:0023052	signal	signaling	, cert
+144	152	GO:0031982	vesicles	vesicle	a multip
+196	203	GO:0003675	protein	obsolete	 their 
+249	255	GO:0023052	signal	signaling	ing ha
+261	265	GO:0005623	cell	cell	 mor
+264	272	GO:0003675	protein.	obsolete	rphogene
+269	276	GO:0003675	protein	obsolete	enesis 
+305	313	GO:0003823	antibody	antigen	tant mou
+305	313	GO:0019815	antibody	B	tant mou
+305	313	GO:0042571	antibody	immunoglobulin	tant mou
+305	325	GO:0008104	protein localization	protein	tant mouse models an
+361	367	GO:0023052	signal	signaling	the co
+370	384	GO:0005770	late endosomes	late	ibutions of mu
+384	396	GO:0005739	mitochondria	mitochondrion	ltiple extra
+389	398	GO:0005764	lysosomes	lysosome	e extrace
+390	398	GO:0003823	antibody	antigen	 extrace
+390	398	GO:0019815	antibody	B	 extrace
+390	398	GO:0042571	antibody	immunoglobulin	 extrace
+403	409	GO:0005623	cells,	cell	r cues
+405	412	GO:0023052	signal.	signaling	cues in
+415	420	GO:0005623	cells	cell	chest
+422	437	GO:0016049	cellular growth	cell	ting adhesion d
+439	443	GO:0005623	cell	cell	amic
+433	443	GO:0005764	lysosomes,	lysosome	on dynamic
+444	456	GO:0019717	synaptosomes	obsolete	 and prolife
+465	474	GO:0005768	endosomes	endosome	 shape th
+472	477	GO:0005623	cells	cell	the c
+483	509	GO:0048311	Mitochondrial distribution	mitochondrion	 of cells involved. We fou
+509	518	GO:0046903	secretion	secretion	nd that t
+516	521	GO:0005623	cells	cell	 tran
+537	542	GO:0005623	cells	cell	facto
+543	548	GO:0005623	cells	cell	 β2 s
+559	568	GO:0031982	vesicular	vesicle	 necessar
+583	588	GO:0005623	cells	cell	y ind
+597	603	GO:0005623	cells;	cell	ranscr
+599	607	GO:0016020	membrane	membrane	nscripti
+637	649	GO:0005739	mitochondria	mitochondrion	he Ras-mitog
+658	664	GO:0005623	cells,	cell	ted pr
+653	672	GO:0006905	vesicular transport	obsolete	ctivated protein ki
+653	672	GO:0005480	vesicular transport	obsolete	ctivated protein ki
+653	672	GO:0016192	vesicular transport	vesicle-mediated	ctivated protein ki
+713	725	GO:0051179	localization	localization	idermis, Sna
+755	765	GO:0006914	autophagy,	autophagy	rprolifera
+758	770	GO:0005739	mitochondria	mitochondrion	oliferation 
+775	781	GO:0005623	cells,	cell	 reduc
+782	787	GO:0005623	cells	cell	ion i
+797	802	GO:0005623	Cells	cell	lular
+810	832	GO:0031410	cytoplasmic, vesicular	cytoplasmic	n. When E-cadherin is 
+825	833	GO:0016020	membrane	membrane	rin is t
+858	870	GO:0005739	mitochondria	mitochondrion	ulated, asso
+876	882	GO:0005623	cells.	cell	 adhes
+885	894	GO:0003823	antibody,	antigen	 proteins
+885	894	GO:0019815	antibody,	B	 proteins
+885	894	GO:0042571	antibody,	immunoglobulin	 proteins
+889	895	GO:0005623	cells.	cell	teins 
+889	895	GO:0023052	signal	signaling	teins 
+910	915	GO:0005623	cells	cell	ions 
+954	961	GO:0003675	protein	obsolete	l conta
+969	986	GO:0007268	Neurotransmission	synaptic	rocess which we d
+982	987	GO:0005623	cells	cell	we de
+984	988	GO:0007568	aged	aging	 dem
+990	995	GO:0005623	cells	cell	strat
+1005	1013	GO:0016020	membrane	membrane	 Ras-MAP
+1014	1032	GO:0006905	vesicle transport,	obsolete	 activation. These
+1014	1032	GO:0005480	vesicle transport,	obsolete	 activation. These
+1014	1032	GO:0016192	vesicle transport,	vesicle-mediated	 activation. These
+1050	1057	GO:0023052	signal.	signaling	nsights
+1051	1061	GO:0008152	metabolism	metabolic	sights int
+1062	1068	GO:0005623	cells,	cell	 how m
+1070	1076	GO:0023052	signal	signaling	tipote
+1089	1096	GO:0040007	growth;	growth	in a sh
+1093	1098	GO:0005623	cells	cell	 shee
+1104	1109	GO:0005623	cells	cell	stimu
+1109	1118	GO:0006810	transport	transport	lated to 
+1112	1120	GO:0003823	antibody	antigen	ed to un
+1112	1120	GO:0019815	antibody	B	ed to un
+1112	1120	GO:0042571	antibody	immunoglobulin	ed to un
+1108	1128	GO:0055037	recycling endosomes,	recycling	ulated to undergo tr
+1156	1171	GO:0003824	enzyme activity	catalytic	esult in prolif
+1169	1177	GO:0003823	antibody	antigen	iferatio
+1169	1177	GO:0019815	antibody	B	iferatio
+1169	1177	GO:0042571	antibody	immunoglobulin	iferatio
+1183	1190	GO:0023052	signal,	signaling	ctional
+1209	1214	GO:0005623	cells	cell	d for
+1223	1229	GO:0005623	cells.	cell	his no
+1252	1263	GO:0006897	endocytosis	endocytosis	urther weav
+1289	1301	GO:0005739	mitochondria	mitochondrion	ferent morph
+1298	1304	GO:0005623	cells,	cell	rphoge
+1293	1306	GO:0009405	pathogenesis.	pathogenesis	nt morphogens
+1315	1323	GO:0003823	Antibody	antigen	stream t
+1315	1323	GO:0019815	Antibody	B	stream t
+1315	1323	GO:0042571	Antibody	immunoglobulin	stream t
+1328	1332	GO:0005623	cell	cell	ript
+1356	1362	GO:0005623	cells,	cell	hair b
+1419	1424	GO:0031672	band,	A	malia
+1436	1441	GO:0005623	cells	cell	t inv
+1441	1447	GO:0005623	cells.	cell	olves 
+1460	1470	GO:0003823	antibodies	antigen	esis of co
+1460	1470	GO:0019815	antibodies	B	esis of co
+1460	1470	GO:0042571	antibodies	immunoglobulin	esis of co
+1469	1473	GO:0031672	band	A	ompl
+1478	1483	GO:0005623	cells	cell	ree-d
+1479	1501	GO:0031090	intracellular membrane	organelle	ee-dimensional structu
+1550	1555	GO:0005623	cells	cell	lls. 
+1590	1596	GO:0023052	signal	signaling	es the
+1635	1640	GO:0005623	cells	cell	ngs, 
+1662	1670	GO:0003675	proteins	obsolete	lands, a
+1667	1675	GO:0003823	antibody	antigen	, and ha
+1667	1675	GO:0019815	antibody	B	, and ha
+1667	1675	GO:0042571	antibody	immunoglobulin	, and ha
+1690	1694	GO:0005623	cell	cell	]. T
+1689	1717	GO:0005743	inner mitochondrial membrane	mitochondrial	1]. The multipotent, adherin
+1729	1734	GO:0005623	cells	cell	 cell
+1767	1779	GO:0005739	mitochondria	mitochondrion	derlying bas
+1772	1782	GO:0003823	antibodies	antigen	ing basal 
+1772	1782	GO:0019815	antibodies	B	ing basal 
+1772	1782	GO:0042571	antibodies	immunoglobulin	ing basal 
+1800	1805	GO:0045101	GFAP,	obsolete	zes t
+1801	1806	GO:0005623	cells	cell	es th
+1852	1864	GO:0005739	mitochondria	mitochondrion	unding mesen
+1872	1876	GO:0005623	cell	cell	uddi
+1897	1901	GO:0005623	cell	cell	uide
+1913	1918	GO:0016265	death	death	rocal
+1901	1927	GO:0048311	Mitochondrial distribution	mitochondrion	d by a reciprocal exchange
+1946	1950	GO:0031672	band	A	 epi
+1965	1977	GO:0005694	chromosomes)	chromosome	enchyme to s
+2006	2018	GO:0005739	mitochondria	mitochondrion	gan that wil
+2048	2052	GO:0031672	band	A	h. A
+2033	2053	GO:0004192	cathepsin D activity	obsolete	overn its growth. At
+2087	2094	GO:0003675	protein	obsolete	nicatio
+2121	2128	GO:0003675	Protein	obsolete	orphoge
+2135	2142	GO:0003675	protein	obsolete	teins (
+2138	2143	GO:0005623	cells	cell	ns (B
+2147	2159	GO:0009293	Transduction	transduction	, transformi
+2167	2176	GO:0003675	protein),	obsolete	h factor 
+2194	2199	GO:0005623	cells	cell	ibrob
+2223	2232	GO:0003675	protein),	obsolete	s). Throu
+2222	2236	GO:0005769	early endosome	early	Fs). Through a
+2242	2247	GO:0005623	cells	cell	ion o
+2243	2256	GO:0044754	autolysosomes	autolysosome	on of cell su
+2300	2305	GO:0005623	cells	cell	l sig
+2308	2313	GO:0005623	cells	cell	ing m
+2298	2318	GO:0004192	Cathepsin D activity	obsolete	nal signaling molecu
+2309	2321	GO:0016467	ATP synthase	obsolete	ng molecules
+2309	2321	GO:0016468	ATP synthase	obsolete	ng molecules
+2346	2355	GO:0006810	transport	transport	s of intr
+2360	2370	GO:0003823	antibodies	antigen	ular event
+2360	2370	GO:0019815	antibodies	B	ular event
+2360	2370	GO:0042571	antibodies	immunoglobulin	ular event
+2412	2417	GO:0005623	cells	cell	sion,
+2436	2441	GO:0005623	cells	cell	entia
+2443	2452	GO:0005764	lysosomes	lysosome	on [2]. H
+2447	2454	GO:0003675	protein	obsolete	2]. How
+2455	2465	GO:0003823	antibodies	antigen	this const
+2455	2465	GO:0019815	antibodies	B	this const
+2455	2465	GO:0042571	antibodies	immunoglobulin	this const
+2463	2478	GO:0005769	early endosomes	early	stellation of s
+2490	2495	GO:0005623	cells	cell	borat
+2491	2505	GO:0005770	late endosomes	late	orates in tail
+2518	2522	GO:0005623	cell	cell	ddin
+2520	2525	GO:0005623	cells	cell	ing p
+2540	2548	GO:0016020	membrane	membrane	it execu
+2543	2549	GO:0023052	signal	signaling	execut
+2549	2559	GO:0043226	organelles	organelle	es a disti
+2573	2582	GO:0006810	transport	transport	tic progr
+2623	2631	GO:0016020	membrane	membrane	 However
+2654	2661	GO:0003675	protein	obsolete	o be pa
+2683	2689	GO:0005623	cells;	cell	 stage
+2729	2734	GO:0005623	cells	cell	mport
+2730	2737	GO:0003675	Protein	obsolete	portanc
+2760	2768	GO:0016020	membrane	membrane	 their d
+2763	2770	GO:0003675	protein	obsolete	eir dow
+2769	2780	GO:0043226	organelles.	organelle	wnstream ef
+2802	2810	GO:0005764	lysosome	lysosome	 begin t
+2799	2817	GO:0045045	secretory pathway,	obsolete	uds begin to devel
+2800	2820	GO:0004192	cathepsin D activity	obsolete	ds begin to develop 
+2821	2830	GO:0031982	vesicular	vesicle	nd cell f
+2827	2833	GO:0023052	signal	signaling	l fate
+2861	2866	GO:0005623	cells	cell	ment 
+2875	2880	GO:0005623	cells	cell	requi
+2964	2969	GO:0005623	cells	cell	epith
+2987	2998	GO:0042592	homeostasis	homeostatic	rocess must
+3003	3023	GO:0006865	amino acid transport	amino	ccompanied by altera
+3049	3061	GO:0009405	pathogenesis	pathogenesis	, polarity, 
+3049	3061	GO:0051179	localization	localization	, polarity, 
+3108	3114	GO:0023052	signal	signaling	ell as
+3142	3148	GO:0005623	cells,	cell	nderly
+3151	3157	GO:0005623	cells.	cell	 basal
+3166	3172	GO:0005623	cells.	cell	Thus, 
+3183	3188	GO:0005623	cells	cell	ar ep
+3216	3225	GO:0005764	lysosomes	lysosome	lk must b
+3255	3262	GO:0004530	DNase I	deoxyribonuclease	couple 
+3272	3278	GO:0098657	uptake	import	inatio
+3279	3284	GO:0005623	Cells	cell	 of d
+3288	3298	GO:0003823	antibodies	antigen	nct cell f
+3288	3298	GO:0019815	antibodies	B	nct cell f
+3288	3298	GO:0042571	antibodies	immunoglobulin	nct cell f
+3301	3307	GO:0040007	growth	growth	s with
+3314	3323	GO:0005764	lysosomes	lysosome	ntemporan
+3323	3328	GO:0005623	cells	cell	eous 
+3354	3359	GO:0007568	aging	aging	 and 
+3354	3362	GO:0031982	vesicles	vesicle	 and str
+3363	3368	GO:0005623	cells	cell	ctura
+3366	3371	GO:0005623	cells	cell	ral p
+3392	3398	GO:0040007	Growth	growth	. Amon
+3405	3414	GO:0005737	cytoplasm	cytoplasm	ew dispen
+3422	3426	GO:0005623	cell	cell	gans
+3422	3431	GO:0009058	formation	biosynthetic	gans, hai
+3441	3447	GO:0040007	growth	growth	s offe
+3462	3466	GO:0005623	cell	cell	mode
+3460	3468	GO:0016020	membrane	membrane	t model 
+3464	3469	GO:0005623	cells	cell	del s
+3475	3479	GO:0007568	aged	aging	to s
+3513	3518	GO:0005623	cells	cell	malia
+3516	3522	GO:0040007	growth	growth	ian sk
+3538	3545	GO:0003675	protein	obsolete	gins as
+3606	3611	GO:0005623	cells	cell	opmen
+3607	3612	GO:0005623	cells	cell	pment
+3610	3615	GO:0004617	serum	phosphoglycerate	nt, s
+3660	3666	GO:0023052	signal	signaling	n in a
+3695	3701	GO:0023052	signal	signaling	 initi
+3693	3702	GO:0005764	lysosomes	lysosome	to initia
+3714	3726	GO:0051179	localization	localization	ex epithelia
+3738	3745	GO:0023052	signal,	signaling	l cross
+3734	3746	GO:0051179	localization	localization	hymal crosst
+3743	3747	GO:0005623	cell	cell	ssta
+3789	3794	GO:0005623	cells	cell	mitte
+3812	3833	GO:0008150	biological processes.	biological_process	 of epithelial cells,
+3839	3860	GO:0016192	vesicular trafficking	vesicle-mediated	lacode, instructs a g
+3907	3912	GO:0005623	cells	cell	e and
+3921	3933	GO:0005739	mitochondria	mitochondrion	 nascent der
+3947	3953	GO:0040007	growth	growth	hich w
+3961	3966	GO:0005623	cells	cell	 perm
+3978	3983	GO:0005623	cells	cell	e of 
+4004	4010	GO:0040007	growth	growth	bseque
+4030	4038	GO:0016020	membrane	membrane	 the pla
+4039	4049	GO:0043226	organelles	organelle	ode and na
+4037	4051	GO:0005776	autophagosomes	autophagosome	acode and nasc
+4055	4066	GO:0042592	homeostasis	homeostatic	dermal papi
+4059	4067	GO:0016020	membrane	membrane	al papil
+4073	4077	GO:0019013	core	viral	ult 
+4077	4089	GO:0005739	mitochondria	mitochondrion	in further g
+4098	4107	GO:0005764	lysosomes	lysosome	the folli
+4103	4116	GO:0005739	mitochondria,	mitochondrion	ollicle into 
+4134	4142	GO:0031982	vesicles	vesicle	mis, or 
+4152	4158	GO:0005623	cells.	cell	h, and
+4147	4160	GO:0005739	mitochondria,	mitochondrion	growth, and e
+4154	4170	GO:0016234	Inclusion bodies	inclusion	 and eventual di
+4175	4189	GO:0005776	autophagosomes	autophagosome	ntiation into 
+4212	4220	GO:0003823	antibody	antigen	rs of th
+4212	4220	GO:0019815	antibody	B	rs of th
+4212	4220	GO:0042571	antibody	immunoglobulin	rs of th
+4219	4223	GO:0005623	cell	cell	he m
+4238	4245	GO:0003675	protein	obsolete	 Previo
+4281	4285	GO:0005623	cell	cell	ve e
+4297	4306	GO:0005764	lysosomes	lysosome	d mesench
+4303	4309	GO:0005623	cells,	cell	nchyma
+4308	4312	GO:0005623	cell	cell	al s
+4321	4330	GO:0005764	lysosomes	lysosome	nts and t
+4327	4331	GO:0005623	cell	cell	d th
+4361	4366	GO:0005623	cells	cell	, fun
+4388	4408	GO:0004192	cathepsin D activity	obsolete	duce lymphoid enhanc
+4444	4449	GO:0005623	cells	cell	in)-m
+4468	4473	GO:0007568	Aging	aging	ripti
+4471	4475	GO:0005623	cell	cell	tion
+4471	4476	GO:0005623	cells	cell	tion 
+4494	4502	GO:0031982	vesicles	vesicle	e placod
+4501	4506	GO:0005623	cells	cell	de [4
+4580	4588	GO:0003675	protein.	obsolete	signalin
+4598	4606	GO:0016020	membrane	membrane	 include
+4603	4609	GO:0023052	signal	signaling	ude do
+4607	4616	GO:0043226	organelle	organelle	down-regu
+4612	4617	GO:0005623	cells	cell	regul
+4623	4627	GO:0005623	Cell	cell	of t
+4636	4642	GO:0040007	Growth	growth	ncodin
+4680	4686	GO:0005623	cells,	cell	ial ca
+4687	4693	GO:0005623	cells,	cell	herin 
+4711	4716	GO:0005623	cells	cell	nsmem
+4726	4731	GO:0007568	aging	aging	 of i
+4775	4779	GO:0005623	cell	cell	e su
+4817	4821	GO:0005623	cell	cell	 is 
+4810	4822	GO:0005739	mitochondria	mitochondrion	adherin is t
+4858	4865	GO:0003675	protein	obsolete	, hair 
+4918	4922	GO:0005623	cell	cell	cadh
+4923	4928	GO:0019835	lysis	cytolysis	rin d
+4931	4938	GO:0003675	protein	obsolete	-regula
+4925	4939	GO:0005769	early endosome	early	n down-regulat
+4954	4960	GO:0023052	signal	signaling	al eve
+4958	4966	GO:0016020	membrane	membrane	vent in 
+4985	4989	GO:0031672	band	A	ion 
+4998	5021	GO:0006907	fluid-phase endocytosis	pinocytosis	necessary for budding m
+5030	5043	GO:0051301	cell division	cell	sis [4]. Like
+5056	5061	GO:0005623	cells	cell	herin
+5056	5065	GO:0005764	lysosome,	lysosome	herin als
+5066	5072	GO:0005623	cells,	cell	 binds
+5081	5088	GO:0003675	protein	obsolete	enin. A
+5101	5107	GO:0098657	uptake	import	ll-cel
+5107	5112	GO:0031672	band.	A	l con
+5154	5159	GO:0005623	cells	cell	xes r
+5209	5216	GO:0003675	protein	obsolete	sociate
+5212	5217	GO:0005623	cells	cell	iated
+5218	5225	GO:0023052	signal.	signaling	actin p
+5260	5265	GO:0005623	Cells	cell	 stab
+5263	5270	GO:0003675	Protein	obsolete	abilize
+5252	5270	GO:0030139	endocytic vesicles	endocytic	ssary to stabilize
+5300	5310	GO:0006914	autophagy,	autophagy	 cytoskele
+5351	5356	GO:0005623	cells	cell	-Cate
+5357	5362	GO:0005623	Cells	cell	in al
+5407	5413	GO:0023052	signal	signaling	 (LIM)
+5418	5423	GO:0005623	cells	cell	ein A
+5435	5440	GO:0005623	cells	cell	er of
+5436	5444	GO:0031982	vesicles	vesicle	r of the
+5442	5455	GO:0005776	autophagosome	autophagosome	he zyxin fami
+5460	5465	GO:0005623	cells	cell	 prot
+5470	5479	GO:0005737	cytoplasm	cytoplasm	, which a
+5477	5482	GO:0005623	Cells	cell	 appe
+5476	5484	GO:0016020	membrane	membrane	h appear
+5487	5492	GO:0005623	cell.	cell	o fun
+5496	5501	GO:0005623	cells	cell	n dua
+5502	5513	GO:0006897	Endocytosis	endocytosis	ly in both 
+5506	5515	GO:0006810	transport	transport	n both ad
+5522	5534	GO:0005739	mitochondria	mitochondrion	and in activ
+5529	5534	GO:0005623	cells	cell	activ
+5536	5546	GO:0003823	antibodies	antigen	ion of the
+5536	5546	GO:0019815	antibodies	B	ion of the
+5536	5546	GO:0042571	antibodies	immunoglobulin	ion of the
+5548	5555	GO:0003675	protein	obsolete	as-mito
+5548	5557	GO:0003675	proteins.	obsolete	as-mitoge
+5556	5561	GO:0019013	cores	viral	en-ac
+5568	5573	GO:0005623	Cells	cell	 prot
+5569	5574	GO:0005623	cells	cell	prote
+5588	5594	GO:0098657	uptake	import	K) pat
+5602	5611	GO:0031982	vesicular	vesicle	10]. Thro
+5616	5620	GO:0045101	GFAP	obsolete	hese
+5633	5651	GO:0008283	Cell Proliferation	cell	ppear able to coup
+5650	5665	GO:0005770	late endosomes.	late	ple adhesion wi
+5710	5715	GO:0005623	cells	cell	ear a
+5713	5726	GO:0005739	mitochondria.	mitochondrion	 and cytoplas
+5758	5763	GO:0005623	cells	cell	ramew
+5761	5767	GO:0005623	cells,	cell	ework 
+5775	5780	GO:0005623	cells	cell	eptua
+5797	5801	GO:0005623	cell	cell	erin
+5810	5821	GO:0044297	cell bodies	cell	ppear to im
+5827	5836	GO:0031982	vesicular	vesicle	pon a ple
+5868	5876	GO:0031982	vesicles	vesicle	 (review
+5878	5882	GO:0005623	cell	cell	 in 
+5912	5917	GO:0005623	cells	cell	y int
+5916	5923	GO:0003675	protein	obsolete	to the 
+5995	5999	GO:0005623	cell	cell	trig
+6000	6011	GO:0009056	degradation	catabolic	ed by the c
+6016	6020	GO:0005623	cell	cell	prox
+6019	6027	GO:0005764	lysosome	lysosome	ximity o
+6062	6071	GO:0006810	transport	transport	to a site
+6087	6093	GO:0005623	cells.	cell	he Sna
+6114	6119	GO:0005623	cells	cell	c fin
+6163	6171	GO:0003823	antibody	antigen	3,14,15]
+6163	6171	GO:0019815	antibody	B	3,14,15]
+6163	6171	GO:0042571	antibody	immunoglobulin	3,14,15]
+6256	6260	GO:0005623	cell	cell	heli
+6292	6297	GO:0005623	cells	cell	MTs),
+6334	6343	GO:0031982	vesicular	vesicle	larized, 
+6390	6399	GO:0006810	transport	transport	al cells 
+6403	6411	GO:0003823	antibody	antigen	17]. Bud
+6403	6411	GO:0019815	antibody	B	17]. Bud
+6403	6411	GO:0042571	antibody	immunoglobulin	17]. Bud
+6427	6444	GO:0045045	secretory pathway	obsolete	rs from an EMT in
+6465	6473	GO:0005764	lysosome	lysosome	vity nee
+6521	6527	GO:0005623	cells,	cell	at adh
+6562	6571	GO:0031982	vesicular	vesicle	r than qu
+6621	6627	GO:0005623	cells.	cell	 abili
+6627	6638	GO:0006897	endocytosis	endocytosis	ty to fine-
+6667	6671	GO:0005623	cell	cell	he t
+6716	6736	GO:0004192	cathepsin D activit	obsolete	additive effect with

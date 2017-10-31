@@ -1,0 +1,130 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+36	46	GO:0005694	chromosome	chromosome	t Mass Tra
+51	66	GO:0010467	gene expression	gene	th Complex Inhe
+124	134	GO:0005694	Chromosome	chromosome	ation of e
+132	142	GO:0005694	chromosome	chromosome	 expressio
+134	144	GO:0030849	autosomes.	autosome	xpression 
+194	204	GO:0005694	Chromosome	chromosome	een used t
+281	291	GO:0065007	regulation	biological	regulation
+334	344	GO:0005694	Chromosome	chromosome	mented; ho
+384	391	GO:0004239	mapping	obsolete	 not ye
+389	399	GO:0065007	regulation	biological	yet addres
+420	430	GO:0005694	Chromosome	chromosome	ch their c
+435	467	GO:0043687	posttranslational modifications.	post-translational	sions are affected by sex. We co
+470	485	GO:0010467	gene expression	gene	ructed and dens
+525	540	GO:0010467	gene expression	gene	ved from the in
+547	562	GO:0010467	Gene expression	gene	use strains C57
+563	573	GO:0005694	Chromosome	chromosome	L/6J and C
+561	574	GO:0006351	transcription	transcription,	7BL/6J and C3
+586	601	GO:0010467	gene expression	gene	apolipoprotein 
+667	677	GO:0005694	Chromosome	chromosome	ates sever
+694	709	GO:0010467	gene expression	gene	drome” phenotyp
+825	840	GO:0010467	gene expression	gene	on sex. We dete
+845	860	GO:0010467	gene expression	gene	several thousan
+864	879	GO:0010467	gene expression	gene	ver gene expres
+869	880	GO:0005694	Chromosomes	chromosome	ene express
+988	999	GO:0005694	chromosome.	chromosome	sect the ge
+1025	1035	GO:0005694	Chromosome	chromosome	, a comple
+1057	1068	GO:0065007	regulation.	biological	fic regulat
+1093	1108	GO:0010467	Gene Expression	gene	for a remarkabl
+1089	1118	GO:0010468	regulation of gene expression	regulation	nce for a remarkably high deg
+1116	1126	GO:0065007	Regulation	biological	egree of s
+1125	1140	GO:0006351	transcriptional	transcription,	sex-dependence 
+1162	1192	GO:0010468	regulation of gene expression.	regulation	ans regulation of gene express
+1211	1218	GO:0004239	mapping	obsolete	 how th
+1234	1244	GO:0005694	Chromosome	chromosome	 be applie
+1265	1275	GO:0005694	Chromosome	chromosome	 genetics 
+1335	1344	GO:0030849	autosomes	autosome	cantly fe
+1419	1434	GO:0010467	gene expression	gene	ects of sex on 
+1442	1452	GO:0065007	regulation	biological	tic regula
+1447	1457	GO:0065007	regulation	biological	egulation 
+1620	1627	GO:0004239	mapped,	obsolete	uding c
+1623	1638	GO:0010467	gene expression	gene	ng complex trai
+1690	1700	GO:0065007	regulation	biological	genomic to
+1800	1815	GO:0010467	gene expression	gene	 expression of 
+1806	1816	GO:0005694	Chromosome	chromosome	ssion of t
+1804	1818	GO:0006351	transcription.	transcription,	ression of tra
+1880	1895	GO:0010467	gene expression	gene	ationship betwe
+2023	2040	GO:0010467	gene's expression	gene	use strains, five
+2143	2154	GO:0065007	regulation.	biological	xhibited op
+2183	2193	GO:0065007	Regulation	biological	the two se
+2190	2202	GO:0051179	localization	localization	 sexes, a ph
+2221	2236	GO:0010467	Gene Expression	gene	exual antagonis
+2256	2267	GO:0005694	(Chromosome	chromosome	date genes 
+2237	2267	GO:0010468	regulation of gene expression.	regulation	. To identify candidate genes 
+2292	2304	GO:0005694	(Chromosomes	chromosome	besity throu
+2341	2356	GO:0010467	gene expression	gene	bal gene expres
+2370	2385	GO:0010467	gene expression	gene	was employed us
+2402	2412	GO:0065007	regulation	biological	Many of th
+2443	2454	GO:0005694	(Chromosome	chromosome	ex-specific
+2462	2476	GO:0006351	transcription.	transcription,	 on transcript
+2620	2630	GO:0005694	Chromosome	chromosome	 on Chromo
+2633	2643	GO:0005694	Chromosome	chromosome	e 19. This
+2656	2668	GO:0051179	localization	localization	e genome col
+2804	2814	GO:0065007	regulatory	biological	d males sh
+2889	2899	GO:0005694	Chromosome	chromosome	isease sus
+3036	3045	GO:0008152	metabolic	metabolic	nearly al
+3036	3045	GO:0007552	metabolic	metamorphosis	nearly al
+3140	3150	GO:0005694	Chromosome	chromosome	tes and th
+3188	3199	GO:0005694	Chromosomes	chromosome	emia, obesi
+3257	3270	GO:0009405	pathogenesis,	pathogenesis	eir pathogene
+3277	3287	GO:0005694	Chromosome	chromosome	compassing
+3290	3300	GO:0005694	Chromosome	chromosome	vironmenta
+3477	3492	GO:0010467	gene expression	gene	d in the geneti
+3505	3516	GO:0005694	Chromosomes	chromosome	ntrinsic to
+3540	3550	GO:0005694	Chromosome	chromosome	h the sex 
+3568	3578	GO:0005694	Chromosome	chromosome	ease susce
+3589	3599	GO:0005694	Chromosome	chromosome	re recogni
+3612	3623	GO:0065007	regulation.	biological	rplay betwe
+3630	3645	GO:0010467	gene expression	gene	and gene expres
+3645	3655	GO:0005694	Chromosome	chromosome	sion that 
+3805	3821	GO:0010467	gene expression.	gene	 expression and 
+3842	3852	GO:0065007	regulation	biological	k varies s
+3909	3919	GO:0065007	regulation	biological	nificance 
+3930	3941	GO:0005694	Chromosomes	chromosome	 disease-as
+4036	4046	GO:0005694	Chromosome	chromosome	ance. We h
+4035	4046	GO:0065007	regulation,	biological	tance. We h
+4108	4117	GO:0008152	metabolic	metabolic	 of metab
+4108	4117	GO:0007552	metabolic	metamorphosis	 of metab
+4142	4157	GO:0010467	gene expression	gene	s [3–5]. Rather
+4273	4283	GO:0005694	Chromosome	chromosome	tion betwe
+4271	4289	GO:0046879	hormone secretions	hormone	iation between str
+4284	4294	GO:0005694	Chromosome	chromosome	n strains 
+4293	4308	GO:0010467	gene expression	gene	 in genetic cro
+4305	4315	GO:0065007	regulation	biological	crosses to
+4312	4319	GO:0003675	protein	obsolete	 to ide
+4314	4324	GO:0005694	Chromosome	chromosome	o identify
+4415	4430	GO:0010467	gene expression	gene	erences [6]. Th
+4521	4534	GO:0006351	transcription	transcription,	netic composi
+4717	4727	GO:0065007	regulation	biological	ysis allow
+4732	4742	GO:0065007	regulation	biological	 identific
+4735	4745	GO:0005694	Chromosome	chromosome	entificati
+4742	4752	GO:0065007	regulation	biological	ation of t
+4753	4772	GO:0098687	chromosomal regions	chromosomal	ose chromosomal reg
+4767	4782	GO:0010467	gene expression	gene	l regions that 
+4775	4786	GO:0005694	Chromosomes	chromosome	s that cont
+4809	4819	GO:0065007	regulation	biological	 that infl
+4852	4865	GO:0006351	transcription	transcription,	mprehensive r
+4880	4890	GO:0065007	regulation	biological	ee [7]). W
+4938	4953	GO:0006351	transcriptional	transcription,	ed the power of
+4993	5008	GO:0010467	gene expression	gene	ide gene expres
+5066	5081	GO:0010467	gene expression	gene	s of gene expre
+5160	5175	GO:0010467	gene expression	gene	 dissecting the
+5178	5188	GO:0065007	regulation	biological	netic regu
+5254	5268	GO:0006351	transcription.	transcription,	ression from c
+5319	5341	GO:0010467	gene to the expression	gene	e application of this 
+5336	5348	GO:0051179	localization	localization	this integra
+5377	5390	GO:0006351	transcription	transcription,	nificance of 
+5446	5456	GO:0065007	regulation	biological	iated regu
+5467	5477	GO:0065007	regulation	biological	iver gene 
+5466	5481	GO:0010467	gene expression	gene	liver gene expr
+5457	5486	GO:0010468	regulation of gene expression	regulation	ation of liver gene expressio
+5566	5576	GO:0065007	regulation	biological	(C3H) on a
+5621	5631	GO:0065007	regulation	biological	 The BXH.A
+5649	5664	GO:0010467	gene expression	gene	was designed to
+5694	5710	GO:0010467	gene expression.	gene	henotypes associ
+5748	5777	GO:0010468	regulation of gene expression	regulation	rome. The cross consists of 3
+5820	5835	GO:0010467	gene expression	gene	ecifically test
+5894	5909	GO:0010467	gene expression	gene	usand gene expr
+5895	5910	GO:0010467	gene expression	gene	sand gene expre
+6021	6031	GO:0065007	regulation	biological	netic regu

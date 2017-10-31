@@ -1,0 +1,96 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+59	69	GO:0006281	DNA repair	DNA	DNA repair
+529	539	GO:0006281	DNA repair	DNA	uals compa
+655	665	GO:0006281	DNA repair	DNA	DNA repair
+676	683	GO:0003675	protein	obsolete	 correl
+728	738	GO:0006281	DNA repair	DNA	 data, we 
+767	771	GO:0005623	cell	cell	 and
+772	782	GO:0006281	DNA repair	DNA	DNA repair
+793	808	GO:0010467	gene expression	gene	co-regulated by
+815	819	GO:0005623	cell	cell	 mor
+944	954	GO:0006281	DNA repair	DNA	on factors
+1148	1158	GO:0065007	regulation	biological	o DNA sequ
+1172	1185	GO:0006351	transcription	transcription,	 The transcri
+1182	1192	GO:0006281	DNA repair	DNA	cript abun
+1189	1206	GO:0003686	DNA repair enzyme	obsolete	bundance values o
+1189	1206	GO:0003684	DNA repair enzyme	damaged	bundance values o
+1222	1226	GO:0005623	cell	cell	ptio
+1279	1289	GO:0065007	regulation	biological	t and DNA 
+1285	1295	GO:0006281	DNA repair	DNA	DNA repair
+1307	1318	GO:0032502	development	developmental	16) were me
+1350	1360	GO:0006281	DNA repair	DNA	ative PCR 
+1420	1430	GO:0006281	DNA repair	DNA	anscriptio
+1512	1522	GO:0006281	DNA repair	DNA	DNA repair
+1689	1699	GO:0006281	DNA repair	DNA	 for four 
+1832	1842	GO:0006281	DNA repair	DNA	correlated
+1884	1894	GO:0006281	DNA repair	DNA	n-BC indiv
+2149	2159	GO:0006281	DNA repair	DNA	ption fact
+2199	2212	GO:0006351	transcription	transcription,	transcription
+2239	2244	GO:0005488	binds	binding	 repa
+2236	2246	GO:0006281	DNA repair	DNA	DNA repair
+2333	2344	GO:0032502	development	developmental	development
+2334	2344	GO:0006281	DNA repair	DNA	evelopment
+2350	2360	GO:0006281	DNA repair	DNA	 are those
+2382	2392	GO:0065007	regulation	biological	regulation
+2395	2405	GO:0006281	DNA repair	DNA	 antioxida
+2412	2422	GO:0006281	DNA repair	DNA	DNA repair
+2471	2481	GO:0006281	DNA repair	DNA	eading cau
+2502	2507	GO:0016265	death	death	death
+2556	2562	GO:0016265	deaths	death	deaths
+2583	2593	GO:0006281	DNA repair	DNA	tte smokin
+2604	2617	GO:0006351	transcription	transcription,	imary risk fa
+2633	2643	GO:0006281	DNA repair	DNA	% of heavy
+2715	2733	GO:0003686	DNA repair enzymes	obsolete	DNA repair enzymes
+2715	2733	GO:0003684	DNA repair enzymes	damaged	DNA repair enzymes
+2740	2750	GO:0006281	DNA repair	DNA	rovide pro
+2826	2831	GO:0005623	cells	cell	cells
+2887	2897	GO:0006281	DNA repair	DNA	nherited i
+3080	3090	GO:0006281	DNA repair	DNA	action wit
+3085	3095	GO:0065007	regulation	biological	n with and
+3096	3106	GO:0008152	metabolism	metabolic	metabolism
+3202	3222	GO:0044237	cellular metabolism.	cellular	cellular metabolism.
+3303	3312	GO:0003675	proteins,	obsolete	proteins,
+3309	3319	GO:0000496	base pairs	base	ns, cross-
+3325	3335	GO:0065007	regulation	biological	g of lipid
+3350	3360	GO:0000496	base pairs	base	and modifi
+3341	3366	GO:0036211	proteins and modification	protein	proteins and modification
+3370	3382	GO:0005561	nucleic acid	obsolete	nucleic acid
+3381	3391	GO:0000496	base pairs	base	d bases, w
+3387	3397	GO:0006281	DNA repair	DNA	s, which c
+3420	3438	GO:0003686	DNA repair enzymes	obsolete	DNA repair enzymes
+3420	3438	GO:0003684	DNA repair enzymes	damaged	DNA repair enzymes
+3500	3509	GO:0000496	base pair	base	 well as 
+3571	3582	GO:0032502	development	developmental	ns in cigar
+3806	3817	GO:0032502	development	developmental	ed on the b
+3849	3853	GO:0019013	core	viral	ion 
+3963	3973	GO:0006281	DNA repair	DNA	antioxidan
+3978	3988	GO:0006281	DNA repair	DNA	DNA repair
+4015	4026	GO:0032502	development	developmental	s, but not 
+4210	4220	GO:0006281	DNA repair	DNA	transcript
+4341	4351	GO:0006281	DNA repair	DNA	zed first,
+4366	4379	GO:0006351	transcription	transcription,	inter-individ
+4396	4406	GO:0065007	regulation	biological	regulation
+4430	4440	GO:0006281	DNA repair	DNA	DNA repair
+4454	4467	GO:0006351	transcription	transcription,	or more trans
+4482	4497	GO:0006351	transcriptional	transcription,	s and second, t
+4490	4500	GO:0006281	DNA repair	DNA	cond, that
+4498	4508	GO:0065007	regulation	biological	at individ
+4530	4540	GO:0065007	regulation	biological	regulation
+4531	4541	GO:0006281	DNA repair	DNA	egulation 
+4557	4567	GO:0065007	regulation	biological	 developme
+4558	4569	GO:0032502	development	developmental	development
+4608	4618	GO:0065007	regulation	biological	t these hy
+4629	4639	GO:0006281	DNA repair	DNA	ranscripti
+4801	4811	GO:0065007	regulation	biological	 transcrip
+4853	4863	GO:0006281	DNA repair	DNA	n expanded
+4897	4907	GO:0006281	DNA repair	DNA	DNA repair
+5039	5049	GO:0006281	DNA repair	DNA	e time of 
+5151	5162	GO:0003677	DNA binding	DNA	in the lung
+5168	5178	GO:0006281	DNA repair	DNA	nvolved wi
+5179	5189	GO:0009058	formation,	biosynthetic	h cancer w
+5228	5243	GO:2000144	transactivation	positive	cted cancerous 
+5328	5340	GO:0065007	regulations.	biological	onal Review 
+5359	5369	GO:0006281	DNA repair	DNA	al Univers
+5374	5387	GO:0006351	transcription	transcription,	f Ohio. Each 
+5460	5464	GO:0005138	IL-6	interleukin-6	al e
+5469	5473	GO:0005153	IL-8	interleukin-8	atio

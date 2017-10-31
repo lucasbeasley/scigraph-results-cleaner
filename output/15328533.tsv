@@ -1,0 +1,143 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	10	GO:0065007	Regulation	biological	Regulation
+7	19	GO:0005739	mitochondria	mitochondrion	ion of Muscl
+14	26	GO:0030484	Muscle Fiber	obsolete	Muscle Fiber
+14	26	GO:0043292	Muscle Fiber	contractile	Muscle Fiber
+57	74	GO:0000262	Mitochondrial DNA	mitochondrial	PPARδ Abstract En
+124	136	GO:0030484	muscle fiber	obsolete	muscle fiber
+124	136	GO:0043292	muscle fiber	contractile	muscle fiber
+230	246	GO:0010467	gene expression.	gene	gene expression.
+241	253	GO:0030484	muscle fiber	obsolete	sion. Howeve
+241	253	GO:0043292	muscle fiber	contractile	sion. Howeve
+298	315	GO:0006118	electron transfer	obsolete	ified that can di
+298	315	GO:0022904	electron transfer	respiratory	ified that can di
+316	329	GO:0009461	(cytochrome c	obsolete	ect this proc
+316	329	GO:0045155	(cytochrome c	electron	ect this proc
+321	333	GO:0060384	innervation,	innervation	his process.
+372	381	GO:0008152	metabolic	metabolic	 capable 
+372	381	GO:0007552	metabolic	metamorphosis	 capable 
+523	533	GO:0005777	peroxisome	peroxisome	peroxisome
+567	579	GO:0030484	muscle fiber	obsolete	 (PPARδ) in 
+567	579	GO:0043292	muscle fiber	contractile	 (PPARδ) in 
+748	763	GO:0010467	gene expression	gene	gene expression
+782	794	GO:0004723	calcineurin,	calcium-dependent	 Moreover, t
+782	794	GO:0004722	calcineurin,	protein	 Moreover, t
+840	857	GO:0000262	Mitochondrial DNA	mitochondrial	tance to obesity 
+871	880	GO:0008152	metabolic	metabolic	metabolic
+871	880	GO:0007552	metabolic	metamorphosis	metabolic
+1033	1039	GO:0005488	ligand	binding	y can 
+1056	1068	GO:0030484	muscle fiber	obsolete	alyzed and m
+1056	1068	GO:0043292	muscle fiber	contractile	alyzed and m
+1132	1144	GO:0030484	muscle fiber	obsolete	assified as 
+1132	1144	GO:0043292	muscle fiber	contractile	assified as 
+1193	1202	GO:0003675	proteins,	obsolete	st) fiber
+1225	1237	GO:0009461	cytochrome c	obsolete	differences 
+1225	1237	GO:0045155	cytochrome c	electron	differences 
+1264	1275	GO:0008152	metabolism,	metabolic	metabolism,
+1321	1328	GO:0003675	protein	obsolete	are mit
+1358	1378	GO:0045333	oxidative metabolism	cellular	oxidative metabolism
+1444	1450	GO:0023052	signal	signaling	upply 
+1454	1461	GO:0005488	ligand,	binding	TP, and
+1459	1466	GO:0003675	protein	obsolete	nd thus
+1478	1484	GO:0033867	(fast)	Fas-activated	-resis
+1655	1665	GO:0008152	metabolism	metabolic	metabolism
+1805	1812	GO:0005488	ligands	binding	e I and
+1857	1866	GO:0003675	proteins,	obsolete	l. 2000; 
+1991	2011	GO:0014823	response to exercise	response	response to exercise
+2009	2021	GO:0030484	muscle fiber	obsolete	se training 
+2009	2021	GO:0043292	muscle fiber	contractile	se training 
+2027	2037	GO:0005777	Peroxisome	peroxisome	ulation of
+2098	2108	GO:0005777	peroxisome	peroxisome	1996; Pett
+2110	2122	GO:0030484	Muscle Fiber	obsolete	1998; Olson 
+2110	2122	GO:0043292	Muscle Fiber	contractile	1998; Olson 
+2141	2145	GO:1990343	Hood	heterochromatin	Hood
+2158	2165	GO:0003675	protein	obsolete	convers
+2172	2184	GO:0030484	muscle fiber	obsolete	muscle fiber
+2172	2184	GO:0043292	muscle fiber	contractile	muscle fiber
+2256	2263	GO:0005488	ligands	binding	ium sig
+2252	2269	GO:0019722	calcium signaling	calcium-mediated	calcium signaling
+2260	2277	GO:0007165	signaling pathway	signal	signaling pathway
+2292	2304	GO:0004723	calcineurin,	calcium-dependent	calcineurin,
+2292	2304	GO:0004722	calcineurin,	protein	calcineurin,
+2343	2352	GO:0023052	signaling	signaling	ranscript
+2342	2357	GO:0006351	transcriptional	transcription,	transcriptional
+2367	2377	GO:0005777	Peroxisome	peroxisome	Peroxisome
+2447	2457	GO:0065007	regulatory	biological	t al. 2000
+2530	2542	GO:0030484	muscle fiber	obsolete	 targeted tr
+2530	2542	GO:0043292	muscle fiber	contractile	 targeted tr
+2552	2561	GO:0003823	antibody.	antigen	nal facto
+2552	2561	GO:0019815	antibody.	B	nal facto
+2552	2561	GO:0042571	antibody.	immunoglobulin	nal facto
+2638	2647	GO:0008152	metabolic	metabolic	metabolic
+2638	2647	GO:0007552	metabolic	metamorphosis	metabolic
+2659	2678	GO:0006006	glucose metabolism.	glucose	n to be identified.
+2679	2691	GO:0030484	Muscle fiber	obsolete	Muscle fiber
+2679	2691	GO:0043292	Muscle fiber	contractile	Muscle fiber
+2806	2812	GO:0005488	ligand	binding	on hig
+2953	2964	GO:0003823	antibodies.	antigen	pacity, inc
+2953	2964	GO:0019815	antibodies.	B	pacity, inc
+2953	2964	GO:0042571	antibodies.	immunoglobulin	pacity, inc
+2957	2975	GO:0006006	glucose metabolism	glucose	ty, increased glyc
+2988	2992	GO:0031672	band	A	ty, 
+3032	3040	GO:0003823	antibody	antigen	ers (Hic
+3032	3040	GO:0019815	antibody	B	ers (Hic
+3032	3040	GO:0042571	antibody	immunoglobulin	ers (Hic
+3268	3275	GO:0016088	insulin	obsolete	insulin
+3369	3375	GO:0007568	aging.	aging	 estab
+3387	3397	GO:0005777	peroxisome	peroxisome	peroxisome
+3425	3432	GO:0005488	ligands	binding	ptor (P
+3450	3465	GO:0006351	transcriptional	transcription,	transcriptional
+3477	3489	GO:0030484	muscle fiber	obsolete	f fat burnin
+3477	3489	GO:0043292	muscle fiber	contractile	f fat burnin
+3525	3532	GO:0016088	insulin	obsolete	on of e
+3765	3780	GO:2000144	transactivation	positive	 the first tran
+3791	3803	GO:0030484	muscle fiber	obsolete	actor able t
+3791	3803	GO:0043292	muscle fiber	contractile	actor able t
+3815	3824	GO:0009058	formation	biosynthetic	formation
+3956	3973	GO:0000262	mitochondrial DNA	mitochondrial	tate of obesity r
+4021	4033	GO:0030484	Muscle Fiber	obsolete	Muscle Fiber
+4021	4033	GO:0043292	Muscle Fiber	contractile	Muscle Fiber
+4046	4063	GO:0000262	mitochondrial DNA	mitochondrial	on A role of PPAR
+4068	4080	GO:0030484	muscle fiber	obsolete	muscle fiber
+4068	4080	GO:0043292	muscle fiber	contractile	muscle fiber
+4140	4152	GO:0030484	muscle fiber	obsolete	and 50-fold 
+4140	4152	GO:0043292	muscle fiber	contractile	and 50-fold 
+4257	4270	GO:0030484	muscle fibers	obsolete	muscle fibers
+4257	4270	GO:0043292	muscle fibers	contractile	muscle fibers
+4606	4613	GO:0003675	protein	obsolete	protein
+4698	4710	GO:0030484	muscle fiber	obsolete	muscle fiber
+4698	4710	GO:0043292	muscle fiber	contractile	muscle fiber
+4707	4713	GO:0005488	ligand	binding	ber pl
+4828	4843	GO:0010467	Gene expression	gene	ivation domain 
+5010	5020	GO:0003823	Antibodies	antigen	promoter (
+5010	5020	GO:0019815	Antibodies	B	promoter (
+5010	5020	GO:0042571	Antibodies	immunoglobulin	promoter (
+5119	5126	GO:0003675	protein	obsolete	 in ske
+5133	5139	GO:0033867	fasted	Fas-activated	uscle,
+5209	5223	GO:0030484	muscle fibers,	obsolete	muscle fibers,
+5209	5223	GO:0043292	muscle fibers,	contractile	muscle fibers,
+5239	5251	GO:0030484	muscle fiber	obsolete	P16-PPARδ ex
+5239	5251	GO:0043292	muscle fiber	contractile	P16-PPARδ ex
+5308	5320	GO:0030484	muscle fiber	obsolete	own in Figur
+5308	5320	GO:0043292	muscle fiber	contractile	own in Figur
+5369	5376	GO:0003675	protein	obsolete	protein
+5515	5522	GO:0003675	protein	obsolete	protein
+5614	5626	GO:0030484	Muscle fiber	obsolete	rease of end
+5614	5626	GO:0043292	Muscle fiber	contractile	rease of end
+5638	5655	GO:0000262	mitochondrial DNA	mitochondrial	δ may have been c
+5666	5678	GO:0030484	Muscle fiber	obsolete	switch to ty
+5666	5678	GO:0043292	Muscle fiber	contractile	switch to ty
+5784	5799	GO:0006351	transcriptional	transcription,	scle can be rea
+5821	5833	GO:0030484	muscle fiber	obsolete	m type II or
+5821	5833	GO:0043292	muscle fiber	contractile	m type II or
+5915	5922	GO:0003675	protein	obsolete	protein
+5988	5994	GO:0033867	fasted	Fas-activated	cles i
+6176	6188	GO:0030484	muscle fiber	obsolete	substantial 
+6176	6188	GO:0043292	muscle fiber	contractile	substantial 
+6188	6200	GO:0030484	muscle fiber	obsolete	muscle fiber
+6188	6200	GO:0043292	muscle fiber	contractile	muscle fiber
+6436	6448	GO:0030484	muscle fiber	obsolete	e mRNA analy
+6436	6448	GO:0043292	muscle fiber	contractile	e mRNA analy
+7142	7152	GO:0065007	Regulation	biological	ransgenic 
+7156	7168	GO:0030484	muscle fiber	obsolete	 (Figure 3C)
+7156	7168	GO:0043292	muscle fiber	contractile	 (Figure 3C)

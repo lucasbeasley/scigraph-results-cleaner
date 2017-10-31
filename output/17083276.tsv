@@ -1,0 +1,492 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+33	38	GO:0005623	cells	cell	matin
+35	46	GO:0005694	chromosomes	chromosome	tin Organiz
+23	51	GO:0070828	Heterochromatin Organization	heterochromatin	Heterochromatin Organization
+71	77	GO:0005623	cells,	cell	yonic 
+73	79	GO:0005623	cells,	cell	nic Ce
+78	89	GO:0005694	chromosomes	chromosome	ells Abstra
+87	91	GO:0005623	cell	cell	ract
+109	121	GO:0032502	development,	developmental	development,
+122	131	GO:0000785	chromatin	chromatin	chromatin
+125	138	GO:0010369	chromocenters	chromocenter	omatin dynami
+146	156	GO:0051325	interphase	interphase	pigenetic 
+155	160	GO:0005623	cells	cell	 mark
+157	164	GO:0005634	nucleus	nucleus	arking 
+198	204	GO:0005623	cells,	cell	ming. 
+232	237	GO:0005623	cells	cell	tant 
+250	268	GO:0031497	chromatin assembly	chromatin	chromatin assembly
+269	274	GO:0005623	cells	cell	machi
+304	310	GO:0005623	cells,	cell	ze the
+323	339	GO:0006401	RNA degradation.	RNA	matin assembly f
+343	348	GO:0005623	cells	cell	r 1 (
+348	352	GO:0005623	cell	cell	CAF-
+339	366	GO:0005721	pericentric heterochromatin	pericentric	actor 1 (CAF-1) during pre-
+339	367	GO:0070828	heterochromatin organization	heterochromatin	actor 1 (CAF-1) during pre-i
+368	376	GO:0023052	signals.	signaling	plantati
+379	391	GO:0032502	development,	developmental	development,
+390	396	GO:0005623	cells,	cell	, we g
+417	426	GO:0000785	chromatin	chromatin	 carrying
+427	435	GO:0003675	proteins	obsolete	a target
+441	447	GO:0005623	cells;	cell	ation 
+457	461	GO:0005488	bind	binding	e en
+474	483	GO:0003823	antibody;	antigen	rge subun
+474	483	GO:0019815	antibody;	B	rge subun
+474	483	GO:0042571	antibody;	immunoglobulin	rge subun
+484	493	GO:0000785	chromatin	chromatin	t, p150CA
+489	500	GO:0005694	chromosomes	chromosome	50CAF-1. Lo
+502	516	GO:0010369	chromocenters,	chromocenter	 of p150CAF-1 
+556	561	GO:0005623	cells	cell	ntal 
+556	571	GO:0000792	heterochromatin	heterochromatin	ntal arrest at 
+615	620	GO:0005623	cells	cell	hese 
+614	621	GO:0003675	protein	obsolete	these e
+627	631	GO:0016246	RNAi	RNA	 res
+637	655	GO:0034399	nuclear periphery.	nuclear	n severe alteratio
+652	657	GO:0005623	cells	cell	tions
+665	685	GO:0006997	nuclear organization	nucleus	nuclear organization
+690	696	GO:0005623	cells.	cell	onstit
+680	698	GO:0034399	nuclear periphery,	nuclear	ation of constitut
+703	710	GO:0003675	protein	obsolete	eteroch
+712	717	GO:0005623	cells	cell	matin
+702	718	GO:0000792	heterochromatin.	heterochromatin	heterochromatin.
+753	762	GO:0000785	chromatin	chromatin	ype embry
+760	765	GO:0005623	cells	cell	ryos,
+764	771	GO:0005634	nucleus	nucleus	, heter
+762	776	GO:0051301	cell divisions	cell	os, heterochro
+766	789	GO:1990343	heterochromatin domains	heterochromatin	heterochromatin domains
+834	839	GO:0005623	cells	cell	cell 
+836	856	GO:0006997	nuclear organization	nucleus	ll and blastocyst st
+858	865	GO:0005634	nucleus	nucleus	es. In 
+860	875	GO:0000792	heterochromatin	heterochromatin	. In p150CAF-1 
+864	877	GO:0010369	chromocenters	chromocenter	 p150CAF-1 mu
+901	907	GO:0005634	nuclei	nucleus	os, th
+933	948	GO:0000792	heterochromatin	heterochromatin	heterochromatin
+947	951	GO:0016246	RNAi	RNA	n di
+930	958	GO:0005721	Pericentric heterochromatin,	pericentric	of heterochromatin displays 
+955	959	GO:0003892	PCNA	obsolete	ys s
+973	980	GO:0023052	signals	signaling	 the st
+962	996	GO:0003892	proliferating cell nuclear antigen	obsolete	larities to the structure of heter
+991	1006	GO:0000792	heterochromatin	heterochromatin	heterochromatin
+1003	1008	GO:0005623	cells	cell	tin i
+995	1011	GO:0000792	heterochromatin,	heterochromatin	rochromatin in t
+1026	1030	GO:0016246	RNAi	RNA	l st
+1033	1049	GO:0016246	RNA interference	RNA	 wild-type embry
+1040	1050	GO:0051325	interphase	interphase	ype embryo
+1051	1057	GO:0005634	nuclei	nucleus	, sugg
+1057	1064	GO:0023052	signals	signaling	esting 
+1065	1077	GO:0010369	chromocenter	chromocenter	hat CAF-1 is
+1058	1085	GO:0005721	pericentric heterochromatin	pericentric	sting that CAF-1 is require
+1083	1088	GO:0005623	Cells	cell	red f
+1109	1124	GO:0000792	heterochromatin	heterochromatin	heterochromatin
+1173	1179	GO:0005623	cells,	cell	 stem 
+1183	1187	GO:0005623	Cell	cell	s, d
+1164	1192	GO:0070828	heterochromatin organization	heterochromatin	embryonic stem cells, deplet
+1180	1207	GO:0005721	pericentric heterochromatin	pericentric	ells, depletion of p150CAF-
+1203	1208	GO:0005623	cells	cell	CAF-1
+1189	1217	GO:0070828	Heterochromatin Organization	heterochromatin	letion of p150CAF-1 using RN
+1215	1231	GO:0016246	RNA interference	RNA	RNA interference
+1229	1235	GO:0005623	cells,	cell	ce res
+1255	1264	GO:0000785	chromatin	chromatin	ization, 
+1255	1267	GO:0010369	chromocenter	chromocenter	ization, los
+1274	1279	GO:0005623	cells	cell	uster
+1279	1284	GO:0005623	cells	cell	ing, 
+1285	1291	GO:0005623	cells.	cell	nd dec
+1283	1296	GO:0010369	chromocenters	chromocenter	 and deconden
+1297	1301	GO:0016246	RNAi	RNA	atio
+1305	1317	GO:0010369	chromocenter	chromocenter	 pericentric
+1321	1328	GO:0003675	protein	obsolete	erochro
+1306	1333	GO:0005721	pericentric heterochromatin	pericentric	pericentric heterochromatin
+1331	1335	GO:0005623	cell	cell	in d
+1340	1345	GO:0005623	cells	cell	s. Fu
+1379	1384	GO:0005623	cells	cell	cells
+1369	1396	GO:0005721	pericentric heterochromatin	pericentric	 in these cells results in 
+1413	1419	GO:0005623	cells,	cell	 epige
+1425	1437	GO:0005634	Cells Nuclei	nucleus	histone meth
+1431	1440	GO:0000785	chromatin	chromatin	e methyla
+1425	1444	GO:0016571	histone methylation	histone	histone methylation
+1460	1465	GO:0005623	cells	cell	vel o
+1446	1466	GO:0006997	nuclear organization	nucleus	arks at the level of
+1467	1495	GO:0005721	pericentric heterochromatin.	pericentric	pericentric heterochromatin.
+1493	1506	GO:0071897	DNA synthesis	DNA	n. These alte
+1493	1520	GO:0005721	pericentric heterochromatin	pericentric	n. These alterations of het
+1518	1524	GO:0005634	Nuclei	nucleus	eteroc
+1517	1532	GO:0000792	heterochromatin	heterochromatin	heterochromatin
+1539	1545	GO:0005623	cells.	cell	t foun
+1543	1548	GO:0005623	Cells	cell	und i
+1566	1573	GO:0004530	DNase I	deoxyribonuclease	ed mous
+1564	1586	GO:0006325	chromatin organization	chromatin	eted mouse embryonic f
+1581	1596	GO:0000792	heterochromatin	heterochromatin	nic fibroblasts
+1594	1603	GO:0007586	digestion	digestion	ts, which
+1608	1613	GO:0005623	cells	cell	cells
+1624	1652	GO:0070828	heterochromatin organization	heterochromatin	lready lineage committed, su
+1645	1652	GO:0004530	DNase I	deoxyribonuclease	ted, su
+1701	1729	GO:0070828	heterochromatin organization	heterochromatin	heterochromatin organization
+1737	1752	GO:0035805	zona pellucida,	egg	ipotent embryon
+1757	1762	GO:0005623	cells	cell	lls. 
+1784	1789	GO:0005623	cells	cell	 the 
+1790	1799	GO:0016020	membrane,	membrane	ole of th
+1801	1819	GO:0031497	chromatin assembly	chromatin	chromatin assembly
+1816	1825	GO:0005730	nucleolar	nucleolus	bly machi
+1818	1827	GO:0000785	chromatin	chromatin	y machine
+1840	1846	GO:0005623	cells.	cell	ling t
+1847	1857	GO:0003823	Antibodies	antigen	e spatial 
+1847	1857	GO:0019815	Antibodies	B	e spatial 
+1847	1857	GO:0042571	Antibodies	immunoglobulin	e spatial 
+1856	1879	GO:1990343	Heterochromatin domains	heterochromatin	 organization and epige
+1906	1917	GO:0032259	Methylation	methylation	 in early e
+1921	1948	GO:0005721	Pericentric Heterochromatin	pericentric	os and embryonic stem cells
+1948	1957	GO:0000785	chromatin	chromatin	. Synopsi
+1961	1967	GO:0005634	nuclei	nucleus	romati
+1959	1968	GO:0000785	Chromatin	chromatin	Chromatin
+1982	1987	GO:0005623	cells	cell	t of 
+1989	1994	GO:0005623	Cells	cell	r gen
+1985	2000	GO:0000792	heterochromatin	heterochromatin	f our genetic i
+1994	2006	GO:0051179	Localization	localization	etic informa
+2023	2028	GO:0005623	cells	cell	sed o
+2027	2031	GO:0016246	RNAi	RNA	of n
+2049	2055	GO:0005634	Nuclei	nucleus	nits c
+2061	2073	GO:0000786	nucleosomes,	nucleosome	nucleosomes,
+2084	2099	GO:0000792	heterochromatin	heterochromatin	NA wraps around
+2102	2106	GO:0019013	core	viral	core
+2100	2115	GO:0000792	heterochromatin	heterochromatin	a core of histo
+2118	2141	GO:0036211	proteins. Modifications	protein	proteins. Modifications
+2131	2141	GO:0003823	Antibodies	antigen	ifications
+2131	2141	GO:0019815	Antibodies	B	ifications
+2131	2141	GO:0042571	Antibodies	immunoglobulin	ifications
+2139	2159	GO:0006997	nuclear organization	nucleus	ns in the compositio
+2163	2178	GO:0000792	heterochromatin	heterochromatin	d biochemical p
+2188	2197	GO:0000785	chromatin	chromatin	of nucleo
+2191	2202	GO:0000786	nucleosomes	nucleosome	nucleosomes
+2225	2234	GO:0000785	chromatin	chromatin	e regulat
+2227	2237	GO:0065007	regulation	biological	regulation
+2228	2240	GO:0032502	development,	developmental	egulation of
+2266	2276	GO:0003823	antibodies	antigen	ifications
+2266	2276	GO:0019815	antibodies	B	ifications
+2266	2276	GO:0042571	antibodies	immunoglobulin	ifications
+2294	2299	GO:0005623	cells	cell	netic
+2330	2344	GO:0051301	cell divisions	cell	s cell divisio
+2340	2367	GO:0005721	Pericentric Heterochromatin	pericentric	isions and confer new infor
+2364	2373	GO:0000785	chromatin	chromatin	formation
+2367	2375	GO:0051320	S phase,	S	mation t
+2377	2382	GO:0005623	Cells	cell	chrom
+2375	2385	GO:0000785	chromatin,	chromatin	o chromati
+2390	2395	GO:0005623	Cells	cell	 addi
+2376	2403	GO:0005721	pericentric heterochromatin	pericentric	 chromatin, in addition to 
+2400	2405	GO:0005623	cells	cell	to th
+2465	2473	GO:0005634	nucleus,	nucleus	d that d
+2464	2474	GO:0003823	antibodies	antigen	ed that du
+2464	2474	GO:0019815	antibodies	B	ed that du
+2464	2474	GO:0042571	antibodies	immunoglobulin	ed that du
+2461	2489	GO:0005721	pericentric heterochromatin.	pericentric	ieved that during genome rep
+2503	2512	GO:0000785	chromatin	chromatin	basic chr
+2516	2524	GO:0005730	nucleoli	nucleolus	in assem
+2507	2525	GO:0031497	chromatin assembly	chromatin	c chromatin assemb
+2523	2535	GO:0051179	localization	localization	mbly machine
+2553	2559	GO:0005634	nuclei	nucleus	e” nuc
+2552	2564	GO:0000786	nucleosomes,	nucleosome	ve” nucleoso
+2573	2585	GO:0051179	Localization	localization	 in a subseq
+2592	2603	GO:0000786	nucleosomes	nucleosome	ep, nucleos
+2611	2617	GO:0005623	cells.	cell	 selec
+2629	2635	GO:0005623	cells.	cell	ied by
+2624	2639	GO:0000792	heterochromatin	heterochromatin	modified by a s
+2668	2686	GO:0034399	nuclear periphery,	nuclear	pigenetic informat
+2702	2710	GO:0005730	nucleoli	nucleolus	uthors s
+2710	2738	GO:0005721	pericentric heterochromatin.	pericentric	tudied the role of a basic c
+2733	2751	GO:0031497	chromatin assembly	chromatin	sic chromatin asse
+2754	2769	GO:0000792	heterochromatin	heterochromatin	y factor (CAF-1
+2763	2774	GO:0032259	methylation	methylation	(CAF-1) in 
+2767	2787	GO:0006997	nuclear organization	nucleus	-1) in mouse embryon
+2785	2796	GO:0006412	translation	translation	onic stem c
+2791	2818	GO:0005721	pericentric heterochromatin	pericentric	tem cells and early embryos
+2817	2824	GO:0005634	nucleus	nucleus	s. Surp
+2822	2829	GO:0023052	signals	signaling	rprisin
+2813	2841	GO:0070828	heterochromatin organization	heterochromatin	bryos. Surprisingly, they sh
+2837	2843	GO:0005623	cells.	cell	y show
+2882	2887	GO:0005623	cells	cell	ion t
+2898	2906	GO:0016020	membrane	membrane	genomic 
+2915	2919	GO:0005623	cell	cell	In a
+2908	2923	GO:0000792	heterochromatin	heterochromatin	gions. In addit
+2916	2925	GO:0000785	chromatin	chromatin	n additio
+2945	2949	GO:0016246	RNAi	RNA	ed t
+2953	2973	GO:0006997	nuclear organization	nucleus	CAF-1 is required fo
+2979	2983	GO:0005623	cell	cell	prop
+2990	3002	GO:0032502	development,	developmental	ial organiza
+2990	3005	GO:0006306	DNA methylation	DNA	ial organizatio
+2990	3005	GO:0000792	heterochromatin	heterochromatin	ial organizatio
+2998	3006	GO:0016020	membrane	membrane	nization
+3006	3017	GO:0005694	chromosomes	chromosome	 of chromos
+3024	3031	GO:0003675	protein	obsolete	 the nu
+3025	3033	GO:0005634	nucleus.	nucleus	the nucl
+3035	3040	GO:0005623	cells	cell	s. Th
+3037	3043	GO:0005634	Nuclei	nucleus	 This 
+3066	3076	GO:0007586	digestion,	digestion	ibute to b
+3081	3088	GO:0005634	nucleus	nucleus	 unders
+3079	3094	GO:0000792	heterochromatin	heterochromatin	er understandin
+3105	3115	GO:0000785	chromatin.	chromatin	of chromat
+3119	3124	GO:0005623	cells	cell	n the
+3104	3132	GO:0070827	chromatin in the maintenance	chromatin	 of chromatin in the mainten
+3154	3159	GO:0005623	cells	cell	 cell
+3143	3161	GO:0034399	nuclear periphery,	nuclear	ryonic stem cell i
+3162	3185	GO:1990343	heterochromatin domains	heterochromatin	entity and plasticity. 
+3175	3198	GO:1990343	heterochromatin domains	heterochromatin	asticity. Introduction 
+3201	3207	GO:0005623	cells.	cell	ing mo
+3181	3210	GO:0070828	heterochromatin organization.	heterochromatin	ty. Introduction During mouse
+3211	3217	GO:0005623	cells,	cell	pre-im
+3212	3218	GO:0005623	cells,	cell	re-imp
+3224	3236	GO:0032502	development,	developmental	ion developm
+3232	3236	GO:0016246	RNAi	RNA	lopm
+3232	3238	GO:0005623	cells.	cell	lopmen
+3263	3267	GO:0005623	cell	cell	 ser
+3285	3301	GO:0000792	heterochromatin,	heterochromatin	netic changes re
+3298	3305	GO:0005623	cells),	cell	 requir
+3317	3324	GO:0005623	cells),	cell	onic ge
+3322	3328	GO:0005634	Nuclei	nucleus	gene e
+3318	3334	GO:0010467	gene expression,	gene	nic gene express
+3335	3342	GO:0005623	cells),	cell	on, the
+3347	3352	GO:0005623	cells	cell	tenan
+3352	3359	GO:0005623	cells),	cell	ce of t
+3334	3362	GO:0070828	heterochromatin organization	heterochromatin	ion, the maintenance of toti
+3371	3377	GO:0005623	cells)	cell	and th
+3389	3404	GO:0000792	Heterochromatin	heterochromatin	erentiation eve
+3401	3407	GO:0005623	cells.	cell	events
+3394	3409	GO:0006306	DNA methylation	DNA	iation events [
+3422	3426	GO:0016246	RNAi	RNA	any 
+3411	3426	GO:0006260	DNA replication	DNA	2]. While many 
+3456	3471	GO:0000792	heterochromatin	heterochromatin	mportance of DN
+3465	3480	GO:0006306	DNA methylation	DNA	 of DNA methyla
+3475	3480	GO:0005623	cells	cell	thyla
+3479	3500	GO:0016570	histone modifications	histone	ation in epigenetic r
+3509	3518	GO:0000785	chromatin	chromatin	ing, rece
+3519	3526	GO:0005634	nucleus	nucleus	t data 
+3528	3534	GO:0005623	cells.	cell	int to
+3549	3558	GO:0000785	chromatin	chromatin	 of chrom
+3569	3574	GO:0005623	cells	cell	s pro
+3570	3576	GO:0005634	nuclei	nucleus	 proce
+3571	3580	GO:0000785	chromatin	chromatin	process [
+3603	3610	GO:0005634	nucleus	nucleus	little 
+3603	3611	GO:0003675	protein,	obsolete	little a
+3617	3622	GO:0005623	cells	cell	he ro
+3620	3625	GO:0005623	cell.	cell	role 
+3648	3655	GO:0004530	DNase I	deoxyribonuclease	zymes, 
+3673	3682	GO:0007586	Digestion	digestion	ng factor
+3692	3697	GO:0005623	Cells	cell	tone 
+3685	3703	GO:0043486	histone chaperones	histone	and histone chaper
+3685	3703	GO:0006334	histone chaperones	nucleosome	and histone chaper
+3693	3703	GO:0003823	antibodies	antigen	one chaper
+3693	3703	GO:0019815	antibodies	B	one chaper
+3693	3703	GO:0042571	antibodies	immunoglobulin	one chaper
+3704	3719	GO:0000792	heterochromatin	heterochromatin	nes during pre-
+3730	3738	GO:0005730	nucleoli	nucleolus	n develo
+3728	3740	GO:0032502	development,	developmental	ion developm
+3732	3740	GO:0004530	DNase I.	deoxyribonuclease	developm
+3741	3751	GO:0007586	Digestions	digestion	nt, or in 
+3732	3760	GO:0070828	Heterochromatin Organization	heterochromatin	development, or in stem cell
+3767	3774	GO:0005634	nucleus	nucleus	ed from
+3780	3800	GO:0006997	nuclear organization	nucleus	 embryos [6]. A subs
+3803	3807	GO:0016246	RNAi	RNA	of i
+3814	3820	GO:0005623	cells.	cell	ed his
+3813	3831	GO:0043486	histone chaperones	histone	ied histone chaper
+3813	3831	GO:0006334	histone chaperones	nucleosome	ied histone chaper
+3826	3836	GO:0004196	proteinase	obsolete	haperones 
+3826	3836	GO:0004175	proteinase	endopeptidase	haperones 
+3839	3848	GO:0007586	digestion	digestion	 chromati
+3842	3862	GO:0006997	nuclear organization	nucleus	romatin remodeling c
+3836	3866	GO:0016585	chromatin remodeling complexes	obsolete	and chromatin remodeling compl
+3866	3881	GO:0000792	heterochromatin	heterochromatin	exes can collab
+3888	3893	GO:0005623	cells	cell	o pro
+3892	3912	GO:0006997	nuclear organization	nucleus	omote nucleosome ass
+3894	3913	GO:0006334	nucleosome assembly	nucleosome	ote nucleosome asse
+3916	3931	GO:0000792	heterochromatin	heterochromatin	y in vitro and 
+3938	3949	GO:0005634	cell nuclei	nucleus	refore in a
+3922	3950	GO:0005721	pericentric heterochromatin.	pericentric	itro and are therefore in a 
+3956	3961	GO:0005623	cells	cell	gic p
+3964	3973	GO:0000785	chromatin	chromatin	tion to c
+3976	3994	GO:0031497	chromatin assembly	chromatin	rol chromatin asse
+4003	4009	GO:0005623	cells,	cell	matura
+4019	4025	GO:0005634	nuclei	nucleus	g deve
+4017	4028	GO:0032502	development	developmental	ing develop
+4005	4033	GO:0070828	heterochromatin organization	heterochromatin	turation during development 
+4042	4061	GO:0043486	histone chaperones,	histone	ong histone chapero
+4042	4061	GO:0006334	histone chaperones,	nucleosome	ong histone chapero
+4059	4074	GO:0000792	heterochromatin	heterochromatin	rones, chromati
+4047	4075	GO:0070828	heterochromatin organization	heterochromatin	istone chaperones, chromatin
+4101	4107	GO:0005623	cells.	cell	 is a 
+4113	4118	GO:0016246	RNAi.	RNA	subun
+4166	4171	GO:0005623	cells	cell	iston
+4168	4200	GO:0008285	inhibition of cell proliferation	negative	tone H3 and H4 deposition onto n
+4207	4235	GO:0070828	heterochromatin organization	heterochromatin	nthesized DNA during replica
+4239	4249	GO:0006281	DNA repair	DNA	 or DNA re
+4247	4275	GO:0005721	pericentric heterochromatin,	pericentric	repair [9,10]. Specifically,
+4257	4280	GO:1990343	heterochromatin domains	heterochromatin	10]. Specifically, CAF-
+4289	4295	GO:0005623	cells,	cell	s the 
+4320	4330	GO:0000785	chromatin,	chromatin	nto chroma
+4330	4338	GO:0003823	antibody	antigen	tin, in 
+4330	4338	GO:0019815	antibody	B	tin, in 
+4330	4338	GO:0042571	antibody	immunoglobulin	tin, in 
+4340	4345	GO:0005623	cells	cell	pathw
+4355	4369	GO:0071897	DNA synthesis,	DNA	 to DNA synthe
+4373	4382	GO:0000785	chromatin	chromatin	 whereas 
+4361	4389	GO:0070828	heterochromatin organization	heterochromatin	A synthesis, whereas a secon
+4386	4392	GO:0005623	cells,	cell	cond h
+4387	4405	GO:0043486	histone chaperone,	histone	ond histone chaper
+4387	4405	GO:0006334	histone chaperone,	nucleosome	ond histone chaper
+4407	4418	GO:0000786	nucleosomes	nucleosome	e, HIRA, is
+4400	4428	GO:0070828	Heterochromatin organization	heterochromatin	haperone, HIRA, is involved 
+4421	4436	GO:0000792	heterochromatin	heterochromatin	volved in the d
+4456	4465	GO:0000785	chromatin	chromatin	3 variant
+4466	4472	GO:0005623	cells,	cell	in a D
+4467	4480	GO:0071897	DNA synthesis	DNA	n a DNA synth
+4467	4481	GO:0051301	cell divisions	cell	n a DNA synthe
+4479	4485	GO:0005623	cells.	cell	hesis 
+4502	4509	GO:0023052	signals	signaling	ay [11,
+4516	4527	GO:0003823	antibodies.	antigen	 addition t
+4516	4527	GO:0019815	antibodies.	B	 addition t
+4516	4527	GO:0042571	antibodies.	immunoglobulin	 addition t
+4535	4540	GO:0005623	cells	cell	pecif
+4525	4545	GO:0006997	nuclear organization	nucleus	 to this specific ch
+4539	4557	GO:0031497	chromatin assembly	chromatin	fic chromatin asse
+4564	4579	GO:0010467	gene expression	gene	tivity, CAF-1 i
+4566	4581	GO:0000792	heterochromatin	heterochromatin	vity, CAF-1 int
+4597	4605	GO:0003675	proteins	obsolete	ral prot
+4617	4633	GO:0000792	heterochromatin,	heterochromatin	 in heterochroma
+4658	4664	GO:0005623	cells,	cell	matin 
+4658	4678	GO:0006997	nuclear organization	nucleus	matin protein 1 (HP1
+4665	4680	GO:0010467	gene expression	gene	rotein 1 (HP1) 
+4681	4691	GO:0016605	PML bodies	PML	nd MBD1, a
+4697	4704	GO:0023052	signals	signaling	l-CpG b
+4688	4706	GO:0008327	methyl-CpG binding	methyl-CpG	, a methyl-CpG bin
+4694	4708	GO:0009793	embryogenesis.	embryo	thyl-CpG bindi
+4694	4708	GO:0009792	embryogenesis.	embryo	thyl-CpG bindi
+4694	4708	GO:0009790	embryogenesis.	embryo	thyl-CpG bindi
+4714	4721	GO:0003675	protein	obsolete	ain pro
+4716	4724	GO:0003823	antibody	antigen	n protei
+4716	4724	GO:0019815	antibody	B	n protei
+4716	4724	GO:0042571	antibody	immunoglobulin	n protei
+4733	4739	GO:0005623	cells.	cell	cruits
+4766	4773	GO:0003675	protein	obsolete	pressiv
+4768	4777	GO:0000785	chromatin	chromatin	essive hi
+4775	4780	GO:0005623	cells	cell	histo
+4771	4807	GO:0008469	histone methyltransferase activities	histone-arginine	ive histone methyltransferase activi
+4771	4807	GO:0042054	histone methyltransferase activities	histone	ive histone methyltransferase activi
+4798	4808	GO:0003823	Antibodies	antigen	se activit
+4798	4808	GO:0019815	Antibodies	B	se activit
+4798	4808	GO:0042571	Antibodies	immunoglobulin	se activit
+4800	4811	GO:0032502	development	developmental	 activities
+4799	4818	GO:0016605	PML nuclear bodies,	PML	e activities [13–15
+4836	4841	GO:0005623	cells	cell	50CAF
+4861	4867	GO:0023052	signal	signaling	sure a
+4858	4868	GO:0003823	Antibodies	antigen	 ensure a 
+4858	4868	GO:0019815	Antibodies	B	 ensure a 
+4858	4868	GO:0042571	Antibodies	immunoglobulin	 ensure a 
+4890	4905	GO:0006306	DNA methylation	DNA	ool of HP1 mole
+4931	4958	GO:0005721	pericentric heterochromatin	pericentric	 in pericentric heterochrom
+4957	4975	GO:0016605	PML nuclear bodies	PML	matin during mid-l
+4975	4982	GO:0051320	S phase	S	ate S p
+4966	4994	GO:0070828	Heterochromatin Organization	heterochromatin	ing mid-late S phase [16]. T
+4981	4999	GO:0031497	chromatin assembly	chromatin	phase [16]. Taken 
+5018	5023	GO:0005623	cells	cell	a sug
+5022	5037	GO:0006260	DNA Replication	DNA	ggest roles for
+5044	5049	GO:0005623	Cells	cell	in th
+5047	5056	GO:0009058	formation	biosynthetic	the forma
+5050	5062	GO:0000786	nucleosomes,	nucleosome	 formation o
+5057	5062	GO:0005623	cells	cell	ion o
+5060	5075	GO:0000792	heterochromatin	heterochromatin	 of heterochrom
+5076	5081	GO:0005623	cells	cell	tin a
+5120	5135	GO:0000792	heterochromatin	heterochromatin	aits. While the
+5116	5139	GO:1990343	heterochromatin domains	heterochromatin	c traits. While the fun
+5158	5163	GO:0005623	cells	cell	tiona
+5164	5170	GO:0005623	cells.	cell	y cons
+5172	5189	GO:0043486	histone chaperone	histone	ved histone chape
+5172	5189	GO:0006334	histone chaperone	nucleosome	ved histone chape
+5238	5247	GO:0000785	chromatin	chromatin	we still 
+5262	5270	GO:0003675	proteins	obsolete	n concer
+5288	5301	GO:0009793	embryogenesis	embryo	e during earl
+5288	5301	GO:0009792	embryogenesis	embryo	e during earl
+5288	5301	GO:0009790	embryogenesis	embryo	e during earl
+5299	5310	GO:0032502	development	developmental	rly develop
+5312	5318	GO:0005623	cells.	cell	nt in 
+5341	5346	GO:0005623	cells	cell	ent c
+5341	5347	GO:0005623	cells.	cell	ent ce
+5369	5373	GO:0016246	RNAi	RNA	stem
+5375	5381	GO:0005623	cells.	cell	ES) ce
+5376	5381	GO:0005623	cells	cell	S) ce
+5390	5405	GO:0006260	DNA replication	DNA	, we have analy
+5417	5432	GO:0000792	heterochromatin	heterochromatin	rtance of CAF-1
+5431	5436	GO:0005623	cells	cell	1 dur
+5448	5459	GO:0032502	development	developmental	use develop
+5472	5476	GO:0003892	PCNA	obsolete	ic a
+5489	5493	GO:0016246	RNAi	RNA	n ES
+5490	5495	GO:0005623	cells	cell	 ES c
+5486	5500	GO:0051301	cell divisions	cell	d in ES cells 
+5497	5501	GO:0005623	cell	cell	ls b
+5504	5509	GO:0005623	cells	cell	eplet
+5515	5531	GO:0016246	RNA interference	RNA	ing RNA interfer
+5525	5534	GO:0009058	formation	biosynthetic	terferenc
+5525	5536	GO:0032502	development	developmental	terference 
+5532	5539	GO:0016246	(RNAi).	RNA	nce (RN
+5551	5558	GO:0051320	S phase	S	 that C
+5559	5564	GO:0005623	cells	cell	F-1 i
+5560	5565	GO:0005623	cells	cell	-1 is
+5586	5590	GO:0005623	cell	cell	ity 
+5597	5603	GO:0005623	cells.	cell	y mous
+5616	5622	GO:0005623	cells.	cell	 ES ce
+5631	5635	GO:0016246	RNAi	RNA	rovi
+5620	5635	GO:0006260	DNA replication	DNA	cells. We provi
+5663	5668	GO:0005623	cells	cell	quire
+5684	5688	GO:0003892	PCNA	obsolete	l or
+5705	5710	GO:0005623	cells	cell	igene
+5695	5715	GO:0006997	nuclear organization	nucleus	ion and epigenetic m
+5715	5722	GO:0023052	signal)	signaling	arking 
+5728	5733	GO:0005623	cells	cell	eroch
+5719	5742	GO:1990343	heterochromatin domains	heterochromatin	ng of heterochromatin d
+5721	5744	GO:1990343	heterochromatin domains	heterochromatin	 of heterochromatin dom
+5756	5767	GO:0032502	development	developmental	ipotent emb
+5778	5784	GO:0005623	cells.	cell	s. Res
+5810	5816	GO:0005623	cells.	cell	g in E
+5810	5818	GO:0003823	antibody	antigen	g in ES 
+5810	5818	GO:0019815	antibody	B	g in ES 
+5810	5818	GO:0042571	antibody	immunoglobulin	g in ES 
+5814	5819	GO:0005623	cells	cell	 ES c
+5823	5829	GO:0005623	cells,	cell	 to de
+5836	5851	GO:0006260	DNA replication	DNA	on 3 in the Cha
+5855	5859	GO:0003892	PCNA	obsolete	gene
+5860	5865	GO:0005623	cells	cell	 whic
+5860	5896	GO:0003892	(proliferating cell nuclear antigen)	obsolete	 which encodes p150CAF-1 (Figure 1A)
+5887	5897	GO:0007049	cell cycle	cell	igure 1A).
+5920	5927	GO:0005634	nucleus	nucleus	rn at a
+5940	5968	GO:0070828	heterochromatin organization	heterochromatin	equency, were of normal size
+5975	5981	GO:0005623	cells,	cell	ight, 
+5982	5997	GO:0006260	DNA replication	DNA	isplayed no obv
+5994	5999	GO:0016246	RNAi.	RNA	obvio
+6027	6037	GO:0016605	PML bodies	PML	ertile. Cr
+6044	6056	GO:0005634	cell nuclei,	nucleus	heterozygous
+6038	6067	GO:0070828	heterochromatin organization.	heterochromatin	ssing heterozygous mice faile
+6092	6097	GO:0005623	cells	cell	orn C
+6134	6138	GO:0016246	RNAi	RNA	gous
+6177	6190	GO:0051301	cell division	cell	 of the post-
+6182	6199	GO:0042995	cellular process,	cell	he post-implantat
+6182	6199	GO:0009987	cellular process,	cellular	he post-implantat
+6195	6206	GO:0008219	cell death.	cell	ntation sta
+6215	6219	GO:0005623	cell	cell	ver,
+6214	6227	GO:0051179	Localization,	localization	ever, we coul
+6247	6252	GO:0005623	cells	cell	mbryo
+6243	6272	GO:0070828	heterochromatin organization,	heterochromatin	/− embryos at embryonic day 4
+6250	6277	GO:0005721	Pericentric Heterochromatin	pericentric	yos at embryonic day 4 (E4)
+6286	6291	GO:0005623	cells	cell	PCR s
+6343	6358	GO:0000792	heterochromatin	heterochromatin	mbryos obtained
+6354	6359	GO:0016246	RNAi.	RNA	ined 
+6364	6368	GO:0016246	RNAi	RNA	Chaf
+6366	6373	GO:0005634	nucleus	nucleus	af1a+/−
+6370	6375	GO:0016265	death	death	+/− m
+6368	6378	GO:0051325	interphase	interphase	1a+/− mice
+6379	6385	GO:0005634	nuclei	nucleus	interc
+6382	6388	GO:0005623	cells.	cell	ercros
+6398	6403	GO:0005623	cells	cell	sting
+6401	6411	GO:0007049	cell cycle	cell	ng that mo
+6414	6434	GO:0006997	nuclear organization	nucleus	than half of the hom
+6431	6446	GO:0006260	DNA Replication	DNA	homozygous muta
+6438	6453	GO:0000792	heterochromatin	heterochromatin	ous mutant embr
+6471	6484	GO:0051179	localization,	localization	d before this
+6473	6488	GO:0000792	Heterochromatin	heterochromatin	before this sta
+6474	6503	GO:0070828	heterochromatin organization,	heterochromatin	efore this stage. Moreover, m
+6615	6619	GO:0016246	RNAi	RNA	tero
+6647	6667	GO:0098687	chromosomal regions,	chromosomal	C and 1D). Further a

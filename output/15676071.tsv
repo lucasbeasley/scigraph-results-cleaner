@@ -1,0 +1,534 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+7	16	GO:0009058	formation	biosynthetic	genesis a
+2	19	GO:0007165	Signaling Pathway	signal	naptogenesis and 
+32	41	GO:0023052	signaling	signaling	 formatio
+52	59	GO:0003675	protein	obsolete	rbed in
+67	73	GO:0005634	nuclei	nucleus	ral re
+50	77	GO:0031069	Hair Follicle Morphogenesis	hair	turbed in the neural retina
+77	82	GO:0005623	cells	cell	 of C
+80	94	GO:0009653	morphogenesis,	anatomical	 Crx mutant mi
+100	115	GO:0006351	transcriptional	transcription,	tract Backgroun
+108	122	GO:0048513	organogenesis,	organ	ckground In Le
+131	136	GO:0005623	cells	cell	genit
+154	159	GO:0005623	cells	cell	, aff
+172	185	GO:0006351	transcription	transcription,	uals are blin
+184	191	GO:0023052	signals	signaling	nd, or 
+194	198	GO:0007114	buds	cell	rly 
+227	232	GO:0005623	cells	cell	set s
+238	246	GO:0008014	cadherin	obsolete	s abnorm
+262	275	GO:0009653	morphogenesis	anatomical	f the neural 
+265	280	GO:0006351	transcriptional	transcription,	he neural retin
+283	288	GO:0005623	cells	cell	Mutat
+304	309	GO:0005623	cells	cell	at af
+315	322	GO:0003675	protein	obsolete	he deve
+326	340	GO:0009653	morphogenesis,	anatomical	ent and/or fun
+340	351	GO:0051235	sequestered	maintenance	ction of ph
+361	373	GO:0032502	development.	developmental	r cells have
+359	374	GO:0005886	plasma membrane	plasma	tor cells have 
+391	404	GO:0005576	extracellular	extracellular	responsible i
+408	415	GO:0003675	protein	obsolete	me fami
+410	427	GO:0007165	signaling pathway	signal	 families. These 
+422	432	GO:0065007	regulatory	biological	hese examp
+438	443	GO:0005623	cells	cell	clude
+454	465	GO:0032502	development	developmental	in the phot
+459	467	GO:0003675	proteins	obsolete	e photor
+454	469	GO:0010467	gene expression	gene	in the photorec
+475	481	GO:0040007	growth	growth	transc
+487	492	GO:0005623	cells	cell	n fac
+505	515	GO:0009058	formation,	biosynthetic	ults A Crx
+533	543	GO:0009058	formation.	biosynthetic	mice was c
+544	549	GO:0005623	Cells	cell	eated
+547	556	GO:0023052	signaling	signaling	ed to ser
+542	557	GO:0016310	phosphorylation	phosphorylation	created to serv
+557	564	GO:0007114	budding	cell	e as a 
+561	566	GO:0004707	MAPK,	MAP	 a mo
+562	569	GO:0005634	nucleus	nucleus	a model
+566	571	GO:0005623	cells	cell	del f
+568	578	GO:0003823	antibodies	antigen	l for LCA 
+568	578	GO:0019815	antibodies	B	l for LCA 
+568	578	GO:0042571	antibodies	immunoglobulin	l for LCA 
+574	585	GO:0032502	development	developmental	LCA and to 
+576	591	GO:2000144	transactivation	positive	A and to provid
+586	591	GO:0004617	serum	phosphoglycerate	rovid
+596	600	GO:0005623	cell	cell	e in
+631	636	GO:0005623	cells	cell	his s
+635	639	GO:0005623	cell	cell	stud
+638	648	GO:0007049	cell cycle	cell	dy, an ult
+669	675	GO:0004617	serum.	phosphoglycerate	 of th
+677	683	GO:0004707	(MAPK)	MAP	develo
+689	694	GO:0005623	cells	cell	etina
+733	738	GO:0005623	cell.	cell	r seg
+766	771	GO:0005623	cells	cell	 to b
+799	817	GO:0005604	basement membrane.	basement	stage, leading to 
+839	846	GO:0003675	protein	obsolete	n of th
+838	848	GO:0009058	formation,	biosynthetic	on of the 
+886	894	GO:0003675	proteins	obsolete	Crx-/- p
+882	895	GO:0006351	transcription	transcription,	er, Crx-/- ph
+889	897	GO:0003675	protein,	obsolete	-/- phot
+918	940	GO:0023061	signaling are released	signal	ed severely abnormal s
+929	954	GO:0048468	terminal differentiation.	cell	 abnormal synaptic ending
+949	954	GO:0005623	cells	cell	nding
+957	962	GO:0004617	serum	phosphoglycerate	n the
+967	971	GO:0005623	cell	cell	r pl
+974	980	GO:0007618	mating	mating	form l
+974	980	GO:1990277	mating	parasexual	form l
+974	980	GO:0000747	mating	conjugation	form l
+974	980	GO:0009291	mating	unidirectional	form l
+973	990	GO:0007165	signaling pathway	signal	iform layer. Conc
+989	993	GO:0005623	cell	cell	clus
+995	1002	GO:0003675	protein	obsolete	ns This
+1032	1044	GO:0046332	SMAD binding	SMAD	ptogenesis d
+1037	1047	GO:0003823	antibodies	antigen	nesis defe
+1037	1047	GO:0019815	antibodies	B	nesis defe
+1037	1047	GO:0042571	antibodies	immunoglobulin	nesis defe
+1063	1072	GO:0023052	signaling	signaling	model for
+1065	1075	GO:0003823	antibodies	antigen	del for LC
+1065	1075	GO:0019815	antibodies	B	del for LC
+1065	1075	GO:0042571	antibodies	immunoglobulin	del for LC
+1109	1117	GO:0003675	protein,	obsolete	l role t
+1117	1127	GO:0007049	cell cycle	cell	his gene p
+1126	1141	GO:0006351	transcriptional	transcription,	plays in multip
+1140	1144	GO:0005623	cell	cell	ple 
+1127	1145	GO:0005604	basement membrane,	basement	lays in multiple a
+1153	1160	GO:0003675	protein	obsolete	f photo
+1152	1167	GO:0010467	gene expression	gene	of photorecepto
+1169	1174	GO:0005623	cells	cell	devel
+1200	1209	GO:0023052	signaling	signaling	rstanding
+1211	1221	GO:0009058	formation.	biosynthetic	f the basi
+1237	1244	GO:0003675	Protein	obsolete	CA. Bac
+1233	1250	GO:0007165	signaling pathway	signal	of LCA. Backgroun
+1248	1259	GO:0042633	hair cycle,	hair	und Photore
+1294	1298	GO:0005488	bind	binding	 vis
+1310	1317	GO:0003675	protein	obsolete	ring li
+1322	1337	GO:0006351	transcriptional	transcription,	nergy and conve
+1350	1356	GO:0040007	growth	growth	 neura
+1365	1374	GO:0009058	formation	biosynthetic	. These s
+1375	1384	GO:0097194	apoptosis	execution	nsory neu
+1375	1384	GO:0006915	apoptosis	apoptotic	nsory neu
+1378	1386	GO:0003675	proteins	obsolete	ry neuro
+1383	1392	GO:0023052	signaling	signaling	urons are
+1399	1406	GO:0003675	protein	obsolete	ed elem
+1404	1428	GO:0048468	terminal differentiation	cell	ement in all organisms c
+1426	1437	GO:0032502	development	developmental	 capable of
+1424	1439	GO:0010467	gene expression	gene	ms capable of s
+1449	1456	GO:0003675	protein	obsolete	ht. In 
+1451	1464	GO:0009653	morphogenesis	anatomical	. In humans, 
+1454	1466	GO:0046332	SMAD binding	SMAD	n humans, ge
+1485	1494	GO:0023052	signaling	signaling	he eye ar
+1493	1497	GO:0004707	MAPK	MAP	re c
+1495	1503	GO:0003823	antibody	antigen	 common 
+1495	1503	GO:0019815	antibody	B	 common 
+1495	1503	GO:0042571	antibody	immunoglobulin	 common 
+1510	1517	GO:0003675	protein	obsolete	 primar
+1505	1521	GO:0010467	gene expression,	gene	d the primary si
+1527	1535	GO:0003823	antibody	antigen	disease 
+1527	1535	GO:0019815	antibody	B	disease 
+1527	1535	GO:0042571	antibody	immunoglobulin	disease 
+1548	1554	GO:0005623	cells.	cell	ently 
+1553	1561	GO:0003675	proteins	obsolete	 photore
+1539	1566	GO:0031069	hair follicle morphogenesis	hair	ost frequently photorecepto
+1597	1606	GO:0009058	formation	biosynthetic	oreceptor
+1614	1621	GO:0005488	binding	binding	een wel
+1665	1674	GO:0009058	formation	biosynthetic	biochemis
+1674	1685	GO:0003823	antibodies.	antigen	try and phy
+1674	1685	GO:0019815	antibodies.	B	try and phy
+1674	1685	GO:0042571	antibodies.	immunoglobulin	try and phy
+1663	1687	GO:0001708	cell fate specification,	cell	e biochemistry and physi
+1720	1724	GO:0007114	buds	cell	ht i
+1739	1746	GO:0003675	protein	obsolete	ment of
+1750	1754	GO:0005623	cell	cell	tebr
+1774	1782	GO:0003675	proteins	obsolete	however,
+1776	1788	GO:0005605	basal lamina	basal	wever, has l
+1792	1799	GO:0003675	Protein	obsolete	d behin
+1787	1799	GO:0032502	development,	developmental	lagged behin
+1817	1825	GO:0003823	antibody	antigen	g of fun
+1817	1825	GO:0019815	antibody	B	g of fun
+1817	1825	GO:0042571	antibody	immunoglobulin	g of fun
+1850	1854	GO:0007114	buds	cell	 the
+1847	1859	GO:0007369	gastrulation	gastrulation	ave the firs
+1860	1873	GO:0009653	Morphogenesis	anatomical	 molecular me
+1871	1878	GO:0007114	Budding	cell	mechani
+1879	1892	GO:0009653	morphogenesis	anatomical	ms regulating
+1892	1916	GO:0002009	epithelial morphogenesis	morphogenesis	 photoreceptor developme
+1931	1938	GO:0023052	signals	signaling	ied (fo
+1926	1943	GO:0043588	skin development,	skin	entified (for rev
+1939	1954	GO:0000187	MAPK activation	activation	 review see, [2
+1952	1956	GO:0007114	buds	cell	[2,4
+2003	2010	GO:0003675	protein	obsolete	meobox 
+2018	2025	GO:0003675	protein	obsolete	ressed 
+2043	2050	GO:0040007	growth.	growth	hotorec
+2047	2058	GO:0032502	development	developmental	receptors, 
+2068	2078	GO:0023052	signaling,	signaling	 in their 
+2061	2084	GO:0005911	intercellular junctions	cell-cell	m early in their develo
+2075	2084	GO:0023052	signaling	signaling	ir develo
+2104	2127	GO:0032502	developmental processes	developmental	 adult ages [5-7]. Crx 
+2139	2143	GO:0007114	buds	cell	ion 
+2161	2171	GO:0003823	antibodies	antigen	ndent upon
+2161	2171	GO:0019815	antibodies	B	ndent upon
+2161	2171	GO:0042571	antibodies	immunoglobulin	ndent upon
+2193	2218	GO:0005104	fibroblast growth factors	fibroblast	of the same homeobox fami
+2238	2247	GO:0023052	signaling	signaling	d in earl
+2249	2261	GO:0009986	cell surface	cell	photorecepto
+2265	2275	GO:0009058	formation.	biosynthetic	lls [8]. I
+2290	2294	GO:0007114	buds	cell	ptor
+2300	2307	GO:0003675	protein	obsolete	 appear
+2298	2308	GO:0003823	antibodies	antigen	rx appears
+2298	2308	GO:0019815	antibodies	B	rx appears
+2298	2308	GO:0042571	antibodies	immunoglobulin	rx appears
+2351	2364	GO:0005622	intracellular	intracellular	per protein t
+2388	2398	GO:0003823	antibodies	antigen	n its expr
+2388	2398	GO:0019815	antibodies	B	n its expr
+2388	2398	GO:0042571	antibodies	immunoglobulin	n its expr
+2401	2417	GO:0010467	gene expression,	gene	ion in the retin
+2418	2425	GO:0040007	growth,	growth	 to rod
+2420	2425	GO:0004707	MAPK,	MAP	o rod
+2421	2432	GO:0007586	digestions.	digestion	 rod photor
+2440	2445	GO:0007114	buds.	cell	 [9].
+2477	2484	GO:0023052	signals	signaling	es have
+2487	2494	GO:0003675	protein	obsolete	tative 
+2497	2514	GO:0005604	basement membrane	basement	-binding elements
+2516	2523	GO:0007114	budding	cell	n their
+2497	2524	GO:0031069	hair follicle morphogenesis	hair	-binding elements in their 
+2576	2586	GO:0003823	antibodies	antigen	d arrestin
+2576	2586	GO:0019815	antibodies	B	d arrestin
+2576	2586	GO:0042571	antibodies	immunoglobulin	d arrestin
+2604	2613	GO:0023052	signaling	signaling	n Crx hav
+2613	2628	GO:0030056	hemidesmosomes,	hemidesmosome	e been associat
+2641	2656	GO:0006351	transcriptional	transcription,	al human diseas
+2663	2668	GO:0004707	MAPK,	MAP	 lead
+2676	2681	GO:0005623	(Cell	cell	dness
+2682	2692	GO:0023052	Signaling,	signaling	 including
+2690	2700	GO:0003823	antibodies	antigen	ng cone-ro
+2690	2700	GO:0019815	antibodies	B	ng cone-ro
+2690	2700	GO:0042571	antibodies	immunoglobulin	ng cone-ro
+2698	2708	GO:0009058	formation,	biosynthetic	rod dystro
+2702	2714	GO:0005605	basal lamina	basal	dystrophy 2 
+2710	2723	GO:0009793	embryogenesis	embryo	y 2 [6,13,14]
+2710	2723	GO:0009792	embryogenesis	embryo	y 2 [6,13,14]
+2710	2723	GO:0009790	embryogenesis	embryo	y 2 [6,13,14]
+2722	2726	GO:0007114	buds	cell	], r
+2745	2753	GO:0003823	antibody	antigen	 [14], a
+2745	2753	GO:0019815	antibody	B	 [14], a
+2745	2753	GO:0042571	antibody	immunoglobulin	 [14], a
+2746	2755	GO:0023052	signaling	signaling	[14], and
+2757	2763	GO:0023052	signal	signaling	CA [14
+2797	2801	GO:0007114	buds	cell	 hyp
+2798	2802	GO:0007114	buds	cell	hypo
+2792	2809	GO:0005604	basement membrane	basement	x was hypothesize
+2810	2825	GO:0010467	gene expression	gene	 to play a crit
+2824	2828	GO:0005623	cell	cell	tica
+2829	2834	GO:0005623	cells	cell	 role
+2854	2865	GO:0032502	development	developmental	ion and mai
+2863	2869	GO:0023052	signal	signaling	aintai
+2906	2914	GO:0045098	vimentin	type	CA is th
+2906	2914	GO:0045099	vimentin	obsolete	CA is th
+2906	2915	GO:0023052	signaling	signaling	CA is the
+2908	2925	GO:0005604	basement membrane	basement	 is the most seve
+2923	2931	GO:0007610	behavior	behavior	vere gen
+2936	2943	GO:0003675	protein	obsolete	disease
+2948	2953	GO:0005623	cells	cell	hotor
+2962	2972	GO:0003823	antibodies	antigen	(see [17],
+2962	2972	GO:0019815	antibodies	B	(see [17],
+2962	2972	GO:0042571	antibodies	immunoglobulin	(see [17],
+2964	2972	GO:0003675	proteins	obsolete	ee [17],
+3034	3042	GO:0003675	Proteins	obsolete	ar compl
+3043	3056	GO:0009653	morphogenesis	anatomical	te absence of
+3097	3103	GO:0005623	cells,	cell	specif
+3127	3138	GO:0003823	antibodies.	antigen	ave been as
+3127	3138	GO:0019815	antibodies.	B	ave been as
+3127	3138	GO:0042571	antibodies.	immunoglobulin	ave been as
+3142	3147	GO:0007114	buds,	cell	ated 
+3151	3157	GO:0005623	cells.	cell	 LCA [
+3152	3165	GO:0005605	basal lamina.	basal	LCA [14,15], 
+3160	3175	GO:0010467	gene expression	gene	15], as well as
+3171	3179	GO:0003675	protein.	obsolete	l as GUC
+3172	3185	GO:0005576	extracellular	extracellular	 as GUCY2D [1
+3205	3213	GO:0003675	Proteins	obsolete	-1 [20],
+3223	3228	GO:0007114	buds.	cell	], an
+3253	3258	GO:0007114	buds.	cell	so ma
+3263	3268	GO:0005623	cells	cell	as ma
+3292	3296	GO:0005623	cell	cell	enet
+3291	3301	GO:0003823	antibodies	antigen	geneticall
+3291	3301	GO:0019815	antibodies	B	geneticall
+3291	3301	GO:0042571	antibodies	immunoglobulin	geneticall
+3313	3321	GO:0003675	proteins	obsolete	i where 
+3318	3329	GO:0032502	development	developmental	re genes ha
+3336	3345	GO:0005829	cytosolic	cytosol	been iden
+3342	3351	GO:0003823	antibody.	antigen	dentified
+3342	3351	GO:0019815	antibody.	B	dentified
+3342	3351	GO:0042571	antibody.	immunoglobulin	dentified
+3352	3356	GO:0007114	buds	cell	[23]
+3356	3386	GO:0071711	Basement Membrane Organization	basement	. Crx mutations in LCA are var
+3388	3393	GO:0005623	cell.	cell	d, an
+3399	3404	GO:0007114	buds,	cell	ude a
+3401	3411	GO:0003823	antibodies	antigen	e a putati
+3401	3411	GO:0019815	antibodies	B	e a putati
+3401	3411	GO:0042571	antibodies	immunoglobulin	e a putati
+3418	3429	GO:0023052	signaling),	signaling	nant mutati
+3417	3445	GO:0031069	hair follicle morphogenesis.	hair	inant mutation that is propo
+3455	3463	GO:0003675	proteins	obsolete	ode a do
+3475	3486	GO:0032502	development	developmental	ive form of
+3489	3498	GO:0023052	signaling	signaling	x [14,15]
+3499	3509	GO:0009058	formation.	biosynthetic	 Recessive
+3544	3551	GO:0003675	protein	obsolete	and at 
+3548	3556	GO:0003823	antibody	antigen	at least
+3548	3556	GO:0019815	antibody	B	at least
+3548	3556	GO:0042571	antibody	immunoglobulin	at least
+3582	3595	GO:0009653	morphogenesis	anatomical	ein with decr
+3596	3610	GO:0009653	morphogenesis.	anatomical	ased DNA-bindi
+3601	3613	GO:0032502	development,	developmental	DNA-binding 
+3593	3630	GO:0001837	epithelial to mesenchymal transitions	epithelial	creased DNA-binding activity [16]. Hi
+3621	3631	GO:0003823	antibodies	antigen	 [16]. His
+3621	3631	GO:0019815	antibodies	B	 [16]. His
+3621	3631	GO:0042571	antibodies	immunoglobulin	 [16]. His
+3637	3641	GO:0007114	buds	cell	olog
+3639	3646	GO:0023052	signal.	signaling	ogical 
+3640	3657	GO:0005604	basement membrane	basement	gical and ultrast
+3676	3686	GO:0003823	Antibodies	antigen	 LCA shoul
+3676	3686	GO:0019815	Antibodies	B	 LCA shoul
+3676	3686	GO:0042571	Antibodies	immunoglobulin	 LCA shoul
+3681	3689	GO:0003823	antibody	antigen	should e
+3681	3689	GO:0019815	antibody	B	should e
+3681	3689	GO:0042571	antibody	immunoglobulin	should e
+3705	3710	GO:0007114	buds,	cell	nders
+3716	3725	GO:0003675	proteins,	obsolete	g of the 
+3729	3756	GO:0031069	hair follicle morphogenesis	hair	ase process, and the design
+3748	3758	GO:0003823	antibodies	antigen	e design o
+3748	3758	GO:0019815	antibodies	B	e design o
+3748	3758	GO:0042571	antibodies	immunoglobulin	e design o
+3820	3827	GO:0003675	protein	obsolete	viewed 
+3829	3841	GO:0051179	localization	localization	 [17]) and t
+3851	3859	GO:0003823	antibody	antigen	y of suc
+3851	3859	GO:0019815	antibody	B	y of suc
+3851	3859	GO:0042571	antibody	immunoglobulin	y of suc
+3849	3859	GO:0065007	Regulation	biological	ity of suc
+3854	3871	GO:0005604	basement membrane	basement	f such studies ex
+3867	3874	GO:0003675	protein	obsolete	s exami
+3869	3878	GO:0009058	formation	biosynthetic	examine t
+3869	3884	GO:0010467	Gene Expression	gene	examine the glo
+3893	3911	GO:0001533	cornified envelope	cornified	ults with LCA, aft
+3905	3914	GO:0023052	signaling	signaling	A, after 
+3921	3930	GO:0023052	Signaling	signaling	sue has u
+3997	4005	GO:0003823	antibody	antigen	veloping
+3997	4005	GO:0019815	antibody	B	veloping
+3997	4005	GO:0042571	antibody	immunoglobulin	veloping
+3987	4005	GO:0001533	cornified envelope	cornified	ere the developing
+4013	4018	GO:0007114	buds,	cell	an in
+4032	4040	GO:0003675	proteins	obsolete	ned [24]
+4060	4071	GO:0032502	development	developmental	LCA have re
+4070	4077	GO:0003675	protein	obsolete	ecently
+4089	4093	GO:0031672	band	A	ed a
+4088	4094	GO:0040007	growth	growth	ted an
+4091	4108	GO:0045095	keratin filaments	keratin	 and have already
+4104	4117	GO:0005576	extracellular	extracellular	eady served t
+4118	4125	GO:0023052	signals	signaling	 broade
+4124	4131	GO:0003675	protein	obsolete	en our 
+4148	4152	GO:0005623	cell	cell	the 
+4148	4153	GO:0007114	buds,	cell	the p
+4152	4159	GO:0005634	nucleus	nucleus	patholo
+4156	4167	GO:0003823	antibodies,	antigen	ology of th
+4156	4167	GO:0019815	antibodies,	B	ology of th
+4156	4167	GO:0042571	antibodies,	immunoglobulin	ology of th
+4191	4198	GO:0003675	protein	obsolete	e LCA i
+4216	4224	GO:0003823	antibody	antigen	 genetic
+4216	4224	GO:0019815	antibody	B	 genetic
+4216	4224	GO:0042571	antibody	immunoglobulin	 genetic
+4243	4247	GO:0031672	band	A	diso
+4250	4256	GO:0005623	cells.	cell	r, add
+4276	4281	GO:0005623	cells	cell	 are 
+4295	4299	GO:0007114	buds	cell	low 
+4292	4303	GO:0032502	development	developmental	 allow a fu
+4311	4319	GO:0023052	signals,	signaling	standing
+4344	4350	GO:0005623	cells.	cell	h phot
+4407	4412	GO:0007114	buds.	cell	mport
+4410	4417	GO:0003675	Protein	obsolete	rtance 
+4412	4422	GO:0003823	antibodies	antigen	ance as a 
+4412	4422	GO:0019815	antibodies	B	ance as a 
+4412	4422	GO:0042571	antibodies	immunoglobulin	ance as a 
+4417	4444	GO:0031069	hair follicle morphogenesis	hair	as a locus of disease, phot
+4441	4445	GO:0007114	buds	cell	hoto
+4462	4475	GO:0006351	transcription	transcription,	rve as an exc
+4468	4477	GO:0023052	signaling	signaling	 an excel
+4486	4491	GO:0005623	cells	cell	l for
+4495	4500	GO:0019835	lysis	cytolysis	dies 
+4532	4536	GO:0005623	cell	cell	tore
+4548	4563	GO:0006351	transcriptional	transcription,	 are highly pol
+4580	4598	GO:0007165	signaling pathways	signal	apex, these neuron
+4605	4611	GO:0023052	signal	signaling	a memb
+4607	4616	GO:0009058	formation	biosynthetic	membranou
+4608	4621	GO:0005576	extracellular	extracellular	embranous out
+4622	4629	GO:0023052	signals	signaling	r segme
+4654	4670	GO:0010467	gene expression.	gene	ns involved in t
+4664	4674	GO:0065007	regulatory	biological	d in the p
+4698	4711	GO:0006351	transcription	transcription,	. Loss of fun
+4701	4711	GO:0009058	formation,	biosynthetic	oss of fun
+4708	4721	GO:0044214	transmembrane	spanning	function muta
+4708	4721	GO:0016021	transmembrane	integral	function muta
+4722	4726	GO:0019013	core	viral	ions
+4742	4755	GO:0006351	transcription	transcription,	9], or the st
+4744	4762	GO:0005912	adherens junctions	adherens	, or the structura
+4801	4808	GO:0003675	protein	obsolete	n inabi
+4797	4815	GO:0005604	basement membrane,	basement	in an inability to
+4829	4837	GO:0003823	antibody	antigen	gments. 
+4829	4837	GO:0019815	antibody	B	gments. 
+4829	4837	GO:0042571	antibody	immunoglobulin	gments. 
+4851	4855	GO:0007114	buds	cell	xtre
+4862	4879	GO:0005604	basement membrane	basement	hotoreceptors ter
+4860	4887	GO:0031069	hair follicle morphogenesis	hair	 photoreceptors terminate w
+4885	4893	GO:0003823	antibody	antigen	 with sy
+4885	4893	GO:0019815	antibody	B	 with sy
+4885	4893	GO:0042571	antibody	immunoglobulin	 with sy
+4894	4907	GO:0051179	localization,	localization	aptic endings
+4895	4912	GO:0005912	adherens junction	adherens	ptic endings that
+4912	4916	GO:0007114	buds	cell	 mak
+4911	4921	GO:0023052	Signaling,	signaling	t make con
+4922	4937	GO:0006351	Transcriptional	transcription,	act with the pr
+4934	4951	GO:0007165	signaling pathway	signal	 processes of hor
+4960	4971	GO:0032502	development	developmental	nd bipolar 
+4977	4982	GO:0007114	buds.	cell	[31,3
+4950	4986	GO:0001837	epithelial to mesenchymal transition	epithelial	rizontal and bipolar cells [31,32]. 
+5012	5019	GO:0007114	budding	cell	 invagi
+4995	5023	GO:0031069	hair follicle morphogenesis,	hair	ules establish an invaginati
+5016	5024	GO:0003823	antibody	antigen	aginatin
+5016	5024	GO:0019815	antibody	B	aginatin
+5016	5024	GO:0042571	antibody	immunoglobulin	aginatin
+5026	5030	GO:0005623	cell	cell	syna
+5020	5033	GO:0009653	morphogenesis	anatomical	ating synapse
+5028	5052	GO:0005104	fibroblast growth factor	fibroblast	napse with rod bipolar d
+5067	5072	GO:0005488	binds	binding	onal 
+5064	5072	GO:0003675	protein.	obsolete	 axonal 
+5049	5077	GO:0031069	hair follicle morphogenesis,	hair	r dendrites and axonal endin
+5077	5089	GO:0051179	localization	localization	gs of horizo
+5089	5104	GO:0010467	gene expression	gene	ntal cells. Thi
+5104	5111	GO:0023052	signals	signaling	s synap
+5104	5112	GO:0003675	protein,	obsolete	s synaps
+5115	5123	GO:0003823	Antibody	antigen	s charac
+5115	5123	GO:0019815	Antibody	B	s charac
+5115	5123	GO:0042571	Antibody	immunoglobulin	s charac
+5143	5159	GO:0010467	gene expression,	gene	nce of a ribbon 
+5167	5174	GO:0003675	protein	obsolete	resynap
+5177	5182	GO:0005623	cells	cell	 cyto
+5209	5213	GO:0004707	MAPK	MAP	nvag
+5218	5238	GO:0030041	actin polymerization	actin	ng synapses with the
+5234	5246	GO:0051179	localization	localization	 the dendrit
+5256	5265	GO:0023052	signaling	signaling	one bipol
+5296	5300	GO:0004707	MAPK	MAP	nd b
+5304	5310	GO:0040007	growth	growth	 junct
+5301	5313	GO:0005856	cytoskeleton	cytoskeleton	sal junction
+5287	5315	GO:0005667	transcription factor complex	transcription	l cells and basal junctions 
+5341	5348	GO:0007114	budding	cell	cone bi
+5341	5349	GO:0003823	antibody	antigen	cone bip
+5341	5349	GO:0019815	antibody	B	cone bip
+5341	5349	GO:0042571	antibody	immunoglobulin	cone bip
+5351	5358	GO:0003675	protein	obsolete	ar cell
+5349	5363	GO:0009653	morphogenesis,	anatomical	olar cells. Th
+5365	5370	GO:0005488	binds	binding	facto
+5377	5386	GO:0023052	signaling	signaling	lating th
+5392	5399	GO:0003675	protein	obsolete	ation o
+5401	5411	GO:0003823	Antibodies	antigen	the photor
+5401	5411	GO:0019815	Antibodies	B	the photor
+5401	5411	GO:0042571	Antibodies	immunoglobulin	the photor
+5421	5427	GO:0005634	nuclei	nucleus	napses
+5432	5440	GO:0003675	proteins	obsolete	complete
+5444	5449	GO:0005623	cells	cell	nknow
+5441	5452	GO:0006412	translation	translation	y unknown. 
+5438	5454	GO:0006351	transcriptional,	transcription,	tely unknown. At
+5454	5462	GO:0003675	proteins	obsolete	 least o
+5461	5471	GO:0003675	proteins),	obsolete	one photor
+5467	5485	GO:0007165	signaling pathways	signal	otoreceptor synapt
+5477	5490	GO:0044214	transmembrane	spanning	r synaptic pr
+5477	5490	GO:0016021	transmembrane	integral	r synaptic pr
+5491	5495	GO:0019013	core	viral	tein
+5496	5504	GO:0003675	protein;	obsolete	 HRG4, c
+5519	5524	GO:0019835	lysis	cytolysis	tial 
+5523	5534	GO:0032502	development	developmental	 Crx target
+5530	5535	GO:0005488	binds	binding	rget 
+5524	5539	GO:0006351	transcriptional	transcription,	Crx target sequ
+5546	5555	GO:0016020	membranes	membrane	 its tran
+5554	5563	GO:0005829	cytosolic	cytosol	nscriptio
+5555	5570	GO:0010467	gene expression	gene	scriptional reg
+5560	5583	GO:0005911	intercellular junctions	cell-cell	tional regulatory seque
+5584	5590	GO:0004707	(MAPK)	MAP	ce [33
+5590	5603	GO:0006351	transcription	transcription,	]. Few studie
+5630	5650	GO:0009887	organ morphogenesis.	organ	 extended their exam
+5644	5652	GO:0003675	proteins	obsolete	r examin
+5660	5668	GO:0005634	nucleus;	nucleus	 retinal
+5656	5670	GO:0009653	morphogenesis.	anatomical	n of retinal p
+5693	5698	GO:0005488	binds	binding	ructu
+5698	5702	GO:0007114	buds	cell	ral 
+5705	5713	GO:0016020	membrane	membrane	el. Cert
+5728	5735	GO:0007114	budding	cell	 neuron
+5730	5740	GO:0023052	signaling.	signaling	euronal di
+5732	5745	GO:0009653	Morphogenesis	anatomical	ronal differe
+5746	5750	GO:0005623	cell	cell	tiat
+5775	5783	GO:0003675	proteins	obsolete	ation, c
+5801	5808	GO:0023052	signals	signaling	initive
+5791	5809	GO:0005515	proteins that bind	protein	tected definitivel
+5807	5813	GO:0005623	cells,	cell	ely at
+5817	5836	GO:0015629	actin cytoskeleton,	actin	s level of analysis
+5833	5838	GO:0005623	cells	cell	sis. 
+5845	5868	GO:0032502	developmental processes	developmental	e hope of understanding
+5879	5883	GO:0005623	Cell	cell	atho
+5877	5884	GO:0023052	signals	signaling	opathol
+5882	5892	GO:0003823	antibodies	antigen	ology of L
+5882	5892	GO:0019815	antibodies	B	ology of L
+5882	5892	GO:0042571	antibodies	immunoglobulin	ology of L
+5902	5909	GO:0003675	protein	obsolete	ter det
+5913	5921	GO:0007610	behavior	behavior	 we have
+5919	5923	GO:0007114	buds	cell	ve a
+5954	5972	GO:0007165	signaling cascade.	signal	the outer retina i
+5985	6002	GO:0005604	basement membrane	basement	 at the ultrastru
+5992	6004	GO:0051179	localization	localization	 ultrastruct
+6021	6029	GO:0003675	proteins	obsolete	 retinas
+6066	6075	GO:0009058	formation	biosynthetic	rx-/- pho
+6069	6078	GO:0023052	signaling	signaling	/- photor
+6081	6085	GO:0005488	bind	binding	ptor
+6096	6105	GO:0023052	Signaling	signaling	te a comp
+6099	6108	GO:0023052	signaling	signaling	a complet
+6112	6122	GO:0003823	antibodies	antigen	ock in out
+6112	6122	GO:0019815	antibodies	B	ock in out
+6112	6122	GO:0042571	antibodies	immunoglobulin	ock in out
+6123	6138	GO:0006351	transcriptional	transcription,	r segment forma
+6138	6145	GO:0003675	protein	obsolete	tion at
+6119	6146	GO:0031069	Hair Follicle Morphogenesis	hair	outer segment formation at 
+6140	6154	GO:0009653	morphogenesis.	anatomical	on at the elon
+6149	6157	GO:0003675	proteins	obsolete	 elongat
+6146	6159	GO:0009653	morphogenesis	anatomical	the elongatio
+6167	6171	GO:0004707	MAPK	MAP	 Fur
+6174	6187	GO:0009653	morphogenesis	anatomical	r, these cell
+6205	6212	GO:0023052	signals	signaling	 synapt
+6216	6224	GO:0016020	membrane	membrane	orpholog
+6229	6236	GO:0003675	protein	obsolete	ereby b
+6225	6237	GO:0051179	localization	localization	, thereby br
+6233	6239	GO:0005623	cells,	cell	y broa
+6245	6252	GO:0003675	protein	obsolete	 the fu
+6259	6264	GO:0005623	cells	cell	of Cr
+6259	6266	GO:0023052	signals	signaling	of Crx 
+6257	6269	GO:0032502	development.	developmental	n of Crx to 
+6270	6277	GO:0003675	Protein	obsolete	hotorec
+6272	6277	GO:0005623	cells	cell	torec
+6252	6289	GO:0001837	epithelial to mesenchymal transitions	epithelial	nction of Crx to photoreceptor synapt
+6311	6323	GO:0032502	development.	developmental	nts the firs
+6313	6328	GO:0010467	gene expression	gene	s the first rep
+6328	6356	GO:0005667	transcription factor complex	transcription	ort strongly implicating the
+6357	6367	GO:0009058	formation.	biosynthetic	process of
+6363	6370	GO:0003675	protein	obsolete	s of sy
+6404	6421	GO:0007165	signaling pathway	signal	ltiple pathologie
+6419	6429	GO:0003823	Antibodies	antigen	ies in the
+6419	6429	GO:0019815	Antibodies	B	ies in the
+6419	6429	GO:0042571	Antibodies	immunoglobulin	ies in the
+6452	6480	GO:0031069	hair follicle morphogenesis.	hair	 Crx-/- mice A standard knoc
+6533	6537	GO:0007114	buds	cell	 hom
+6538	6546	GO:0003675	proteins	obsolete	odomain 
+6545	6560	GO:0016310	phosphorylation	phosphorylation	 of Crx-/- was 
+6606	6613	GO:0003675	protein	obsolete	/- mice
+6639	6666	GO:0031069	hair follicle morphogenesis	hair	re [34]. In this study, in 
+6795	6804	GO:0009058	formation	biosynthetic	ing trans
+6846	6850	GO:0007114	buds	cell	day 
+6926	6939	GO:0009653	morphogenesis	anatomical	 1A, os), Crx
+6956	6965	GO:0023052	signaling	signaling	without a
+7013	7019	GO:0005623	cells.	cell	rx-/- 
+7080	7090	GO:0065007	regulation	biological	ited photo
+7149	7161	GO:0051179	localization	localization	ents were ex
+7192	7201	GO:0003675	proteins.	obsolete	ermore, t
+7292	7296	GO:0005488	bind	binding	ly a

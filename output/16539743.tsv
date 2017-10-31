@@ -1,0 +1,385 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+22	27	GO:0005623	cells	cell	zatio
+55	62	GO:0003675	protein	obsolete	n prote
+57	65	GO:0003675	protein,	obsolete	protein,
+91	106	GO:0010467	gene expression	gene	n retinal photo
+165	190	GO:0048468	terminal differentiation,	cell	) domains are ~70 residue
+185	200	GO:0006351	transcriptional	transcription,	sidues long and
+208	213	GO:0005623	cells	cell	en re
+208	215	GO:0003675	protein	obsolete	en repo
+227	235	GO:0003823	antibody	antigen	on prote
+227	235	GO:0019815	antibody	B	on prote
+227	235	GO:0042571	antibody	immunoglobulin	on prote
+228	243	GO:0006351	transcriptional	transcription,	n protein-prote
+272	286	GO:0016458	gene silencing	gene	domain is foun
+303	310	GO:0005634	nucleus	nucleus	er of p
+309	318	GO:0003675	proteins,	obsolete	proteins,
+318	323	GO:0005623	cells	cell	 incl
+331	340	GO:0000785	chromatin	chromatin	lycomb gr
+340	355	GO:0006351	transcriptional	transcription,	oup (PcG) prote
+350	358	GO:0003675	proteins	obsolete	proteins
+379	385	GO:0023052	signal	signaling	cripti
+456	471	GO:0006351	transcriptional	transcription,	rization of a n
+482	487	GO:0005623	cells	cell	main-
+562	566	GO:0031672	band	A	ors 
+543	576	GO:0017053	transcriptional repressor complex	transcriptional	retinal photoreceptors and the pi
+588	614	GO:0008594	photoreceptor development.	photoreceptor	nd is designated mouse mr-
+635	650	GO:0006351	transcriptional	transcription,	domain protein)
+642	651	GO:0003675	protein).	obsolete	protein).
+662	677	GO:0006351	transcriptional	transcription,	-s is evolution
+667	680	GO:0006351	transcription	transcription,	 evolutionari
+726	736	GO:0065007	Regulation	biological	anisms thr
+745	758	GO:0006351	transcription	transcription,	h the mechani
+754	767	GO:0006351	transcription	transcription,	hanism of pho
+767	780	GO:0006351	transcription	transcription,	toreceptor de
+764	789	GO:0008594	photoreceptor development	photoreceptor	photoreceptor development
+825	840	GO:0006351	transcriptional	transcription,	tic analysis su
+839	868	GO:0043565	sequence-specific DNA binding	sequence-specific	uggests that the SAM domain o
+863	888	GO:0008594	photoreceptor development	photoreceptor	ain of mr-s is most close
+898	905	GO:0003675	protein	obsolete	 to a m
+904	909	GO:0005488	binds	binding	mouse
+918	922	GO:0005623	Cell	cell	otic
+928	941	GO:0006351	transcription	transcription,	ortholog, Mph
+956	961	GO:0005623	cells	cell	is kn
+1002	1009	GO:0003675	protein	obsolete	 chroma
+1003	1027	GO:0016568	chromatin modifications.	chromatin	chromatin modifications.
+1066	1071	GO:0004617	serum	phosphoglycerate	 that
+1066	1074	GO:0003675	protein.	obsolete	 that mr
+1100	1129	GO:0043565	sequence-specific DNA binding	sequence-specific	e by regulating gene expressi
+1116	1131	GO:0010467	gene expression	gene	gene expression
+1125	1144	GO:0047712	luciferase activity	Cypridina-luciferin	ession in photorece
+1125	1144	GO:0045289	luciferase activity	luciferin	ession in photorece
+1125	1144	GO:0047077	luciferase activity	Photinus-luciferin	ession in photorece
+1125	1144	GO:0050397	luciferase activity	Watasenia-luciferin	ession in photorece
+1125	1144	GO:0050248	luciferase activity	Renilla-luciferin	ession in photorece
+1141	1155	GO:0006351	transcription,	transcription,	eceptor develo
+1135	1161	GO:0008594	photoreceptor development.	photoreceptor	photoreceptor development.
+1163	1169	GO:0023052	signal	signaling	r-s is
+1164	1169	GO:0005623	cells	cell	-s is
+1165	1172	GO:0005488	binding	binding	s is pr
+1259	1274	GO:0006351	transcriptional	transcription,	eptors undergo 
+1277	1282	GO:0005623	cells	cell	minal
+1276	1291	GO:0006351	transcriptional	transcription,	rminal differen
+1274	1299	GO:0048468	terminal differentiation,	cell	terminal differentiation,
+1291	1303	GO:0035282	segmentation	segmentation	tiation, and
+1323	1328	GO:0005623	cells	cell	 glan
+1318	1333	GO:0006351	transcriptional	transcription,	ineal gland. Tr
+1333	1340	GO:0003675	protein	obsolete	anscrip
+1331	1344	GO:0006351	Transcription	transcription,	Transcription
+1354	1362	GO:0003675	proteins	obsolete	s direct
+1375	1384	GO:0003675	protein).	obsolete	by the co
+1372	1387	GO:2000144	transactivation	positive	ed by the cone-
+1382	1389	GO:0005634	nucleus	nucleus	cone-ro
+1412	1418	GO:0005623	cells.	cell	rx. Im
+1415	1424	GO:0003675	proteins,	obsolete	 Immunopr
+1408	1430	GO:0006413	translation initiation	translational	in Crx. Immunoprecipit
+1427	1440	GO:0006351	transcription	transcription,	pitation assa
+1463	1470	GO:0003675	protein	obsolete	protein
+1467	1486	GO:0047712	luciferase activity	Cypridina-luciferin	ein self-associates
+1467	1486	GO:0045289	luciferase activity	luciferin	ein self-associates
+1467	1486	GO:0047077	luciferase activity	Photinus-luciferin	ein self-associates
+1467	1486	GO:0050397	luciferase activity	Watasenia-luciferin	ein self-associates
+1467	1486	GO:0050248	luciferase activity	Renilla-luciferin	ein self-associates
+1509	1516	GO:0003675	protein	obsolete	 domain
+1523	1528	GO:0005623	cells	cell	ning 
+1522	1533	GO:0003677	DNA binding	DNA	ining regio
+1531	1546	GO:0006351	transcriptional	transcription,	ion as well as 
+1559	1566	GO:0003675	protein	obsolete	protein
+1549	1568	GO:0047712	luciferase activity	Cypridina-luciferin	 The mr-s protein l
+1549	1568	GO:0045289	luciferase activity	luciferin	 The mr-s protein l
+1549	1568	GO:0047077	luciferase activity	Photinus-luciferin	 The mr-s protein l
+1549	1568	GO:0050397	luciferase activity	Watasenia-luciferin	 The mr-s protein l
+1549	1568	GO:0050248	luciferase activity	Renilla-luciferin	 The mr-s protein l
+1591	1599	GO:0005634	nucleus,	nucleus	nucleus,
+1587	1600	GO:0006351	transcription	transcription,	the nucleus, 
+1603	1609	GO:0005623	cells,	cell	n mr-s
+1638	1644	GO:0005623	cells.	cell	cells.
+1651	1657	GO:0005623	cells.	cell	er, in
+1645	1658	GO:0006351	transcription	transcription,	Moreover, in 
+1653	1668	GO:0006351	transcriptional	transcription,	, in the lucife
+1684	1692	GO:0016020	membrane	membrane	found th
+1692	1699	GO:0003675	protein	obsolete	at mr-s
+1735	1739	GO:0005623	cell	cell	omai
+1756	1771	GO:0006351	transcriptional	transcription,	transcriptional
+1765	1778	GO:0006351	transcription	transcription,	tional repres
+1780	1787	GO:0003675	protein	obsolete	r. We r
+1775	1788	GO:0005622	intracellular	intracellular	ressor. We re
+1786	1797	GO:0003677	DNA binding	DNA	revealed th
+1808	1814	GO:0005623	cells,	cell	ession
+1832	1836	GO:0005623	cell	cell	is n
+1830	1845	GO:0006351	transcriptional	transcription,	s is not due to
+1846	1854	GO:0003675	proteins	obsolete	a homoph
+1863	1876	GO:0006351	transcription	transcription,	raction throu
+1896	1907	GO:0003677	DNA binding	DNA	t to the C-
+2005	2020	GO:0006351	transcriptional	transcription,	retinal photore
+2037	2044	GO:0003675	protein	obsolete	l gland
+2044	2050	GO:0023052	signal	signaling	. Base
+2053	2058	GO:0005623	cells	cell	n its
+2099	2104	GO:0005623	cells	cell	sis, 
+2089	2104	GO:0006351	transcriptional	transcription,	ical analysis, 
+2112	2118	GO:0023052	signal	signaling	ct tha
+2107	2126	GO:0047712	luciferase activity	Cypridina-luciferin	predict that mr-s m
+2107	2126	GO:0045289	luciferase activity	luciferin	predict that mr-s m
+2107	2126	GO:0047077	luciferase activity	Photinus-luciferin	predict that mr-s m
+2107	2126	GO:0050397	luciferase activity	Watasenia-luciferin	predict that mr-s m
+2107	2126	GO:0050248	luciferase activity	Renilla-luciferin	predict that mr-s m
+2143	2158	GO:0006351	transcriptional	transcription,	transcriptional
+2157	2164	GO:0005488	binding	binding	l repre
+2162	2177	GO:0006351	transcriptional	transcription,	ressor in photo
+2236	2243	GO:0003675	protein	obsolete	kground
+2251	2262	GO:0032502	development	developmental	development
+2307	2311	GO:0005623	cell	cell	cell
+2316	2331	GO:0006351	transcriptional	transcription,	s is generated 
+2342	2350	GO:0003675	protein.	obsolete	 of mult
+2370	2377	GO:0003675	protein	obsolete	enitor 
+2367	2380	GO:0051179	localizations	localization	rogenitor cel
+2391	2397	GO:0005623	cells,	cell	hese c
+2396	2400	GO:0005623	cell	cell	cell
+2404	2419	GO:0006351	transcriptional	transcription,	es, photorecept
+2412	2426	GO:0006351	transcription.	transcription,	oreceptors acc
+2451	2456	GO:0005623	cells	cell	cells
+2458	2463	GO:0005623	cells	cell	n the
+2513	2519	GO:0004239	mapped	obsolete	photor
+2523	2533	GO:0005694	chromosome	chromosome	tors, rods
+2557	2563	GO:0004239	mapped	obsolete	sors o
+2567	2577	GO:0005694	chromosome	chromosome	m light, w
+2564	2579	GO:0006351	transcriptional	transcription,	 dim light, whi
+2609	2617	GO:0003675	protein,	obsolete	ght and 
+2643	2650	GO:0007601	vision.	visual	vision.
+2661	2665	GO:0004239	maps	obsolete	duct
+2651	2669	GO:0007602	Phototransduction,	phototransduction	Phototransduction,
+2682	2688	GO:0023052	signal	signaling	signal
+2710	2725	GO:0006351	transcriptional	transcription,	ing a single ph
+2740	2747	GO:0005488	binding	binding	is init
+2753	2759	GO:0005623	cells.	cell	by the
+2747	2773	GO:0008594	photoreceptor development.	photoreceptor	iated by the capture of li
+2812	2817	GO:0005488	bound	binding	bound
+2802	2817	GO:0006351	transcriptional	transcription,	romophore bound
+2825	2830	GO:0007602	opsin	phototransduction	opsin
+2825	2830	GO:0015053	opsin	obsolete	opsin
+2825	2830	GO:0016918	opsin	retinal	opsin
+2825	2830	GO:0009881	opsin	photoreceptor	opsin
+2825	2830	GO:0046876	opsin	3,4-didehydroretinal	opsin
+2834	2839	GO:0005623	cells	cell	teins
+2831	2840	GO:0003675	proteins:	obsolete	proteins:
+2868	2874	GO:0007602	opsins	phototransduction	opsins
+2868	2874	GO:0015053	opsins	obsolete	opsins
+2868	2874	GO:0016918	opsins	retinal	opsins
+2868	2874	GO:0009881	opsins	photoreceptor	opsins
+2868	2874	GO:0046876	opsins	3,4-didehydroretinal	opsins
+2889	2897	GO:0003675	proteins	obsolete	proteins
+2913	2930	GO:0007602	phototransduction	phototransduction	phototransduction
+2933	2939	GO:0040007	growth	growth	e loca
+2936	2949	GO:0006351	transcription	transcription,	ocated in an 
+2999	3003	GO:0031672	band	A	ure,
+2997	3008	GO:0003677	DNA binding	DNA	cture, the 
+3031	3046	GO:0006351	transcriptional	transcription,	r segment appea
+3068	3074	GO:0005623	cells.	cell	agile,
+3139	3146	GO:0003675	protein	obsolete	rturbat
+3201	3205	GO:0005623	cell	cell	cell
+3207	3212	GO:0005623	cells	cell	ypes 
+3219	3230	GO:0032502	development	developmental	development
+3250	3257	GO:0005488	binding	binding	eral or
+3307	3318	GO:0006280	mutagenesis	obsolete	nd the time
+3309	3320	GO:0032502	Development	developmental	 the time o
+3304	3323	GO:0047712	luciferase activity	Cypridina-luciferin	round the time of b
+3304	3323	GO:0045289	luciferase activity	luciferin	round the time of b
+3304	3323	GO:0047077	luciferase activity	Photinus-luciferin	round the time of b
+3304	3323	GO:0050397	luciferase activity	Watasenia-luciferin	round the time of b
+3304	3323	GO:0050248	luciferase activity	Renilla-luciferin	round the time of b
+3359	3365	GO:0005623	cells,	cell	cells,
+3362	3369	GO:0003675	protein	obsolete	ls, hor
+3402	3408	GO:0005623	cells.	cell	are ge
+3437	3443	GO:0005623	cells,	cell	 glia 
+3455	3460	GO:0005623	cells	cell	cells
+3454	3473	GO:0047712	luciferase activity	Cypridina-luciferin	 cells are generate
+3454	3473	GO:0045289	luciferase activity	luciferin	 cells are generate
+3454	3473	GO:0047077	luciferase activity	Photinus-luciferin	 cells are generate
+3454	3473	GO:0050397	luciferase activity	Watasenia-luciferin	 cells are generate
+3454	3473	GO:0050248	luciferase activity	Renilla-luciferin	 cells are generate
+3511	3515	GO:0005623	cell	cell	cell
+3566	3576	GO:0000785	chromatin.	chromatin	fferences 
+3577	3592	GO:0006351	transcriptional	transcription,	n the intrinsic
+3609	3614	GO:0005623	cells	cell	ogeni
+3618	3623	GO:0005623	cells	cell	cells
+3640	3653	GO:0006351	transcription	transcription,	transcription
+3657	3680	GO:0016568	chromatin modification.	chromatin	chromatin modification.
+3705	3724	GO:0047712	luciferase activity	Cypridina-luciferin	d several important
+3705	3724	GO:0045289	luciferase activity	luciferin	d several important
+3705	3724	GO:0047077	luciferase activity	Photinus-luciferin	d several important
+3705	3724	GO:0050397	luciferase activity	Watasenia-luciferin	d several important
+3705	3724	GO:0050248	luciferase activity	Renilla-luciferin	d several important
+3728	3734	GO:0005623	cells.	cell	nscrip
+3719	3739	GO:0006338	chromatin remodeling	chromatin	rtant transcription 
+3755	3770	GO:0010467	gene expression	gene	receptor develo
+3764	3771	GO:0003675	protein	obsolete	develop
+3750	3775	GO:0008594	photoreceptor development	photoreceptor	photoreceptor development
+3771	3786	GO:0016514	SWI-SNF complex	SWI/SNF	ment [3-7]. Two
+3784	3792	GO:0003823	antibody	antigen	wo Otx f
+3784	3792	GO:0019815	antibody	B	wo Otx f
+3784	3792	GO:0042571	antibody	immunoglobulin	wo Otx f
+3817	3826	GO:0003823	antibody.	antigen	2 and Crx
+3817	3826	GO:0019815	antibody.	B	2 and Crx
+3817	3826	GO:0042571	antibody.	immunoglobulin	2 and Crx
+3825	3832	GO:0003675	protein	obsolete	x, play
+3833	3840	GO:0003675	protein	obsolete	essenti
+3858	3881	GO:0001709	cell fate determination	cell	cell fate determination
+3886	3910	GO:0048468	terminal differentiation	cell	terminal differentiation
+3960	3964	GO:0005623	cell	cell	 fun
+3992	3996	GO:0005623	cell	cell	rece
+3987	4002	GO:0006351	transcriptional	transcription,	photoreceptor c
+4001	4006	GO:0005623	cells	cell	cells
+4041	4047	GO:0023052	signal	signaling	rons [
+4049	4057	GO:0003823	antibody	antigen	. Crx, a
+4049	4057	GO:0019815	antibody	B	. Crx, a
+4049	4057	GO:0042571	antibody	immunoglobulin	. Crx, a
+4084	4093	GO:0003823	antibody.	antigen	 controls
+4084	4093	GO:0019815	antibody.	B	 controls
+4084	4093	GO:0042571	antibody.	immunoglobulin	 controls
+4098	4111	GO:0006351	transcription	transcription,	transcription
+4126	4133	GO:0003675	protein	obsolete	torecep
+4133	4138	GO:0005623	cells	cell	tor c
+4148	4155	GO:0005488	binding	binding	ic gene
+4182	4191	GO:0009058	formation	biosynthetic	formation
+4235	4252	GO:0007602	phototransduction	phototransduction	phototransduction
+4247	4252	GO:0005623	cells	cell	ction
+4262	4268	GO:0023052	signal	signaling	[8,10]
+4262	4275	GO:0035102	PRC1 complex.	PRC1	[8,10]. Crx t
+4332	4338	GO:0023052	signal	signaling	tors a
+4332	4341	GO:0003675	proteins.	obsolete	tors at e
+4352	4359	GO:0003675	protein	obsolete	y 12.5 
+4375	4390	GO:0006351	transcriptional	transcription,	ouse and a stro
+4413	4426	GO:0006351	transcription	transcription,	transcription
+4435	4442	GO:0005488	binding	binding	ent acr
+4433	4446	GO:0006351	transcription	transcription,	arent across 
+4467	4482	GO:0006351	transcriptional	transcription,	hotoreceptors a
+4500	4526	GO:0008594	photoreceptor development.	photoreceptor	(P6). Photoreceptor cells 
+4525	4529	GO:0005623	cell	cell	 in 
+4572	4580	GO:0003823	antibody	antigen	ic reduc
+4572	4580	GO:0019815	antibody	B	ic reduc
+4572	4580	GO:0042571	antibody	immunoglobulin	ic reduc
+4609	4616	GO:0003675	protein	obsolete	lecules
+4652	4660	GO:0003675	protein,	obsolete	op neith
+4663	4691	GO:0001750	photoreceptor outer segments	photoreceptor	photoreceptor outer segments
+4726	4733	GO:0003675	protein	obsolete	 additi
+4731	4748	GO:0007602	phototransduction	phototransduction	tion, mutations o
+4749	4756	GO:0005488	binding	binding	 human 
+4807	4814	GO:0005488	binding	binding	ree typ
+4811	4817	GO:0023052	signal	signaling	types 
+4822	4847	GO:0048468	terminal differentiation.	cell	otoreceptor diseases: aut
+4885	4894	GO:0030849	autosomal	autosome	autosomal
+4896	4911	GO:2000144	transactivation	positive	ominant-type re
+4926	4934	GO:0003675	Proteins	obsolete	osa, and
+4963	4970	GO:0003675	protein	obsolete	 (LCA) 
+5014	5040	GO:0008594	photoreceptor development,	photoreceptor	photoreceptor development,
+5029	5042	GO:0006351	transcription	transcription,	evelopment, t
+5086	5096	GO:0065007	regulation	biological	 and Nr2e3
+5097	5109	GO:0051179	localization	localization	regulate the
+5091	5114	GO:0001709	cell fate determination	cell	Nr2e3 regulate the spec
+5105	5118	GO:0006351	transcription	transcription,	 the specific
+5111	5122	GO:0032502	development	developmental	pecificatio
+5118	5125	GO:0003675	protein	obsolete	ation o
+5139	5144	GO:0005623	cells	cell	r cel
+5152	5159	GO:0003675	protein	obsolete	[4,5,7]
+5170	5176	GO:0023052	signal	signaling	ns (al
+5160	5185	GO:0048468	terminal differentiation,	cell	 SAM domains (also known 
+5200	5208	GO:0016020	membrane	membrane	, or SPM
+5216	5223	GO:0003675	protein	obsolete	) are ~
+5218	5224	GO:0023052	signal	signaling	are ~7
+5243	5257	GO:0060042	retinogenesis,	retina	 have been rep
+5267	5271	GO:0005488	bind	binding	ommo
+5269	5276	GO:0003675	protein	obsolete	mon pro
+5279	5290	GO:0032502	development	developmental	n-protein i
+5294	5302	GO:0005634	nucleus.	nucleus	action m
+5305	5311	GO:0023052	signal	signaling	les [1
+5309	5318	GO:0003675	proteins,	obsolete	[15-17]. 
+5310	5318	GO:0003823	antibody	antigen	15-17]. 
+5310	5318	GO:0019815	antibody	B	15-17]. 
+5310	5318	GO:0042571	antibody	immunoglobulin	15-17]. 
+5332	5344	GO:0051179	localization	localization	 found in a 
+5342	5349	GO:0023052	Signals	signaling	a large
+5360	5369	GO:0003675	proteins,	obsolete	proteins,
+5366	5372	GO:0005623	cells,	cell	ns, in
+5377	5383	GO:0023052	signal	signaling	ng Pol
+5375	5400	GO:0008594	photoreceptor development	photoreceptor	ding Polycomb group (PcG)
+5401	5409	GO:0003675	proteins	obsolete	proteins
+5438	5444	GO:0005623	cells.	cell	es [19
+5438	5445	GO:0003675	protein	obsolete	es [19]
+5438	5451	GO:0006351	transcription	transcription,	es [19], Eph 
+5486	5493	GO:0003675	protein	obsolete	0], the
+5496	5508	GO:0051179	localization	localization	3 tumor supp
+5498	5514	GO:0008181	tumor suppressor	obsolete	tumor suppressor
+5498	5514	GO:0051726	tumor suppressor	regulation	tumor suppressor
+5508	5523	GO:0006351	transcriptional	transcription,	ressor [21], th
+5518	5525	GO:0005634	nucleus	nucleus	], the 
+5529	5535	GO:0023052	signal	signaling	bindin
+5537	5542	GO:0005623	cells	cell	prote
+5568	5575	GO:0003675	protein	obsolete	rol kin
+5580	5592	GO:0051179	localization	localization	[23,24], yea
+5594	5600	GO:0005623	cells,	cell	 matin
+5605	5613	GO:0003675	protein,	obsolete	e signal
+5608	5613	GO:0005623	cells	cell	ignal
+5622	5637	GO:0006351	transcriptional	transcription,	ins [19,25] and
+5640	5648	GO:0005202	collagen	obsolete	S family
+5655	5662	GO:0003675	protein	obsolete	ription
+5668	5681	GO:0006351	transcription	transcription,	rs [26,27]. T
+5688	5696	GO:0003675	proteins	obsolete	proteins
+5703	5709	GO:0005623	cells.	cell	anscri
+5707	5714	GO:0003675	protein	obsolete	ription
+5701	5716	GO:0006351	transcriptional	transcription,	transcriptional
+5747	5754	GO:0005634	nucleus	nucleus	silenci
+5742	5756	GO:0016458	gene silencing	gene	gene silencing
+5768	5774	GO:0005623	cells,	cell	lopmen
+5764	5775	GO:0032502	development	developmental	development
+5801	5809	GO:0003675	proteins	obsolete	proteins
+5809	5816	GO:0003675	protein	obsolete	 are al
+5832	5847	GO:0006351	transcriptional	transcription,	 Hox gene regul
+5842	5853	GO:0065007	regulation.	biological	regulation.
+5848	5868	GO:0006885	regulation as are ph	regulation	tion. Their biologic
+5901	5908	GO:0003675	protein	obsolete	ing of 
+5902	5914	GO:0051179	localization	localization	ng of specif
+5907	5920	GO:0006351	transcription	transcription,	 specific set
+5936	5942	GO:0005623	cells.	cell	gh chr
+5939	5963	GO:0016568	chromatin modifications.	chromatin	chromatin modifications.
+5950	5976	GO:0008594	photoreceptor development.	photoreceptor	odifications. A member of 
+5976	6005	GO:0035102	polycomb repressive complex 1	PRC1	polycomb repressive complex 1
+6012	6019	GO:0003675	protein	obsolete	, ph, c
+6018	6025	GO:0003675	protein	obsolete	contain
+6034	6042	GO:0003823	antibody	antigen	omain at
+6034	6042	GO:0019815	antibody	B	omain at
+6034	6042	GO:0042571	antibody	immunoglobulin	omain at
+6037	6044	GO:0005634	nucleus	nucleus	in at t
+6063	6075	GO:0035102	PRC1 complex	PRC1	PRC1 complex
+6080	6085	GO:0005623	cells	cell	nown 
+6113	6121	GO:0003823	antibody	antigen	l polyme
+6113	6121	GO:0019815	antibody	B	l polyme
+6113	6121	GO:0042571	antibody	immunoglobulin	l polyme
+6110	6123	GO:0006351	transcription	transcription,	tail polymers
+6156	6171	GO:0006351	transcriptional	transcription,	se polymeric st
+6192	6201	GO:0009058	formation	biosynthetic	formation
+6198	6205	GO:0003675	protein	obsolete	ion of 
+6204	6209	GO:0031672	bands	A	 a hi
+6220	6229	GO:0000785	chromatin	chromatin	chromatin
+6219	6234	GO:0006351	transcriptional	transcription,	 chromatin stru
+6261	6270	GO:0003675	proteins,	obsolete	e the rep
+6300	6304	GO:0031672	band	A	this
+6303	6332	GO:0043565	sequence-specific DNA binding	sequence-specific	s study, we identified a nove
+6348	6359	GO:0032502	development	developmental	ich encodes
+6369	6375	GO:0031672	bands,	A	ain-co
+6363	6378	GO:0006351	transcriptional	transcription,	AM domain-conta
+6397	6404	GO:0045292	spliced	mRNA	SAM dom
+6483	6487	GO:0031672	band	A	r-s 
+6477	6492	GO:0006351	transcriptional	transcription,	e28. mr-s is pr
+6536	6543	GO:0003675	protein	obsolete	ors whe
+6535	6544	GO:0000785	chromatin	chromatin	tors when
+6565	6572	GO:0003675	protein	obsolete	l diffe
+6673	6682	GO:0009058	formation	biosynthetic	-s is loc
+6701	6710	GO:0000785	chromatin	chromatin	us and ca
+6896	6907	GO:0003677	DNA binding	DNA	st that mr-
+7089	7108	GO:0047712	luciferase activity	Cypridina-luciferin	ly expressed in the
+7089	7108	GO:0045289	luciferase activity	luciferin	ly expressed in the
+7089	7108	GO:0047077	luciferase activity	Photinus-luciferin	ly expressed in the
+7089	7108	GO:0050397	luciferase activity	Watasenia-luciferin	ly expressed in the
+7089	7108	GO:0050248	luciferase activity"	Renilla-luciferin	ly expressed in the
+7167	7174	GO:0003675	protein	obsolete	Biotech
+7230	7235	GO:0005623	cells	cell	al Di

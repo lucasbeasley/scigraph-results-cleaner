@@ -1,0 +1,426 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+10	14	GO:0005623	cell	cell	cali
+8	20	GO:0051179	localization	localization	localization
+22	34	GO:0051179	localisation	localization	f Annexin A7
+49	66	GO:0007420	brain development	brain	brain development
+79	86	GO:0005634	nucleus	nucleus	kground
+92	96	GO:0005623	cell	cell	in A
+91	99	GO:0005829	cytosol,	cytosol	xin A7 i
+104	113	GO:0003823	antibody.	antigen	ember of 
+104	113	GO:0019815	antibody.	B	ember of 
+104	113	GO:0042571	antibody.	immunoglobulin	ember of 
+125	132	GO:0003675	protein	obsolete	protein
+156	162	GO:0005634	nuclei	nucleus	terize
+155	170	GO:0005886	plasma membrane	plasma	cterized by its
+174	178	GO:0045101	GFAP	obsolete	lity
+180	190	GO:0043204	perikaryon	perikaryon	o interact
+182	190	GO:0003823	antibody	antigen	interact
+182	190	GO:0019815	antibody	B	interact
+182	190	GO:0042571	antibody	immunoglobulin	interact
+212	219	GO:0003675	protein	obsolete	 the pr
+209	224	GO:0097440	apical dendrite	apical	 in the presenc
+216	225	GO:0005737	cytoplasm	cytoplasm	 presence
+230	236	GO:0005634	nuclei	nucleus	a2+-io
+233	245	GO:0032502	development.	developmental	-ions and wh
+252	259	GO:0005634	nucleus	nucleus	thought
+259	265	GO:0023052	signal	signaling	 to fu
+275	281	GO:0005634	nuclei	nucleus	Ca2+-h
+279	285	GO:0023052	signal	signaling	-homeo
+290	297	GO:0005634	nuclei.	nucleus	s. Resu
+298	314	GO:0097440	Apical dendrites	apical	ts from mutant m
+359	369	GO:0003823	antibodies	antigen	strocytes.
+359	369	GO:0019815	antibodies	B	strocytes.
+359	369	GO:0042571	antibodies	immunoglobulin	strocytes.
+379	383	GO:0005623	cell	cell	pear
+430	438	GO:0003823	antibody	antigen	n develo
+430	438	GO:0019815	antibody	B	n develo
+430	438	GO:0042571	antibody	immunoglobulin	n develo
+426	443	GO:0007420	brain development	brain	brain development
+485	490	GO:0005623	cells	cell	sed o
+513	517	GO:0005623	Cell	cell	nnex
+523	530	GO:0003675	protein	obsolete	protein
+530	536	GO:0040007	growth	growth	 durin
+552	556	GO:0005623	cell	cell	nesi
+544	557	GO:0009793	embryogenesis	embryo	embryogenesis
+544	557	GO:0009792	embryogenesis	embryo	embryogenesis
+544	557	GO:0009790	embryogenesis	embryo	embryogenesis
+565	571	GO:0023052	signal	signaling	develo
+608	624	GO:0097440	apical dendrites	apical	e adult mouse br
+639	643	GO:0005623	cell	cell	nexi
+641	646	GO:0045101	GFAP.	obsolete	xin A
+664	669	GO:0005623	cells	cell	cells
+670	678	GO:0003823	antibody	antigen	of the d
+670	678	GO:0019815	antibody	B	of the d
+670	678	GO:0042571	antibody	immunoglobulin	of the d
+726	738	GO:0051179	localization	localization	r localizati
+728	740	GO:0051179	localization	localization	localization
+746	753	GO:0003675	protein	obsolete	cytopla
+746	755	GO:0005737	cytoplasm	cytoplasm	cytoplasm
+759	766	GO:0005634	nucleus	nucleus	nucleus
+795	804	GO:0016020	membranes	membrane	NS, the s
+853	858	GO:0005623	cells	cell	the c
+857	861	GO:0005623	cell	cell	cell
+910	918	GO:0003823	antibody	antigen	7 was de
+910	918	GO:0019815	antibody	B	7 was de
+910	918	GO:0042571	antibody	immunoglobulin	7 was de
+932	939	GO:0005829	cytosol	cytosol	cytosol
+942	949	GO:0005829	cytosol	cytosol	 undiff
+960	965	GO:0005623	cells	cell	cells
+966	971	GO:0005623	cells	cell	at em
+1006	1013	GO:0003675	protein	obsolete	protein
+1017	1027	GO:0030425	dendrites.	dendrite	still pres
+1029	1042	GO:0005886	cell membrane	plasma	t in the cyto
+1038	1045	GO:0005829	cytosol	cytosol	cytosol
+1039	1051	GO:0032502	development.	developmental	ytosol of ce
+1049	1054	GO:0005623	cells	cell	cells
+1050	1060	GO:0043204	perikaryon	perikaryon	ells predo
+1082	1097	GO:0097440	apical dendrite	apical	e ventricular g
+1096	1107	GO:0009844	germinative	obsolete	germinative
+1113	1117	GO:0045101	GFAP	obsolete	surr
+1154	1162	GO:0003823	antibody	antigen	on, at e
+1154	1162	GO:0019815	antibody	B	on, at e
+1154	1162	GO:0042571	antibody	immunoglobulin	on, at e
+1194	1199	GO:0005623	cells	cell	cells
+1195	1202	GO:0005634	nucleus	nucleus	ells of
+1276	1284	GO:0005634	nucleus.	nucleus	nucleus.
+1279	1285	GO:0005634	nuclei	nucleus	leus. 
+1293	1297	GO:0007568	aged	aging	 cel
+1294	1299	GO:0005623	cells	cell	cells
+1356	1362	GO:0005634	nuclei	nucleus	e nucl
+1358	1366	GO:0005634	nucleus,	nucleus	nucleus,
+1363	1372	GO:0005737	cytoplasm	cytoplasm	us, where
+1377	1383	GO:0005634	nuclei	nucleus	ial fi
+1390	1395	GO:0005623	cells	cell	y aci
+1392	1397	GO:0005623	cells	cell	acidi
+1401	1405	GO:0005623	cell	cell	otei
+1375	1406	GO:0045098	glial fibrillary acidic protein	type	glial fibrillary acidic protein
+1375	1406	GO:0045101	glial fibrillary acidic protein	obsolete	glial fibrillary acidic protein
+1415	1419	GO:0005623	cell	cell	osit
+1410	1422	GO:0051179	localisation	localization	AP)-positive
+1416	1425	GO:0097194	apoptosis	execution	sitive as
+1416	1425	GO:0006915	apoptosis	apoptotic	sitive as
+1459	1464	GO:0005623	cells	cell	ic an
+1466	1471	GO:0005623	cells	cell	nucle
+1528	1534	GO:0005634	nuclei	nucleus	rmed b
+1528	1537	GO:0005737	cytoplasm	cytoplasm	rmed by e
+1547	1553	GO:0023052	signal	signaling	of the
+1552	1559	GO:0003675	protein	obsolete	e nucle
+1541	1559	GO:0005886	cellular membranes	plasma	ction of the nucle
+1554	1565	GO:0005654	nucleoplasm	nucleoplasm	nucleoplasm
+1567	1574	GO:0005634	nucleus	nucleus	rom iso
+1580	1586	GO:0005634	nuclei	nucleus	nuclei
+1601	1608	GO:0005634	nuclei.	nucleus	neurona
+1615	1623	GO:0003823	antibody	antigen	stroglia
+1615	1623	GO:0019815	antibody	B	stroglia
+1615	1623	GO:0042571	antibody	immunoglobulin	stroglia
+1625	1629	GO:0005623	cell	cell	cell
+1639	1650	GO:0005654	nucleoplasm	nucleoplasm	nclusion We
+1670	1676	GO:0005634	nuclei	nucleus	 trans
+1673	1683	GO:0003823	antibodies	antigen	anslocatio
+1673	1683	GO:0019815	antibodies	B	anslocatio
+1673	1683	GO:0042571	antibodies	immunoglobulin	anslocatio
+1702	1708	GO:0005634	nuclei	nucleus	nuclei
+1712	1717	GO:0005623	cells	cell	cells
+1707	1725	GO:0005886	cellular membrane.	plasma	i of cells in earl
+1722	1730	GO:0003823	antibody	antigen	arly mur
+1722	1730	GO:0019815	antibody	B	arly mur
+1722	1730	GO:0042571	antibody	immunoglobulin	arly mur
+1734	1751	GO:0007420	brain development	brain	brain development
+1754	1761	GO:0023052	signal.	signaling	d the p
+1761	1769	GO:0016020	membrane	membrane	resence 
+1770	1777	GO:0005488	binding	binding	f Annex
+1786	1792	GO:0005634	nuclei	nucleus	nuclei
+1805	1810	GO:0005623	cells	cell	cells
+1809	1815	GO:0005634	nuclei	nucleus	s in t
+1840	1849	GO:0097194	apoptosis	execution	 of Annex
+1840	1849	GO:0006915	apoptosis	apoptotic	 of Annex
+1858	1864	GO:0005634	nuclei	nucleus	nuclei
+1888	1896	GO:0003823	antibody	antigen	mature n
+1888	1896	GO:0019815	antibody	B	mature n
+1888	1896	GO:0042571	antibody	immunoglobulin	mature n
+1896	1906	GO:0003823	Antibodies	antigen	euronal ce
+1896	1906	GO:0019815	Antibodies	B	euronal ce
+1896	1906	GO:0042571	Antibodies	immunoglobulin	euronal ce
+1904	1909	GO:0005623	cells	cell	cells
+1907	1917	GO:0003823	Antibodies	antigen	ls remains
+1907	1917	GO:0019815	Antibodies	B	ls remains
+1907	1917	GO:0042571	Antibodies	immunoglobulin	ls remains
+1975	1979	GO:0019013	core	viral	y re
+1985	1994	GO:0003675	proteins,	obsolete	proteins,
+2001	2005	GO:0005488	bind	binding	bind
+2045	2052	GO:0003675	protein	obsolete	a Ca2+-
+2062	2070	GO:0005634	nucleus.	nucleus	manner [
+2064	2073	GO:0003823	antibody.	antigen	nner [1].
+2064	2073	GO:0019815	antibody.	B	nner [1].
+2064	2073	GO:0042571	antibody.	immunoglobulin	nner [1].
+2072	2080	GO:0003823	antibody	antigen	. They a
+2072	2080	GO:0019815	antibody	B	. They a
+2072	2080	GO:0042571	antibody	immunoglobulin	. They a
+2106	2114	GO:0005829	cytosol.	cytosol	rtite st
+2125	2133	GO:0003823	antibody	antigen	h a cons
+2125	2133	GO:0019815	antibody	B	h a cons
+2125	2133	GO:0042571	antibody	immunoglobulin	h a cons
+2150	2154	GO:0019013	core	viral	core
+2170	2178	GO:0005829	cytosol.	cytosol	ique N-t
+2201	2205	GO:0005623	cell	cell	ies 
+2234	2255	GO:0005882	intermediate filament	intermediate	osition. The C-termin
+2250	2256	GO:0005623	cells.	cell	ermina
+2255	2267	GO:0005654	nucleoplasm,	nucleoplasm	al domain is
+2256	2287	GO:0045098	glial fibrillary acidic protein	type	l domain is formed by either a 
+2256	2287	GO:0045101	glial fibrillary acidic protein	obsolete	l domain is formed by either a 
+2281	2288	GO:0005634	nuclei,	nucleus	her a f
+2288	2294	GO:0045101	(GFAP;	obsolete	our- o
+2306	2311	GO:0005623	cells	cell	repea
+2333	2339	GO:0005634	nuclei	nucleus	amino 
+2341	2352	GO:0005654	Nucleoplasm	nucleoplasm	ids, each r
+2364	2371	GO:0003675	protein	obsolete	ng a Ca
+2369	2374	GO:0005623	cells	cell	Ca2+-
+2384	2391	GO:0005634	nucleus	nucleus	te, and
+2400	2409	GO:0005737	cytoplasm	cytoplasm	nsible fo
+2411	2432	GO:0005543	phospholipid binding.	phospholipid	phospholipid binding.
+2438	2443	GO:0005623	Cells	cell	-term
+2441	2452	GO:0005654	nucleoplasm	nucleoplasm	rminal regi
+2468	2479	GO:0005654	nucleoplasm	nucleoplasm	to confer f
+2481	2493	GO:0051179	localization	localization	ctional dive
+2482	2493	GO:0032502	development	developmental	tional dive
+2498	2505	GO:0005634	nuclei,	nucleus	 to the
+2514	2522	GO:0003675	proteins	obsolete	proteins
+2521	2532	GO:0005654	nucleoplasm	nucleoplasm	s [2]. The 
+2538	2546	GO:0003823	antibody	antigen	mical fe
+2538	2546	GO:0019815	antibody	B	mical fe
+2538	2546	GO:0042571	antibody	immunoglobulin	mical fe
+2567	2573	GO:0005634	nuclei	nucleus	analyz
+2592	2596	GO:0005623	cell	cell	 the
+2596	2606	GO:0003823	antibodies	antigen	 in vivo f
+2596	2606	GO:0019815	antibodies	B	 in vivo f
+2596	2606	GO:0042571	antibodies	immunoglobulin	 in vivo f
+2644	2654	GO:0003823	antibodies	antigen	nnexin A7,
+2644	2654	GO:0019815	antibodies	B	nnexin A7,
+2644	2654	GO:0042571	antibodies	immunoglobulin	nnexin A7,
+2675	2686	GO:0005654	nucleoplasm	nucleoplasm	 be describ
+2698	2709	GO:0003823	antibodies.	antigen	ated as the
+2698	2709	GO:0019815	antibodies.	B	ated as the
+2698	2709	GO:0042571	antibodies.	immunoglobulin	ated as the
+2696	2716	GO:0023052	signaling processes,	signaling	olated as the agent 
+2722	2727	GO:0005623	cells	cell	ediat
+2737	2741	GO:0005623	cell	cell	tion
+2737	2745	GO:0003823	antibody	antigen	tion of 
+2737	2745	GO:0019815	antibody	B	tion of 
+2737	2745	GO:0042571	antibody	immunoglobulin	tion of 
+2748	2756	GO:0003823	antibody	antigen	omaffin 
+2748	2756	GO:0019815	antibody	B	omaffin 
+2748	2756	GO:0042571	antibody	immunoglobulin	omaffin 
+2745	2764	GO:0042583	chromaffin granules	chromaffin	chromaffin granules
+2759	2770	GO:0009844	germinative	obsolete	nules and f
+2779	2788	GO:0016020	membranes	membrane	membranes
+2823	2834	GO:0005654	nucleoplasm	nucleoplasm	of Ca2+-ion
+2837	2842	GO:0005623	cells	cell	3]. E
+2843	2849	GO:0005623	cells.	cell	pressi
+2863	2873	GO:0003823	antibodies	antigen	onstrated 
+2863	2873	GO:0019815	antibodies	B	onstrated 
+2863	2873	GO:0042571	antibodies	immunoglobulin	onstrated 
+2930	2937	GO:0005829	cytosol	cytosol	es and 
+2937	2942	GO:0005623	cells	cell	cells
+2936	2946	GO:0003823	antibodies	antigen	 cells mai
+2936	2946	GO:0019815	antibodies	B	 cells mai
+2936	2946	GO:0042571	antibodies	immunoglobulin	 cells mai
+2937	2948	GO:0005654	nucleoplasm	nucleoplasm	cells mainl
+2956	2964	GO:0016020	membrane	membrane	ed in th
+2966	2973	GO:0005829	cytosol	cytosol	cytosol
+2973	2984	GO:0032502	development	developmental	 in close a
+2989	2998	GO:0003823	antibody.	antigen	ation wit
+2989	2998	GO:0019815	antibody.	B	ation wit
+2989	2998	GO:0042571	antibody.	immunoglobulin	ation wit
+2998	3003	GO:0005623	cells	cell	h mem
+3000	3011	GO:0003823	antibodies,	antigen	membranous 
+3000	3011	GO:0019815	antibodies,	B	membranous 
+3000	3011	GO:0042571	antibodies,	immunoglobulin	membranous 
+3025	3032	GO:0003675	protein	obsolete	t it wa
+3056	3063	GO:0005634	nucleus	nucleus	nucleus
+3070	3077	GO:0005829	cytosol	cytosol	enal ch
+3066	3083	GO:0031965	nuclear membranes	nuclear	 adrenal chromaff
+3106	3115	GO:0005737	cytoplasm	cytoplasm	nce of an
+3117	3129	GO:0032502	development.	developmental	lternatively
+3124	3134	GO:0065007	regulation	biological	ively spli
+3142	3147	GO:0005623	cells	cell	ette 
+3177	3181	GO:0005623	cell	cell	 A7 
+3183	3188	GO:0005623	cells	cell	oform
+3186	3194	GO:0016020	membrane	membrane	rms corr
+3195	3204	GO:0016020	membranes	membrane	sponding 
+3209	3229	GO:0005615	intercellular space.	extracellular	lecular mass to 47 k
+3224	3231	GO:0005634	nucleus	nucleus	 47 kDa
+3239	3247	GO:0003823	antibody	antigen	kDa. The
+3239	3247	GO:0019815	antibody	B	kDa. The
+3239	3247	GO:0042571	antibody	immunoglobulin	kDa. The
+3256	3263	GO:0005488	binding	binding	 differ
+3281	3290	GO:0003823	antibody.	antigen	al domain
+3281	3290	GO:0019815	antibody.	B	al domain
+3281	3290	GO:0042571	antibody.	immunoglobulin	al domain
+3336	3342	GO:0005623	cells,	cell	ern. T
+3367	3373	GO:0005634	Nuclei	nucleus	ent in
+3386	3391	GO:0005623	Cells	cell	excep
+3475	3488	GO:0009793	embryogenesis	embryo	, brain tissu
+3475	3488	GO:0009792	embryogenesis	embryo	, brain tissu
+3475	3488	GO:0009790	embryogenesis	embryo	, brain tissu
+3478	3490	GO:0051179	localization	localization	rain tissue 
+3495	3506	GO:0009844	germinative	obsolete	ed blood ce
+3501	3512	GO:0044297	cell bodies	cell	od cells co
+3538	3545	GO:0005829	cytosol	cytosol	 Previo
+3540	3546	GO:0005634	nuclei	nucleus	reviou
+3573	3579	GO:0005634	nuclei	nucleus	e subc
+3583	3593	GO:0003823	antibodies	antigen	lar locali
+3583	3593	GO:0019815	antibodies	B	lar locali
+3583	3593	GO:0042571	antibodies	immunoglobulin	lar locali
+3590	3598	GO:0005634	nucleus.	nucleus	alizatio
+3587	3599	GO:0051179	localization	localization	localization
+3595	3599	GO:0005623	cell	cell	tion
+3612	3624	GO:0051179	localization	localization	7 changes du
+3620	3632	GO:0051179	localization	localization	s during myo
+3643	3649	GO:0005634	nuclei	nucleus	rentia
+3648	3653	GO:0005623	cells	cell	ation
+3629	3654	GO:0045445	myoblast differentiation.	myoblast	myoblast differentiation.
+3654	3663	GO:0005737	cytoplasm	cytoplasm	 In undif
+3675	3680	GO:0005623	cells	cell	cells
+3680	3685	GO:0004617	serum	phosphoglycerate	 the 
+3682	3688	GO:0005634	nuclei	nucleus	he pro
+3685	3692	GO:0003675	protein	obsolete	protein
+3686	3692	GO:0023052	signal	signaling	rotein
+3688	3705	GO:0031965	nuclear membranes	nuclear	tein is equally d
+3714	3725	GO:0005654	nucleoplasm	nucleoplasm	d between c
+3724	3731	GO:0005829	cytosol	cytosol	cytosol
+3729	3739	GO:0003823	antibodies	antigen	ol and mem
+3729	3739	GO:0019815	antibodies	B	ol and mem
+3729	3739	GO:0042571	antibodies	immunoglobulin	ol and mem
+3736	3754	GO:0005624	membrane fractions	obsolete	membrane fractions
+3779	3784	GO:0005623	cells	cell	cells
+3786	3793	GO:0005829	cytosol	cytosol	t is ex
+3801	3808	GO:0005634	nucleus	nucleus	y prese
+3812	3817	GO:0005623	cells	cell	n the
+3821	3830	GO:0003823	antibody.	antigen	brane fra
+3821	3830	GO:0019815	antibody.	B	brane fra
+3821	3830	GO:0042571	antibody.	immunoglobulin	brane fra
+3818	3835	GO:0005624	membrane fraction	obsolete	membrane fraction
+3832	3839	GO:0005634	nucleus	nucleus	ion [7]
+3857	3862	GO:0005623	cells	cell	n et 
+3879	3884	GO:0005623	cells	cell	et al
+3907	3915	GO:0003823	antibody	antigen	oles for
+3907	3915	GO:0019815	antibody	B	oles for
+3907	3915	GO:0042571	antibody	immunoglobulin	oles for
+3958	3964	GO:0023052	signal	signaling	 of re
+3968	3975	GO:0005634	nuclei,	nucleus	ood cel
+3971	3978	GO:0005488	binding	binding	 cells,
+3979	3999	GO:0070527	platelet aggregation	platelet	platelet aggregation
+3992	4001	GO:0005737	cytoplasm	cytoplasm	egation v
+3996	4005	GO:0016020	membranes	membrane	ion veloc
+4013	4028	GO:0005886	plasma membrane	plasma	 in the velocit
+4047	4058	GO:0005654	nucleoplasm	nucleoplasm	ocytic Ca2+
+4052	4059	GO:0005488	Binding	binding	c Ca2+-
+4068	4085	GO:0031965	nuclear membranes	nuclear	nexin A7 is also 
+4078	4087	GO:0030425	dendrites	dendrite	s also in
+4104	4113	GO:0005737	cytoplasm	cytoplasm	ntenance 
+4107	4115	GO:0003823	antibody	antigen	nance of
+4107	4115	GO:0019815	antibody	B	nance of
+4107	4115	GO:0042571	antibody	immunoglobulin	nance of
+4114	4119	GO:0005623	cells	cell	f reg
+4139	4146	GO:0005829	cytosol	cytosol	physiol
+4149	4160	GO:0005654	nucleoplasm	nucleoplasm	 and Ca2+-h
+4169	4175	GO:0023052	signal	signaling	s [Sch
+4190	4195	GO:0005623	cells	cell	submi
+4209	4225	GO:0005886	plasma membrane,	plasma	d reports on app
+4235	4240	GO:0005623	cells	cell	d dis
+4233	4242	GO:0005737	cytoplasm	cytoplasm	and distr
+4241	4249	GO:0005829	cytosol.	cytosol	ribution
+4247	4252	GO:0005623	Cells	cell	on of
+4270	4283	GO:0005856	cytoskeleton,	cytoskeleton	 brain develo
+4271	4288	GO:0007420	brain development	brain	brain development
+4285	4293	GO:0043005	neurites	neuron	ent are 
+4294	4301	GO:0030424	(axons)	axon	ot avai
+4320	4325	GO:0005623	cells	cell	nt st
+4378	4385	GO:0005634	nucleus	nucleus	 develo
+4379	4390	GO:0009844	germinative	obsolete	developing 
+4392	4397	GO:0030424	axons	axon	ain o
+4447	4455	GO:0043005	neurites	neuron	t mouse 
+4501	4508	GO:0005634	nucleus	nucleus	early m
+4519	4530	GO:0032502	development	developmental	 First we e
+4534	4550	GO:0044301	climbing fibers.	climbing	ned the expressi
+4545	4552	GO:0005829	cytosol	cytosol	ression
+4547	4554	GO:0003675	protein	obsolete	ssion o
+4552	4557	GO:0005623	cells	cell	 of A
+4573	4578	GO:0005623	cells	cell	cells
+4567	4580	GO:0005622	intracellular	intracellular	in ES cells (
+4610	4624	GO:0009793	embryogenesis.	embryo	/6J mice) and 
+4610	4624	GO:0009792	embryogenesis.	embryo	/6J mice) and 
+4610	4624	GO:0009790	embryogenesis.	embryo	/6J mice) and 
+4629	4646	GO:0031965	nuclear membrane.	nuclear	arly stages of mo
+4655	4664	GO:0043005	neurites.	neuron	onic deve
+4660	4671	GO:0032502	development	developmental	development
+4718	4724	GO:0005634	nuclei	nucleus	d at t
+4727	4734	GO:0003675	protein	obsolete	protein
+4790	4796	GO:0005623	cells,	cell	pectiv
+4814	4820	GO:0005623	cells,	cell	 analy
+4817	4822	GO:0005623	cells	cell	alysi
+4835	4848	GO:0005622	intracellular	intracellular	-cells and at
+4850	4855	GO:0005623	cells	cell	mbryo
+4911	4916	GO:0045101	GFAP.	obsolete	b and
+4924	4936	GO:0051179	localization	localization	 which resul
+4936	4944	GO:0005829	cytosol.	cytosol	t from a
+4944	4955	GO:0005654	nucleoplasm	nucleoplasm	lternative 
+4955	4963	GO:0045292	splicing	mRNA	splicing
+4963	4979	GO:0031965	nuclear membrane	nuclear	 in the untransl
+5004	5012	GO:0003823	antibody	antigen	. We fou
+5004	5012	GO:0019815	antibody	B	. We fou
+5004	5012	GO:0042571	antibody	immunoglobulin	. We fou
+5014	5026	GO:0051179	localization	localization	 similar Ann
+5034	5042	GO:0003675	protein.	obsolete	mRNA lev
+5077	5091	GO:0051170	nuclear import	nuclear	eprobing with 
+5097	5110	GO:0051179	localization,	localization	tin probe ver
+5141	5146	GO:0005623	Cells	cell	ance 
+5160	5172	GO:0051179	localization	localization	grating mRNA
+5233	5240	GO:0005488	binding	binding	for β-a
+5258	5265	GO:0003675	protein	obsolete	protein
+5259	5266	GO:0003675	protein	obsolete	rotein 
+5281	5285	GO:0031672	band	A	 exp
+5295	5301	GO:0005634	nuclei	nucleus	the sm
+5300	5308	GO:0005829	cytosol.	cytosol	maller A
+5355	5360	GO:0005623	cells	cell	cells
+5369	5385	GO:0005635	nuclear envelope	nuclear	t tissue are inc
+5396	5402	GO:0005634	nuclei	nucleus	ontrol
+5403	5410	GO:0005634	nucleus	nucleus	. Figur
+5401	5411	GO:0009056	breakdown.	catabolic	l). Figure
+5414	5419	GO:0005623	cells	cell	Expre
+5461	5469	GO:0005634	nucleus,	nucleus	lysis of
+5474	5483	GO:0044297	cell body	cell	from ES-c
+5490	5502	GO:0051179	localization	localization	d embryos E7
+5521	5530	GO:0030425	dendrites	dendrite	bed with 
+5534	5539	GO:0005623	cells	cell	ll le
+5561	5572	GO:0009844	germinative	obsolete	Transcripts
+5635	5640	GO:0030424	axons	axon	anel)
+5642	5646	GO:0005623	cell	cell	Repr
+5680	5695	GO:0016310	phosphorylation	phosphorylation	d equal loading
+5717	5723	GO:0031672	band).	A	band).
+5731	5737	GO:0023052	signal	signaling	ine ES
+5738	5743	GO:0005623	cells	cell	cells
+5745	5754	GO:0005737	cytoplasm	cytoplasm	ES) expre
+5798	5806	GO:0005634	nucleus,	nucleus	soforms 
+5835	5842	GO:0005488	binding	binding	a neuro
+5846	5851	GO:0005623	cells	cell	cells
+5903	5907	GO:0007568	aged	aging	t mi
+5911	5919	GO:0003675	Proteins	obsolete	Proteins
+5922	5937	GO:0043234	protein complex	protein	om neuro-2a and
+5941	5947	GO:0005623	cells,	cell	cells,
+6024	6034	GO:0005737	cytoplasm.	cytoplasm	 acrylamid
+6071	6081	GO:0016020	membranes.	membrane	membranes.
+6120	6136	GO:0006260	DNA replication.	DNA	03–217 followed 
+6130	6146	GO:0048469	cell maturation.	cell	lowed by incubat
+6197	6209	GO:0051179	localization	localization	etection was
+6259	6263	GO:0005623	cell	cell	stry
+6321	6333	GO:0051179	localization	localization	pment. Annex
+6396	6405	GO:0005829	cytosolic	cytosol	cognizes 
+6485	6491	GO:0005634	nuclei	nucleus	er sta
+6511	6516	GO:0005623	cells	cell	er An
+6530	6539	GO:0005829	cytosolic	cytosol	ssion in 
+6588	6596	GO:0043005	neurites	neuron	 detecte
+6601	6611	GO:0030425	dendrites.	dendrite	almost all
+6605	6611	GO:0005634	nuclei	nucleus	st all
+6730	6737	GO:0005829	cytosol	cytosol	 from o
+6749	6756	GO:0005634	nuclei.	nucleus	ree ger

@@ -1,0 +1,306 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+8	17	GO:0009058	formation	biosynthetic	 Photorec
+29	33	GO:0005623	Cell	cell	sing
+78	86	GO:0003823	Antibody	antigen	Enhanced
+78	86	GO:0019815	Antibody	B	Enhanced
+78	86	GO:0042571	Antibody	immunoglobulin	Enhanced
+103	116	GO:0007163	cell polarity	establishment	Abstract Rod 
+137	141	GO:0005623	cell	cell	rs s
+149	155	GO:0007601	vision	visual	vision
+177	183	GO:0005623	cells;	cell	light 
+209	214	GO:0005623	cells	cell	The d
+238	242	GO:0019013	core	viral	tion
+251	264	GO:0051179	localization;	localization	ght to stem f
+284	299	GO:0010467	gene expression	gene	gene expression
+310	319	GO:0009058	formation	biosynthetic	morpholog
+327	333	GO:0023052	signal	signaling	 synap
+328	342	GO:0006351	transcription.	transcription,	synaptic conne
+352	360	GO:0003823	antibody	antigen	 In this
+352	360	GO:0019815	antibody	B	 In this
+352	360	GO:0042571	antibody	immunoglobulin	 In this
+367	372	GO:0005623	cells	cell	 we h
+375	390	GO:0010467	gene expression	gene	 examined the p
+424	439	GO:0010467	Gene Expression	gene	degeneration 7 
+488	494	GO:0023052	signal	signaling	d S-co
+524	536	GO:0051179	localization	localization	t carries a 
+539	550	GO:0008152	metabolism,	metabolic	ntaneous de
+587	601	GO:0098754	detoxification	detoxification	, an orphan nu
+598	610	GO:0043473	pigmentation	pigmentation	 nuclear rec
+635	645	GO:0006096	glycolysis	glycolytic	r mutated 
+662	666	GO:0005623	cell	cell	g mi
+677	696	GO:0006006	glucose metabolism,	glucose	d in situ hybridiza
+772	778	GO:0007602	opsin.	phototransduction	d numb
+772	778	GO:0015053	opsin.	obsolete	d numb
+772	778	GO:0016918	opsin.	retinal	d numb
+772	778	GO:0009881	opsin.	photoreceptor	d numb
+772	778	GO:0046876	opsin.	3,4-didehydroretinal	d numb
+773	778	GO:0005623	cells	cell	 numb
+803	808	GO:0005623	cells	cell	cells
+800	818	GO:0006006	glucose metabolism	glucose	ng cells that ultr
+814	819	GO:0005623	cells	cell	ultra
+843	848	GO:0005623	cells	cell	e nor
+836	857	GO:0006631	fatty acid metabolism	fatty	ar to be normal cones
+868	878	GO:0006281	DNA repair	DNA	y, the maj
+869	881	GO:0044297	cell bodies.	cell	, the majori
+888	892	GO:0005623	cell	cell	he p
+913	920	GO:0023052	signal,	signaling	rd7 ret
+918	937	GO:0006006	glucose metabolism,	glucose	etina represent a m
+940	945	GO:0005623	cells	cell	holog
+943	955	GO:0051179	localization	localization	ogically hyb
+959	963	GO:0005623	cell	cell	cell
+1012	1029	GO:0007602	phototransduction	phototransduction	genes. In additio
+1025	1042	GO:0032475	otolith formation	otolith	ition, in situ hy
+1045	1052	GO:0007602	opsins,	phototransduction	dizatio
+1045	1052	GO:0015053	opsins,	obsolete	dizatio
+1045	1052	GO:0016918	opsins,	retinal	dizatio
+1045	1052	GO:0009881	opsins,	photoreceptor	dizatio
+1045	1052	GO:0046876	opsins,	3,4-didehydroretinal	dizatio
+1053	1061	GO:0003823	antibody	antigen	 screeni
+1053	1061	GO:0019815	antibody	B	 screeni
+1053	1061	GO:0042571	antibody	immunoglobulin	 screeni
+1062	1066	GO:0005623	cell	cell	g of
+1070	1087	GO:0008081	phosphodiesterase	phosphoric	es shown to be up
+1161	1166	GO:0005623	cells	cell	speci
+1197	1203	GO:0005634	nuclei	nucleus	 a wid
+1218	1233	GO:0010467	gene expression	gene	hemical functio
+1234	1238	GO:0005623	Cell	cell	s, i
+1241	1246	GO:0007602	opsin	phototransduction	uding
+1241	1246	GO:0015053	opsin	obsolete	uding
+1241	1246	GO:0016918	opsin	retinal	uding
+1241	1246	GO:0009881	opsin	photoreceptor	uding
+1241	1246	GO:0046876	opsin	3,4-didehydroretinal	uding
+1299	1310	GO:0008152	metabolism.	metabolic	metabolism.
+1300	1315	GO:0010467	gene expression	gene	etabolism. We s
+1338	1343	GO:0005623	cells	cell	l ele
+1338	1353	GO:0010467	gene expression	gene	l electroretino
+1363	1368	GO:0005623	cells	cell	w ret
+1401	1405	GO:0005623	cell	cell	smor
+1413	1424	GO:0044297	cell bodies	cell	seen in hum
+1510	1528	GO:0006006	glucose metabolism	glucose	receptor cell type
+1588	1596	GO:0003823	antibody	antigen	versity 
+1588	1596	GO:0019815	antibody	B	versity 
+1588	1596	GO:0042571	antibody	immunoglobulin	versity 
+1631	1637	GO:0023052	signal	signaling	entifi
+1668	1679	GO:0044297	cell bodies	cell	ferences be
+1684	1694	GO:0003823	antibodies	antigen	 rods and 
+1684	1694	GO:0019815	antibodies	B	 rods and 
+1684	1694	GO:0042571	antibodies	immunoglobulin	 rods and 
+1715	1721	GO:0023052	signal	signaling	eyond 
+1728	1733	GO:0007602	opsin	phototransduction	revio
+1728	1733	GO:0015053	opsin	obsolete	revio
+1728	1733	GO:0016918	opsin	retinal	revio
+1728	1733	GO:0009881	opsin	photoreceptor	revio
+1728	1733	GO:0046876	opsin	3,4-didehydroretinal	revio
+1738	1753	GO:0010467	gene expression	gene	discovered. Syn
+1759	1765	GO:0007601	Vision	visual	Vision
+1815	1821	GO:0023052	signal	signaling	 proje
+1813	1836	GO:0005720	nuclear heterochromatin	nuclear	is projected onto the r
+1862	1877	GO:0010467	gene expression	gene	ture lining the
+1893	1903	GO:0003823	antibodies	antigen	ye. Photor
+1893	1903	GO:0019815	antibodies	B	ye. Photor
+1893	1903	GO:0042571	antibodies	immunoglobulin	ye. Photor
+1938	1942	GO:0005623	cell	cell	cell
+1963	1974	GO:0000791	euchromatin	euchromatin	 are the fi
+2041	2050	GO:0005737	cytoplasm	cytoplasm	o types o
+2053	2061	GO:0003823	antibody	antigen	hotorece
+2053	2061	GO:0019815	antibody	B	hotorece
+2053	2061	GO:0042571	antibody	immunoglobulin	hotorece
+2065	2072	GO:0005634	nuclei,	nucleus	s: rods
+2101	2107	GO:0005634	nuclei	nucleus	zed fo
+2098	2110	GO:0005739	mitochondria	mitochondrion	alized for n
+2119	2126	GO:0007601	vision,	visual	vision,
+2157	2163	GO:0007601	vision	visual	r visi
+2159	2166	GO:0007601	vision.	visual	vision.
+2200	2205	GO:0005623	cells	cell	ed th
+2253	2258	GO:0005623	cells	cell	 that
+2326	2330	GO:0005623	cell	cell	muta
+2392	2397	GO:0005623	cells	cell	(ESCS
+2400	2405	GO:0005623	cells	cell	Surpr
+2403	2409	GO:0023052	signal	signaling	prisin
+2426	2431	GO:0007602	opsin	phototransduction	 of p
+2426	2431	GO:0015053	opsin	obsolete	 of p
+2426	2431	GO:0016918	opsin	retinal	 of p
+2426	2431	GO:0009881	opsin	photoreceptor	 of p
+2426	2431	GO:0046876	opsin	3,4-didehydroretinal	 of p
+2479	2483	GO:0005623	cell	cell	 hav
+2513	2518	GO:0005623	cells	cell	 and 
+2524	2529	GO:0005623	cells	cell	 It i
+2539	2557	GO:0006997	nuclear morphology	nucleus	 that the abnormal
+2560	2565	GO:0005623	Cells	cell	ature
+2606	2611	GO:0007602	opsin	phototransduction	 to u
+2606	2611	GO:0015053	opsin	obsolete	 to u
+2606	2611	GO:0016918	opsin	retinal	 to u
+2606	2611	GO:0009881	opsin	photoreceptor	 to u
+2606	2611	GO:0046876	opsin	3,4-didehydroretinal	 to u
+2627	2631	GO:0005623	cell	cell	 dea
+2655	2660	GO:0005623	cells	cell	tely 
+2667	2682	GO:0010467	gene expression	gene	s the situation
+2700	2704	GO:0005623	cell	cell	 wit
+2697	2708	GO:0044297	cell bodies	cell	nts with ES
+2719	2734	GO:0010467	gene expression	gene	provide an expl
+2776	2781	GO:0005623	cells	cell	s dis
+2831	2836	GO:0005623	cells	cell	n mol
+2908	2915	GO:0031430	midline	M	 contri
+2920	2946	GO:0051674	localization of their cell	localization	to a better overall unders
+2947	2953	GO:0023052	signal	signaling	anding
+2972	2978	GO:0005623	cells,	cell	underl
+2979	2989	GO:0044297	cell body,	cell	ing night,
+2991	2995	GO:0005623	cell	cell	ay, 
+2987	3003	GO:0010467	gene expression,	gene	t, day, and colo
+3005	3012	GO:0007601	vision.	visual	vision.
+3032	3037	GO:0005623	cells	cell	ed S-
+3078	3094	GO:0000792	heterochromatin,	heterochromatin	e of photorecept
+3135	3147	GO:0000791	euchromatin,	euchromatin	tive of rod 
+3176	3185	GO:0005737	cytoplasm	cytoplasm	ctroretin
+3194	3204	GO:0043226	organelles	organelle	G) with a 
+3225	3229	GO:0005623	cell	cell	ly i
+3245	3250	GO:0005623	cells	cell	oth l
+3259	3275	GO:1990603	dark adaptation,	dark	dark adaptation,
+3289	3300	GO:0044297	cell bodies	cell	sed sensiti
+3315	3320	GO:0005623	cells	cell	 to s
+3325	3330	GO:0005623	cells	cell	wavel
+3344	3349	GO:0005623	cells	cell	,2]. 
+3351	3366	GO:0000792	heterochromatin	heterochromatin	e disease is ca
+3364	3369	GO:0005623	cells	cell	cause
+3397	3408	GO:0000791	euchromatin	euchromatin	 nuclear re
+3423	3428	GO:0005623	cells	cell	ption
+3432	3437	GO:0005623	cells	cell	tor N
+3466	3477	GO:0032502	development	developmental	ptor nuclea
+3477	3482	GO:0005623	cells	cell	r rec
+3478	3489	GO:0000791	euchromatin	euchromatin	 receptor),
+3525	3531	GO:0023052	signal	signaling	ods [3
+3529	3534	GO:0005623	cells	cell	[3,4]
+3544	3550	GO:0023052	signal	signaling	uman g
+3548	3559	GO:0044297	cell bodies	cell	 genetic st
+3564	3569	GO:0005623	cells	cell	 have
+3573	3579	GO:0023052	signal	signaling	o demo
+3596	3601	GO:0005623	cells	cell	s in 
+3679	3690	GO:0044297	cell bodies	cell	nal degener
+3693	3704	GO:0044297	cell bodies	cell	on [5]. The
+3709	3720	GO:0044297	cell bodies	cell	ial reports
+3730	3735	GO:0005623	cells	cell	ts wi
+3746	3751	GO:0005623	cells	cell	ribut
+3801	3805	GO:0005623	cell	cell	d ph
+3812	3819	GO:0005634	nucleus	nucleus	ptor sy
+3841	3845	GO:0005623	cell	cell	ctiv
+3854	3859	GO:0005623	cells	cell	 ligh
+3859	3863	GO:0030424	Axon	axon	t ad
+3849	3865	GO:0000792	heterochromatin.	heterochromatin	under light adap
+3902	3906	GO:0005623	cell	cell	ever
+3896	3907	GO:0044297	cell bodies	cell	s, however,
+3911	3916	GO:0007602	opsin	phototransduction	clude
+3911	3916	GO:0015053	opsin	obsolete	clude
+3911	3916	GO:0016918	opsin	retinal	clude
+3911	3916	GO:0009881	opsin	photoreceptor	clude
+3911	3916	GO:0046876	opsin	3,4-didehydroretinal	clude
+3931	3937	GO:0023052	signal	signaling	was du
+3950	3956	GO:0023052	signal	signaling	erary 
+3958	3974	GO:0000792	heterochromatin,	heterochromatin	ort-wavelength (
+3979	3985	GO:0023052	signal	signaling	”) con
+3980	3991	GO:0044297	cell bodies	cell	) cone phot
+3981	3993	GO:0000791	euchromatin,	euchromatin	 cone photor
+4015	4027	GO:0005739	mitochondria	mitochondrion	these patien
+4053	4068	GO:0010467	gene expression	gene	ogic analysis o
+4074	4079	GO:0005623	cells	cell	tina 
+4069	4079	GO:0044297	cell body.	cell	 a retina 
+4093	4097	GO:0005623	cell	cell	atie
+4121	4137	GO:0010467	gene expression,	gene	ve retinal degen
+4127	4142	GO:0000792	heterochromatin	heterochromatin	inal degenerati
+4136	4143	GO:0005623	cells).	cell	neratio
+4154	4159	GO:0005623	cells	cell	ted a
+4161	4171	GO:0065007	regulation	biological	absence of
+4169	4182	GO:0005739	mitochondrion	mitochondrion	of rhodopsin-
+4189	4194	GO:0005623	cells	cell	e cel
+4227	4232	GO:0005623	cells	cell	of S-
+4252	4258	GO:0005623	cells.	cell	g cell
+4301	4306	GO:0005623	cells	cell	es wa
+4334	4339	GO:0005623	cells	cell	 this
+4334	4341	GO:0005623	cells),	cell	 this p
+4327	4342	GO:0006351	Transcriptional	transcription,	ased in this pa
+4343	4353	GO:0065007	Regulatory	biological	ient (appr
+4432	4437	GO:0005623	cells	cell	ibute
+4481	4489	GO:0003823	antibody	antigen	n this d
+4481	4489	GO:0019815	antibody	B	n this d
+4481	4489	GO:0042571	antibody	immunoglobulin	n this d
+4493	4499	GO:0023052	signal	signaling	se. In
+4584	4593	GO:0009058	formation	biosynthetic	e formati
+4601	4607	GO:0023052	signal	signaling	e oute
+4623	4633	GO:0065007	regulation	biological	(ONL) wher
+4622	4634	GO:0005739	mitochondria	mitochondrion	 (ONL) where
+4634	4640	GO:0023052	signal	signaling	 photo
+4678	4689	GO:0044297	cell bodies	cell	w retinal d
+4686	4704	GO:0010842	retinal lamination	retina	l degeneration tha
+4697	4707	GO:0043226	organelles	organelle	ion that c
+4715	4720	GO:0005623	cells	cell	ately
+4718	4727	GO:0009058	formation	biosynthetic	ly lead t
+4754	4769	GO:0010467	gene expression	gene	]. Mutations in
+4755	4769	GO:0006351	transcription.	transcription,	. Mutations in
+4766	4771	GO:0005623	cells	cell	 in t
+4771	4776	GO:0005623	cells	cell	he mo
+4774	4784	GO:0065007	regulatory	biological	mouse orth
+4819	4825	GO:0023052	signal	signaling	in the
+4865	4879	GO:0006351	transcription,	transcription,	 7 (rd7) [15].
+4884	4888	GO:0005623	cell	cell	 mut
+4977	4986	GO:0009058	formation	biosynthetic	e formati
+5003	5008	GO:0005623	cells	cell	usly,
+5005	5017	GO:0044297	cell bodies.	cell	ly, the ERG 
+5054	5060	GO:0005623	cells.	cell	k adap
+5049	5064	GO:1990603	dark adaptation	dark	d dark adaptati
+5064	5075	GO:0044297	cell bodies	cell	on has been
+5105	5112	GO:0031430	midline	M	g progr
+5120	5124	GO:0005623	cell	cell	tten
+5128	5133	GO:0005623	cells	cell	on wi
+5156	5162	GO:0023052	signal	signaling	 to de
+5177	5185	GO:0003823	antibody	antigen	 loss [1
+5177	5185	GO:0019815	antibody	B	 loss [1
+5177	5185	GO:0042571	antibody	immunoglobulin	 loss [1
+5206	5211	GO:0005623	cells	cell	wed a
+5243	5248	GO:0005623	cells	cell	mber 
+5263	5268	GO:0005623	cells	cell	e cel
+5300	5306	GO:0007602	opsin.	phototransduction	 wild 
+5300	5306	GO:0015053	opsin.	obsolete	 wild 
+5300	5306	GO:0016918	opsin.	retinal	 wild 
+5300	5306	GO:0009881	opsin.	photoreceptor	 wild 
+5300	5306	GO:0046876	opsin.	3,4-didehydroretinal	 wild 
+5304	5318	GO:0005886	cell membranes	plasma	d type [17]. I
+5327	5355	GO:0001750	photoreceptor outer segments	photoreceptor	n, two groups recently repor
+5436	5441	GO:0005623	cells	cell	bette
+5504	5509	GO:0005623	cells	cell	cular
+5528	5533	GO:0005623	cells	cell	l ana
+5562	5568	GO:0023052	signal	signaling	f the 
+5584	5589	GO:0005623	cells	cell	. Mic
+5607	5613	GO:0023052	signal	signaling	u hybr
+5623	5638	GO:0010467	gene expression	gene	analyses reveal
+5648	5654	GO:0005623	cells,	cell	t incr
+5671	5686	GO:0010467	Gene Expression	gene	r of S-opsin–po
+5691	5696	GO:0005623	cells	cell	e cel
+5747	5760	GO:0005739	mitochondria,	mitochondrion	c genes withi
+5827	5832	GO:0005623	cells	cell	t the
+5831	5836	GO:0005623	cells	cell	e cel
+5849	5854	GO:0005623	cells	cell	ress 
+5854	5865	GO:0043226	organelles.	organelle	rod and con
+5924	5928	GO:0005623	cell	cell	d ce
+5932	5942	GO:0065007	regulatory	biological	ype, inter
+5939	5949	GO:0043226	organelle.	organelle	termediate
+5954	5959	GO:0005623	cells	cell	een n
+6025	6037	GO:0005739	mitochondria	mitochondrion	es in the rd
+6108	6119	GO:0044297	cell bodies	cell	tant retina
+6147	6152	GO:0005623	cells	cell	pe co
+6292	6297	GO:0005623	cells	cell	matel
+6335	6341	GO:0023052	signal	signaling	ed fro
+6365	6377	GO:0051179	localization	localization	 system, and
+6415	6421	GO:0005623	cells.	cell	er 34,
+6406	6433	GO:0001917	photoreceptor inner segment	photoreceptor	ntains over 34,000 genes. E
+6463	6475	GO:0051179	localization	localization	ere carried 
+6521	6526	GO:0005623	cells	cell	 appl
+6531	6535	GO:0031672	band	A	n de
+6546	6551	GO:0005623	cells	cell	her a
+6574	6601	GO:0010468	regulatory gene expression.	regulation	down-regulated in the mutan
+6672	6684	GO:0051179	localization	localization	ed widesprea
+6941	6945	GO:0005623	cell	cell	jori
+6967	6971	GO:0005623	cell	cell	esen
+6975	6985	GO:0097194	apoptosis.	execution	mponents o
+6975	6985	GO:0006915	apoptosis.	apoptotic	mponents o
+7003	7015	GO:0051179	localization	localization	ction cascad
+7092	7098	GO:0023052	signal	signaling	 these
+7129	7138	GO:0009058	formation	biosynthetic	ific gene

@@ -1,0 +1,298 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+46	58	GO:0030016	myofibrillar	myofibril	etabolic Der
+45	60	GO:0010467	gene expression	gene	Metabolic Deran
+105	113	GO:0043495	anchored	protein	Control 
+103	115	GO:0030016	myofibrillar	myofibril	t Control an
+152	158	GO:0033867	fasted	Fas-activated	 encod
+166	181	GO:0006351	transcriptional	transcription,	transcriptional
+167	188	GO:0008152	metabolism, processes	metabolic	ranscriptional coacti
+178	202	GO:0019395	fatty acid and oxidation	fatty	nal coactivator peroxiso
+194	204	GO:0005777	peroxisome	peroxisome	peroxisome
+191	211	GO:0035640	exploratory behavior	exploration	or peroxisome prolif
+287	293	GO:0033867	fasted	Fas-activated	C-1α n
+294	298	GO:0005623	cell	cell	ll (
+302	309	GO:0003675	protein	obsolete	1α−/−) 
+300	312	GO:0005739	mitochondria	mitochondrion	C-1α−/−) mic
+316	326	GO:0030016	myofibrils	myofibril	re viable.
+311	326	GO:0010467	Gene expression	gene	ce were viable.
+336	340	GO:0005623	cell	cell	exte
+357	362	GO:0005623	cells	cell	 reve
+454	464	GO:0008152	metabolism	metabolic	stnatal gr
+462	468	GO:0040007	growth	growth	growth
+467	471	GO:0005623	Cell	cell	h of
+472	476	GO:0019013	Core	viral	hear
+465	481	GO:0009409	response to cold	response	wth of heart and
+481	485	GO:0007568	ages	aging	 slo
+495	507	GO:0009461	cytochrome C	obsolete	keletal musc
+495	507	GO:0045155	cytochrome C	electron	keletal musc
+515	521	GO:0040007	growth	growth	ns wit
+523	527	GO:0005623	cell	cell	high
+518	530	GO:0016467	ATP synthase	obsolete	with high mi
+518	530	GO:0016468	ATP synthase	obsolete	with high mi
+544	554	GO:0045157	cytochrome	electron	ergy deman
+544	554	GO:0009458	cytochrome	obsolete	ergy deman
+544	554	GO:0045158	cytochrome	electron	ergy deman
+544	554	GO:0009459	cytochrome	obsolete	ergy deman
+544	554	GO:0045154	cytochrome	electron	ergy deman
+544	554	GO:0045153	cytochrome	electron	ergy deman
+544	554	GO:0045155	cytochrome	electron	ergy deman
+544	554	GO:0045156	cytochrome	electron	ergy deman
+584	592	GO:0003675	proteins	obsolete	ce. With
+631	642	GO:0007585	respiration	respiratory	ally increa
+631	642	GO:0045333	respiration	cellular	ally increa
+793	804	GO:0007585	respiration	respiratory	 PGC-1α−/− 
+793	804	GO:0045333	respiration	cellular	 PGC-1α−/− 
+813	833	GO:0014823	response to exercise	response	ding to reduced musc
+829	834	GO:0007618	mated	mating	muscl
+829	834	GO:1990277	mated	parasexual	muscl
+829	834	GO:0000747	mated	conjugation	muscl
+829	834	GO:0009291	mated	unidirectional	muscl
+823	837	GO:0001966	(thigmotaxis),	thigmotaxis	duced muscle p
+852	856	GO:0019013	Core	viral	exer
+864	879	GO:0010467	gene expression	gene	acity. PGC-1α−/
+912	916	GO:0019013	Core	viral	n in
+934	954	GO:0019395	fatty acid oxidation	fatty	related largely to a
+953	964	GO:0007585	respiration	respiratory	abnormal co
+953	964	GO:0045333	respiration	cellular	abnormal co
+968	988	GO:0019395	Fatty acid oxidation	fatty	l of heart rate. The
+993	1015	GO:0019432	triglyceride synthesis	triglyceride	1α−/− mice were unable
+1028	1032	GO:0019013	core	viral	core
+1047	1056	GO:0008152	metabolic	metabolic	re follow
+1047	1056	GO:0007552	metabolic	metamorphosis	re follow
+1048	1058	GO:0065007	regulatory	biological	e followin
+1059	1064	GO:0005623	cells	cell	 expo
+1057	1067	GO:0065007	regulatory	biological	ng exposur
+1067	1074	GO:0005488	binding	binding	e to co
+1078	1100	GO:0019432	Triglyceride synthesis	triglyceride	consistent with an alt
+1154	1163	GO:0009058	synthesis	biosynthetic	tion, PGC
+1191	1199	GO:0003675	protein.	obsolete	steatosi
+1204	1215	GO:0007585	respiration	respiratory	 to a combi
+1204	1215	GO:0045333	respiration	cellular	 to a combi
+1222	1228	GO:0016265	deaths	death	of red
+1223	1232	GO:0009058	synthesis	biosynthetic	f reduced
+1299	1310	GO:0007585	respiration	respiratory	lipogenic g
+1299	1310	GO:0045333	respiration	cellular	lipogenic g
+1320	1325	GO:0005623	cells	cell	risin
+1359	1363	GO:0019013	core	viral	epti
+1394	1402	GO:0003675	proteins	obsolete	istance 
+1393	1403	GO:0009058	synthesis,	biosynthetic	sistance t
+1422	1432	GO:0005777	peroxisome	peroxisome	ols. Lastl
+1445	1452	GO:0033867	fasting	Fas-activated	esions 
+1449	1453	GO:0019013	core	viral	ns w
+1450	1461	GO:0007585	Respiration	respiratory	s were dete
+1450	1461	GO:0045333	Respiration	cellular	s were dete
+1490	1497	GO:0016088	Insulin	obsolete	ystem o
+1541	1545	GO:0019013	core	viral	that
+1554	1565	GO:0007585	Respiration	respiratory	s necessary
+1554	1565	GO:0045333	Respiration	cellular	s necessary
+1585	1592	GO:0003675	protein	obsolete	ptation
+1589	1598	GO:0009058	synthesis	biosynthetic	ion to th
+1600	1609	GO:0008152	metabolic	metabolic	metabolic
+1600	1609	GO:0007552	metabolic	metamorphosis	metabolic
+1689	1696	GO:0003675	protein	obsolete	nal cap
+1758	1762	GO:0007568	aged	aging	nds 
+1805	1811	GO:0040007	growth	growth	 birth
+1865	1869	GO:0019013	Core	viral	 sig
+1866	1875	GO:0023052	signaling	signaling	signaling
+1880	1895	GO:0006351	transcriptional	transcription,	transcriptional
+1896	1906	GO:0065007	regulatory	biological	regulatory
+1913	1929	GO:0006629	lipid metabolism	lipid	ys that control 
+1913	1929	GO:0046493	lipid metabolism	lipid	ys that control 
+1922	1931	GO:0009058	synthesis	biosynthetic	ontrol th
+1941	1949	GO:0016020	membrane	membrane	te expre
+1950	1960	GO:0009058	synthesis.	biosynthetic	sion of nu
+2027	2038	GO:0008152	metabolism,	metabolic	metabolism,
+2061	2065	GO:0034023	pure	5-(carboxyamino)imidazole	 Rec
+2083	2087	GO:0019013	core	viral	s to
+2097	2104	GO:0003675	protein	obsolete	nscript
+2094	2109	GO:0006351	transcriptional	transcription,	transcriptional
+2121	2128	GO:0033867	fasting	Fas-activated	, perox
+2123	2133	GO:0005777	peroxisome	peroxisome	peroxisome
+2235	2245	GO:0065007	regulatory	biological	regulatory
+2280	2291	GO:0032502	development	developmental	ptional con
+2272	2295	GO:0006355	transcriptional control	regulation	transcriptional control
+2303	2318	GO:0006351	transcriptional	transcription,	ular energy met
+2358	2365	GO:0003675	protein	obsolete	n and b
+2356	2366	GO:0043204	perikarya,	perikaryon	ion and bi
+2371	2378	GO:0023052	signals	signaling	sis [1,
+2436	2447	GO:0007585	respiration	respiratory	 brown adip
+2436	2447	GO:0045333	respiration	cellular	 brown adip
+2434	2457	GO:0006355	transcriptional control	regulation	or brown adipose-specif
+2451	2464	GO:0006351	transcription	transcription,	specific fact
+2468	2475	GO:0016088	insulin	obsolete	that in
+2497	2516	GO:0042995	cellular processes.	cell	enic nuclear recept
+2497	2516	GO:0009987	cellular processes.	cellular	enic nuclear recept
+2520	2528	GO:0005773	vacuoles	vacuole	PARγ [2]
+2521	2530	GO:0007586	digestion	digestion	ARγ [2]. 
+2578	2593	GO:0006351	transcriptional	transcription,	s were identifi
+2640	2649	GO:0008152	metabolic	metabolic	-1β [4,5]
+2640	2649	GO:0007552	metabolic	metamorphosis	-1β [4,5]
+2672	2681	GO:0008152	metabolic	metabolic	rect tran
+2672	2681	GO:0007552	metabolic	metamorphosis	rect tran
+2677	2692	GO:0006351	transcriptional	transcription,	transcriptional
+2707	2714	GO:0040007	growth.	growth	 nuclea
+2747	2753	GO:0040007	growth	growth	iption
+2747	2754	GO:0016088	insulin	obsolete	iption 
+2805	2812	GO:0016088	insulin	obsolete	 PGC-1α
+2805	2817	GO:0007585	respiration,	respiratory	 PGC-1α is d
+2805	2817	GO:0045333	respiration,	cellular	 PGC-1α is d
+2839	2843	GO:0007568	aged	aging	ctiv
+2834	2843	GO:0008152	Metabolic	metabolic	t coactiv
+2834	2843	GO:0007552	Metabolic	metamorphosis	t coactiv
+2844	2859	GO:0010467	Gene Expression	gene	tors in that it
+2872	2879	GO:0003675	protein	obsolete	issue-e
+2880	2886	GO:0033867	Fasted	Fas-activated	riched
+2966	2975	GO:0008152	metabolic	metabolic	ncrease t
+2966	2975	GO:0007552	metabolic	metamorphosis	ncrease t
+2986	2991	GO:0005488	bound	binding	or mi
+3012	3022	GO:0023052	signaling.	signaling	at product
+3035	3041	GO:0023052	signal	signaling	PGC-1α
+3219	3230	GO:0007585	respiration	respiratory	ng PGC-1α i
+3219	3230	GO:0045333	respiration	cellular	ng PGC-1α i
+3217	3236	GO:0042593	glucose homeostasis	glucose	ding PGC-1α is rapi
+3291	3298	GO:0033867	fasting	Fas-activated	fasting
+3302	3322	GO:0019395	fatty acid oxidation	fatty	8,9,10,11,12,13,14,1
+3370	3376	GO:0040007	growth	growth	α is i
+3362	3383	GO:0001171	reverse transcription	reverse	at PGC-1α is involved
+3416	3425	GO:0008152	metabolic	metabolic	ergy meta
+3416	3425	GO:0007552	metabolic	metamorphosis	ergy meta
+3444	3465	GO:0019395	fatty acid oxidation.	fatty	es of evidence, based
+3477	3492	GO:0006094	gluconeogenesis	gluconeogenesis	lts of overexpr
+3502	3509	GO:0033867	fasting	Fas-activated	dies, i
+3525	3529	GO:0019013	core	viral	-1α 
+3535	3541	GO:0040007	growth	growth	ficien
+3551	3573	GO:0019432	triglyceride synthesis	triglyceride	te mitochondrial bioge
+3597	3601	GO:0004235	pump	obsolete	hond
+3646	3653	GO:0003675	protein	obsolete	vates t
+3656	3669	GO:0006351	transcription	transcription,	transcription
+3661	3669	GO:0003675	proteins	obsolete	cription
+3657	3672	GO:0010467	gene expression	gene	ranscription of
+3670	3683	GO:0006094	gluconeogenic	gluconeogenesis	of mitochondr
+3683	3703	GO:0031012	extracellular matrix	extracellular	ial uncoupling prote
+3725	3729	GO:0007568	ages	aging	roug
+3749	3755	GO:0033867	fasted	Fas-activated	the nu
+3753	3778	GO:0004879	nuclear hormone receptors	RNA	nuclear hormone receptors
+3763	3783	GO:0019395	fatty acid oxidation	fatty	rmone receptors PPAR
+3780	3787	GO:0033867	fasting	Fas-activated	PARγ an
+3784	3791	GO:0003675	protein	obsolete	 and th
+3788	3803	GO:0006094	gluconeogenesis	gluconeogenesis	 thyroid recept
+3863	3871	GO:0007519	myogenic	skeletal	myogenic
+3863	3871	GO:0048740	myogenic	obsolete	myogenic
+3882	3886	GO:0005623	cell	cell	cell
+3886	3892	GO:0023052	signal	signaling	 lines
+3888	3897	GO:0008152	metabolic	metabolic	ines demo
+3888	3897	GO:0007552	metabolic	metamorphosis	ines demo
+3883	3898	GO:0010467	gene expression	gene	ell lines demon
+3877	3899	GO:0019432	triglyceride synthesis	triglyceride	lian cell lines demons
+3912	3917	GO:0033867	fast,	Fas-activated	GC-1α
+3919	3923	GO:0007568	aged	aging	ctiv
+3940	3948	GO:0003823	antibody	antigen	l biogen
+3940	3948	GO:0019815	antibody	B	l biogen
+3940	3948	GO:0042571	antibody	immunoglobulin	l biogen
+3945	3965	GO:0019395	fatty acid oxidation	fatty	genesis through a gr
+3963	3967	GO:0019013	Core	viral	grou
+3968	3980	GO:0005739	mitochondria	mitochondrion	 of transcri
+3970	3983	GO:0006094	gluconeogenic	gluconeogenesis	f transcripti
+3997	4012	GO:0010467	gene expression	gene	ets including n
+4034	4038	GO:0019013	core	viral	tors
+4115	4130	GO:0006351	transcriptional	transcription,	transcriptional
+4123	4130	GO:0003675	protein	obsolete	ptional
+4145	4162	GO:0000262	mitochondrial DNA	mitochondrial	mitochondrial DNA
+4163	4176	GO:0006351	transcription	transcription,	transcription
+4188	4200	GO:0005739	mitochondria	mitochondrion	tion [8]. Th
+4218	4226	GO:0016020	membrane	membrane	imary ca
+4304	4316	GO:0030016	myofibrillar	myofibril	ed that over
+4309	4331	GO:0019432	triglyceride synthesis	triglyceride	at overexpression of P
+4329	4333	GO:0007568	ages	aging	 PGC
+4353	4366	GO:0005840	ribosomal RNA	ribosome	ndrial biogen
+4353	4366	GO:0003735	ribosomal RNA	structural	ndrial biogen
+4353	4366	GO:0005566	ribosomal RNA	obsolete	ndrial biogen
+4410	4415	GO:0007568	(ages	aging	GC-1α
+4459	4467	GO:0003675	proteins	obsolete	ers mito
+4478	4484	GO:0033867	fasted	Fas-activated	rolife
+4463	4490	GO:0000266	mitochondrial proliferation	mitochondrial	mitochondrial proliferation
+4488	4496	GO:0016020	membrane	membrane	on and t
+4499	4508	GO:0009058	formation	biosynthetic	formation
+4480	4512	GO:0042775	mitochondrial electron transport	mitochondrial	liferation and the formation of 
+4513	4526	GO:0009461	(cytochrome c	obsolete	itochondrial-
+4513	4526	GO:0045155	(cytochrome c	electron	itochondrial-
+4531	4541	GO:0045157	cytochrome	electron	type I, ox
+4531	4541	GO:0009458	cytochrome	obsolete	type I, ox
+4531	4541	GO:0045158	cytochrome	electron	type I, ox
+4531	4541	GO:0009459	cytochrome	obsolete	type I, ox
+4531	4541	GO:0045154	cytochrome	electron	type I, ox
+4531	4541	GO:0045153	cytochrome	electron	type I, ox
+4531	4541	GO:0045155	cytochrome	electron	type I, ox
+4531	4541	GO:0045156	cytochrome	electron	type I, ox
+4534	4545	GO:0007585	respiration	respiratory	e I, oxidat
+4534	4545	GO:0045333	respiration	cellular	e I, oxidat
+4568	4579	GO:0007585	respiration	respiratory	cle fibers 
+4568	4579	GO:0045333	respiration	cellular	cle fibers 
+4558	4583	GO:0006119	oxidative phosphorylation	oxidative	itch”) muscle fibers [17]
+4584	4592	GO:0033867	fasting.	Fas-activated	 Collect
+4601	4614	GO:0016467	ATP synthase)	obsolete	ese results i
+4601	4614	GO:0016468	ATP synthase)	obsolete	ese results i
+4655	4687	GO:0045098	glial fibrillary acidic protein,	type	e mitochondrial biogenesis. Rece
+4655	4687	GO:0045101	glial fibrillary acidic protein,	obsolete	e mitochondrial biogenesis. Rece
+4699	4711	GO:0007585	respiration,	respiratory	also implica
+4699	4711	GO:0045333	respiration,	cellular	also implica
+4729	4749	GO:0097449	astrocytic processes	astrocyte	homeostatic control 
+4755	4772	GO:0000262	mitochondrial DNA	mitochondrial	temic energy meta
+4812	4817	GO:0005623	cells	cell	e sev
+4811	4817	GO:0007568	aging,	aging	te sev
+4832	4845	GO:0006094	gluconeogenic	gluconeogenesis	c gluconeogen
+4929	4949	GO:0035640	exploratory behavior	exploration	and downstream mitoc
+5025	5036	GO:0032502	development	developmental	e and diabe
+5091	5096	GO:0033867	fast.	Fas-activated	hisms
+5100	5110	GO:0043205	fibrillary	fibril	hin the hu
+5141	5161	GO:0097449	astrocytic processes	astrocyte	 to be associated wi
+5168	5177	GO:0008152	metabolic	metabolic	ity, hype
+5168	5177	GO:0007552	metabolic	metamorphosis	ity, hype
+5197	5203	GO:0033867	fasted	Fas-activated	es [25
+5216	5227	GO:0007585	respiration	respiratory	30]. The ga
+5216	5227	GO:0045333	respiration	cellular	30]. The ga
+5239	5247	GO:0033867	fasting.	Fas-activated	on studi
+5297	5317	GO:0019395	fatty acid oxidation	fatty	hat PGC-1α is capabl
+5316	5327	GO:0007585	Respiration	respiratory	le of regul
+5316	5327	GO:0045333	Respiration	cellular	le of regul
+5325	5341	GO:0010467	gene expression,	gene	ulating postnata
+5362	5369	GO:0033867	fast. .	Fas-activated	However
+5375	5387	GO:0007585	respiration,	respiratory	necessity of
+5375	5387	GO:0045333	respiration,	cellular	necessity of
+5414	5426	GO:0042592	homeostasis,	homeostatic	c homeostasi
+5453	5465	GO:0032502	development,	developmental	, developmen
+5470	5476	GO:0040007	growth	growth	d grow
+5484	5490	GO:0098657	uptake	import	nly be
+5480	5491	GO:0007585	respiration	respiratory	an only be 
+5480	5491	GO:0045333	respiration	cellular	an only be 
+5480	5492	GO:0007585	respiration,	respiratory	an only be a
+5480	5492	GO:0045333	respiration,	cellular	an only be a
+5526	5537	GO:0007585	respiration	respiratory	rategies. T
+5526	5537	GO:0045333	respiration	cellular	rategies. T
+5603	5614	GO:0007585	respiration	respiratory	ed deletion
+5603	5614	GO:0045333	respiration	cellular	ed deletion
+5624	5632	GO:0005773	Vacuoles	vacuole	C-1α gen
+5606	5634	GO:0005741	outer mitochondrial membrane	mitochondrial	deletion of the PGC-1α gene.
+5673	5685	GO:0009461	cytochrome c	obsolete	ate that PGC
+5673	5685	GO:0045155	cytochrome c	electron	ate that PGC
+5720	5731	GO:0007585	respiration	respiratory	prenatal vi
+5720	5731	GO:0045333	respiration	cellular	prenatal vi
+5736	5748	GO:0051179	localization	localization	ty including
+5756	5764	GO:0005773	vacuoles	vacuole	ndrial b
+5834	5845	GO:0007585	respiration	respiratory	serves a cr
+5834	5845	GO:0045333	respiration	cellular	serves a cr
+5872	5878	GO:0005623	cells,	cell	etabol
+5891	5906	GO:0044306	nerve terminals	neuron	f multiple orga
+5898	5909	GO:0007585	Respiration	respiratory	ple organs 
+5898	5909	GO:0045333	Respiration	cellular	ple organs 
+5960	5967	GO:0016088	Insulin	obsolete	s durin
+6008	6015	GO:0016088	Insulin	obsolete	he PGC-
+6094	6100	GO:0033867	fasted	Fas-activated	exons 
+6147	6166	GO:0008152	metabolic processes	metabolic	g event resulted in
+6177	6198	GO:0019395	fatty acid oxidation,	fatty	ogous recombination w
+6199	6218	GO:0006118	electron transport,	obsolete	th insertion of the
+6223	6248	GO:0006119	oxidative phosphorylation	oxidative	inder of the construct (F
+6265	6272	GO:0016088	insulin	obsolete	sertion
+6556	6575	GO:0008152	metabolic processes	metabolic	confirmed using Sou
+6636	6643	GO:0043336	Resting	site-specific	C-1α ge
+6728	6739	GO:0032502	development	developmental	ot analysis

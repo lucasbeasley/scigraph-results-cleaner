@@ -1,0 +1,158 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	10	GO:0023052	signaling,	signaling	Dopamine D
+67	75	GO:0007612	learning	learning	learning
+73	81	GO:0007612	learning	learning	ng in C5
+142	151	GO:0023052	signaling	signaling	l signali
+144	153	GO:0023052	signaling	signaling	signaling
+185	193	GO:0007612	learning	learning	, and st
+240	247	GO:0007612	learned	learning	ing div
+291	299	GO:0007610	behavior	behavior	salience
+327	333	GO:0023052	signal	signaling	signal
+364	373	GO:0023052	signaling	signaling	guiding g
+397	407	GO:0007610	behaviors.	behavior	behaviors.
+440	449	GO:0023052	signaling	signaling	signaling
+455	463	GO:0007612	learning	learning	diated t
+507	515	GO:0007612	learning	learning	h a role
+568	577	GO:0007610	behaviors	behavior	behaviors
+595	604	GO:0023052	signaling	signaling	ed, an ex
+612	620	GO:0007612	learning	learning	nvolveme
+617	625	GO:0007612	learning	learning	ement of
+662	670	GO:0007612	learning	learning	tablishe
+724	733	GO:0023052	signaling	signaling	signaling
+774	783	GO:0007612	learning,	learning	learning,
+775	795	GO:0008306	associative learning	associative	earning, we compared
+866	874	GO:0007612	learning	learning	 wild-ty
+874	895	GO:0008306	associative learning.	associative	pe mice with respect 
+911	919	GO:0007612	learning	learning	 to atta
+984	1004	GO:0008306	associative learning	associative	ion) and disengage f
+1065	1070	GO:0007612	learn	learning	nting
+1099	1109	GO:0007612	learning).	learning	learning).
+1106	1114	GO:0007612	learning	learning	g). Resu
+1118	1128	GO:0023052	signaling,	signaling	Mildly foo
+1143	1152	GO:0007610	behaviors	behavior	le wild-t
+1168	1176	GO:0007612	learning	learning	 D2 rece
+1204	1211	GO:0007612	learned	learning	learned
+1220	1228	GO:0023052	signaled	signaling	eve and 
+1302	1307	GO:0005623	cells	cell	oth g
+1313	1321	GO:0023052	signaled	signaling	es readi
+1324	1331	GO:0007612	learned	learning	learned
+1316	1336	GO:0008306	associative learning	associative	readily learned to d
+1371	1391	GO:0008306	associative learning	associative	h sterile sand in or
+1409	1417	GO:0007612	learning	learning	ried foo
+1473	1481	GO:0007610	behavior	behavior	ce requi
+1580	1589	GO:0023052	signaling	signaling	ith a dif
+1629	1637	GO:0007612	learning	learning	e of the
+1678	1684	GO:0023052	signal	signaling	cer (f
+1681	1690	GO:0023052	signaling	signaling	 (food). 
+1734	1740	GO:0023052	signal	signaling	ent mi
+1748	1757	GO:0023052	signaling	signaling	tedly fai
+1763	1772	GO:0023052	signaling	signaling	lter thei
+1798	1806	GO:0007612	learning	learning	 reversa
+1801	1810	GO:0007612	learning.	learning	versal tr
+1912	1922	GO:0040011	locomotion	locomotion	 complete 
+1927	1935	GO:0007612	learning	learning	ce of fu
+1981	1990	GO:0007608	olfaction	sensory	olfaction
+1992	2000	GO:0007612	learning	learning	ut displ
+2015	2024	GO:0023052	signaling	signaling	ability t
+2017	2026	GO:0023052	signaling	signaling	ility to 
+2048	2067	GO:0050893	sensory processing,	sensory	inforcement conting
+2065	2073	GO:0007612	learning	learning	ngencies
+2081	2089	GO:0007612	learning	learning	rmore, t
+2141	2150	GO:0023052	signaling	signaling	 adjust t
+2195	2200	GO:0007612	learn	learning	imulu
+2298	2307	GO:0023052	signaling	signaling	signaling
+2326	2334	GO:0007610	behavior	behavior	pamine D
+2337	2357	GO:0008306	associative learning	associative	eceptor is important
+2378	2382	GO:0060080	IPSP	inhibitory	iati
+2398	2406	GO:0007612	learning	learning	learning
+2420	2425	GO:0007612	learn	learning	impli
+2434	2443	GO:0007610	behaviors	behavior	or the tr
+2496	2510	GO:0061744	motor behavior	motor	forcement-medi
+2509	2516	GO:0007612	learned	learning	iated a
+2515	2536	GO:0008306	associative learning,	associative	associative learning,
+2571	2579	GO:0007612	learning	learning	istic re
+2621	2630	GO:0023052	signaling	signaling	that sign
+2626	2632	GO:0023052	signal	signaling	signal
+2657	2677	GO:0008306	associative learning	associative	ving a primary reinf
+2698	2713	GO:0061744	motor behavior?	motor	s been divided 
+2789	2797	GO:0007612	learning	learning	s experi
+2850	2857	GO:0005488	binding	binding	arned/i
+2874	2882	GO:0007610	behavior	behavior	al respo
+2960	2968	GO:0023052	signaled	signaling	tachment
+3025	3033	GO:0007612	learning	learning	 that si
+3031	3037	GO:0023052	signal	signaling	signal
+3039	3059	GO:0008306	associative learning	associative	hether the delivery 
+3128	3136	GO:0007610	behavior	behavior	behavior
+3138	3147	GO:0023052	signaling	signaling	e.g. a ro
+3176	3184	GO:0007612	learning	learning	ellets o
+3221	3229	GO:0007612	learning	learning	ted in a
+3263	3272	GO:0007610	behavior.	behavior	 is the m
+3292	3301	GO:0007612	learning.	learning	ative lea
+3286	3306	GO:0008306	associative learning	associative	associative learning
+3314	3323	GO:0023052	signaling	signaling	nships ov
+3480	3485	GO:0007612	learn	learning	ve pr
+3573	3593	GO:0008306	associative learning	associative	associative learning
+3596	3601	GO:0007612	learn	learning	 mold
+3631	3638	GO:0007612	learned	learning	r learn
+3666	3686	GO:0008306	associative learning	associative	f conditioned stimul
+3740	3748	GO:0007612	learning	learning	rating t
+3752	3761	GO:0007612	learning)	learning	the disru
+3774	3782	GO:0007610	behavior	behavior	mine sig
+3777	3786	GO:0023052	signaling	signaling	e signali
+3809	3818	GO:0023052	signaling	signaling	f dopamin
+3857	3866	GO:0007612	learning)	learning	gonists [
+3863	3884	GO:0008306	associative learning,	associative	s [3-9] or 6-OHDA les
+3894	3902	GO:0007129	synapses	synapsis	,11] do 
+3894	3902	GO:0045202	synapses	synapse	,11] do 
+3923	3931	GO:0007612	learning	learning	the pala
+3941	3959	GO:0007634	locomotor behavior	optokinetic	r primary reinforc
+4001	4008	GO:0023052	signals	signaling	r (e.g.
+4046	4055	GO:0009058	formation	biosynthetic	e formati
+4075	4084	GO:0023052	signaling	signaling	ence. Dop
+4088	4097	GO:0023052	signaling	signaling	e signali
+4088	4108	GO:0008306	associative learning	associative	e signaling is media
+4171	4180	GO:0023052	signaling	signaling	coupled r
+4272	4280	GO:0007612	learning	learning	. Althou
+4447	4452	GO:0007612	learn	learning	used 
+4457	4466	GO:0007610	behaviors	behavior	acologica
+4513	4520	GO:0007612	learned	learning	 of dop
+4563	4583	GO:0008306	associative learning	associative	f associative learni
+4658	4663	GO:0030424	axons	axon	 acqu
+4707	4716	GO:0007610	behaviors	behavior	d behavio
+4708	4717	GO:0007612	learning.	learning	 behavior
+4798	4803	GO:0005488	bound	binding	ues p
+4808	4816	GO:0007610	behavior	behavior	tive of 
+4867	4874	GO:0007612	learned	learning	tation 
+4890	4899	GO:0023052	signaling	signaling	d signali
+4918	4930	GO:0009293	transduction	transduction	he maintenan
+5015	5035	GO:0008306	associative learning	associative	d associative learni
+5082	5091	GO:0023052	signaling	signaling	R signali
+5114	5134	GO:0008306	associative learning	associative	f associative learni
+5158	5166	GO:0007612	learning	learning	 [6,7]],
+5205	5214	GO:0023052	signaling	signaling	d signali
+5223	5232	GO:0023052	signaling	signaling	uisition 
+5249	5269	GO:0008306	associative learning	associative	f associative learni
+5264	5279	GO:0044849	estrous cycles.	estrous	earning in rode
+5303	5312	GO:0007610	behavior,	behavior	 D2R anta
+5362	5370	GO:0007612	learning	learning	sociativ
+5358	5378	GO:0008306	associative learning	associative	t associative learni
+5379	5387	GO:0007612	learning	learning	g paradi
+5399	5409	GO:0007610	behaviors.	behavior	ack of rec
+5449	5458	GO:0023052	signaling	signaling	-disrupti
+5525	5534	GO:0007612	learning.	learning	l role th
+5595	5603	GO:0007612	learning	learning	l learni
+5633	5642	GO:0007610	behavior.	behavior	t behavio
+5690	5699	GO:0007610	behavior.	behavior	ble invol
+5724	5744	GO:0008306	associative learning	associative	n associative learni
+5784	5792	GO:0007610	behavior	behavior	f drugs 
+5824	5832	GO:0007610	behavior	behavior	stration
+5849	5857	GO:0007612	learning	learning	o avoid 
+5949	5957	GO:0007612	learning	learning	 on lear
+5981	5990	GO:0023052	signaling	signaling	nts. Besi
+6041	6050	GO:0007612	learning.	learning	acute exp
+6062	6070	GO:0007612	learning	learning	merciall
+6102	6110	GO:0007612	learning	learning	sts fail
+6169	6187	GO:0007634	locomotor behavior	optokinetic	reover, acute dosi
+6278	6283	GO:0005488	bound	binding	c exp
+6471	6480	GO:0023052	signaling	signaling	lity to r
+6779	6787	GO:0007612	learning	learning	Addition

@@ -1,0 +1,250 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+45	50	GO:0005488	binds	binding	ing a
+65	79	GO:0006396	RNA processing	RNA	il genes revea
+70	88	GO:0098687	chromosomal region	chromosomal	nes revealed by an
+70	89	GO:0098687	chromosomal regions	chromosomal	nes revealed by ana
+62	90	GO:0016585	chromatin remodeling complex	obsolete	 coil genes revealed by anal
+97	105	GO:0005634	nucleus.	nucleus	 phyloge
+95	125	GO:0016585	chromatin remodeling complexes	obsolete	of phylogenetically diverse or
+163	167	GO:0005623	cell	cell	n of
+206	220	GO:0016070	RNA metabolism	RNA	nsight into ho
+213	226	GO:0008380	RNA splicing,	RNA	into how the 
+227	236	GO:0006810	transport	transport	volution 
+261	269	GO:0003675	proteins	obsolete	ate to f
+349	357	GO:0003675	protein.	obsolete	 coiled 
+394	402	GO:0045292	splicing	mRNA	n organi
+379	403	GO:0004879	nuclear hormone receptor	RNA	y are present in organis
+399	410	GO:0065007	regulation,	biological	anisms from
+463	478	GO:0006351	transcriptional	transcription,	al interactions
+479	489	GO:0065007	regulatory	biological	and the ev
+508	513	GO:0005623	cells	cell	otein
+506	514	GO:0003675	proteins	obsolete	proteins
+576	583	GO:0003675	protein	obsolete	sive da
+642	650	GO:0045292	splicing	mRNA	 of the 
+705	713	GO:0045292	splicing	mRNA	lysis ha
+758	767	GO:0051235	retention	maintenance	 the TACC
+764	771	GO:0003675	protein	obsolete	ACC pro
+768	776	GO:0003675	proteins	obsolete	proteins
+776	784	GO:0003675	proteins	obsolete	 to othe
+798	807	GO:0003675	proteins,	obsolete	proteins,
+812	819	GO:0003675	protein	obsolete	resolut
+824	845	GO:0001171	Reverse transcription	reverse	f the placement of th
+868	875	GO:0045292	splices	mRNA	rtholog
+898	907	GO:0003675	proteins.	obsolete	RHAMM as 
+906	913	GO:0005488	binding	binding	 a dist
+914	922	GO:0003675	protein.	obsolete	nct fami
+940	949	GO:0003675	proteins.	obsolete	proteins.
+957	965	GO:0003675	protein,	obsolete	 also ex
+983	993	GO:0009058	synthesis.	biosynthetic	s of the T
+1011	1018	GO:0003675	protein	obsolete	ction d
+1015	1022	GO:0003675	protein	obsolete	n datab
+1054	1063	GO:0003675	proteins,	obsolete	gaster to
+1058	1103	GO:0008139	nuclear localization signals, and the binding	nuclear	er to identify potentially novel TACC interac
+1103	1109	GO:0005623	cells.	cell	tions.
+1122	1126	GO:0004239	maps	obsolete	 of 
+1171	1179	GO:0003675	proteins	obsolete	the demo
+1176	1184	GO:0003675	proteins	obsolete	emonstra
+1189	1193	GO:0019013	Core	viral	of d
+1199	1206	GO:0005488	binding	binding	binding
+1214	1218	GO:0005488	bind	binding	n TA
+1229	1253	GO:0004879	nuclear hormone receptor	RNA	nuclear hormone receptor
+1248	1255	GO:0003777	kinesin	microtubule	eptor R
+1256	1267	GO:0005813	centrosome.	centrosome	Rβ. Conclus
+1261	1269	GO:0003675	proteins	obsolete	onclusio
+1263	1271	GO:0003675	proteins	obsolete	clusion 
+1280	1288	GO:0003675	protein.	obsolete	so far s
+1291	1300	GO:0003675	proteins.	obsolete	est that 
+1319	1326	GO:0003675	protein	obsolete	protein
+1364	1371	GO:0005819	spindle	spindle	spindle
+1376	1386	GO:0005694	chromosome	chromosome	mics. TACC
+1387	1395	GO:0003675	proteins	obsolete	proteins
+1408	1416	GO:0003675	proteins	obsolete	cruited 
+1446	1453	GO:0003675	protein	obsolete	in tran
+1441	1461	GO:0006412	protein translation,	translation	protein translation,
+1462	1476	GO:0006396	RNA processing	RNA	RNA processing
+1478	1491	GO:0006351	transcription	transcription,	nd transcript
+1481	1494	GO:0006351	transcription	transcription,	transcription
+1498	1505	GO:0004239	mapping	obsolete	interac
+1524	1532	GO:0003675	protein.	obsolete	 bridgin
+1534	1543	GO:0003675	proteins.	obsolete	proteins.
+1545	1554	GO:0003675	proteins.	obsolete	owever, d
+1580	1588	GO:0003675	proteins	obsolete	proteins
+1617	1624	GO:0003675	protein	obsolete	y to di
+1620	1627	GO:0003675	protein	obsolete	o direc
+1638	1645	GO:0003675	protein	obsolete	t with 
+1642	1657	GO:0006351	transcriptional	transcription,	th components o
+1658	1668	GO:0065007	regulation	biological	 these com
+1673	1681	GO:0045292	splicing	mRNA	s (such 
+1692	1701	GO:0003675	proteins,	obsolete	proteins,
+1702	1728	GO:0004879	nuclear hormone receptors,	RNA	nuclear hormone receptors,
+1752	1759	GO:0005488	binding	binding	n facto
+1756	1763	GO:0003675	protein	obsolete	ctors).
+1778	1785	GO:0005819	spindle	spindle	that th
+1775	1803	GO:0016585	chromatin remodeling complex	obsolete	ts that the function of the 
+1808	1816	GO:0003675	proteins	obsolete	proteins
+1852	1861	GO:0003675	proteins,	obsolete	sembly or
+1892	1902	GO:0005813	centrosome	centrosome	centrosome
+1905	1915	GO:0005694	chromosome	chromosome	 include a
+1909	1924	GO:0072686	mitotic spindle	mitotic	lude a more int
+1926	1934	GO:0003675	proteins	obsolete	ate role
+1942	1948	GO:0045292	splice	mRNA	functi
+1966	1987	GO:0006338	chromatin remodeling,	chromatin	chromatin remodeling,
+1987	1995	GO:0003675	proteins	obsolete	 transcr
+1991	1999	GO:0003675	protein,	obsolete	nscripti
+1988	2003	GO:0006351	transcriptional	transcription,	transcriptional
+1995	2003	GO:0003675	proteins	obsolete	iptional
+2038	2046	GO:0003675	protein.	obsolete	in the c
+2045	2050	GO:0005623	cell.	cell	cell.
+2037	2054	GO:0043234	protein complexes	protein	 in the cell. Bac
+2086	2106	GO:0006412	protein translation,	translation	 organisms has been 
+2107	2121	GO:0006396	RNA processing	RNA	ssociated with
+2123	2131	GO:0003675	proteins	obsolete	he gener
+2126	2140	GO:0006351	transcription.	transcription,	generation of 
+2174	2182	GO:0003675	proteins	obsolete	lication
+2208	2218	GO:0005694	chromosome	chromosome	small set 
+2264	2272	GO:0003675	proteins	obsolete	owed by 
+2266	2274	GO:0000781	telomere	chromosome,	ed by su
+2266	2274	GO:0005696	telomere	obsolete	ed by su
+2291	2299	GO:0003675	proteins	obsolete	, redupl
+2299	2310	GO:0005694	chromosome.	chromosome	ication and
+2320	2328	GO:0003675	proteins	obsolete	fling be
+2362	2369	GO:0005819	spindle	spindle	olved b
+2377	2385	GO:0003675	proteins	obsolete	rete, an
+2387	2395	GO:0003675	proteins	obsolete	partiall
+2395	2405	GO:0005694	chromosome	chromosome	y redundan
+2413	2424	GO:0065007	regulation,	biological	ons with th
+2418	2425	GO:0003675	protein	obsolete	ith the
+2417	2426	GO:0003675	proteins,	obsolete	with thei
+2431	2441	GO:0005694	chromosome	chromosome	ated famil
+2427	2453	GO:0004879	nuclear hormone receptors,	RNA	 related family members. W
+2449	2457	GO:0003675	proteins	obsolete	s. With 
+2448	2462	GO:0006351	transcription,	transcription,	rs. With the c
+2465	2475	GO:0005813	centrosome	centrosome	letion of 
+2471	2479	GO:0003675	proteins	obsolete	 of the 
+2477	2491	GO:0006396	RNA processing	RNA	e genome seque
+2493	2501	GO:0003675	proteins	obsolete	ing proj
+2496	2507	GO:0006412	translation	translation	 projects o
+2533	2543	GO:0005813	centrosome	centrosome	 fly and n
+2552	2560	GO:0003675	proteins	obsolete	 we are 
+2548	2563	GO:0072686	mitotic spindle	mitotic	des, we are now
+2583	2593	GO:0005694	chromosome	chromosome	k fundamen
+2627	2635	GO:0003675	protein,	obsolete	es inter
+2652	2660	GO:0003675	protein.	obsolete	t of the
+2658	2673	GO:0006351	transcriptional	transcription,	he whole organi
+2663	2678	GO:0043234	protein complex	protein	ole organism. T
+2683	2691	GO:0003675	proteins	obsolete	with the
+2707	2722	GO:0006351	transcriptional	transcription,	lication of bio
+2723	2742	GO:0001666	response to hypoxia	response	nformatics, it is n
+2755	2765	GO:0005813	centrosome	centrosome	o trace th
+2786	2810	GO:0030472	mitotic spindle assembly	mitotic	ar genes and gene famili
+2786	2810	GO:0090307	mitotic spindle assembly	mitotic	ar genes and gene famili
+2844	2860	GO:0044215	other organisms.	other	other organisms.
+2923	2927	GO:0005488	bind	binding	and 
+2926	2933	GO:0003675	protein	obsolete	 genomi
+2997	3002	GO:0005007	FGFR,	fibroblast	ended
+3023	3031	GO:0003675	proteins	obsolete	x interp
+3024	3036	GO:0051179	localization	localization	 interplay b
+3030	3037	GO:0007067	mitosis	mitotic	play be
+3035	3050	GO:0006351	transcriptional	transcription,	between evoluti
+3060	3068	GO:0003675	proteins	obsolete	 structu
+3055	3075	GO:0006338	chromatin remodeling	chromatin	 gene structure and 
+3075	3082	GO:0003675	protein	obsolete	protein
+3076	3086	GO:0051325	interphase	interphase	rotein fun
+3087	3094	GO:0005634	nucleus	nucleus	tion. T
+3122	3130	GO:0003675	proteins	obsolete	 coiled 
+3140	3147	GO:0003675	protein	obsolete	 TACC1,
+3174	3185	GO:0032502	development	developmental	development
+3185	3195	GO:0005813	centrosome	centrosome	 of an exp
+3190	3197	GO:0003675	protein	obsolete	n expre
+3200	3205	GO:0005623	cell.	cell	on ma
+3200	3221	GO:0000226	microtubule dynamics.	microtubule	on map of the proxima
+3211	3223	GO:0006412	translations	translation	he proximal 
+3217	3226	GO:0009058	synthesis	biosynthetic	ximal sho
+3242	3252	GO:0005694	chromosome	chromosome	chromosome
+3328	3334	GO:0004239	mapped	obsolete	mapped
+3341	3353	GO:0051179	localization	localization	alogous chro
+3349	3368	GO:0098687	chromosomal regions	chromosomal	chromosomal regions
+3367	3374	GO:0003675	protein	obsolete	s on hu
+3378	3389	GO:0005694	chromosomes	chromosome	chromosomes
+3382	3393	GO:0005813	centrosome.	centrosome	mosomes 4p1
+3398	3402	GO:0019013	Core	viral	 10q
+3407	3414	GO:0003675	protein	obsolete	hysical
+3410	3419	GO:0009058	formation	biosynthetic	ically cl
+3404	3419	GO:0006396	RNA processing,	RNA	, physically cl
+3441	3445	GO:0005007	FGFR	fibroblast	FGFR
+3439	3447	GO:0003675	protein,	obsolete	e FGFR g
+3457	3465	GO:0003675	protein,	obsolete	 [1-3]. 
+3466	3474	GO:0003675	protein,	obsolete	his mapp
+3470	3477	GO:0004239	mapping	obsolete	mapping
+3483	3491	GO:0045292	splicing	mRNA	 togethe
+3536	3547	GO:0006412	translation	translation	n the proto
+3605	3610	GO:0005488	binds	binding	[4-6]
+3607	3614	GO:0005488	binding	binding	-6], le
+3629	3637	GO:0045292	splicing	mRNA	ation th
+3654	3658	GO:0005007	FGFR	fibroblast	FGFR
+3649	3666	GO:0043234	protein complexes	protein	tral FGFR and TAC
+3661	3669	GO:0003675	proteins	obsolete	d TACC g
+3709	3717	GO:0003675	proteins	obsolete	ch other
+3708	3720	GO:0005856	cytoskeleton	cytoskeleton	ach other. T
+3725	3736	GO:0005874	microtubule	microtubule	during the 
+3778	3787	GO:0005840	ribosome,	ribosome	ssive dup
+3816	3824	GO:0045292	splicing	mRNA	ne clust
+3812	3832	GO:0006338	chromatin remodeling	chromatin	l gene cluster have 
+3889	3893	GO:0005007	FGFR	fibroblast	FGFR
+3907	3918	GO:0032502	development	developmental	ns. In acco
+3945	3955	GO:0005694	chromosome	chromosome	adruplicat
+3956	3963	GO:0003675	protein	obsolete	on of t
+3952	3964	GO:0008380	RNA splicing	RNA	cation of th
+3959	3967	GO:0045292	splicing	mRNA	of the v
+3969	3978	GO:0006810	transport	transport	tebrate g
+3990	4014	GO:0004879	nuclear hormone receptor	RNA	 evolution, there is a f
+4020	4024	GO:0005007	FGFR	fibroblast	FGFR
+4040	4048	GO:0045292	splicing	mRNA	n verteb
+4054	4063	GO:0003675	proteins,	obsolete	 raising 
+4115	4122	GO:0003675	protein	obsolete	ated wi
+4124	4128	GO:0005007	FGFR	fibroblast	 FGF
+4127	4136	GO:0003675	proteins,	obsolete	FR4 in ve
+4143	4151	GO:0045292	splicing	mRNA	e genome
+4135	4153	GO:0005515	proteins that bind	protein	ertebrate genomes.
+4172	4180	GO:0003675	proteins	obsolete	e active
+4192	4200	GO:0003675	proteins	obsolete	have bee
+4215	4222	GO:0003675	protein	obsolete	ans [1-
+4247	4256	GO:0009058	Formation	biosynthetic	[7], Xeno
+4237	4265	GO:0016585	chromatin remodeling complex	obsolete	 of mouse [7], Xenopus laevi
+4263	4271	GO:0045292	splicing	mRNA	vis [8],
+4305	4313	GO:0003675	proteins	obsolete	ns [5,6]
+4324	4331	GO:0003675	protein	obsolete	two add
+4367	4375	GO:0003675	proteins	obsolete	mbers, O
+4366	4376	GO:0005694	chromosome	chromosome	embers, Or
+4369	4379	GO:0006281	DNA repair	DNA	ers, Oryct
+4397	4404	GO:0003675	protein	obsolete	ACC4 [9
+4498	4502	GO:0005007	FGFR	fibroblast	of t
+4517	4525	GO:0003675	proteins	obsolete	is under
+4556	4566	GO:0005694	chromosome	chromosome	on and fun
+4565	4574	GO:0045292	splicing,	mRNA	nctional 
+4591	4616	GO:0004879	nuclear hormone receptor,	RNA	of new members of the TAC
+4600	4619	GO:0098687	chromosomal regions	chromosomal	mbers of the TACC f
+4635	4639	GO:0005007	FGFR	fibroblast	rgan
+4628	4644	GO:0044215	other organisms,	other	other organisms,
+4752	4760	GO:0003675	proteins"10       14      GO:0005488        binding                       "BIND	obsolete	relative
+4771	4778	GO:0003675	protein	obsolete	embers 
+4781	4789	GO:0045292	splicing	mRNA	the coil
+4826	4836	GO:0005694	chromosome	chromosome	 issue and
+4918	4926	GO:0003675	proteins	obsolete	 identif
+5016	5026	GO:0005694	chromosome	chromosome	ty searche
+4990	5030	GO:0008139	nuclear localization signals and binding	nuclear	lineages Sequence similarity searches of
+5051	5061	GO:0005694	chromosome	chromosome	le genome 
+5061	5069	GO:0003675	proteins	obsolete	database
+5125	5129	GO:0005488	bind	binding	dent
+5152	5161	GO:0005737	cytoplasm	cytoplasm	ologues, 
+5156	5163	GO:0003675	protein	obsolete	ues, an
+5181	5186	GO:0005488	binds	binding	 the 
+5173	5188	GO:0006351	transcriptional	transcription,	mbers of the co
+5463	5481	GO:0098687	chromosomal region	chromosomal	ed by the analysis
+5575	5582	GO:0004239	Mapping	obsolete	te Stro
+5608	5612	GO:0004239	maps	obsolete	and 
+5616	5626	GO:0005694	chromosome	chromosome	protostome
+5722	5732	GO:0005694	chromosome	chromosome	enes in me
+5827	5838	GO:0005694	chromosomes	chromosome	ter organis
+6070	6074	GO:0005007	FGFR	fibroblast	ce i
+6220	6230	GO:0005694	chromosome	chromosome	 Figure 1 

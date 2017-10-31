@@ -1,0 +1,59 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+45	50	GO:0005623	cells	cell	mice:
+347	352	GO:0005623	cells	cell	 of d
+467	477	GO:0065007	regulation	biological	sults Base
+607	612	GO:0007568	aging	aging	aging
+656	660	GO:0007568	ages	aging	 Mos
+688	693	GO:0007568	aging	aging	iurna
+695	701	GO:0048511	rhythm	rhythmic	rhythm
+776	782	GO:0048511	rhythm	rhythmic	 for a
+1007	1014	GO:0048511	rhythms	rhythmic	homozyg
+1107	1116	GO:0009058	formation	biosynthetic	onclusion
+1148	1157	GO:0046903	secretion	secretion	ains hous
+1189	1207	GO:0004089	carbonic anhydrase	carbonate	a broad range of I
+1230	1240	GO:0046903	secretion.	secretion	ces are li
+1290	1305	GO:0017144	drug metabolism	drug	reate a powerfu
+1333	1343	GO:0065007	regulation	biological	regulation
+1565	1580	GO:0009315	drug resistance	obsolete	 demonstrate th
+1565	1580	GO:0042493	drug resistance	response	 demonstrate th
+1657	1667	GO:0046903	secretion.	secretion	s of IOP r
+1666	1676	GO:0065007	regulation	biological	regulation
+1741	1750	GO:0046903	secretion	secretion	nd Glauco
+1988	1997	GO:0046903	secretion	secretion	ng increa
+2122	2141	GO:0098687	chromosomal regions	chromosomal	chromosomal regions
+2143	2147	GO:0007568	ages	aging	nd g
+2270	2275	GO:0030424	axons	axon	evelo
+2447	2466	GO:0004097	tyrosinase activity	catechol	hesis testing and e
+2447	2466	GO:0004503	tyrosinase activity	monophenol	hesis testing and e
+2492	2505	GO:0009405	pathogenesis.	pathogenesis	pathogenesis.
+2597	2601	GO:0007568	ages	aging	are 
+2617	2622	GO:0007568	ages.	aging	 expe
+2866	2873	GO:0048511	rhythms	rhythmic	 to be 
+2972	2978	GO:0048511	rhythm	rhythmic	he opt
+3149	3156	GO:0048511	rhythms	rhythmic	tors. P
+3252	3256	GO:0007568	ages	aging	nitu
+3285	3289	GO:0007568	aged	aging	cedu
+3417	3423	GO:0048511	rhythm	rhythmic	hat in
+3628	3634	GO:0048511	rhythm	rhythmic	s. Her
+3622	3641	GO:0098687	chromosomal regions	chromosomal	strains. Here, we p
+3834	3845	GO:0006280	mutagenesis	obsolete	ween strain
+3889	3899	GO:0005694	chromosome	chromosome	 of inbred
+3940	3958	GO:0004089	carbonic anhydrase	carbonate	me environmental c
+4232	4238	GO:0007601	vision	visual	strain
+4406	4410	GO:0019013	Core	viral	e we
+4690	4695	GO:0007568	aging	aging	led w
+4737	4741	GO:0007568	ages	aging	ages
+4893	4898	GO:0007568	ages.	aging	le 1)
+5127	5131	GO:0007568	ages	aging	y in
+5244	5256	GO:0000806	Y Chromosome	Y	s risk for g
+5261	5273	GO:0000806	Y chromosome	Y	ma in humans
+5278	5282	GO:0007568	aged	aging	aged
+5372	5384	GO:0000806	Y chromosome	Y	rves and ret
+5399	5405	GO:0048511	rhythm	rhythmic	id not
+5472	5476	GO:0034023	pure	5-(carboxyamino)imidazole	ith 
+5490	5495	GO:0007568	ages,	aging	OP. T
+5531	5543	GO:0000806	Y chromosome	Y	the aqueous 
+5775	5780	GO:0005623	cells	cell	cells
+5821	5825	GO:0007568	ages	aging	aJ m
+5847	5859	GO:0000806	Y chromosome	Y	ficient to b
+6267	6271	GO:0007568	ages	aging	 onl

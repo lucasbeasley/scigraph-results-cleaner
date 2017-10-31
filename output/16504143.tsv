@@ -1,0 +1,142 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+17	21	GO:0005623	cell	cell	al l
+12	28	GO:0008542	spatial learning	visual	spatial learning
+65	73	GO:0003675	proteins	obsolete	icient m
+79	90	GO:0007610	behavioural	behavior	stract Back
+123	134	GO:0007610	behavioural	behavior	ADAM gene f
+144	159	GO:0061743	motor learning.	motor	is mainly expre
+145	161	GO:0008542	Spatial learning	visual	s mainly express
+256	272	GO:0008542	spatial learning	visual	like domain rela
+266	275	GO:0016020	membrane.	membrane	n related
+272	286	GO:0061743	motor learning	motor	ted to cell-ce
+320	328	GO:0003823	antibody	antigen	 elucida
+320	328	GO:0019815	antibody	B	 elucida
+320	328	GO:0042571	antibody	immunoglobulin	 elucida
+352	366	GO:0061743	motor learning	motor	ctions of ADAM
+385	390	GO:0005488	Bound	binding	AM11-
+391	401	GO:0003823	antibodies	antigen	eficient m
+391	401	GO:0019815	antibodies	B	eficient m
+391	401	GO:0042571	antibodies	immunoglobulin	eficient m
+462	470	GO:0003823	antibody	antigen	 were ap
+462	470	GO:0019815	antibody	B	 were ap
+462	470	GO:0042571	antibody	immunoglobulin	 were ap
+485	490	GO:0007612	learn	learning	, and
+513	527	GO:0061743	motor learning	motor	 year with no 
+552	563	GO:0007610	Behavioural	behavior	alities in 
+619	627	GO:0007612	learning	learning	ssed in 
+621	632	GO:0065007	regulations	biological	ed in the h
+687	695	GO:0003675	protein.	obsolete	nt mice 
+699	707	GO:0007612	learning	learning	learning
+773	778	GO:0007612	learn	learning	ation
+789	803	GO:0003774	motor activity	motor	tating rod tas
+809	823	GO:0044214	transmembrane;	spanning	 results showe
+809	823	GO:0016021	transmembrane;	integral	 results showe
+968	979	GO:0007610	behavioural	behavior	ice. Conclu
+1022	1033	GO:0007610	behavioural	behavior	ion does no
+1042	1056	GO:0016477	cell migration	cell	cell migration
+1084	1096	GO:0032502	development,	developmental	development,
+1109	1117	GO:0007612	learning	learning	learning
+1116	1120	GO:0036268	swim	swimming	g an
+1145	1161	GO:0008542	spatial learning	visual	s, ADAM11 might 
+1154	1168	GO:0003774	motor activity	motor	 might play an
+1179	1189	GO:0023052	signalling	signaling	signalling
+1244	1252	GO:0007129	synapse,	synapsis	synapse,
+1244	1252	GO:0045202	synapse,	synapse	synapse,
+1276	1291	GO:0010467	gene expression	gene	e in synaptic r
+1290	1300	GO:0065007	regulation	biological	regulation
+1312	1323	GO:0007610	behavioural	behavior	behavioural
+1407	1412	GO:0005623	cells	cell	embra
+1425	1441	GO:0008542	spatial learning	visual	ulti-domain prot
+1428	1444	GO:0008542	Spatial learning	visual	i-domain protein
+1437	1445	GO:0003675	proteins	obsolete	proteins
+1472	1480	GO:0036268	swimming	swimming	nase-lik
+1486	1497	GO:0032502	development	developmental	in and a di
+1519	1535	GO:0008542	spatial learning	visual	 Approximately h
+1600	1607	GO:0003675	protein	obsolete	hed a b
+1678	1687	GO:0003823	antibody.	antigen	 adhesion
+1678	1687	GO:0019815	antibody.	B	 adhesion
+1678	1687	GO:0042571	antibody.	immunoglobulin	 adhesion
+1745	1752	GO:0003675	protein	obsolete	ave dis
+1771	1777	GO:0005623	cells.	cell	cal ro
+1823	1830	GO:0003675	protein	obsolete	nd ADAM
+1832	1836	GO:0005623	cell	cell	 are
+1836	1841	GO:0007612	learn	learning	 crit
+1857	1868	GO:0032502	development	developmental	development
+1882	1888	GO:0040007	growth	growth	growth
+1891	1895	GO:0036268	swim	swimming	gnal
+1889	1896	GO:0023052	signals	signaling	signals
+2029	2033	GO:0005623	cell	cell	esis
+2020	2034	GO:0009793	embryogenesis,	embryo	embryogenesis,
+2020	2034	GO:0009792	embryogenesis,	embryo	embryogenesis,
+2020	2034	GO:0009790	embryogenesis,	embryo	embryogenesis,
+2054	2081	GO:0007399	nervous system development,	nervous	le functional redundancy wi
+2251	2260	GO:0051235	retention	maintenance	mediated 
+2260	2273	GO:0007155	cell adhesion	cell	cell adhesion
+2332	2354	GO:0060291	long-term potentiation	long-term	d that integrin-mediat
+2357	2371	GO:0016477	cell migration	cell	cell migration
+2433	2452	GO:0007611	learning and memory	learning	12]. In C. elegans,
+2492	2499	GO:0003675	protein	obsolete	protein
+2499	2508	GO:0051235	retention	maintenance	 have bee
+2503	2511	GO:0036268	Swimming	swimming	e been s
+2503	2516	GO:0004972	NMDA receptor	NMDA	e been shown 
+2543	2547	GO:0036268	swim	swimming	atio
+2534	2548	GO:0016477	cell migration	cell	cell migration
+2560	2564	GO:0036268	Swim	swimming	ivo 
+2691	2700	GO:0051235	Retention	maintenance	in mice h
+2758	2779	GO:0007268	synaptic transmission	synaptic	 are infertile and th
+2842	2846	GO:0036268	swim	swimming	 mec
+2932	2942	GO:0023052	signalling	signaling	d ADAM23 g
+2978	2987	GO:0051235	retention	maintenance	 in the h
+3024	3035	GO:0065007	regulation.	biological	9]. These A
+3080	3107	GO:0008237	metalloproteinase activity,	metallopeptidase	metalloproteinase activity,
+3117	3126	GO:0051235	Retention	maintenance	g that th
+3146	3162	GO:0008542	spatial learning	visual	. We assume that
+3195	3210	GO:0016477	cell migration,	cell	cell migration,
+3252	3273	GO:0051098	regulation by binding	regulation	regulation by binding
+3283	3288	GO:0031672	discs	A	ins, 
+3283	3288	GO:0031264	discs	death-inducing	ins, 
+3301	3309	GO:0003675	proteins	obsolete	proteins
+3313	3326	GO:0005622	intracellular	intracellular	intracellular
+3403	3408	GO:0016265	death	death	death
+3736	3755	GO:0003674	molecular functions	molecular_function	s been observed in 
+4033	4048	GO:0003774	motor activity,	motor	ral development
+4037	4049	GO:0032502	development,	developmental	development,
+4074	4088	GO:0016477	cell migration	cell	cell migration
+4177	4193	GO:0008542	spatial learning	visual	 methods that th
+4298	4309	GO:0007610	behavioural	behavior	 led us to 
+4456	4465	GO:0003675	proteins'	obsolete	ogical fu
+4574	4582	GO:0007612	learning	learning	t mice M
+4713	4729	GO:0008542	Spatial learning	visual	s were confirmed
+4914	4921	GO:0003675	protein	obsolete	protein
+5059	5070	GO:0007610	Behavioural	behavior	n-like prot
+5167	5174	GO:0003675	protein	obsolete	protein
+5218	5223	GO:0005623	cells	cell	ure A
+5229	5236	GO:0003675	protein	obsolete	protein
+5285	5301	GO:0008542	spatial learning	visual	lot analysis usi
+5315	5323	GO:0003823	antibody	antigen	antibody
+5315	5323	GO:0019815	antibody	B	antibody
+5315	5323	GO:0042571	antibody	immunoglobulin	antibody
+5351	5358	GO:0003675	protein	obsolete	protein
+5380	5395	GO:0003774	motor activity,	motor	y Western blot 
+5396	5406	GO:0065007	regulation	biological	howed that
+5490	5498	GO:0003675	protein.	obsolete	protein.
+5550	5556	GO:0007618	Mating	mating	Mating
+5550	5556	GO:1990277	Mating	parasexual	Mating
+5550	5556	GO:0000747	Mating	conjugation	Mating
+5550	5556	GO:0009291	Mating	unidirectional	Mating
+5648	5668	GO:0002377	antibody production,	immunoglobulin	ypes in the offsprin
+5708	5713	GO:0007618	mated	mating	 the 
+5708	5713	GO:1990277	mated	parasexual	 the 
+5708	5713	GO:0000747	mated	conjugation	 the 
+5708	5713	GO:0009291	mated	unidirectional	 the 
+5804	5813	GO:0051235	retention	maintenance	e (backcr
+5874	5885	GO:0007610	behavioural	behavior	behavioural
+6050	6061	GO:0032502	development	developmental	development
+6189	6196	GO:0003675	protein	obsolete	ge (dat
+6190	6198	GO:0036268	swimming	swimming	e (data 
+6328	6336	GO:0036268	swimming	swimming	apparent
+6359	6363	GO:0005623	cell	cell	l ch
+6364	6369	GO:0019835	lysis	cytolysis	nge w
+6462	6470	GO:0007612	learning	learning	 shown).
+6506	6522	GO:0061743	(motor learning)	motor	the hippocampus 
+6533	6542	GO:0051235	retention	maintenance	nd cerebe

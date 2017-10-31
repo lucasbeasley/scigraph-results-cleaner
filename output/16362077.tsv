@@ -1,0 +1,218 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+52	67	GO:0046849	bone remodeling	bone	ice from Age-Re
+124	131	GO:0007067	mitosis	mitotic	mitosis
+130	141	GO:0032502	Development	developmental	s of 68 kDa
+121	147	GO:0045444	adipocyte differentiation.	fat	in mitosis of 68 kDa (Sam6
+234	249	GO:0016070	RNA metabolism;	RNA	RNA metabolism;
+275	300	GO:0045444	adipocyte differentiation	fat	role has remained elusive
+269	309	GO:0045598	regulation of adipocyte differentiation,	regulation	logic role has remained elusive. Herein 
+382	386	GO:0007568	Aged	aging	Aged
+386	391	GO:0005623	cells	cell	 Sam6
+394	408	GO:0031214	mineralization	biomineral	− mice preserv
+417	424	GO:0035188	hatched	hatching	bone ma
+468	480	GO:0045444	adipogenesis	fat	-type litter
+468	480	GO:0060612	adipogenesis	adipose	-type litter
+512	525	GO:0045444	adipogenesis.	fat	reased up to 
+512	525	GO:0060612	adipogenesis.	adipose	reased up to 
+526	531	GO:0005623	Cells	cell	pprox
+539	549	GO:0008152	metabolism	metabolic	75%. In fa
+595	608	GO:0045444	adipogenesis.	fat	/− mice was v
+595	608	GO:0060612	adipogenesis.	adipose	/− mice was v
+609	621	GO:0045444	Adipogenesis	fat	rtually indi
+609	621	GO:0060612	Adipogenesis	adipose	rtually indi
+714	729	GO:0046849	Bone Remodeling	bone	al cells had a 
+714	747	GO:0048762	mesenchymal cell differentiation.	mesenchymal	al cells had a differentiation ad
+746	750	GO:0007568	Aged	aging	dvan
+752	767	GO:0006351	transcriptional	transcription,	ge for the oste
+757	782	GO:0045444	adipocyte differentiation	fat	r the osteogenic pathway.
+772	787	GO:0045453	bone resorption	bone	c pathway. More
+813	824	GO:0008152	metabolism,	metabolic	68 using sh
+825	838	GO:0031099	regeneration,	regeneration	rt hairpin RN
+843	847	GO:0007568	aged	aging	the 
+857	863	GO:0007568	aging.	aging	mesenc
+905	910	GO:0005623	cells	cell	cells
+967	979	GO:0045444	adipogenesis	fat	eoblast mark
+967	979	GO:0060612	adipogenesis	adipose	eoblast mark
+1012	1019	GO:0003675	protein	obsolete	on was 
+1184	1190	GO:0005623	cells.	cell	dipocy
+1195	1204	GO:0003823	antibody,	antigen	ith cultu
+1195	1204	GO:0019815	antibody,	B	ith cultu
+1195	1204	GO:0042571	antibody,	immunoglobulin	ith cultu
+1263	1267	GO:0005623	cell	cell	bryo
+1315	1322	GO:0003675	protein	obsolete	fferent
+1303	1329	GO:0045444	adipocyte differentiation.	fat	adipocyte differentiation.
+1348	1353	GO:0005623	cells	cell	vo it
+1356	1361	GO:0005623	cells	cell	s sho
+1377	1382	GO:0005623	cells	cell	 of b
+1395	1422	GO:0001649	osteoblast differentiation,	osteoblast	onth-old Sam68−/− mice had 
+1491	1498	GO:0005634	nucleus	nucleus	rmate c
+1501	1505	GO:0007568	aged	aging	rols
+1502	1507	GO:0005623	cells	cell	ols, 
+1513	1518	GO:0007618	mated	mating	exhib
+1513	1518	GO:1990277	mated	parasexual	exhib
+1513	1518	GO:0000747	mated	conjugation	exhib
+1513	1518	GO:0009291	mated	unidirectional	exhib
+1549	1554	GO:0005623	cells	cell	dings
+1605	1610	GO:0005623	cells	cell	of ad
+1608	1633	GO:0045444	adipocyte differentiation	fat	adipocyte differentiation
+1662	1689	GO:0001649	osteoblast differentiation,	osteoblast	osteoblast differentiation,
+1713	1717	GO:0007568	aged	aging	h Sa
+1737	1745	GO:0035188	(hatched	hatching	r of bon
+1754	1787	GO:0048762	mesenchymal cell differentiation,	mesenchymal	mesenchymal cell differentiation,
+1791	1800	GO:0003823	antibody.	antigen	 hence bo
+1791	1800	GO:0019815	antibody.	B	 hence bo
+1791	1800	GO:0042571	antibody.	immunoglobulin	 hence bo
+1803	1814	GO:0008152	metabolism,	metabolic	metabolism,
+1818	1822	GO:0007568	aged	aging	aged
+1821	1847	GO:0045444	adipocyte differentiation,	fat	d mice. Synopsis Osteoporo
+1850	1856	GO:0005623	cells.	cell	 is a 
+1847	1873	GO:0001649	Osteoblast differentiation	osteoblast	sis is a debilitating bone
+1906	1911	GO:0005623	cells	cell	 redu
+1897	1924	GO:0001649	osteoblast differentiation.	osteoblast	erized by reduced bone mass
+2022	2029	GO:0035188	hatched	hatching	cture. 
+2000	2032	GO:0048762	mesenchymal cell differentiation	mesenchymal	 susceptibility to fracture. Pea
+2053	2058	GO:0004617	serum	phosphoglycerate	 achi
+2099	2104	GO:0005623	cells	cell	 iden
+2176	2182	GO:0005623	cells,	cell	rosis.
+2208	2215	GO:0003675	protein	obsolete	e defic
+2215	2230	GO:0010467	gene expression	gene	ient for the Sa
+2257	2264	GO:0003675	protein	obsolete	protein
+2279	2295	GO:0009877	nodule formation	nodulation	siologic functio
+2332	2344	GO:0051179	Localization	localization	protected ag
+2367	2373	GO:0007568	aging.	aging	aging.
+2359	2374	GO:0045453	bone resorption	bone	 during aging. 
+2367	2378	GO:0032502	Development	developmental	aging. Age-
+2457	2462	GO:0005623	cells	cell	s, wh
+2460	2475	GO:0010467	Gene Expression	gene	which are deriv
+2563	2574	GO:0003723	RNA binding	RNA	hat Sam68 r
+2628	2632	GO:0007568	aged	aging	ge, 
+2640	2645	GO:0004617	Serum	phosphoglycerate	t in 
+2668	2673	GO:0004617	serum	phosphoglycerate	s con
+2681	2686	GO:0004617	serum	phosphoglycerate	o be 
+2699	2704	GO:0007568	aging	aging	aging
+2721	2725	GO:0007568	aged	aging	 pre
+2805	2819	GO:0031214	mineralization	biomineral	modulator of t
+2859	2867	GO:0003675	protein,	obsolete	 of bone
+2873	2878	GO:0004617	Serum	phosphoglycerate	olism
+2868	2879	GO:0008152	metabolism.	metabolic	metabolism.
+2905	2910	GO:0004617	serum	phosphoglycerate	s a p
+2931	2941	GO:0003823	antibodies	antigen	target for
+2931	2941	GO:0019815	antibodies	B	target for
+2931	2941	GO:0042571	antibodies	immunoglobulin	target for
+2967	2972	GO:0004617	serum	phosphoglycerate	ent o
+2986	2996	GO:0008152	metabolism	metabolic	bone loss.
+2990	3017	GO:0001649	osteoblast differentiation.	osteoblast	 loss. Introduction During 
+3017	3038	GO:0001501	skeletal development,	skeletal	skeletal development,
+3059	3067	GO:0003823	antibody	antigen	y of ost
+3059	3067	GO:0019815	antibody	B	y of ost
+3059	3067	GO:0042571	antibody	immunoglobulin	y of ost
+3095	3100	GO:0004617	serum	phosphoglycerate	 the 
+3205	3232	GO:0045444	adipocyte, differentiation.	fat	ne mass is maintained throu
+3301	3311	GO:0008152	metabolism	metabolic	modeling c
+3333	3339	GO:0007568	aging,	aging	aging,
+3324	3349	GO:0045444	adipocyte differentiation	fat	skeletal aging, there is 
+3328	3366	GO:0072497	mesenchymal stem cell differentiation.	mesenchymal	etal aging, there is a shift in the ba
+3362	3388	GO:0001649	osteoblast differentiation	osteoblast	e balance that favors oste
+3392	3397	GO:0007568	aging	aging	st ov
+3483	3493	GO:0005777	peroxisome	peroxisome	ch bone is
+3508	3519	GO:0032502	development	developmental	development
+3536	3541	GO:0007568	aging	aging	aging
+3577	3582	GO:0005623	cells	cell	etics
+3602	3608	GO:0005634	nuclei	nucleus	hysica
+3612	3619	GO:0007067	mitosis	mitotic	tivity 
+3643	3647	GO:0007568	Aged	aging	e av
+3645	3657	GO:0051179	Localization	localization	availability
+3721	3726	GO:0007568	aging	aging	cally
+3774	3779	GO:0004617	Serum	phosphoglycerate	-base
+3818	3823	GO:0005623	cells	cell	into 
+3850	3866	GO:0060348	bone development	bone	bone development
+3872	3880	GO:0003823	antibody	antigen	4], rela
+3872	3880	GO:0019815	antibody	B	4], rela
+3872	3880	GO:0042571	antibody	immunoglobulin	4], rela
+3874	3886	GO:0045444	Adipogenesis	fat	, relatively
+3874	3886	GO:0060612	Adipogenesis	adipose	, relatively
+3897	3903	GO:0007568	aging.	aging	known 
+3959	3969	GO:0008152	metabolism	metabolic	one resorp
+3980	3985	GO:0004617	serum	phosphoglycerate	erly 
+4030	4035	GO:0005623	cells	cell	in bo
+4072	4098	GO:0001649	osteoblast differentiation	osteoblast	g levels of bone biomarker
+4097	4105	GO:0003823	antibody	antigen	rs [15].
+4097	4105	GO:0019815	antibody	B	rs [15].
+4097	4105	GO:0042571	antibody	immunoglobulin	rs [15].
+4096	4121	GO:0045444	Adipocyte differentiation	fat	ers [15]. These changes h
+4101	4128	GO:0001649	osteoblast differentiation.	osteoblast	15]. These changes have bee
+4274	4282	GO:0003823	antibody	antigen	ncy [17]
+4274	4282	GO:0019815	antibody	B	ncy [17]
+4274	4282	GO:0042571	antibody	immunoglobulin	ncy [17]
+4325	4350	GO:0045444	adipocyte differentiation	fat	ous system [8,18–20], and
+4370	4374	GO:0005623	cell	cell	one 
+4379	4388	GO:0097194	apoptosis	execution	apoptosis
+4379	4388	GO:0006915	apoptosis	apoptotic	apoptosis
+4427	4453	GO:0001649	osteoblast differentiation	osteoblast	o been attributed to alter
+4476	4484	GO:0003823	antibody	antigen	of bone 
+4476	4484	GO:0019815	antibody	B	of bone 
+4476	4484	GO:0042571	antibody	immunoglobulin	of bone 
+4552	4559	GO:0003675	protein	obsolete	iation 
+4560	4568	GO:0005202	collagen	obsolete	own the 
+4584	4591	GO:0005634	nucleus	nucleus	e rathe
+4595	4600	GO:0005623	cells	cell	an th
+4627	4632	GO:0007568	Aging	aging	Aging
+4648	4663	GO:0010467	gene expression	gene	ssociated with 
+4664	4674	GO:0005737	cytoplasm.	cytoplasm	n increase
+4859	4864	GO:0005623	cells	cell	ow, a
+4906	4911	GO:0005623	cells	cell	ed sw
+4961	4965	GO:0005623	cell	cell	 und
+4993	5008	GO:0006351	transcriptional	transcription,	transcriptional
+5009	5019	GO:0065007	regulatory	biological	regulatory
+5020	5028	GO:0003675	proteins	obsolete	proteins
+5055	5078	GO:0001709	cell fate determination	cell	cell fate determination
+5077	5082	GO:0007568	aging	aging	n of 
+5075	5100	GO:0045444	Adipocyte Differentiation	fat	ion of bone marrow mesenc
+5120	5127	GO:0003675	protein	obsolete	ng pero
+5123	5133	GO:0005777	peroxisome	peroxisome	peroxisome
+5134	5139	GO:0005623	cells	cell	proli
+5114	5140	GO:0001649	Osteoblast Differentiation	osteoblast	ncluding peroxisome prolif
+5146	5151	GO:0005623	cells	cell	–acti
+5181	5189	GO:0003823	antibody	antigen	LF5 [25–
+5181	5189	GO:0019815	antibody	B	LF5 [25–
+5181	5189	GO:0042571	antibody	immunoglobulin	LF5 [25–
+5207	5217	GO:0003823	antibodies	antigen	NA binding
+5207	5217	GO:0019815	antibodies	B	NA binding
+5207	5217	GO:0042571	antibodies	immunoglobulin	NA binding
+5218	5242	GO:0016485	proteins in this process	protein	proteins in this process
+5293	5300	GO:0003675	protein	obsolete	pe are 
+5304	5325	GO:0001501	skeletal development.	skeletal	n regulators of cellu
+5395	5403	GO:0003675	proteins	obsolete	proteins
+5411	5417	GO:0005623	cells,	cell	d FMRP
+5519	5526	GO:0003675	Protein	obsolete	 in hum
+5581	5586	GO:0005623	cells	cell	ests 
+5640	5646	GO:0004617	serum,	phosphoglycerate	drocyt
+5653	5664	GO:0042552	myelination	myelination	myelination
+5655	5666	GO:0032502	development	developmental	elination [
+5662	5671	GO:0003823	antibody,	antigen	on [33]. 
+5662	5671	GO:0019815	antibody,	B	on [33]. 
+5662	5671	GO:0042571	antibody,	immunoglobulin	on [33]. 
+5684	5692	GO:0003823	antibody	antigen	ctopic e
+5684	5692	GO:0019815	antibody	B	ctopic e
+5684	5692	GO:0042571	antibody	immunoglobulin	ctopic e
+5745	5754	GO:0009058	formation	biosynthetic	formation
+5751	5763	GO:0032502	development.	developmental	ion of glial
+5808	5816	GO:0003823	antibody	antigen	itor, de
+5808	5816	GO:0019815	antibody	B	itor, de
+5808	5816	GO:0042571	antibody	immunoglobulin	itor, de
+5840	5863	GO:0001709	cell fate determination	cell	cell fate determination
+5888	5895	GO:0003675	protein	obsolete	protein
+5888	5898	GO:0003823	antibodies	antigen	protein in
+5888	5898	GO:0019815	antibodies	B	protein in
+5888	5898	GO:0042571	antibodies	immunoglobulin	protein in
+5999	6006	GO:0003675	protein	obsolete	protein
+6085	6089	GO:0007568	Aged	aging	ld-o
+6139	6146	GO:0007067	mitosis	mitotic	mitosis
+6191	6195	GO:0007568	aged	aging	mily
+6221	6226	GO:0004617	Serum	phosphoglycerate	prote
+6362	6366	GO:0007568	aged	aging	c fa
+6507	6515	GO:0035188	(hatched	hatching	 export 
+6515	6520	GO:0007568	aging	aging	of un
+6814	6818	GO:0007568	aged	aging	gher
+7000	7010	GO:0065007	regulatory	biological	imals had 
+7011	7019	GO:0003675	protein,	obsolete	nhanced 

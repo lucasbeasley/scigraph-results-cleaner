@@ -1,0 +1,133 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+8	16	GO:0045292	splicing	mRNA	receptor
+109	117	GO:0045292	splicing	mRNA	ate spli
+113	121	GO:0045292	splicing	mRNA	splicing
+130	147	GO:0006310	DNA recombination	DNA	ual expression le
+211	219	GO:0045292	splicing	mRNA	ly 1,500
+268	275	GO:0003675	protein	obsolete	ence co
+313	319	GO:0045292	splice	mRNA	le for
+310	324	GO:0003823	immunoglobulin	antigen	lable for very
+584	592	GO:0045292	splicing	mRNA	omoter r
+609	617	GO:0045292	splicing	mRNA	Backgrou
+640	656	GO:0071025	RNA surveillance	RNA	or gene family i
+677	681	GO:0005623	cell	cell	in t
+705	720	GO:0006351	transcriptional	transcription,	vious computati
+762	768	GO:0045292	splice	mRNA	y 1,50
+830	837	GO:0003675	protein	obsolete	ing olf
+850	856	GO:0045292	splice	mRNA	on is 
+855	870	GO:0006351	transcriptional	transcription,	 available for 
+871	881	GO:0065007	regulation	biological	ery few ol
+932	938	GO:0045292	splice	mRNA	factor
+964	968	GO:0005623	cell	cell	to o
+997	1012	GO:0006351	transcriptional	transcription,	essed sequence 
+1253	1258	GO:0005623	cells	cell	400 g
+1292	1300	GO:0045292	splicing	mRNA	rm expre
+1295	1300	GO:0005623	cell.	cell	expre
+1292	1320	GO:0008134	transcription factor binding	transcription	rm expression level differen
+1413	1420	GO:0023052	signal.	signaling	iffer b
+1460	1467	GO:0045292	spliced	mRNA	fold. D
+1490	1498	GO:0023052	signals,	signaling	 pair ar
+1540	1545	GO:0005623	cells	cell	f exp
+1553	1558	GO:0005623	cells	cell	cells
+1585	1593	GO:0045292	splicing	mRNA	els per 
+1604	1609	GO:0005623	cell.	cell	cell.
+1643	1652	GO:0045292	splicing,	mRNA	receptors
+1668	1672	GO:0005623	cell	cell	e tr
+1666	1675	GO:0045292	splicing.	mRNA	ple trans
+1690	1701	GO:0032502	development	developmental	ants, with 
+1706	1721	GO:0006351	transcriptional	transcription,	native isoforms
+1793	1801	GO:0045292	splicing	mRNA	plice si
+1840	1872	GO:0046776	major histocompatibility complex	suppression	to the stereotyped olfactory rec
+1908	1914	GO:0045292	splice	mRNA	transc
+1942	1947	GO:0005623	cells	cell	lfact
+1974	1978	GO:0005623	cell	cell	sion
+1977	1986	GO:0003675	proteins,	obsolete	nally inc
+1992	2005	GO:0044214	transmembrane	spanning	receptor dive
+1992	2005	GO:0016021	transmembrane	integral	receptor dive
+2009	2032	GO:0006355	transcriptional control	regulation	y. Conclusions Our cDNA
+2035	2048	GO:0005622	intracellular	intracellular	llection conf
+2054	2071	GO:0006310	DNA recombination	DNA	lfactory function
+2058	2071	GO:0005576	extracellular	extracellular	tory function
+2223	2228	GO:0005623	cells	cell	e sim
+2237	2242	GO:0005623	cells	cell	Our f
+2288	2296	GO:0045292	splicing	mRNA	 differe
+2308	2313	GO:0005623	cell.	cell	n lev
+2421	2426	GO:0005623	cell,	cell	ransl
+2461	2466	GO:0005623	cells	cell	 prom
+2504	2508	GO:0031672	band	A	ry r
+2506	2521	GO:0006351	transcriptional	transcription,	 receptors, val
+2555	2565	GO:0065007	regulatory	biological	regulatory
+2561	2567	GO:0005623	cells,	cell	tory m
+2588	2593	GO:0005623	cells	cell	 desi
+2595	2604	GO:0003675	proteins,	obsolete	ing olfac
+2644	2650	GO:0005623	cells.	cell	riment
+2646	2659	GO:0044214	transmembrane	spanning	mental probes
+2646	2659	GO:0016021	transmembrane	integral	mental probes
+2700	2705	GO:0005623	cells	cell	 (or 
+2743	2750	GO:0005488	ligands	binding	ligands
+2774	2793	GO:0007165	signal transduction	signal	signal transduction
+2787	2802	GO:0006351	transcriptional	transcription,	uction pathway 
+2819	2825	GO:0005623	cells?	cell	he per
+2849	2853	GO:0005623	cell	cell	fact
+2931	2935	GO:0005623	cell	cell	sing
+2971	2987	GO:0010467	gene expression.	gene	nome [1,2]. Olfa
+2980	2987	GO:0003675	protein	obsolete	]. Olfa
+2998	3005	GO:0045292	spliced	mRNA	tors we
+3081	3104	GO:0006355	transcriptional control	regulation	at they would be seven-
+3125	3133	GO:0003675	proteins	obsolete	proteins
+3120	3138	GO:0006310	DNA recombination,	DNA	main proteins enco
+3145	3150	GO:0005623	cell.	cell	a lar
+3192	3197	GO:0005623	cells	cell	s res
+3223	3227	GO:0005623	cell	cell	pith
+3226	3230	GO:0043336	rest	site-specific	heli
+3337	3342	GO:0005623	cell?	cell	nfer 
+3391	3395	GO:0005623	cell	cell	cell
+3392	3401	GO:0000785	chromatin	chromatin	ell types
+3392	3407	GO:0006351	transcriptional	transcription,	ell types (for 
+3451	3466	GO:0006351	transcriptional	transcription,	tions have prov
+3453	3466	GO:0006351	Transcription	transcription,	ons have prov
+3466	3470	GO:0043336	rest	site-specific	ided
+3466	3481	GO:0006351	transcriptional	transcription,	ided the almost
+3522	3530	GO:0045292	splicing	mRNA	actory r
+3632	3638	GO:0045292	splice	mRNA	solely
+3633	3646	GO:0044214	transmembrane	spanning	olely on simi
+3633	3646	GO:0016021	transmembrane	integral	olely on simi
+3674	3680	GO:0045292	splice	mRNA	y smal
+3764	3768	GO:0019013	core	viral	ity 
+3777	3785	GO:0045292	splicing	mRNA	 that in
+3845	3854	GO:0045292	spliced),	mRNA	ity. Whil
+3903	3920	GO:0006310	DNA recombination	DNA	itial method to i
+3974	3983	GO:0045292	splicing)	mRNA	s it can 
+4014	4020	GO:0045292	splice	mRNA	lar se
+4051	4058	GO:0030428	septum.	cell	functio
+4082	4099	GO:0006310	DNA recombination	DNA	ifferent tissues 
+4097	4112	GO:0006351	transcriptional	transcription,	s (for example,
+4117	4134	GO:0015144	sugar transporter	carbohydrate	sugar transporter
+4117	4134	GO:0005351	sugar transporter	sugar:proton	sugar transporter
+4117	4134	GO:0015608	sugar transporter	carbohydrate-importing	sugar transporter
+4138	4153	GO:0006351	transcriptional	transcription,	e family [7]). 
+4154	4165	GO:0065007	regulation,	biological	 small subs
+4257	4272	GO:0035822	gene conversion	gene	testis [8], but
+4278	4283	GO:0050909	taste	sensory	taste
+4322	4327	GO:0005623	cells	cell	cells
+4633	4643	GO:0006935	chemotaxis	chemotaxis	chemotaxis
+4753	4760	GO:0003675	protein	obsolete	uggesti
+4783	4790	GO:0003675	protein	obsolete	roles, 
+4821	4842	GO:0043113	receptors in clusters	receptor	eptor expressed seque
+4844	4851	GO:0045292	spliced	mRNA	e tag (
+4893	4908	GO:0006351	transcriptional	transcription,	al expression o
+4909	4919	GO:0065007	regulation	biological	 hundreds 
+4982	4989	GO:0045292	spliced	mRNA	m, indi
+5041	5063	GO:0043113	receptors in clusters,	receptor	xpression pattern. Eac
+5112	5117	GO:0005623	cells	cell	cells
+5996	6011	GO:0006351	transcriptional	transcription,	ty of transcrip
+6420	6428	GO:0045292	splicing	mRNA	or allel
+6507	6515	GO:0045292	splicing	mRNA	tors and
+6554	6582	GO:0006406	mRNA export from the nucleus	mRNA	n expression. In the latter 
+6695	6702	GO:0045292	spliced	mRNA	rst mod
+6879	6894	GO:0006351	transcriptional	transcription,	etter idea of t
+6960	6967	GO:0023052	signals	signaling	tor gen
+6996	7008	GO:0051179	localization	localization	T collection
+7012	7023	GO:0009056	degradation	catabolic	vides 5' un
+7192	7199	GO:0045292	spliced	mRNA	, simpl
+7326	7333	GO:0003675	protein	obsolete	tructur

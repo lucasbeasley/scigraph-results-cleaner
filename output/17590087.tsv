@@ -1,0 +1,85 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+35	43	GO:0003823	Antibody	antigen	in Mice 
+35	43	GO:0019815	Antibody	B	in Mice 
+35	43	GO:0042571	Antibody	immunoglobulin	in Mice 
+157	165	GO:0003675	protein;	obsolete	e used w
+167	177	GO:0003823	antibodies	antigen	hin our la
+167	177	GO:0019815	antibodies	B	hin our la
+167	177	GO:0042571	antibodies	immunoglobulin	hin our la
+200	205	GO:0005623	cells	cell	serie
+278	286	GO:0003823	antibody	antigen	d to ide
+278	286	GO:0019815	antibody	B	d to ide
+278	286	GO:0042571	antibody	immunoglobulin	d to ide
+385	392	GO:0003675	protein	obsolete	lysis w
+672	676	GO:0007568	aged	aging	n-fr
+871	875	GO:0004239	maps	obsolete	maps
+1591	1609	GO:0098687	chromosomal region	chromosomal	chromosomal region
+1638	1644	GO:0004239	mapped	obsolete	ied th
+1649	1656	GO:0003675	Protein	obsolete	ease sp
+1806	1819	GO:0005622	intracellular	intracellular	 patients was
+1825	1834	GO:0023052	signaling	signaling	d by dele
+1860	1872	GO:0009405	pathogenesis	pathogenesis	 the region 
+1945	1953	GO:0003823	antibody	antigen	eduction
+1945	1953	GO:0019815	antibody	B	eduction
+1945	1953	GO:0042571	antibody	immunoglobulin	eduction
+1966	1971	GO:0005623	cells	cell	cells
+2043	2051	GO:0003823	antibody	antigen	nderlies
+2043	2051	GO:0019815	antibody	B	nderlies
+2043	2051	GO:0042571	antibody	immunoglobulin	nderlies
+2250	2261	GO:0006280	mutagenesis	obsolete	mutagenesis
+2286	2294	GO:0045292	splicing	mRNA	 initiat
+2424	2434	GO:0005694	Chromosome	chromosome	es. Carefu
+2791	2801	GO:0005694	Chromosome	chromosome	movement d
+3684	3695	GO:0022831	ion channel	narrow	ion channel
+3833	3840	GO:0007618	mating;	mating	k after
+3833	3840	GO:1990277	mating;	parasexual	k after
+3833	3840	GO:0000747	mating;	conjugation	k after
+3833	3840	GO:0009291	mating;	unidirectional	k after
+3870	3894	GO:0007618PHENOTYPE	mating) with a phenotype	mating	uggested that the observ
+3984	3991	GO:0003675	protein	obsolete	ease-ca
+4304	4314	GO:0005694	Chromosome	chromosome	Chromosome
+4473	4479	GO:0004239	mapped	obsolete	mapped
+4507	4515	GO:0043495	anchored	protein	tant opt
+4584	4594	GO:0003823	antibodies	antigen	ere [1]. T
+4584	4594	GO:0019815	antibodies	B	ere [1]. T
+4584	4594	GO:0042571	antibodies	immunoglobulin	ere [1]. T
+4650	4658	GO:0003675	protein;	obsolete	s a homo
+4705	4712	GO:0003675	Protein	obsolete	the gen
+4744	4749	GO:0019835	lysis	cytolysis	 inos
+4854	4859	GO:0019835	lysis	cytolysis	n aff
+4961	4968	GO:0003675	Protein	obsolete	f 18 bp
+5052	5062	GO:0003823	antibodies	antigen	ssed heter
+5052	5062	GO:0019815	antibodies	B	ssed heter
+5052	5062	GO:0042571	antibodies	immunoglobulin	ssed heter
+5206	5211	GO:0004617	serum	phosphoglycerate	e wit
+5222	5232	GO:0005694	Chromosome	chromosome	f four aff
+5231	5240	GO:0008152	metabolic	metabolic	fected It
+5231	5240	GO:0007552	metabolic	metamorphosis	fected It
+5297	5308	GO:0003823	antibodies:	antigen	istinguisha
+5297	5308	GO:0019815	antibodies:	B	istinguisha
+5297	5308	GO:0042571	antibodies:	immunoglobulin	istinguisha
+5344	5352	GO:0003823	antibody	antigen	d Itpr1o
+5344	5352	GO:0019815	antibody	B	d Itpr1o
+5344	5352	GO:0042571	antibody	immunoglobulin	d Itpr1o
+5438	5446	GO:0003823	antibody	antigen	t descri
+5438	5446	GO:0019815	antibody	B	t descri
+5438	5446	GO:0042571	antibody	immunoglobulin	t descri
+5474	5482	GO:0003823	antibody	antigen	geted de
+5474	5482	GO:0019815	antibody	B	geted de
+5474	5482	GO:0042571	antibody	immunoglobulin	geted de
+5530	5537	GO:0003675	protein	obsolete	 promin
+5641	5651	GO:0003823	antibodies	antigen	to leave t
+5641	5651	GO:0019815	antibodies	B	to leave t
+5641	5651	GO:0042571	antibodies	immunoglobulin	to leave t
+5673	5682	GO:0023052	signaling	signaling	ng frame 
+5840	5847	GO:0003675	protein	obsolete	utants 
+6097	6102	GO:0007568	Aging	aging	cogna
+6180	6187	GO:0005488	binding	binding	f the h
+6232	6245	GO:0044214	transmembrane	spanning	 been identif
+6232	6245	GO:0016021	transmembrane	integral	 been identif
+6247	6257	GO:0003823	antibodies	antigen	d. SCA15, 
+6247	6257	GO:0019815	antibodies	B	d. SCA15, 
+6247	6257	GO:0042571	antibodies	immunoglobulin	d. SCA15, 
+6411	6432	GO:0005783	endoplasmic reticulum	endoplasmic	d the mode of inherit
+6439	6446	GO:0005488	binding	binding	s incon
+6454	6467	GO:0005622	intracellular	intracellular	with that see

@@ -1,0 +1,289 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	12	GO:0051179	localization	localization	Diabetes Ins
+32	53	GO:0005783	endoplasmic reticulum	endoplasmic	a Mutation in Aquapor
+159	163	GO:0005623	cell	cell	e ki
+173	185	GO:0051179	localization	localization	ncentrate ur
+191	215	GO:1904116	response to vasopressin.	response	 response to vasopressin
+211	217	GO:0005623	cells,	cell	ssin. 
+234	242	GO:0003675	proteins	obsolete	th nephr
+244	256	GO:0009986	cell surface	cell	enic diabete
+291	296	GO:0005623	cells	cell	or mu
+306	314	GO:0003675	proteins	obsolete	 the vas
+340	355	GO:0051643	ER localization	endoplasmic	) gene or the v
+357	361	GO:0005623	cell	cell	opre
+362	367	GO:0004617	serum	phosphoglycerate	sin-s
+385	389	GO:0005623	cell	cell	nnel
+386	390	GO:0005623	cell	cell	nel 
+389	401	GO:0009986	cell surface	cell	 aquaporin-2
+395	403	GO:0003823	antibody	antigen	orin-2 (
+395	403	GO:0019815	antibody	B	orin-2 (
+395	403	GO:0042571	antibody	immunoglobulin	orin-2 (
+383	404	GO:0005783	endoplasmic reticulum	endoplasmic	hannel aquaporin-2 (A
+401	412	GO:0006280	mutagenesis	obsolete	 (Aqp2) gen
+415	422	GO:0005623	cells),	cell	Develop
+414	425	GO:0032502	Development	developmental	 Developmen
+428	436	GO:0003675	protein,	obsolete	f a trea
+509	514	GO:0005623	cells	cell	ough 
+519	523	GO:0005623	cell	cell	rd g
+539	547	GO:0003823	antibody	antigen	 of ethy
+539	547	GO:0019815	antibody	B	 of ethy
+539	547	GO:0042571	antibody	immunoglobulin	 of ethy
+562	567	GO:0005623	Cells	cell	tagen
+650	656	GO:0004617	serum,	phosphoglycerate	I, wit
+691	699	GO:0003823	antibody	antigen	e. Unlik
+691	699	GO:0019815	antibody	B	e. Unlik
+691	699	GO:0042571	antibody	immunoglobulin	e. Unlik
+720	732	GO:0009986	cell surface	cell	d murine mod
+737	758	GO:0005783	endoplasmic reticulum	endoplasmic	f NDI, our mice survi
+770	780	GO:0008152	metabolism	metabolic	ood and mo
+829	837	GO:0003823	antibody	antigen	ous in v
+829	837	GO:0019815	antibody	B	ous in v
+829	837	GO:0042571	antibody	immunoglobulin	ous in v
+834	839	GO:0007631	drank	feeding	n vit
+853	858	GO:0004617	Serum	phosphoglycerate	 usin
+886	891	GO:0005623	Cells	cell	ecess
+960	965	GO:0046930	pore.	pore	 pore
+997	1001	GO:0005623	Cell	cell	irec
+1010	1016	GO:0005623	cells.	cell	n this
+1029	1033	GO:0005623	cell	cell	f im
+1035	1039	GO:0005623	cell	cell	oper
+1049	1055	GO:0005623	cells.	cell	slocat
+1052	1057	GO:0005623	cells	cell	catio
+1063	1067	GO:0005623	cell	cell	he m
+1154	1161	GO:0003675	protein	obsolete	 using 
+1183	1187	GO:0005623	cell	cell	how 
+1203	1211	GO:0003675	protein,	obsolete	 protein
+1211	1216	GO:0005623	cells	cell	, AQP
+1228	1233	GO:0005623	Cells	cell	retai
+1239	1244	GO:0005623	cells	cell	 the 
+1234	1247	GO:0070085	glycosylation	glycosylation	ed in the end
+1243	1264	GO:0005783	endoplasmic reticulum	endoplasmic	 endoplasmic reticulu
+1288	1300	GO:0051179	localization	localization	 localizatio
+1309	1316	GO:0003675	protein	obsolete	rescued
+1323	1327	GO:0005623	cell	cell	d-ty
+1329	1337	GO:0003675	protein.	obsolete	 protein
+1339	1344	GO:0005623	cells	cell	This 
+1356	1363	GO:0003675	protein	obsolete	model a
+1377	1386	GO:0016020	membranes	membrane	her mecha
+1422	1431	GO:0003823	antibody.	antigen	 pharmaco
+1422	1431	GO:0019815	antibody.	B	 pharmaco
+1422	1431	GO:0042571	antibody.	immunoglobulin	 pharmaco
+1438	1447	GO:0016020	membranes	membrane	 and gene
+1439	1452	GO:0005576	extracellular	extracellular	and gene ther
+1444	1453	GO:0043226	organelle	organelle	ene thera
+1471	1479	GO:0016020	membrane	membrane	psis Nep
+1505	1511	GO:0005623	cells,	cell	s (NDI
+1510	1518	GO:0003823	antibody	antigen	I) is a 
+1510	1518	GO:0019815	antibody	B	I) is a 
+1510	1518	GO:0042571	antibody	immunoglobulin	I) is a 
+1545	1554	GO:0060073	urination	micturition	 urinatio
+1587	1592	GO:0016265	death	death	halam
+1604	1616	GO:0051179	localization	localization	tuations whe
+1639	1646	GO:0023052	signals	signaling	 signal
+1651	1660	GO:0003823	antibody.	antigen	the kidne
+1651	1660	GO:0019815	antibody.	B	the kidne
+1651	1660	GO:0042571	antibody.	immunoglobulin	the kidne
+1677	1686	GO:0031982	vesicular	vesicle	er reabso
+1684	1690	GO:0005623	cells.	cell	sorpti
+1733	1742	GO:0003675	proteins,	obsolete	ted by th
+1743	1748	GO:0005623	cells	cell	 hypo
+1793	1798	GO:0005488	binds	binding	 bind
+1799	1803	GO:0005623	cell	cell	 to 
+1813	1820	GO:0003675	protein	obsolete	 protei
+1853	1863	GO:0003823	antibodies	antigen	 AVP recep
+1853	1863	GO:0019815	antibodies	B	 AVP recep
+1853	1863	GO:0042571	antibodies	immunoglobulin	 AVP recep
+1879	1886	GO:0005488	binding	binding	 bindin
+1882	1893	GO:0003823	antibodies,	antigen	nding to it
+1882	1893	GO:0019815	antibodies,	B	nding to it
+1882	1893	GO:0042571	antibodies,	immunoglobulin	nding to it
+1903	1908	GO:0005623	Cells	cell	 on k
+1958	1963	GO:0005623	cells	cell	that 
+1970	1988	GO:0006833	water transporting	water	ely results in the
+2003	2011	GO:0003675	protein,	obsolete	 protein
+2051	2063	GO:0009986	cell surface	cell	face of the 
+2067	2072	GO:0005623	cells	cell	ey ce
+2069	2074	GO:0005623	Cells	cell	 cell
+2110	2119	GO:0008152	Metabolic	metabolic	ates the 
+2110	2119	GO:0007552	Metabolic	metamorphosis	ates the 
+2168	2173	GO:0005623	cell,	cell	 cell
+2207	2212	GO:0005623	Cells	cell	 cons
+2222	2230	GO:0003823	antibody	antigen	er. Cong
+2222	2230	GO:0019815	antibody	B	er. Cong
+2222	2230	GO:0042571	antibody	immunoglobulin	er. Cong
+2249	2261	GO:0009986	cell surface	cell	d by mutatio
+2275	2283	GO:0003675	proteins	obsolete	he water
+2290	2299	GO:0006810	transport	transport	l, AQP2, 
+2323	2328	GO:0005623	cells	cell	2. Wh
+2350	2362	GO:0009986	cell surface	cell	ve been stud
+2357	2366	GO:0003675	proteins.	obsolete	 studied 
+2481	2488	GO:0003675	protein	obsolete	del of 
+2507	2520	GO:0009986	cell surface.	cell	s have been a
+2520	2527	GO:0003675	protein	obsolete	ttempte
+2594	2601	GO:0003675	protein	obsolete	ease ha
+2615	2623	GO:0016020	membrane	membrane	d in the
+2713	2720	GO:0003675	protein	obsolete	d to pr
+2806	2813	GO:0003675	protein	obsolete	 which 
+2906	2913	GO:0003675	protein	obsolete	proving
+2967	2976	GO:0016020	membranes	membrane	ns the do
+3049	3056	GO:0003675	protein	obsolete	. Intro
+3097	3115	GO:0005624	membrane fractions	obsolete	DI) is a disease c
+3111	3116	GO:0005623	cells	cell	se ch
+3116	3123	GO:0003675	protein	obsolete	aracter
+3140	3149	GO:0060073	urination	micturition	 urinatio
+3169	3191	GO:0015031	protein is transported	protein	e normal production of
+3206	3215	GO:0016020	membrane.	membrane	ic hormon
+3216	3225	GO:0016020	Membranes	membrane	 arginine
+3222	3230	GO:0003675	protein.	obsolete	ine vaso
+3285	3292	GO:0003675	protein	obsolete	ked as 
+3322	3327	GO:0005623	cells	cell	he Av
+3343	3352	GO:0030849	autosomal	autosome	 autosoma
+3365	3372	GO:0003675	protein	obsolete	tion of
+3376	3384	GO:0003823	antibody	antigen	 Aqp2 ge
+3376	3384	GO:0019815	antibody	B	 Aqp2 ge
+3376	3384	GO:0042571	antibody	immunoglobulin	 Aqp2 ge
+3428	3435	GO:0003675	protein	obsolete	 protei
+3430	3442	GO:0009986	cell surface	cell	rotein belon
+3462	3471	GO:0016020	Membranes	membrane	water cha
+3466	3487	GO:0005783	endoplasmic reticulum	endoplasmic	r channels [4], and i
+3503	3510	GO:0003675	protein	obsolete	n colle
+3530	3535	GO:0005623	cells	cell	 cell
+3538	3547	GO:0006810	transport	transport	n the kid
+3544	3553	GO:0003823	antibody.	antigen	kidney [5
+3544	3553	GO:0019815	antibody.	B	kidney [5
+3544	3553	GO:0042571	antibody.	immunoglobulin	kidney [5
+3554	3563	GO:0016020	Membranes	membrane	. General
+3564	3571	GO:0003675	protein	obsolete	y these
+3563	3578	GO:0005886	plasma membrane	plasma	ly these protei
+3571	3579	GO:0003675	proteins	obsolete	 protein
+3572	3579	GO:0003675	protein	obsolete	protein
+3596	3601	GO:0031672	bands	A	age o
+3602	3607	GO:0005623	cells	cell	 wate
+3613	3620	GO:0007618	matings	mating	ugh the
+3613	3620	GO:1990277	matings	parasexual	ugh the
+3613	3620	GO:0000747	matings	conjugation	ugh the
+3613	3620	GO:0009291	matings	unidirectional	ugh the
+3620	3635	GO:0005886	plasma membrane	plasma	 plasma membran
+3644	3650	GO:0005623	cells,	cell	 cells
+3667	3674	GO:0003675	protein	obsolete	h carry
+3689	3701	GO:0051179	localization	localization	specifically
+3709	3719	GO:0007586	digestion.	digestion	process of
+3716	3724	GO:0003675	protein.	obsolete	 of wate
+3718	3736	GO:0006833	water transporting	water	f water reabsorpti
+3727	3736	GO:0016020	membranes	membrane	eabsorpti
+3793	3804	GO:0015250	aquaporins,	water	 aquaporins
+3796	3805	GO:0006810	transport	transport	uaporins,
+3816	3822	GO:0040007	growth	growth	unctio
+3849	3861	GO:0009986	cell surface	cell	ze before th
+3883	3898	GO:0005886	plasma membrane	plasma	 plasma membran
+3924	3932	GO:0003675	proteins	obsolete	 protein
+3936	3943	GO:0003675	protein	obsolete	n also 
+3981	3985	GO:0019013	core	viral	 reg
+3988	3996	GO:0003675	protein,	obsolete	s of the
+4042	4050	GO:0016020	membrane	membrane	 membran
+4046	4051	GO:0005623	cells	cell	brane
+4054	4059	GO:0005623	cells	cell	 cell
+4065	4080	GO:0005794	Golgi apparatus	Golgi	ounding the col
+4107	4117	GO:0015250	aquaporins	water	 aquaporin
+4118	4122	GO:0007568	aged	aging	 (AQ
+4134	4140	GO:0005623	cells.	cell	 inser
+4141	4148	GO:0003675	protein	obsolete	ed into
+4146	4151	GO:0005623	cells	cell	to th
+4202	4210	GO:0003675	protein.	obsolete	, AQP2 i
+4248	4264	GO:0005886	plasma membrane.	plasma	 plasma membrane
+4263	4275	GO:0051179	localization	localization	e. Under bas
+4292	4297	GO:0005623	cells	cell	e pro
+4293	4300	GO:0003675	protein	obsolete	 protei
+4294	4302	GO:0003675	proteins	obsolete	protein 
+4323	4328	GO:0005623	cells	cell	intra
+4322	4335	GO:0005622	intracellular	intracellular	 intracellula
+4336	4345	GO:0031982	vesicles;	vesicle	 vesicles
+4347	4352	GO:0005623	cells	cell	howev
+4388	4397	GO:0051235	retention	maintenance	 retentio
+4430	4439	GO:0016020	membrane,	membrane	 membrane
+4457	4466	GO:0016020	membranes	membrane	 reabsorp
+4508	4513	GO:0005488	binds	binding	 bind
+4508	4518	GO:0003823	Antibodies	antigen	 binds its
+4508	4518	GO:0019815	Antibodies	B	 binds its
+4508	4518	GO:0042571	Antibodies	immunoglobulin	 binds its
+4582	4588	GO:0005623	cells,	cell	 cells
+4592	4602	GO:0016020	membranes,	membrane	ading to a
+4610	4623	GO:0005622	intracellular	intracellular	 intracellula
+4629	4636	GO:0003675	protein	obsolete	, ultim
+4654	4669	GO:0016310	phosphorylation	phosphorylation	 phosphorylatio
+4652	4670	GO:0005624	membrane fraction.	obsolete	in phosphorylation
+4685	4694	GO:0016020	membranes	membrane	ine 256 b
+4693	4698	GO:0005623	cells	cell	by cA
+4728	4736	GO:0003675	protein.	obsolete	] and it
+4759	4775	GO:0005886	plasma membrane.	plasma	 plasma membrane
+4780	4789	GO:0016020	membranes	membrane	 importan
+4811	4818	GO:0003675	protein	obsolete	ion has
+4817	4824	GO:0003675	protein	obsolete	s been 
+4853	4861	GO:0003675	protein.	obsolete	racteriz
+4889	4897	GO:0003675	proteins	obsolete	lting in
+4912	4920	GO:0003675	proteins	obsolete	humans [
+4951	4956	GO:0005623	cell,	cell	 are 
+4990	4998	GO:0016020	membrane	membrane	normally
+5002	5014	GO:0051179	localization	localization	alized and, 
+5015	5021	GO:0005623	cells,	cell	n most
+5025	5033	GO:0003675	protein?	obsolete	tances, 
+5048	5052	GO:0046930	pore	pore	 por
+5055	5067	GO:0009986	Cell surface	cell	hat responds
+5060	5068	GO:0003675	protein,	obsolete	esponds 
+5072	5077	GO:0005623	cells	cell	rmall
+5161	5168	GO:0097649	tubules	A	 and fo
+5170	5175	GO:0005623	cells	cell	d to 
+5213	5218	GO:0005623	cells	cell	type 
+5217	5224	GO:0003675	protein	obsolete	 protei
+5244	5252	GO:0016020	membrane	membrane	 membran
+5270	5278	GO:0003675	protein,	obsolete	mouse mo
+5287	5292	GO:0005623	cells	cell	iabet
+5304	5316	GO:0009986	cell surface	cell	 have been g
+5322	5335	GO:0070085	glycosylation	glycosylation	ed [13–17]. I
+5375	5380	GO:0005623	cells	cell	mice 
+5405	5412	GO:0003675	protein	obsolete	mutatio
+5433	5438	GO:0031672	band,	A	[15,1
+5435	5440	GO:0005623	cells	cell	5,18]
+5466	5473	GO:0003675	protein	obsolete	ted a m
+5487	5492	GO:0005623	Cells	cell	26M k
+5541	5547	GO:0005623	cells,	cell	homozy
+5548	5556	GO:0003675	protein,	obsolete	ous muta
+5550	5559	GO:0016020	membranes	membrane	s mutant 
+5568	5573	GO:0019013	core,	viral	 with
+5567	5576	GO:0016020	membranes	membrane	d within 
+5587	5600	GO:0070085	glycosylation	glycosylation	irth. Interes
+5639	5648	GO:0016020	membranes	membrane	die withi
+5646	5655	GO:0016020	membranes	membrane	hin the f
+5656	5662	GO:0005623	cells,	cell	rst we
+5744	5753	GO:0016020	membranes	membrane	tive orga
+5769	5774	GO:0005623	cells	cell	 to w
+5768	5776	GO:0003675	proteins	obsolete	d to wat
+5772	5790	GO:0030104	water homeostasis,	water	 water homeostasis
+5827	5832	GO:0005623	cells	cell	ria. 
+5849	5854	GO:0005623	cells	cell	tic s
+5847	5869	GO:0016324	apical plasma membrane	apical	netic screen, a mouse 
+5869	5877	GO:0003675	proteins	obsolete	with an 
+5891	5895	GO:0005623	cell	cell	was 
+5911	5923	GO:0051179	localization	localization	purpose of t
+5918	5926	GO:0003823	antibody	antigen	 of this
+5918	5926	GO:0019815	antibody	B	 of this
+5918	5926	GO:0042571	antibody	immunoglobulin	 of this
+5941	5951	GO:0007586	digestion.	digestion	haracteriz
+5978	5990	GO:0051179	Localization	localization	ssive nephro
+6036	6045	GO:0007586	digestion	digestion	 in the A
+6042	6047	GO:0005623	cells	cell	e Aqp
+6051	6055	GO:0005623	Cell	cell	ne. 
+6109	6113	GO:0005623	cell	cell	 mod
+6120	6132	GO:0051179	localization	localization	DI to surviv
+6132	6139	GO:0003675	protein	obsolete	e past 
+6149	6161	GO:0051179	localization	localization	week of life
+6221	6237	GO:0005886	plasma membrane.	plasma	ferent subcellul
+6256	6265	GO:0051235	retention	maintenance	renal col
+6273	6277	GO:0005623	cell	cell	duct
+6354	6362	GO:0003675	proteins	obsolete	t of AVP
+6456	6465	GO:0005737	cytoplasm	cytoplasm	asmic ret
+6605	6609	GO:0005623	cell	cell	is a
+6642	6654	GO:0009986	cell surface	cell	ting in the 
+6645	6658	GO:0051179	localization.	localization	g in the inta
+6756	6761	GO:0005623	cells	cell	s in 
+6942	6951	GO:0031982	vesicles.	vesicle	is showed

@@ -1,0 +1,194 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+67	72	GO:0005623	cells	cell	 doub
+119	124	GO:0005623	cell,	cell	appro
+144	150	GO:0005623	cells.	cell	e of t
+169	176	GO:0003675	protein	obsolete	s of al
+204	208	GO:0005623	cell	cell	e an
+199	232	GO:0036438	maintenance of lens transparency,	maintenance	nerate animal models where one or
+271	275	GO:0005623	cell	cell	ucts
+285	294	GO:0009058	formation	biosynthetic	 eliminat
+286	296	GO:0043226	organelles	organelle	eliminated
+297	306	GO:0003675	proteins,	obsolete	 In the s
+309	318	GO:0009058	formation	biosynthetic	le alpha-
+338	342	GO:0005623	cell	cell	mice
+411	415	GO:0005623	cell	cell	r so
+450	458	GO:0003675	protein,	obsolete	protein,
+453	459	GO:0005634	nuclei	nucleus	tein, 
+514	522	GO:0003675	proteins	obsolete	e normal
+565	570	GO:0005623	cells	cell	 this
+567	571	GO:0007568	aged	aging	his 
+600	607	GO:0042603	capsule	capsule	ss lent
+652	660	GO:0003675	protein,	obsolete	h the ta
+828	833	GO:0005623	cells	cell	on mi
+838	846	GO:0005773	vacuoles	vacuole	opy and 
+861	869	GO:0005634	nucleus.	nucleus	copy met
+852	884	GO:0030855	epithelial cell differentiation,	epithelial	al microscopy methodologies. Res
+889	922	GO:0036438	maintenance of lens transparency,	maintenance	Equatorial and axial (sagittal) d
+929	937	GO:0003675	protein,	obsolete	ns of le
+1054	1059	GO:0005623	cells	cell	cells
+1076	1095	GO:0051131	chaperone activity,	chaperone-mediated	 posterior capsule 
+1076	1095	GO:0006457	chaperone activity,	protein	 posterior capsule 
+1076	1095	GO:0003754	chaperone activity,	obsolete	 posterior capsule 
+1076	1095	GO:0006461	chaperone activity,	protein	 posterior capsule 
+1076	1095	GO:0044183	chaperone activity,	protein	 posterior capsule 
+1076	1095	GO:0051082	chaperone activity,	unfolded	 posterior capsule 
+1096	1103	GO:0005488	binding	binding	f the l
+1127	1136	GO:0003675	proteins,	obsolete	/BKO lens
+1134	1139	GO:0005623	cells	cell	nses.
+1150	1162	GO:0005561	nucleic acid	obsolete	nucleic acid
+1190	1194	GO:0005623	cell	cell	e po
+1195	1204	GO:0009058	formation	biosynthetic	terior su
+1209	1222	GO:0005561	nucleic acids	obsolete	ular region o
+1220	1225	GO:0005623	cells	cell	 of 5
+1390	1395	GO:0005623	Cells	cell	ons o
+1414	1422	GO:0003675	proteins	obsolete	A/BKO mi
+1422	1429	GO:0042603	capsule	capsule	ce as c
+1471	1476	GO:0005623	cells	cell	ults 
+1478	1490	GO:0005561	nucleic acid	obsolete	dicated that
+1484	1495	GO:0032502	development	developmental	d that both
+1557	1561	GO:0005623	cell	cell	cell
+1545	1567	GO:0031253	membrane projections.,	cell	roper fiber cell forma
+1562	1572	GO:0009058	formation,	biosynthetic	formation,
+1632	1637	GO:0005623	cells	cell	ct fo
+1635	1645	GO:0009058	formation.	biosynthetic	formation.
+1676	1683	GO:0003675	protein	obsolete	 compri
+1679	1687	GO:0042603	capsule,	capsule	mprised 
+1700	1706	GO:0040007	growth	growth	ptides
+1704	1710	GO:0005623	cells,	cell	es, al
+1724	1730	GO:0007601	Vision	visual	n (alp
+1760	1767	GO:0005634	nucleus	nucleus	phaB), 
+1746	1772	GO:0030225	macrophage differentiation	macrophage	crystallin (alphaB), which
+1782	1787	GO:0005623	cells	cell	 amin
+1800	1806	GO:0007601	Vision	visual	ce hom
+1801	1809	GO:0007519	myogenic	skeletal	e homolo
+1801	1809	GO:0048740	myogenic	obsolete	e homolo
+1806	1811	GO:0005623	cells	cell	ology
+1844	1852	GO:0003675	proteins	obsolete	proteins
+1909	1916	GO:0042603	capsule	capsule	of appr
+1937	1947	GO:0007519	myogenesis	skeletal	t can unde
+1937	1947	GO:0048740	myogenesis	obsolete	t can unde
+1954	1960	GO:0040007	growth	growth	er-agg
+2017	2025	GO:0003675	proteins	obsolete	proteins
+2094	2102	GO:0005773	vacuoles	vacuole	 regions
+2095	2104	GO:0009058	formation	biosynthetic	regions o
+2104	2111	GO:0005634	nucleus	nucleus	f the a
+2137	2148	GO:0043226	organelles,	organelle	 expression
+2183	2191	GO:0003675	proteins	obsolete	and incr
+2193	2198	GO:0005623	cells	cell	ses f
+2195	2201	GO:0005623	cells,	cell	s from
+2212	2218	GO:0005634	nuclei	nucleus	l to e
+2225	2232	GO:0042603	capsule	capsule	on zone
+2223	2234	GO:0043226	organelles.	organelle	tion zones,
+2238	2246	GO:0003675	proteins	obsolete	re epith
+2251	2256	GO:0005623	cells	cell	 cell
+2254	2261	GO:0042603	capsule	capsule	lls dif
+2283	2289	GO:0005623	cells.	cell	cells.
+2323	2335	GO:0005634	cell nucleus	nucleus	in the centr
+2374	2385	GO:0007049	cell cycle.	cell	of alphaA a
+2390	2395	GO:0005623	cells	cell	phaB 
+2433	2444	GO:0005634	cell nuclei	nucleus	he pericent
+2453	2458	GO:0005623	cells	cell	ermat
+2485	2497	GO:0005561	nucleic acid	obsolete	of 3:1 in th
+2512	2517	GO:0005623	cells	cell	ne an
+2515	2523	GO:0042603	capsule.	capsule	and fibe
+2525	2530	GO:0005623	cells	cell	cells
+2585	2591	GO:0005623	cells,	cell	f alph
+2615	2620	GO:0005623	cells	cell	 lens
+2622	2628	GO:0005634	nuclei	nucleus	uggest
+2634	2644	GO:0051325	interphase	interphase	rent funct
+2645	2652	GO:0005634	nuclei,	nucleus	ons for
+2666	2676	GO:0065007	regulatory	biological	its in the
+2691	2698	GO:0003675	protein	obsolete	s. Prio
+2694	2699	GO:0005623	cells	cell	Prior
+2706	2713	GO:0005634	nucleus	nucleus	 1990's
+2728	2739	GO:0005634	Cell nuclei	nucleus	lin was tho
+2763	2770	GO:0003675	protein	obsolete	protein
+2843	2863	GO:0005615	extracellular spaces	extracellular	for the refraction o
+2863	2868	GO:0005623	cells	cell	f lig
+2866	2871	GO:0005623	cells	cell	ight 
+2872	2877	GO:0005623	cells	cell	n the
+2886	2898	GO:0009986	cell surface	cell	ring the ear
+2918	2928	GO:0016020	membranes,	membrane	stallin wa
+2922	2930	GO:0042603	capsule.	capsule	lin was 
+2958	2976	GO:0051087	chaperone, binding	chaperone	chaperone, binding
+3000	3009	GO:0003675	proteins,	obsolete	proteins,
+3004	3016	GO:0005561	nucleic acid	obsolete	eins, both i
+3012	3023	GO:0005634	cell nuclei	nucleus	th in vitro
+3072	3078	GO:0005623	cells,	cell	 denat
+3073	3084	GO:0007049	cell cycle.	cell	denaturatio
+3110	3119	GO:0003675	proteins.	obsolete	proteins.
+3119	3131	GO:0005561	nucleic acid	obsolete	 AlphaA and 
+3154	3165	GO:0005634	cell nuclei	nucleus	to have seq
+3157	3170	GO:0005561	nucleic acids	obsolete	have sequence
+3182	3189	GO:0005634	nucleus	nucleus	th seve
+3186	3191	GO:0005623	cells	cell	evera
+3199	3207	GO:0003675	proteins	obsolete	proteins
+3206	3214	GO:0042603	capsule.	capsule	s that a
+3197	3218	GO:0051726	cell cycle regulation	regulation	r proteins that are m
+3310	3316	GO:0005634	nuclei	nucleus	allin,
+3351	3357	GO:0005623	cells.	cell	not be
+3382	3394	GO:0005561	nucleic acid	obsolete	AlphaB was f
+3439	3447	GO:0005634	nucleus,	nucleus	 a varie
+3519	3524	GO:0005623	cells	cell	l amo
+3531	3539	GO:0005634	nucleus.	nucleus	 a few o
+3539	3551	GO:0009986	cell surface	cell	ther tissues
+3588	3596	GO:0005634	nucleus,	nucleus	-12]. Co
+3613	3618	GO:0005623	cells	cell	 find
+3621	3628	GO:0005634	nucleus	nucleus	s have 
+3667	3675	GO:0097610	furrowed	cell	lin is p
+3676	3685	GO:0016020	membranes	membrane	rely a st
+3694	3701	GO:0003675	protein	obsolete	protein
+3700	3704	GO:0005488	bind	binding	n ne
+3725	3730	GO:0005623	cells	cell	racti
+3725	3733	GO:0042603	capsule.	capsule	raction,
+3765	3779	GO:0005884	Actin filament	actin	 that alpha-cr
+3778	3785	GO:0042603	capsule	capsule	rystall
+3780	3789	GO:0009058	formation	biosynthetic	stallin m
+3858	3870	GO:0005561	nucleic acid	obsolete	 scope of ce
+3869	3874	GO:0005623	cells	cell	ellul
+3904	3911	GO:0005634	nucleus	nucleus	in in l
+3969	3977	GO:0042603	capsule.	capsule	d alphaB
+3982	3986	GO:0005488	bind	binding	bind
+4034	4064	GO:0045098	type III intermediate filament	type	o [14]. Although actin filamen
+4051	4065	GO:0005884	actin filament	actin	actin filament
+4066	4075	GO:0009058	formation	biosynthetic	formation
+4125	4132	GO:0042603	capsule	capsule	n of le
+4238	4249	GO:0016020	(membrane),	membrane	 is not kno
+4304	4334	GO:0045098	type III intermediate filament	type	type III intermediate filament
+4388	4400	GO:0005561	nucleic acid	obsolete	115, and cor
+4397	4406	GO:0009058	synthesis	biosynthetic	correct b
+4470	4476	GO:0005623	cells,	cell	 alpha
+4517	4523	GO:0005634	nuclei	nucleus	vels a
+4519	4532	GO:0005856	cytoskeleton,	cytoskeleton	ls are greatl
+4643	4654	GO:0032502	development	developmental	development
+4701	4713	GO:0005561	nucleic acid	obsolete	interact dir
+4753	4759	GO:0005623	cells,	cell	cells,
+4772	4783	GO:0016020	(membrane),	membrane	lso been sh
+4791	4803	GO:0005561	nucleic acid	obsolete	ctopically l
+4814	4824	GO:0051325	interphase	interphase	interphase
+4825	4832	GO:0005634	nuclei,	nucleus	nuclei,
+4860	4867	GO:0003675	protein	obsolete	protein
+4875	4882	GO:0005634	nucleus	nucleus	nucleus
+4962	4967	GO:0005623	cells	cell	a sub
+5143	5151	GO:0005634	nucleus.	nucleus	crystall
+5218	5227	GO:0009058	formation	biosynthetic	formation
+5234	5246	GO:0005561	nucleic acid	obsolete	toid bodies,
+5280	5288	GO:0003675	proteins	obsolete	proteins
+5378	5384	GO:0005634	nuclei	nucleus	ltitud
+5432	5438	GO:0007601	Vision	visual	g some
+5446	5451	GO:0005623	cells	cell	in vi
+5631	5642	GO:0032502	development	developmental	ted disrupt
+5682	5689	GO:0003675	protein	obsolete	protein
+5712	5745	GO:0036438	maintenance of lens transparency,	maintenance	maintenance of lens transparency,
+5810	5819	GO:0003675	proteins,	obsolete	proteins,
+5923	5929	GO:0040007	growth	growth	n age 
+6401	6411	GO:0016020	membranes,	membrane	horter lif
+6457	6462	GO:0005623	cells	cell	he si
+6571	6580	GO:0016020	membranes	membrane	e of the 
+6626	6638	GO:0005561	nucleic acid	obsolete	n the lens, 
+6720	6725	GO:0005623	cells	cell	 of t
+6776	6784	GO:0016020	membrane	membrane	logy of 
+6846	6855	GO:0005773	vacuoles,	vacuole	tion of b
+6974	6983	GO:0016020	membranes	membrane	) and con
+7045	7057	GO:0005561	nucleic acid	obsolete	-crystallin 
+7120	7125	GO:0005623	cells	cell	ssary

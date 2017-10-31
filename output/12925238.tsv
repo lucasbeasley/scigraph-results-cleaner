@@ -1,0 +1,246 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+25	37	GO:0051179	localization	localization	localization
+36	45	GO:0009058	formation	biosynthetic	n of anne
+58	66	GO:0016020	membrane	membrane	telets a
+54	75	GO:0061024	membrane organization	membrane	 platelets and red bl
+83	95	GO:0045121	lipid rafts,	membrane	s: Insights 
+202	208	GO:0005623	cells.	cell	protei
+202	209	GO:0003675	protein	obsolete	protein
+208	217	GO:0016020	membranes	membrane	n express
+212	220	GO:0016020	membrane	membrane	pressed 
+251	256	GO:0005623	cells	cell	ch is
+287	296	GO:0031982	vesicles,	vesicle	rane fusi
+283	298	GO:0061025	membrane fusion	membrane	membrane fusion
+313	322	GO:0003675	proteins.	obsolete	ently the
+323	329	GO:0005623	cells.	cell	47 kDa
+358	367	GO:0016020	membranes	membrane	in erythr
+377	390	GO:0005856	cytoskeleton.	cytoskeleton	re it was pro
+420	427	GO:0031941	F-actin	filamentous	 the pr
+423	433	GO:0045121	lipid raft	membrane	e process 
+431	436	GO:0005623	cells	cell	s of 
+455	462	GO:0031982	vesicle	vesicle	vesicle
+467	475	GO:0003675	proteins	obsolete	ase, a p
+518	523	GO:0005623	cells	cell	tect 
+559	567	GO:0016020	membrane	membrane	example 
+566	576	GO:0045121	lipid raft	membrane	 complemen
+577	585	GO:0003675	proteins	obsolete	 compone
+718	730	GO:0045121	lipid rafts.	membrane	ated vesicul
+729	737	GO:0016020	membrane	membrane	lation p
+736	744	GO:0003675	proteins	obsolete	process 
+751	771	GO:0070527	Platelet aggregation	platelet	 impaired. Also, the
+772	793	GO:0061024	membrane organization	membrane	membrane organization
+784	801	GO:0006900	vesicle formation	membrane	anization appeare
+831	840	GO:0046903	secretion	secretion	sed using
+851	862	GO:0050817	Coagulation	coagulation	ractionatio
+951	961	GO:0046903	secretion,	secretion	 resistanc
+946	964	GO:0005886	cellular membrane.	plasma	motic resistance o
+957	965	GO:0016020	membrane	membrane	tance of
+960	980	GO:0070527	platelet aggregation	platelet	ce of red blood cell
+979	984	GO:0019835	lysis	cytolysis	ls. A
+1003	1018	GO:0061025	membrane fusion	membrane	identified in p
+1037	1042	GO:0005623	cells	cell	cells
+1156	1163	GO:0007114	budding	cell	atelets
+1182	1191	GO:0031982	vesicles.	vesicle	r to rule
+1231	1246	GO:0061025	membrane fusion	membrane	membrane fusion
+1255	1264	GO:0009058	formation	biosynthetic	s occurri
+1288	1302	GO:0045121	membrane rafts	membrane	nstead the pro
+1299	1306	GO:0003675	protein	obsolete	protein
+1352	1360	GO:0016020	membrane	membrane	membrane
+1361	1374	GO:0005856	cytoskeleton.	cytoskeleton	cytoskeleton.
+1372	1378	GO:0005623	cells,	cell	n. Red
+1382	1395	GO:0005576	extracellular	extracellular	od cells may 
+1461	1480	GO:0042995	cellular processes.	cell	cellular processes.
+1461	1480	GO:0009987	cellular processes.	cellular	cellular processes.
+1470	1485	GO:0061025	membrane fusion	membrane	processes. Conc
+1547	1552	GO:0019835	lysis	cytolysis	oform
+1598	1603	GO:0019835	lysis	cytolysis	mall 
+1633	1637	GO:0005623	cell	cell	cell
+1663	1667	GO:0005623	cell	cell	 A7 
+1781	1796	GO:0061025	membrane fusion	membrane	membrane fusion
+1803	1810	GO:0003675	Protein	obsolete	ses in 
+1816	1820	GO:0005623	cell	cell	cell
+1814	1828	GO:0005886	cell membrane,	plasma	e cell types. 
+1886	1894	GO:0003675	protein,	obsolete	protein,
+1919	1928	GO:0009058	formation	biosynthetic	e agent t
+1924	1931	GO:0005488	binding	binding	nt that
+1949	1956	GO:0031941	F-actin	filamentous	ion of 
+1956	1975	GO:0042583	chromaffin granules	chromaffin	chromaffin granules
+1977	1985	GO:0003823	antibody	antigen	nd fusio
+1977	1985	GO:0019815	antibody	B	nd fusio
+1977	1985	GO:0042571	antibody	immunoglobulin	nd fusio
+2003	2012	GO:0016020	membranes	membrane	membranes
+2017	2025	GO:0016020	membrane	membrane	he prese
+2014	2034	GO:0070527	platelet aggregation	platelet	n the presence of Ca
+2059	2075	GO:0050801	ion homeostasis.	ion	the proposal of 
+2098	2107	GO:0016020	membranes	membrane	t in the 
+2107	2117	GO:0006887	exocytotic	exocytosis	exocytotic
+2111	2119	GO:0016020	membrane	membrane	ytotic s
+2114	2122	GO:0031982	vesicles	vesicle	tic secr
+2115	2126	GO:0007599	haemostasis	hemostasis	ic secretio
+2118	2127	GO:0046903	secretion	secretion	secretion
+2155	2162	GO:0003675	protein	obsolete	protein
+2169	2173	GO:0005623	cell	cell	s to
+2176	2185	GO:0005768	endosomes	endosome	family of
+2211	2219	GO:0003675	proteins	obsolete	proteins
+2204	2225	GO:0061024	membrane organization	membrane	served proteins of a 
+2212	2227	GO:0061025	membrane fusion	membrane	roteins of a bi
+2283	2303	GO:0044853	plasma membrane raft	plasma	rved C-terminal doma
+2328	2332	GO:0005623	cell	cell	 is 
+2350	2355	GO:0019835	lysis	cytolysis	e Ca2
+2364	2372	GO:0031982	vesicles	vesicle	ospholip
+2419	2440	GO:0004866	proteinase inhibitors	endopeptidase	nfer functional diver
+2439	2443	GO:0005623	cell	cell	rsit
+2456	2463	GO:0005488	binding	binding	binding
+2464	2476	GO:0051179	localisation	localization	to negativel
+2540	2566	GO:0048821	red blood cell development	erythrocyte	Annexin A7 is unique in th
+2613	2630	GO:0006900	vesicle formation	membrane	phobic amino term
+2635	2651	GO:0061025	membrane fusion,	membrane	with more than 1
+2679	2687	GO:0045292	splicing	mRNA	splicing
+2705	2712	GO:0003675	protein	obsolete	 isofor
+2774	2781	GO:0031982	vesicle	vesicle	sette e
+2784	2792	GO:0016020	membrane	membrane	 located
+2905	2916	GO:0042592	homeostasis	homeostatic	n brain and
+2916	2923	GO:0031982	vesicle	vesicle	 heart,
+2934	2956	GO:0061024	membrane organization.	membrane	large isoform is exclu
+2992	3000	GO:0031982	vesicles	vesicle	muscle. 
+3026	3032	GO:0060004	Reflex	reflex	xin A7
+3026	3033	GO:0003675	protein	obsolete	xin A7 
+3056	3064	GO:0005829	cytosol,	cytosol	cytosol,
+3066	3080	GO:1990742	microvesicles:	microvesicle	t the plasma m
+3072	3088	GO:0005886	plasma membrane,	plasma	plasma membrane,
+3100	3108	GO:0005634	nucleus,	nucleus	nucleus,
+3112	3121	GO:0031982	vesicular	vesicle	vesicular
+3151	3171	GO:0042583	chromaffin granules,	chromaffin	chromaffin granules,
+3176	3186	GO:0016020	membranes,	membrane	at the t-t
+3183	3191	GO:0030315	t-tubule	T-tubule	t-tubule
+3232	3241	GO:0009058	formation	biosynthetic	 membrane
+3233	3242	GO:0016020	membranes	membrane	membranes
+3281	3294	GO:0005622	intracellular	intracellular	intracellular
+3319	3329	GO:0003823	Antibodies	antigen	tially red
+3319	3329	GO:0019815	Antibodies	B	tially red
+3319	3329	GO:0042571	Antibodies	immunoglobulin	tially red
+3315	3334	GO:0003674	molecular functions	molecular_function	quentially redistri
+3325	3344	GO:0030168	Platelet activation	platelet	 redistributes to t
+3339	3347	GO:0031982	vesicles	vesicle	 to the 
+3342	3357	GO:0005886	plasma membrane	plasma	 the plasma and
+3362	3378	GO:0031965	nuclear membrane	nuclear	nuclear membrane
+3390	3394	GO:0019013	core	viral	to i
+3392	3399	GO:0043336	resting	site-specific	 intrac
+3393	3406	GO:0005622	intracellular	intracellular	intracellular
+3398	3410	GO:0005856	cytoskeleton	cytoskeleton	cellular ves
+3407	3416	GO:0031982	vesicles.	vesicle	vesicles.
+3437	3442	GO:0005623	cells	cell	 A7 a
+3442	3450	GO:0003823	antibody	antigen	ssociate
+3442	3450	GO:0019815	antibody	B	ssociate
+3442	3450	GO:0042571	antibody	immunoglobulin	ssociate
+3446	3454	GO:0016020	membrane	membrane	iates wi
+3448	3459	GO:0031143	pseudopods.	pseudopodium	tes with li
+3457	3468	GO:0045121	lipid rafts	membrane	lipid rafts
+3457	3474	GO:0006900	vesicle formation	membrane	lipid rafts [7]. 
+3468	3476	GO:0008091	spectrin	spectrin	 [7]. Li
+3474	3485	GO:0045121	Lipid rafts	membrane	Lipid rafts
+3505	3521	GO:0006900	membrane budding	membrane	membrane budding
+3512	3527	GO:0005884	actin filaments	actin	e budding and i
+3520	3528	GO:0031982	Vesicles	vesicle	g and in
+3549	3554	GO:0005623	cells	cell	es su
+3546	3554	GO:0003675	proteins	obsolete	esses su
+3570	3580	GO:0006887	exocytosis	exocytosis	exocytosis
+3593	3598	GO:0005623	cells	cell	bindi
+3593	3600	GO:0005488	binding	binding	binding
+3632	3640	GO:0016020	Membrane	membrane	n identi
+3702	3709	GO:0003675	protein	obsolete	protein
+3712	3731	GO:0030168	platelet activation	platelet	d belongs to the pe
+3732	3741	GO:0003823	antibody.	antigen	ta EF-han
+3732	3741	GO:0019815	antibody.	B	ta EF-han
+3732	3741	GO:0042571	antibody.	immunoglobulin	ta EF-han
+3783	3788	GO:0005488	binds	binding	binds
+3789	3797	GO:0003675	proteins	obsolete	to membr
+3792	3801	GO:0016020	membranes	membrane	membranes
+3841	3845	GO:0043336	rest	site-specific	 has
+3853	3866	GO:0005886	cell membrane	plasma	scribed as in
+3863	3872	GO:0022809	ionophore	mobile	 interact
+3891	3910	GO:0005219	ryanodine receptor,	ryanodine-sensitive	ryanodine receptor,
+3903	3911	GO:0031982	vesicles	vesicle	ceptor, 
+4012	4030	GO:0005219	ryanodine receptor	ryanodine-sensitive	ryanodine receptor
+4039	4047	GO:0016020	membrane	membrane	wn. Sorc
+4102	4110	GO:0016020	membrane	membrane	ed so fa
+4122	4129	GO:0005488	binding	binding	binding
+4127	4131	GO:0005623	cell	cell	ng o
+4208	4224	GO:0005625	soluble fraction	obsolete	ntrations. The b
+4217	4232	GO:0005886	plasma membrane	plasma	. The binding s
+4224	4244	GO:0070527	platelet aggregation	platelet	inding sites have be
+4276	4290	GO:1990742	microvesicles.	microvesicle	al GGYY and GY
+4307	4317	GO:0016020	membranes.	membrane	in and to 
+4315	4323	GO:0016020	membrane	membrane	o the GY
+4324	4333	GO:0016020	membranes	membrane	P motif i
+4333	4341	GO:0003675	proteins	obsolete	n the am
+4350	4366	GO:0005886	plasma membranes	plasma	nus of annexin A
+4374	4382	GO:0003675	protein,	obsolete	roteins 
+4373	4386	GO:0005515	proteins bind	protein	proteins bind
+4402	4413	GO:0043226	organelles.	organelle	ith a stoic
+4458	4462	GO:0005488	bind	binding	A7 m
+4475	4483	GO:0031941	F-actin,	filamentous	 Galecti
+4485	4505	GO:0070527	Platelet aggregation	platelet	3 is a multifunction
+4507	4514	GO:0005488	binding	binding	 oncoge
+4518	4525	GO:0003675	protein	obsolete	protein
+4532	4540	GO:0016020	membrane	membrane	n anti-a
+4567	4575	GO:0031982	vesicles	vesicle	the extr
+4571	4591	GO:0005615	extracellular space,	extracellular	extracellular space,
+4599	4606	GO:0005634	nucleus	nucleus	nucleus
+4611	4620	GO:0005737	cytoplasm	cytoplasm	cytoplasm
+4629	4637	GO:0016020	membrane	membrane	itochond
+4628	4641	GO:0005739	mitochondria.	mitochondrion	mitochondria.
+4638	4651	GO:0005856	cytoskeleton,	cytoskeleton	ia. Cytoplasm
+4669	4676	GO:0003675	protein	obsolete	elates 
+4687	4694	GO:0003675	protein	obsolete	progres
+4718	4726	GO:0031982	vesicles	vesicle	ondrial 
+4742	4752	GO:0065007	regulation	biological	regulation
+4749	4757	GO:0031982	vesicles	vesicle	ion of a
+4783	4802	GO:0007165	signaling pathways.	signal	n-3 translocation t
+4808	4828	GO:0005640	perinuclear membrane	nuclear	perinuclear membrane
+4854	4864	GO:0046903	secretion.	secretion	secretion.
+4875	4887	GO:0042592	homeostasis.	homeostatic	n A7 a role 
+4915	4924	GO:0097194	apoptosis	execution	apoptosis
+4915	4924	GO:0006915	apoptosis	apoptotic	apoptosis
+4925	4936	GO:0065007	regulation,	biological	regulation,
+4944	4957	GO:0005622	intracellular	intracellular	ochondrial in
+4984	5003	GO:0005624	membrane fractions.	obsolete	The cellular role o
+5008	5016	GO:0016020	membrane	membrane	exin A7 
+5080	5088	GO:0016020	membrane	membrane	membrane
+5097	5110	GO:0005622	intracellular	intracellular	and to have a
+5124	5135	GO:0042592	homeostasis	homeostatic	homeostasis
+5142	5150	GO:0016020	membrane	membrane	2+-depen
+5155	5174	GO:0007165	signaling pathways.	signal	signaling pathways.
+5257	5266	GO:0003823	antibody.	antigen	nt mouse 
+5257	5266	GO:0019815	antibody.	B	nt mouse 
+5257	5266	GO:0042571	antibody.	immunoglobulin	nt mouse 
+5385	5393	GO:0016020	membrane	membrane	vastava 
+5394	5402	GO:0031982	vesicles	vesicle	t al. [1
+5424	5436	GO:0005856	cytoskeleton	cytoskeleton	gous mice ex
+5450	5457	GO:0003675	protein	obsolete	in secr
+5445	5462	GO:0030073	insulin secretion	insulin	insulin secretion
+5528	5548	GO:0070527	platelet aggregation	platelet	al. [17] is viable, 
+5570	5587	GO:0030073	insulin secretion	insulin	insulin secretion
+5598	5604	GO:0005623	cells,	cell	other 
+5608	5622	GO:0006906	vesicle fusion	vesicle	ous defects. H
+5608	5622	GO:0005481	vesicle fusion	obsolete	ous defects. H
+5657	5665	GO:0016020	membrane	membrane	the freq
+5683	5690	GO:0003675	protein	obsolete	tening 
+5717	5732	GO:0005886	plasma membrane	plasma	focused on the 
+5793	5800	GO:0005829	cytosol	cytosol	ant. Ge
+5920	5924	GO:0005623	cell	cell	een 
+5984	5990	GO:0005623	cells,	cell	s unde
+6001	6005	GO:0005623	cell	cell	 bio
+6225	6232	GO:0005488	binding	binding	to repr
+6345	6350	GO:0005623	cells	cell	 cell
+6425	6433	GO:0016020	membrane	membrane	destruct
+6474	6486	GO:0005856	cytoskeleton	cytoskeleton	 two types o
+6525	6538	GO:0045121	membrane raft	membrane	h a size of 1
+6599	6612	GO:0005576	extracellular	extracellular	ol and sphing
+6617	6625	GO:0003675	proteins	obsolete	d rich l
+6767	6772	GO:0019835	lysis	cytolysis	lipid
+6818	6823	GO:0019835	lysis	cytolysis	y lac
+6852	6857	GO:0005623	cells	cell	]. Fu
+6953	6972	GO:0044237	cellular metabolism	cellular	e abundant in nanov
+6989	7002	GO:0005622	intracellular	intracellular	cle formation
+7015	7019	GO:0007568	Aged	aging	ith 

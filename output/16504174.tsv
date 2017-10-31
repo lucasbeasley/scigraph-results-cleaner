@@ -1,0 +1,166 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+28	36	GO:0030431	diapause	sleep	disrupti
+95	100	GO:0005623	cells	cell	act B
+141	147	GO:0005623	cells,	cell	ne (ES
+190	198	GO:0003675	protein,	obsolete	protein,
+199	204	GO:0004617	Serum	phosphoglycerate	is sp
+211	223	GO:0032502	development,	developmental	lly expresse
+279	285	GO:0005623	cells.	cell	cells.
+409	422	GO:0051179	localizations	localization	localizations
+417	429	GO:0051179	Localization	localization	tions or phy
+428	439	GO:0032502	development	developmental	ysiological
+452	462	GO:0005694	chromosome	chromosome	ve not bee
+454	464	GO:0009058	formation.	biosynthetic	 not been 
+486	491	GO:0005623	cells	cell	Blast
+518	522	GO:0005623	cell	cell	taba
+554	564	GO:0000496	base pairs	base	ne. We ide
+588	592	GO:0005623	cell	cell	l ar
+652	657	GO:0005623	cells	cell	onal 
+656	661	GO:0005623	cells	cell	 ESG1
+711	721	GO:0005694	chromosome	chromosome	chromosome
+756	760	GO:0005623	cell	cell	d a 
+784	790	GO:0005623	cells.	cell	ons, i
+875	880	GO:0005623	cells	cell	e, bu
+878	888	GO:0005694	chromosome	chromosome	but not th
+940	946	GO:0005623	cells.	cell	promot
+976	981	GO:0005623	cells	cell	d ES 
+981	986	GO:0005623	cells	cell	cells
+993	998	GO:0005623	cells	cell	ifera
+997	1002	GO:0005623	cells	cell	ase r
+1021	1027	GO:0005623	cells,	cell	tudy t
+1040	1045	GO:0005623	cells	cell	cal f
+1073	1078	GO:0005623	cells	cell	e rep
+1085	1097	GO:0032502	development,	developmental	his sequence
+1086	1097	GO:0032502	Development	developmental	is sequence
+1104	1109	GO:0005623	cells	cell	cells
+1108	1118	GO:0009058	formation,	biosynthetic	s with a β
+1126	1130	GO:0005623	cell	cell	sett
+1301	1306	GO:0005623	cells	cell	cells
+1468	1481	GO:0051179	localizations	localization	es confirmed 
+1510	1516	GO:0005623	cells.	cell	cells.
+1526	1531	GO:0005623	cells	cell	cells
+1525	1535	GO:0007586	digestion,	digestion	 cells dem
+1620	1624	GO:0005623	cell	cell	 ESG
+1626	1636	GO:0000496	base pairs	base	gene, toge
+1685	1695	GO:0005694	chromosome	chromosome	chromosome
+1731	1741	GO:0000496	base pairs	base	in pluripo
+1746	1751	GO:0005623	cells	cell	cells
+1811	1816	GO:0005623	cells	cell	cells
+1880	1885	GO:0005623	cells	cell	cells
+1893	1898	GO:0031672	bands	A	rst d
+1975	1980	GO:0005623	cells	cell	cells
+1992	2000	GO:0003675	protein.	obsolete	portant 
+2110	2116	GO:0005623	cells,	cell	cells,
+2167	2173	GO:0005623	cells.	cell	e mous
+2178	2183	GO:0005623	cells	cell	cells
+2271	2276	GO:0005623	cells	cell	cells
+2300	2304	GO:0005623	cell	cell	cell
+2452	2458	GO:0005623	cells.	cell	uripot
+2493	2498	GO:0005623	cells	cell	cells
+2606	2611	GO:0005623	cells	cell	cells
+2672	2677	GO:0005623	cells	cell	tome 
+2719	2723	GO:0005623	cell	cell	pres
+2728	2732	GO:0031672	band	A	n ES
+2733	2738	GO:0005623	cells	cell	cells
+2824	2828	GO:0031672	band	A	d se
+3202	3208	GO:0005623	cells,	cell	cells,
+3222	3228	GO:0005623	cells,	cell	cells,
+3387	3393	GO:0005623	cells;	cell	A-bind
+3410	3416	GO:0005623	cells;	cell	It rem
+3432	3438	GO:0005623	cells;	cell	wever,
+3457	3463	GO:0005623	cells.	cell	as an 
+3511	3516	GO:0005623	cells	cell	cells
+3571	3576	GO:0005623	cells	cell	fied 
+3596	3601	GO:0005623	cells	cell	ining
+3642	3647	GO:0005623	cells	cell	s [17
+3790	3803	GO:0005840	ribosomal RNA	ribosome	 remaining ps
+3790	3803	GO:0003735	ribosomal RNA	structural	 remaining ps
+3790	3803	GO:0005566	ribosomal RNA	obsolete	 remaining ps
+3859	3865	GO:0005623	cells,	cell	hese w
+3882	3900	GO:0032197	retrotransposition	transposition,	retrotransposition
+3920	3925	GO:0005623	cells	cell	. The
+3923	3929	GO:0005623	cells.	cell	he chr
+3938	3951	GO:0051179	localizations	localization	localizations
+3973	3978	GO:0005623	cells	cell	e and
+4086	4091	GO:0005623	cells	cell	encod
+4100	4107	GO:0003675	protein	obsolete	protein
+4180	4185	GO:0005623	cells	cell	he ph
+4232	4237	GO:0005623	cells	cell	ssion
+4250	4262	GO:0051179	localization	localization	localization
+4279	4283	GO:0005623	Cell	cell	f mo
+4284	4289	GO:0019835	Lysis	cytolysis	se ES
+4305	4310	GO:0005623	cells	cell	ogene
+4341	4354	GO:0051179	localizations	localization	localizations
+4358	4363	GO:0005623	cells	cell	the m
+4456	4461	GO:0005623	cells	cell	ith t
+4455	4463	GO:0016020	membrane	membrane	with the
+4483	4488	GO:0005623	cells	cell	as a 
+4534	4560	GO:0005146	leukemia inhibitory factor	leukemia	nes without introns on chr
+4557	4568	GO:0005694	chromosomes	chromosome	chromosomes
+4661	4665	GO:0031672	band	A	enti
+4668	4673	GO:0005623	cells	cell	d in 
+4701	4705	GO:0031672	band	A	chro
+4713	4725	GO:0051179	localization	localization	localization
+4741	4745	GO:0031672	band	A	ed. 
+4844	4853	GO:0003675	proteins,	obsolete	proteins,
+4864	4870	GO:0005623	cells.	cell	 criti
+4905	4911	GO:0005623	cells.	cell	 that 
+4946	4950	GO:0005623	cell	cell	-les
+4980	4986	GO:0005623	cells.	cell	antici
+4990	4996	GO:0040007	Growth	growth	d. Exi
+5021	5025	GO:0031672	band	A	seud
+5063	5067	GO:0031672	band	A	ll-s
+5064	5070	GO:0005623	cells.	cell	l-spec
+5104	5108	GO:0031672	band	A	doge
+5133	5137	GO:0005623	Cell	cell	 sea
+5165	5175	GO:0003823	antibodies	antigen	es. Substi
+5165	5175	GO:0019815	antibodies	B	es. Substi
+5165	5175	GO:0042571	antibodies	immunoglobulin	es. Substi
+5226	5231	GO:0005623	cells	cell	on-li
+5290	5303	GO:0051179	localizations	localization	localizations
+5331	5341	GO:0005694	chromosome	chromosome	chromosome
+5358	5363	GO:0005623	cells	cell	 a DN
+5412	5427	GO:0010467	gene expression	gene	 two putative i
+5451	5456	GO:0005623	cells	cell	irst 
+5557	5563	GO:0005623	cells,	cell	hird e
+5633	5640	GO:0003675	protein	obsolete	n chrom
+5635	5645	GO:0005694	chromosome	chromosome	chromosome
+5641	5646	GO:0005623	cells	cell	some 
+5681	5685	GO:0005623	cell	cell	nt t
+5751	5757	GO:0005623	cells.	cell	gene. 
+5799	5806	GO:0003675	protein	obsolete	e seque
+5814	5824	GO:0005694	chromosome	chromosome	chromosome
+5855	5870	GO:0010467	gene expression	gene	mbled. To obtai
+5894	5902	GO:0003675	proteins	obsolete	ng the E
+5912	5917	GO:0005623	cells	cell	we sc
+5933	5939	GO:0005623	cells.	cell	rial a
+5981	5992	GO:0003823	antibodies.	antigen	 using prim
+5981	5992	GO:0019815	antibodies.	B	 using prim
+5981	5992	GO:0042571	antibodies.	immunoglobulin	 using prim
+6009	6015	GO:0005623	cells,	cell	ld onl
+6030	6034	GO:0005623	cell	cell	eal 
+6074	6082	GO:0003675	proteins	obsolete	wo indep
+6188	6197	GO:0016020	membranes	membrane	ontained 
+6211	6220	GO:0016020	Membranes	membrane	ibiting c
+6286	6301	GO:0010467	Gene expression	gene	ve introns (Fig
+6327	6333	GO:0005623	cells.	cell	quence
+6390	6395	GO:0005623	cells	cell	AG ru
+6396	6407	GO:0003823	antibodies.	antigen	e of exon-i
+6396	6407	GO:0019815	antibodies.	B	e of exon-i
+6396	6407	GO:0042571	antibodies.	immunoglobulin	e of exon-i
+6413	6418	GO:0005623	cells	cell	junct
+6469	6484	GO:0003823	immunoglobulins	antigen	ent exhibited s
+6494	6498	GO:0005623	Cell	cell	oter
+6499	6509	GO:0023052	Signaling)	signaling	enhancer a
+6530	6538	GO:0003823	antibody	antigen	 reporte
+6530	6538	GO:0019815	antibody	B	 reporte
+6530	6538	GO:0042571	antibody	immunoglobulin	 reporte
+6539	6547	GO:0005488	binding.	binding	 assays 
+6562	6567	GO:0005488	bound	binding	ated 
+6568	6576	GO:0003823	antibody	antigen	S cells,
+6568	6576	GO:0019815	antibody	B	S cells,
+6568	6576	GO:0042571	antibody	immunoglobulin	S cells,
+6608	6612	GO:0005623	Cell	cell	e 3)
+6646	6651	GO:0005623	cells	cell	aker 
+6667	6672	GO:0005623	cells	cell	nduct
+6788	6792	GO:0005623	cell	cell	inin

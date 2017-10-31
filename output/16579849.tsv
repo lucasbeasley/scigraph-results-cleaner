@@ -1,0 +1,131 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+178	188	GO:0008152	metabolism	metabolic	metabolism
+241	246	GO:0005623	cells	cell	ehydr
+320	326	GO:0005623	cells.	cell	nzyme 
+510	518	GO:0003823	antibody	antigen	l model.
+510	518	GO:0019815	antibody	B	l model.
+510	518	GO:0042571	antibody	immunoglobulin	l model.
+546	557	GO:0032502	development	developmental	model of cl
+638	652	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	 a mouse line 
+961	976	GO:0003863	BCKDH activity.	3-methyl-2-oxobutanoate	. Results By di
+1101	1115	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	D. The homozyg
+1117	1131	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	s knockout mic
+1150	1160	GO:0008152	metabolism	metabolic	hain keto 
+1140	1188	GO:0003863	branched-chain keto acid dehydrogenase activity,	3-methyl-2-oxobutanoate	branched-chain keto acid dehydrogenase activity,
+1188	1197	GO:0009058	synthesis	biosynthetic	 E2 immun
+1242	1246	GO:0007568	ages	aging	cula
+1261	1271	GO:0008152	metabolism	metabolic	hain amino
+1285	1294	GO:0008152	metabolic	metabolic	metabolic
+1285	1294	GO:0007552	metabolic	metamorphosis	metabolic
+1365	1370	GO:0005623	cells	cell	a hum
+1359	1374	GO:0003824	enzyme activity	catalytic	on of a human E
+1393	1407	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	 of the E2 kno
+1423	1428	GO:0005623	cells	cell	oduce
+1460	1507	GO:0003863	Branched-chain keto acid dehydrogenase activity	3-methyl-2-oxobutanoate	Branched-chain keto acid dehydrogenase activity
+1542	1551	GO:0003675	protein).	obsolete	ent to al
+1732	1739	GO:0003675	Protein	obsolete	These m
+1800	1805	GO:0005623	cells	cell	e the
+1875	1882	GO:0003675	Protein	obsolete	These a
+1939	1951	GO:0009405	pathogenesis	pathogenesis	pathogenesis
+2010	2018	GO:0016020	membrane	membrane	egies, s
+2321	2329	GO:0003823	antibody	antigen	of branc
+2321	2329	GO:0019815	antibody	B	of branc
+2321	2329	GO:0042571	antibody	immunoglobulin	of branc
+2367	2373	GO:0005623	cells.	cell	ched-c
+2416	2424	GO:0003823	antibody	antigen	e and va
+2416	2424	GO:0019815	antibody	B	e and va
+2416	2424	GO:0042571	antibody	immunoglobulin	e and va
+2542	2550	GO:0003823	antibody	antigen	 leading
+2542	2550	GO:0019815	antibody	B	 leading
+2542	2550	GO:0042571	antibody	immunoglobulin	 leading
+2674	2688	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	BCKDH activity
+2687	2696	GO:0008152	metabolic	metabolic	y in the 
+2687	2696	GO:0007552	metabolic	metamorphosis	y in the 
+2726	2730	GO:0043840	BCAT	branched-chain	hese
+2746	2760	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	arkedly elevat
+2762	2777	GO:0003824	enzyme activity	catalytic	 levels of BCAA
+2807	2822	GO:0003824	enzyme activity	catalytic	s [1]. Besides 
+2945	2949	GO:0005623	cell	cell	tivi
+2937	2951	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	BCKDH activity
+2988	2992	GO:0005623	cell	cell	such
+3075	3080	GO:0005623	cells	cell	level
+3084	3088	GO:0043840	BCAT	branched-chain	 BCA
+3144	3158	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	BCKDH activity
+3323	3331	GO:0003823	antibody	antigen	1], and 
+3323	3331	GO:0019815	antibody	B	1], and 
+3323	3331	GO:0042571	antibody	immunoglobulin	1], and 
+3375	3379	GO:0005623	cell	cell	ites
+3389	3404	GO:0003824	enzyme activity	catalytic	lvania, the inc
+3529	3538	GO:0003675	proteins,	obsolete	proteins,
+3604	3610	GO:0023052	signal	signaling	hydrol
+3633	3638	GO:0005623	cells	cell	). Th
+3635	3639	GO:0005623	cell	cell	 The
+3682	3695	GO:0005739	mitochondria,	mitochondrion	of two α and 
+3738	3768	GO:0045254	pyruvate dehydrogenase complex	pyruvate	s are specific to BCKDH, where
+3768	3772	GO:0005623	cell	cell	as E
+3804	3810	GO:0005623	cells,	cell	-ketog
+3819	3842	GO:0010240	dehydrogenase complexes	plastid	dehydrogenase complexes
+3855	3878	GO:0004374	glycine cleavage system	obsolete	glycine cleavage system
+3855	3878	GO:0019464	glycine cleavage system	glycine	glycine cleavage system
+3855	3878	GO:0005960	glycine cleavage system	glycine	glycine cleavage system
+3913	3917	GO:0005623	cell	cell	 two
+3918	3928	GO:0065007	regulatory	biological	regulatory
+3929	3938	GO:0003675	proteins,	obsolete	proteins,
+3963	3974	GO:0016791	phosphatase	phosphatase	phosphatase
+3996	4001	GO:0005623	cells	cell	tivit
+4028	4043	GO:0016310	phosphorylation	phosphorylation	phosphorylation
+4063	4080	GO:0016311	dephosphorylation	dephosphorylation	dephosphorylation
+4204	4215	GO:0006412	translation	translation	, however, 
+4363	4373	GO:0065007	regulatory	biological	regulatory
+4385	4396	GO:0016791	phosphatase	phosphatase	phosphatase
+4459	4471	GO:0006412	translation.	translation	felong dieta
+4489	4496	GO:0003675	protein	obsolete	protein
+4546	4555	GO:0007586	digestion	digestion	isease, h
+4615	4624	GO:0008152	metabolic	metabolic	metabolic
+4615	4624	GO:0007552	metabolic	metamorphosis	metabolic
+4621	4628	GO:0007618	matings	mating	lic dec
+4621	4628	GO:1990277	matings	parasexual	lic dec
+4621	4628	GO:0000747	matings	conjugation	lic dec
+4621	4628	GO:0009291	matings	unidirectional	lic dec
+4664	4668	GO:0019013	core	viral	es a
+4710	4718	GO:0003823	antibody	antigen	terventi
+4710	4718	GO:0019815	antibody	B	terventi
+4710	4718	GO:0042571	antibody	immunoglobulin	terventi
+4800	4804	GO:0005623	cell	cell	nce 
+4831	4836	GO:0005623	cells	cell	rvivo
+4843	4852	GO:0007586	digestion	digestion	 Because 
+4872	4884	GO:0032502	development.	developmental	of the liver
+4899	4909	GO:0008152	metabolism	metabolic	metabolism
+4938	4952	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	BCKDH activity
+4995	5010	GO:0003824	enzyme activity	catalytic	D have recently
+5003	5011	GO:0003823	antibody	antigen	ecently 
+5003	5011	GO:0019815	antibody	B	ecently 
+5003	5011	GO:0042571	antibody	immunoglobulin	ecently 
+5031	5038	GO:0003675	protein	obsolete	r trans
+5052	5057	GO:0007618	mated	mating	-16].
+5052	5057	GO:1990277	mated	parasexual	-16].
+5052	5057	GO:0000747	mated	conjugation	-16].
+5052	5057	GO:0009291	mated	unidirectional	-16].
+5092	5106	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	ver transplant
+5162	5172	GO:0045120	Pronuclear	pronucleus	 are not k
+5259	5263	GO:0043336	rest	site-specific	rest
+5470	5481	GO:0032502	development	developmental	atment of t
+5611	5622	GO:0032502	development	developmental	mbat this d
+5621	5635	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	disease. An ob
+5752	5766	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	linical studie
+5788	5800	GO:0009405	pathogenesis	pathogenesis	 calf model 
+5823	5837	GO:0003863	BCKDH activity	3-methyl-2-oxobutanoate	ribed [17-19],
+6083	6092	GO:0009058	synthesis	biosynthetic	e model f
+6115	6125	GO:0008152	metabolism	metabolic	ecently, a
+6131	6136	GO:0043840	BCAT,	branched-chain	yl-N-
+6163	6178	GO:0003824	enzyme activity	catalytic	utant mouse tha
+6173	6178	GO:0005623	cell,	cell	e tha
+6280	6295	GO:0003824	Enzyme activity	catalytic	rupts a splice 
+6353	6359	GO:0043840	(BCAT)	branched-chain	(BCAT)
+6397	6405	GO:0007610	behavior	behavior	yme in M
+6516	6521	GO:0005623	cells	cell	estio
+6579	6594	GO:0003774	motor activity,"	motor	netically engin
+6685	6693	GO:0003823	antibody	antigen	t forms 
+6685	6693	GO:0019815	antibody	B	t forms 
+6685	6693	GO:0042571	antibody	immunoglobulin	t forms 
+6711	6716	GO:0005623	cells	cell	se. T

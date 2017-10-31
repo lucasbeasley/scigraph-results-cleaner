@@ -1,0 +1,312 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+103	121	GO:0006006	Glucose Metabolism	glucose	Glucose Metabolism
+171	190	GO:0030163	protein degradation	protein	large multimodular 
+183	201	GO:0006007	glucose breakdown.	glucose	odular and pleiotr
+206	214	GO:0003675	protein.	obsolete	protein.
+211	220	GO:0008152	Metabolic	metabolic	in. Sever
+211	220	GO:0007552	Metabolic	metamorphosis	in. Sever
+264	274	GO:0003823	Antibodies	antigen	s interact
+264	274	GO:0019815	Antibodies	B	s interact
+264	274	GO:0042571	Antibodies	immunoglobulin	s interact
+277	285	GO:0003675	proteins	obsolete	 specifi
+303	308	GO:0005623	cells	cell	ve mo
+314	332	GO:0051131	chaperone activity	chaperone-mediated	of RanBP2 have bee
+314	332	GO:0006457	chaperone activity	protein	of RanBP2 have bee
+314	332	GO:0003754	chaperone activity	obsolete	of RanBP2 have bee
+314	332	GO:0006461	chaperone activity	protein	of RanBP2 have bee
+314	332	GO:0044183	chaperone activity	protein	of RanBP2 have bee
+314	332	GO:0051082	chaperone activity	unfolded	of RanBP2 have bee
+390	398	GO:0033867	fasting.	Fas-activated	with Ran
+518	524	GO:0040007	growth	growth	tifica
+540	550	GO:0003823	antibodies	antigen	l partners
+540	550	GO:0019815	antibodies	B	l partners
+540	550	GO:0042571	antibodies	immunoglobulin	l partners
+545	553	GO:0033867	fasting.	Fas-activated	tners of
+558	564	GO:0033867	Fasted	Fas-activated	P2 and
+601	607	GO:0005623	cells.	cell	 in a 
+601	614	GO:0005739	mitochondria,	mitochondrion	 in a mouse m
+636	643	GO:0007067	mitotic	mitotic	s in vi
+640	650	GO:0003823	antibodies	antigen	 vitro and
+640	650	GO:0019815	antibodies	B	 vitro and
+640	650	GO:0042571	antibodies	immunoglobulin	 vitro and
+648	662	GO:0046323	glucose uptake	glucose	nd in vivo and
+677	684	GO:0016088	insulin	obsolete	th the 
+676	687	GO:0009056	degradation	catabolic	ith the mit
+669	690	GO:0051292	nuclear pore assembly	nuclear	lizes with the mitoch
+676	695	GO:0051131	chaperone activity,	chaperone-mediated	ith the mitochondri
+676	695	GO:0006457	chaperone activity,	protein	ith the mitochondri
+676	695	GO:0003754	chaperone activity,	obsolete	ith the mitochondri
+676	695	GO:0006461	chaperone activity,	protein	ith the mitochondri
+676	695	GO:0044183	chaperone activity,	protein	ith the mitochondri
+676	695	GO:0051082	chaperone activity,	unfolded	ith the mitochondri
+713	722	GO:0003675	proteins.	obsolete	e, Cox11,
+713	724	GO:0009056	degradation	catabolic	e, Cox11, a
+722	726	GO:0005623	cell	cell	 and
+728	733	GO:0005623	cell;	cell	he pa
+744	755	GO:0006096	glycolysis,	glycolytic	glycolysis,
+849	861	GO:0051179	localization	localization	xhibits stro
+865	873	GO:0003675	proteins	obsolete	haperone
+864	882	GO:0051131	chaperone activity	chaperone-mediated	chaperone activity
+864	882	GO:0006457	chaperone activity	protein	chaperone activity
+864	882	GO:0003754	chaperone activity	obsolete	chaperone activity
+864	882	GO:0006461	chaperone activity	protein	chaperone activity
+864	882	GO:0044183	chaperone activity	protein	chaperone activity
+864	882	GO:0051082	chaperone activity	unfolded	chaperone activity
+957	972	GO:0009987	cell physiology	cellular	rone role of Ra
+967	975	GO:0003675	proteins	obsolete	of RanBP
+984	991	GO:0005829	cytosol	cytosol	cytosol
+1104	1108	GO:0005623	cell	cell	cell
+1144	1156	GO:0009056	degradation.	catabolic	or of HKI, a
+1209	1218	GO:0008152	Metabolic	metabolic	 over HKI
+1209	1218	GO:0007552	Metabolic	metamorphosis	 over HKI
+1211	1220	GO:0008152	metabolic	metabolic	ver HKI. 
+1211	1220	GO:0007552	metabolic	metamorphosis	ver HKI. 
+1218	1229	GO:0006096	glycolysis,	glycolytic	. To probe 
+1270	1278	GO:0007610	behavior	behavior	role in 
+1298	1309	GO:0008152	metabolism.	metabolic	e model har
+1305	1324	GO:0097009	energy homeostasis.	energy	 harboring a geneti
+1375	1382	GO:0003675	Protein	obsolete	/− are 
+1531	1541	GO:0003823	antibodies	antigen	ral nervou
+1531	1541	GO:0019815	antibodies	B	ral nervou
+1531	1541	GO:0042571	antibodies	immunoglobulin	ral nervou
+1576	1581	GO:0005623	cell.	cell	o exh
+1615	1633	GO:0006007	glucose catabolism	glucose	glucose catabolism
+1643	1648	GO:0007602	opsin	phototransduction	mpair
+1643	1648	GO:0015053	opsin	obsolete	mpair
+1643	1648	GO:0016918	opsin	retinal	mpair
+1643	1648	GO:0009881	opsin	photoreceptor	mpair
+1643	1648	GO:0046876	opsin	3,4-didehydroretinal	mpair
+1656	1670	GO:0046323	glucose uptake	glucose	glucose uptake
+1675	1708	GO:0006094PHENOTYPE	gluconeogenesis. These phenotypes	gluconeogenesis	gluconeogenesis. These phenotypes
+1865	1871	GO:0007618	mating	mating	tical 
+1865	1871	GO:1990277	mating	parasexual	tical 
+1865	1871	GO:0000747	mating	conjugation	tical 
+1865	1871	GO:0009291	mating	unidirectional	tical 
+1899	1918	GO:0006007	glucose catabolism,	glucose	glucose catabolism,
+1899	1919	GO:0005643	nuclear pore complex	nuclear	glucose catabolism, 
+1919	1938	GO:0097009	energy homeostasis,	energy	energy homeostasis,
+1945	1953	GO:0003675	proteins	obsolete	rgets fo
+1955	1965	GO:0008152	metabolic,	metabolic	metabolic,
+1955	1965	GO:0007552	metabolic,	metamorphosis	metabolic,
+1966	1971	GO:0007568	aging	aging	aging
+2062	2069	GO:0003675	protein	obsolete	protein
+2109	2116	GO:0003675	protein	obsolete	protein
+2154	2158	GO:0005488	bind	binding	sele
+2289	2297	GO:0003675	protein,	obsolete	eral rol
+2290	2300	GO:0004299	proteasome	obsolete	ral roles 
+2290	2300	GO:0000502	proteasome	proteasome	ral roles 
+2313	2317	GO:0005623	cell	cell	cell
+2365	2374	GO:0003675	proteins,	obsolete	proteins,
+2386	2393	GO:0003675	protein	obsolete	protein
+2405	2409	GO:0005623	cell	cell	 bet
+2401	2424	GO:0009881	photoreceptor activity.	photoreceptor	king between the nuclea
+2428	2436	GO:0003675	protein,	obsolete	d cytoso
+2430	2437	GO:0005829	cytosol	cytosol	cytosol
+2494	2508	GO:0051301	cell division.	cell	cell division.
+2504	2515	GO:0006280	mutagenesis	obsolete	ion. Still,
+2513	2519	GO:0040007	growth	growth	l, the
+2519	2530	GO:0006508	proteolysis	proteolysis	 genetic an
+2554	2560	GO:0040007	growth	growth	ions o
+2649	2659	GO:0003823	antibodies	antigen	le-animal 
+2649	2659	GO:0019815	antibodies	B	le-animal 
+2649	2659	GO:0042571	antibodies	immunoglobulin	le-animal 
+2779	2789	GO:0003823	antibodies	antigen	11 and hex
+2779	2789	GO:0019815	antibodies	B	11 and hex
+2779	2789	GO:0042571	antibodies	immunoglobulin	11 and hex
+2804	2812	GO:0003675	proteins	obsolete	(HKI); a
+2838	2844	GO:0040007	growth	growth	approa
+2848	2860	GO:0005739	mitochondria	mitochondrion	 probe the r
+2857	2876	GO:0051131	chaperone activity,	chaperone-mediated	e role of RanBP2 an
+2857	2876	GO:0006457	chaperone activity,	protein	e role of RanBP2 an
+2857	2876	GO:0003754	chaperone activity,	obsolete	e role of RanBP2 an
+2857	2876	GO:0006461	chaperone activity,	protein	e role of RanBP2 an
+2857	2876	GO:0044183	chaperone activity,	protein	e role of RanBP2 an
+2857	2876	GO:0051082	chaperone activity,	unfolded	e role of RanBP2 an
+2886	2898	GO:0051179	Localization	localization	n Cox11, HKI
+2920	2931	GO:0006280	mutagenesis	obsolete	 to these. 
+2922	2932	GO:0065007	regulation	biological	o these. T
+2967	2978	GO:0006280	mutagenesis	obsolete	ts chaperon
+2967	2985	GO:0051131	chaperone activity	chaperone-mediated	ts chaperone activ
+2967	2985	GO:0006457	chaperone activity	protein	ts chaperone activ
+2967	2985	GO:0003754	chaperone activity	obsolete	ts chaperone activ
+2967	2985	GO:0006461	chaperone activity	protein	ts chaperone activ
+2967	2985	GO:0044183	chaperone activity	protein	ts chaperone activ
+2967	2985	GO:0051082	chaperone activity	unfolded	ts chaperone activ
+2970	2988	GO:0051131	chaperone activity	chaperone-mediated	chaperone activity
+2970	2988	GO:0006457	chaperone activity	protein	chaperone activity
+2970	2988	GO:0003754	chaperone activity	obsolete	chaperone activity
+2970	2988	GO:0006461	chaperone activity	protein	chaperone activity
+2970	2988	GO:0044183	chaperone activity	protein	chaperone activity
+2970	2988	GO:0051082	chaperone activity	unfolded	chaperone activity
+2992	3002	GO:0006096	glycolysis	glycolytic	ard HKI an
+3022	3029	GO:0003675	Protein	obsolete	Cox11 p
+3040	3047	GO:0005488	binding	binding	odulate
+3056	3066	GO:0004299	proteasome	obsolete	vity. More
+3056	3066	GO:0000502	proteasome	proteasome	vity. More
+3161	3170	GO:0009056	breakdown	catabolic	breakdown
+3252	3268	GO:0005635	nuclear envelope	nuclear	 central nervous
+3257	3269	GO:0051179	localization	localization	ral nervous 
+3287	3294	GO:0005488	binding	binding	s visua
+3365	3376	GO:0042592	homeostasis	homeostatic	rtners in m
+3375	3394	GO:0008152	metabolic processes	metabolic	metabolic processes
+3399	3409	GO:0003823	antibodies	antigen	allied dis
+3399	3409	GO:0019815	antibodies	B	allied dis
+3399	3409	GO:0042571	antibodies	immunoglobulin	allied dis
+3482	3487	GO:0005488	bound	binding	rge s
+3494	3502	GO:0003675	proteins	obsolete	 protein
+3531	3538	GO:0005488	binding	binding	ural an
+3585	3595	GO:0003823	antibodies	antigen	nBP2 have 
+3585	3595	GO:0019815	antibodies	B	nBP2 have 
+3585	3595	GO:0042571	antibodies	immunoglobulin	nBP2 have 
+3653	3660	GO:0003675	protein	obsolete	king [3
+3665	3672	GO:0003675	protein	obsolete	protein
+3695	3704	GO:0009058	formation	biosynthetic	formation
+3694	3706	GO:0051179	localization	localization	 formation o
+3712	3737	GO:0030472	mitotic spindle, assembly	mitotic	mitotic spindle, assembly
+3712	3737	GO:0090307	mitotic spindle, assembly	mitotic	mitotic spindle, assembly
+3745	3761	GO:0005635	nuclear envelope	nuclear	nuclear envelope
+3765	3769	GO:0004235	pump	obsolete	, an
+3794	3820	GO:0051081	nuclear envelope breakdown	nuclear	nuclear envelope breakdown
+3819	3826	GO:0003675	protein	obsolete	n with 
+3826	3847	GO:0051382	kinetochore formation	kinetochore	kinetochore formation
+3876	3883	GO:0007067	mitotic	mitotic	mitotic
+3933	3941	GO:0003823	antibody	antigen	P2 with 
+3933	3941	GO:0019815	antibody	B	P2 with 
+3933	3941	GO:0042571	antibody	immunoglobulin	P2 with 
+3980	3989	GO:0003823	antibody)	antigen	ts a plei
+3980	3989	GO:0019815	antibody)	B	ts a plei
+3980	3989	GO:0042571	antibody)	immunoglobulin	ts a plei
+3998	4003	GO:0031672	bands	A	ole o
+4015	4019	GO:0005623	cell	cell	cell
+4039	4045	GO:0031672	bands,	A	throug
+4085	4094	GO:0008152	Metabolic	metabolic	On the ot
+4085	4094	GO:0007552	Metabolic	metamorphosis	On the ot
+4108	4112	GO:0005623	cell	cell	cell
+4117	4130	GO:0005622	intracellular	intracellular	sue)-selectiv
+4249	4262	GO:0022804	pump activity	active	-binding doma
+4304	4318	GO:0051170	nuclear import	nuclear	nuclear import
+4356	4366	GO:0003823	antibodies	antigen	antibodies
+4356	4366	GO:0019815	antibodies	B	antibodies
+4356	4366	GO:0042571	antibodies	immunoglobulin	antibodies
+4368	4377	GO:0005829	cytosolic	cytosol	gainst Ra
+4394	4408	GO:0051170	nuclear import	nuclear	nuclear import
+4425	4430	GO:0005623	cells	cell	cells
+4425	4438	GO:0005622	intracellular	intracellular	cells [3]; bu
+4453	4468	GO:0008218	Bioluminescence	bioluminescence	eems dispensabl
+4510	4514	GO:0005623	cell	cell	e co
+4611	4630	GO:0004396	hexokinase activity	hexokinase	in-coupled receptor
+4647	4653	GO:0007602	opsin,	phototransduction	opsin,
+4647	4653	GO:0015053	opsin,	obsolete	opsin,
+4647	4653	GO:0016918	opsin,	retinal	opsin,
+4647	4653	GO:0009881	opsin,	photoreceptor	opsin,
+4647	4653	GO:0046876	opsin,	3,4-didehydroretinal	opsin,
+4701	4706	GO:0007602	opsin	phototransduction	opsin
+4701	4706	GO:0015053	opsin	obsolete	opsin
+4701	4706	GO:0016918	opsin	retinal	opsin
+4701	4706	GO:0009881	opsin	photoreceptor	opsin
+4701	4706	GO:0046876	opsin	3,4-didehydroretinal	opsin
+4711	4717	GO:0040007	Growth	growth	tional
+4725	4733	GO:0003675	proteins	obsolete	ion [6,7
+4751	4757	GO:0040007	growth	growth	action
+4774	4783	GO:0008152	Metabolic	metabolic	nBP2 with
+4774	4783	GO:0007552	Metabolic	metamorphosis	nBP2 with
+4794	4813	GO:0097009	energy homeostasis.	energy	f the conventional 
+4814	4833	GO:0097009	energy homeostasis.	energy	icrotubule-based mo
+4851	4860	GO:0003777	kinesins,	microtubule	kinesins,
+4852	4861	GO:0007565	gestation	female	inesins, 
+4845	4863	GO:0051131	chaperone activity	chaperone-mediated	, the kinesins, KI
+4845	4863	GO:0006457	chaperone activity	protein	, the kinesins, KI
+4845	4863	GO:0003754	chaperone activity	obsolete	, the kinesins, KI
+4845	4863	GO:0006461	chaperone activity	protein	, the kinesins, KI
+4845	4863	GO:0044183	chaperone activity	protein	, the kinesins, KI
+4845	4863	GO:0051082	chaperone activity	unfolded	, the kinesins, KI
+4886	4897	GO:0003823	Antibodies.	antigen	electively 
+4886	4897	GO:0019815	Antibodies.	B	electively 
+4886	4897	GO:0042571	Antibodies.	immunoglobulin	electively 
+4900	4910	GO:0004299	proteasome	obsolete	the centra
+4900	4910	GO:0000502	proteasome	proteasome	the centra
+4936	4942	GO:0040007	growth	growth	]. A d
+4968	4986	GO:0051131	chaperone activity	chaperone-mediated	olecular partners,
+4968	4986	GO:0006457	chaperone activity	protein	olecular partners,
+4968	4986	GO:0003754	chaperone activity	obsolete	olecular partners,
+4968	4986	GO:0006461	chaperone activity	protein	olecular partners,
+4968	4986	GO:0044183	chaperone activity	protein	olecular partners,
+4968	4986	GO:0051082	chaperone activity	unfolded	olecular partners,
+5013	5024	GO:0009056	degradation	catabolic	lly with a 
+5052	5066	GO:0051170	nuclear import	nuclear	are likely to 
+5084	5094	GO:0003823	antibodies	antigen	te additio
+5084	5094	GO:0019815	antibodies	B	te additio
+5084	5094	GO:0042571	antibodies	immunoglobulin	te additio
+5092	5102	GO:0003823	antibodies	antigen	ional role
+5092	5102	GO:0019815	antibodies	B	ional role
+5092	5102	GO:0042571	antibodies	immunoglobulin	ional role
+5155	5163	GO:0003823	antibody	antigen	 (CLD), 
+5155	5163	GO:0019815	antibody	B	 (CLD), 
+5155	5163	GO:0042571	antibody	immunoglobulin	 (CLD), 
+5158	5167	GO:0009058	formation	biosynthetic	LD), the 
+5197	5202	GO:0005623	cells	cell	 zinc
+5238	5248	GO:0003823	antibodies	antigen	 associate
+5238	5248	GO:0019815	antibodies	B	 associate
+5238	5248	GO:0042571	antibodies	immunoglobulin	 associate
+5275	5285	GO:0051235	sequesters	maintenance	ts of the 
+5283	5294	GO:0006280	Mutagenesis	obsolete	e 19S cap o
+5293	5300	GO:0005488	binding	binding	of the 
+5300	5310	GO:0004299	proteasome	obsolete	proteasome
+5300	5310	GO:0000502	proteasome	proteasome	proteasome
+5314	5324	GO:0003823	antibodies	antigen	], the E2 
+5314	5324	GO:0019815	antibodies	B	], the E2 
+5314	5324	GO:0042571	antibodies	immunoglobulin	], the E2 
+5352	5362	GO:0003823	antibodies	antigen	bc9) [15],
+5352	5362	GO:0019815	antibodies	B	bc9) [15],
+5352	5362	GO:0042571	antibodies	immunoglobulin	bc9) [15],
+5371	5385	GO:0051168	nuclear export	nuclear	nuclear export
+5393	5404	GO:0006280	mutagenesis	obsolete	r, CRM1/exp
+5417	5424	GO:0016088	Insulin	obsolete	 respec
+5440	5450	GO:0003823	antibodies	antigen	tself was 
+5440	5450	GO:0019815	antibodies	B	tself was 
+5440	5450	GO:0042571	antibodies	immunoglobulin	tself was 
+5481	5496	GO:0016874	ligase activity	ligase	ligase activity
+5502	5510	GO:0003675	proteins	obsolete	 support
+5517	5527	GO:0065007	regulation	biological	irect link
+5544	5552	GO:0045292	splicing	mRNA	ediated 
+5546	5553	GO:0016088	insulin	obsolete	iated S
+5616	5625	GO:0005829	cytosolic	cytosol	cytosolic
+5619	5626	GO:0051235	storage	maintenance	osolic 
+5644	5651	GO:0005096	RanGAP)	GTPase	RanGAP)
+5659	5668	GO:0005829	cytosolic	cytosol	cytosolic
+5692	5696	GO:0043336	rest	site-specific	e co
+5681	5701	GO:0005643	nuclear pore complex	nuclear	nuclear pore complex
+5753	5758	GO:0007568	aging	aging	ize p
+5833	5840	GO:0005488	binding	binding	otosens
+5850	5862	GO:0044297	cell bodies,	cell	s [19] and t
+5875	5885	GO:0009058	formation,	biosynthetic	estricted 
+5890	5896	GO:0098657	uptake	import	along 
+5940	5952	GO:0051179	localization	localization	localization
+5939	5954	GO:0006351	Transcriptional	transcription,	 localization a
+5951	5970	GO:0008152	metabolic processes	metabolic	n at cytoplasmic fi
+5968	5975	GO:0043205	fibrils	fibril	fibrils
+5991	6004	GO:0005643	nuclear pores	nuclear	nuclear pores
+6079	6088	GO:0008152	Metabolic	metabolic	of RanBP2
+6079	6088	GO:0007552	Metabolic	metamorphosis	of RanBP2
+6111	6123	GO:0009405	pathogenesis	pathogenesis	pathogenesis
+6155	6160	GO:0030315	triad	T-tubule	 is u
+6236	6243	GO:0003777	kinesin	microtubule	P2 [20]
+6273	6285	GO:0009056	degradation.	catabolic	tion and deg
+6282	6293	GO:0009056	degradation	catabolic	degradation
+6336	6347	GO:0004600	cyclophilin	obsolete	on of the C
+6336	6347	GO:0016018	cyclophilin	cyclosporin	on of the C
+6400	6410	GO:0004299	proteasome	obsolete	proteasome
+6400	6410	GO:0000502	proteasome"	proteasome	proteasome
+6433	6447	GO:0046323	glucose uptake	glucose	he small yeast
+6461	6468	GO:0003809	topical	obsolete	rotein 
+6474	6478	GO:0004235	pump	obsolete	BP1)
+6514	6530	GO:0006094	gluconeogenesis,	gluconeogenesis	 Ran-binding dom
+6656	6669	GO:0006094	gluconeogenic	gluconeogenesis	tivity [22–24
+6743	6754	GO:0009056	degradation	catabolic	 juvenile P
+6879	6894	GO:0006094	gluconeogenesis	gluconeogenesis	− mice exhibit 
+7036	7049	GO:0005622	intracellular	intracellular	e together wi
+7137	7141	GO:0004235	pump	obsolete	rate
+7138	7148	GO:0003823	antibodies	antigen	ates and t
+7138	7148	GO:0019815	antibodies	B	ates and t
+7138	7148	GO:0042571	antibodies	immunoglobulin	ates and t
+7145	7161	GO:0016310	phosphorylation.	phosphorylation	d to exert a neu

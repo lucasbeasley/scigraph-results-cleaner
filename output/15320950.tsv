@@ -1,0 +1,148 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+15	22	GO:0003675	protein	obsolete	protein
+123	132	GO:0046903	secretion	secretion	ract Back
+177	189	GO:0005921	gap junction	gap	ecessive dis
+220	240	GO:0008104	Protein localization	protein	al deafness and goit
+339	352	GO:0043473	pigmentation.	pigmentation	tween pendrin
+373	379	GO:0005623	cells,	cell	ice th
+444	450	GO:0097612	sulcus	dinoflagellate	. Meth
+486	494	GO:0003675	proteins	obsolete	proteins
+657	662	GO:0005623	cells	cell	entra
+745	753	GO:0003675	protein.	obsolete	stria ma
+765	772	GO:0003675	protein	obsolete	 were r
+767	772	GO:0005623	cells	cell	ere r
+787	795	GO:0016020	membrane	membrane	vibratin
+823	828	GO:0005623	cells	cell	evalu
+822	828	GO:0097612	sulcus	dinoflagellate	 evalu
+875	887	GO:0043473	pigmentation	pigmentation	pigmentation
+929	941	GO:0005739	mitochondria	mitochondrion	endrin was f
+971	980	GO:0016020	membranes	membrane	membranes
+983	988	GO:0005623	cells	cell	 spir
+1002	1007	GO:0005623	cells	cell	cells
+1013	1018	GO:0005623	cells	cell	pindl
+1027	1032	GO:0005623	cells	cell	cells
+1029	1034	GO:0005623	cells	cell	lls o
+1026	1044	GO:0004089	carbonic anhydrase	carbonate	 cells of stria va
+1063	1069	GO:0097612	sulcus	dinoflagellate	sulcus
+1065	1074	GO:0007586	digestion	digestion	lcus and 
+1079	1085	GO:0005623	cells.	cell	cells.
+1149	1159	GO:0016020	membranes.	membrane	sses in ar
+1179	1184	GO:0005623	cells	cell	d by 
+1199	1210	GO:0032502	development	developmental	ibrocytes w
+1213	1218	GO:0005623	cells	cell	 redu
+1312	1317	GO:0005623	cells	cell	ll ba
+1374	1380	GO:0005623	cells.	cell	cells.
+1407	1420	GO:0005576	extracellular	extracellular	pigmented, su
+1439	1455	GO:0048770	pigment granules	pigment	ed free radical 
+1494	1500	GO:0098657	uptake	import	 intac
+1516	1521	GO:0005623	cells	cell	cells
+1562	1569	GO:0003675	protein	obsolete	protein
+1665	1674	GO:0046903	secretion	secretion	secretion
+1723	1735	GO:0043473	pigmentation	pigmentation	 KCNE1, Na+/
+1758	1763	GO:0034023	pure,	5-(carboxyamino)imidazole	LC12A
+1773	1785	GO:0005921	gap junction	gap	gap junction
+1798	1810	GO:0043473	pigmentation	pigmentation	sions These 
+1867	1876	GO:0005829	cytosolic	cytosol	o a loss 
+1886	1893	GO:0003675	protein	obsolete	protein
+1951	1958	GO:0003675	protein	obsolete	h may b
+2084	2093	GO:0005829	cytosolic	cytosol	order cha
+2091	2098	GO:0007605	hearing	sensory	haracte
+2133	2142	GO:0008152	metabolic	metabolic	he syndro
+2133	2142	GO:0007552	metabolic	metamorphosis	he syndro
+2156	2160	GO:0005623	cell	cell	y mu
+2213	2220	GO:0003675	protein	obsolete	protein
+2217	2229	GO:0043473	pigmentation	pigmentation	ein pendrin 
+2334	2346	GO:0043473	pigmentation	pigmentation	 head injury
+2393	2406	GO:0051179	localization.	localization	 variable and
+2433	2440	GO:0003006	puberty	developmental	puberty
+2554	2573	GO:0004089	carbonic anhydrase,	carbonate	rate of iodide tran
+2562	2578	GO:0015705	iodide transport	iodide	iodide transport
+2597	2605	GO:0016020	membrane	membrane	membrane
+2661	2667	GO:0040007	growth	growth	lorate
+2810	2819	GO:0015297	exchanger	antiporter	exchanger
+2829	2838	GO:0006810	transport	transport	transport
+2846	2851	GO:0005623	cells	cell	, HCO
+2864	2876	GO:0043473	pigmentation	pigmentation	te [6,7]. Ex
+2890	2897	GO:0003675	protein	obsolete	een fou
+2948	2960	GO:0043473	pigmentation	pigmentation	th the clini
+3009	3016	GO:0003675	protein	obsolete	tion, p
+3098	3102	GO:0097683	apex	dinoflagellate	], t
+3200	3212	GO:0043473	Pigmentation	pigmentation	eripheral ca
+3223	3243	GO:0008104	Protein localization	protein	ness [2,11]. Express
+3270	3279	GO:0003823	antibody.	antigen	inner ear
+3270	3279	GO:0019815	antibody.	B	inner ear
+3270	3279	GO:0042571	antibody.	immunoglobulin	inner ear
+3313	3320	GO:0042603	capsule	capsule	includi
+3424	3431	GO:0003675	protein	obsolete	protein
+3528	3540	GO:0043473	pigmentation	pigmentation	e and the ob
+3547	3555	GO:0031941	F-actin,	filamentous	on that 
+3593	3597	GO:0019013	Core	viral	gges
+3612	3619	GO:0031941	F-actin	filamentous	dysfunc
+3625	3631	GO:0005623	cells.	cell	ay not
+3678	3683	GO:0019013	Core,	viral	able 
+3700	3707	GO:0023052	signals	signaling	unction
+3702	3707	GO:0019013	Core)	viral	ction
+3705	3723	GO:0009986	cells with surface	cell	on favors changes 
+3751	3759	GO:0003675	proteins	obsolete	proteins
+3797	3802	GO:0005623	cells	cell	 of t
+3805	3812	GO:0007605	hearing	sensory	hearing
+3865	3878	GO:0005921	gap junctions	gap	direct cause 
+3962	3971	GO:0006810	transport	transport	of a pend
+3995	4003	GO:0003823	antibody	antigen	antibody
+3995	4003	GO:0019815	antibody	B	antibody
+3995	4003	GO:0042571	antibody	immunoglobulin	antibody
+4016	4027	GO:0032502	development	developmental	development
+4175	4184	GO:0046903	secretion	secretion	pendrin a
+4206	4211	GO:0005623	cells	cell	ss in
+4217	4222	GO:0005623	cells	cell	a4-/-
+4285	4290	GO:0005623	cells	cell	 and 
+4370	4375	GO:0005623	cells	cell	age) 
+4421	4434	GO:0043473	pigmentation.	pigmentation	-/-) a functi
+4435	4447	GO:0043473	Pigmentation	pigmentation	nal gene for
+4543	4548	GO:0005623	cells	cell	lc26a
+4577	4589	GO:0043473	pigmentation	pigmentation	/- mice were
+4597	4605	GO:0016020	membrane	membrane	ted in t
+4668	4676	GO:0003675	proteins	obsolete	m 129Sv/
+4730	4739	GO:0046903	secretion	secretion	t differ 
+4769	4781	GO:0043473	pigmentation	pigmentation	pigmentation
+4826	4835	GO:0046903	secretion	secretion	lc26a4+/+
+4884	4891	GO:0031941	F-actin	filamentous	ssion o
+4897	4905	GO:0003675	proteins	obsolete	proteins
+4971	4980	GO:0006810	transport	transport	transport
+5062	5071	GO:0046903	secretion	secretion	secretion
+5166	5171	GO:0005623	cells	cell	nique
+5259	5267	GO:0016020	membrane	membrane	ansas St
+5262	5268	GO:0097612	sulcus	dinoflagellate	as Sta
+5311	5318	GO:0003675	protein	obsolete	 Animal
+5369	5377	GO:0016020	membrane	membrane	l (100 m
+5467	5475	GO:0003823	antibody	antigen	ution co
+5467	5475	GO:0019815	antibody	B	ution co
+5467	5475	GO:0042571	antibody	immunoglobulin	ution co
+5518	5526	GO:0003823	antibody	antigen	s were r
+5518	5526	GO:0019815	antibody	B	s were r
+5518	5526	GO:0042571	antibody	immunoglobulin	s were r
+5577	5585	GO:0003675	proteins	obsolete	n, decal
+5649	5655	GO:0097612	sulcus	dinoflagellate	ated w
+5660	5667	GO:0003675	protein	obsolete	olyethy
+5737	5743	GO:0005623	cells,	cell	h, Ger
+5754	5763	GO:0016020	membranes	membrane	blocked i
+5824	5833	GO:0016020	membranes	membrane	n. Slides
+5852	5871	GO:0044464	cells that are part	cell	rnight at 4°C with 
+5879	5889	GO:0003823	antibodies	antigen	antibodies
+5879	5889	GO:0019815	antibodies	B	antibodies
+5879	5889	GO:0042571	antibodies	immunoglobulin	antibodies
+5951	5956	GO:0005623	cells	cell	); ra
+5977	5982	GO:0005623	cells	cell	hemic
+6038	6047	GO:0006810	transport	transport	uz Biotec
+6144	6162	GO:0004089	carbonic anhydrase	carbonate	10, 1:300 (Alomone
+6347	6356	GO:0046903	secretion	secretion	ondary an
+6354	6364	GO:0003823	antibodies	antigen	antibodies
+6354	6364	GO:0019815	antibodies	B	antibodies
+6354	6364	GO:0042571	antibodies	immunoglobulin	antibodies
+6503	6512	GO:0046903	secretion	secretion	olecular 
+6534	6549	GO:0005884	Actin filaments	actin	Actin filaments
+6538	6558	GO:0008104	Protein localization	protein	n filaments were vis
+6871	6877	GO:0005623	cells,	cell	ages w
+7035	7041	GO:0005623	cells;	cell	tized 
+7052	7058	GO:0097612	sulcus	dinoflagellate	 pento
+7134	7140	GO:0005623	cells;"54       59      GO:0005623        cell                          "cells	cell	liquid

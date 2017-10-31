@@ -1,0 +1,180 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	9	GO:0009058	Formation	biosynthetic	DNA bindi
+0	11	GO:0003677	DNA binding	DNA	DNA binding
+30	48	GO:0097373	Mcm4/6/7 complexes	MCM	ns of mouse MCM4/6
+59	64	GO:0005488	binds	binding	 Abst
+81	109	GO:0003678	DNA on the helicase activity	DNA	ay central roles in initiati
+107	114	GO:0005488	binding	binding	tion an
+127	134	GO:0003675	protein	obsolete	of DNA 
+130	146	GO:0006260	DNA replication.	DNA	DNA replication.
+188	205	GO:0016887	ATPase activities	ATPase	ATPase activities
+197	215	GO:0004386	helicase activity.	helicase	tivities of the ma
+223	239	GO:0097373	Mcm4/6/7 complex	MCM	Mcm4/6/7 complex
+383	391	GO:0003675	protein.	obsolete	ynthetic
+399	411	GO:0042555	Mcm complex.	MCM	n a bubble s
+443	450	GO:0004530	DNase I	deoxyribonuclease	ic dual
+474	479	GO:0005488	bind,	binding	oxima
+589	598	GO:0000496	base pair	base	 thymine 
+629	638	GO:0000496	base pair	base	 results 
+635	642	GO:0005488	binding	binding	ts in s
+635	643	GO:0003675	protein,	obsolete	ts in si
+677	684	GO:0004530	DNase I	deoxyribonuclease	ficacy,
+701	711	GO:0009058	formation,	biosynthetic	concurrent
+713	722	GO:0000496	base pair	base	idirectio
+837	842	GO:0005488	binds	binding	binds
+889	896	GO:0005488	binding	binding	res car
+901	920	GO:0004386	helicase activities	helicase	 a single-stranded 
+931	948	GO:0004386	helicase activity	helicase	. The extent of h
+941	950	GO:0003887	Sequenase	DNA-directed	nt of hel
+1067	1085	GO:0004386	helicase activity.	helicase	 more thymine cont
+1089	1099	GO:0009058	formation.	biosynthetic	 Strand di
+1090	1109	GO:0000732	Strand displacement	strand	Strand displacement
+1152	1163	GO:0003677	DNA binding	DNA	t of the du
+1175	1185	GO:0065007	regulation	biological	increases.
+1179	1189	GO:0000496	base pair,	base	eases. Rep
+1203	1219	GO:0097373	Mcm4/6/7 complex	MCM	tosine–guanine p
+1225	1232	GO:0005488	binding	binding	ith cyt
+1222	1237	GO:0006260	DNA replication	DNA	s with cytosine
+1245	1256	GO:0032502	development	developmental	 pairs in t
+1271	1275	GO:0005623	cell	cell	red 
+1277	1298	GO:0003678	DNA helicase activity	DNA	winding, suggesting t
+1316	1334	GO:0005657	replication forks.	replication	/6/7 helicase has 
+1356	1366	GO:0004196	proteinase	obsolete	ing stably
+1356	1366	GO:0004175	proteinase	endopeptidase	ing stably
+1398	1402	GO:0005623	cell	cell	her,
+1453	1460	GO:0005488	Binding	binding	tion an
+1471	1488	GO:0004386	helicase activity	helicase	 preference of th
+1596	1612	GO:0006260	DNA replication.	DNA	cleotide triphos
+1610	1627	GO:0004386	helicase activity	helicase	osphate to duplex
+1692	1711	GO:0000166	nucleotide binding,	nucleotide	nucleotide binding,
+1712	1723	GO:0003677	DNA binding	DNA	DNA binding
+1728	1742	GO:0006200	ATP hydrolysis	obsolete	ATP hydrolysis
+1757	1764	GO:0005488	binding	binding	r unwin
+1754	1772	GO:0004386	helicase activity.	helicase	 for unwinding of 
+1797	1805	GO:0003675	protein,	obsolete	americ h
+1876	1883	GO:0005488	binding	binding	re know
+1890	1898	GO:0003675	proteins	obsolete	semble a
+1917	1931	GO:0016887	SV40 T-antigen	ATPase	e (3–5). Where
+1956	1971	GO:0006260	DNA replication	DNA	of this group, 
+1974	1990	GO:0097373	Mcm4/6/7 complex	MCM	luding simian vi
+2004	2021	GO:0004386	helicase activity	helicase	-antigen (6), Esc
+2075	2092	GO:0005657	replication forks	replication	omposed of a sing
+2106	2123	GO:0004386	helicase activity	helicase	e active eukaryot
+2141	2161	GO:0051635	binding, in bacteria	obsolete	re composed of two t
+2178	2186	GO:0003675	proteins	obsolete	proteins
+2216	2224	GO:0003675	proteins	obsolete	proteins
+2326	2342	GO:0097373	Mcm4/6/7 complex	MCM	ral stable subco
+2360	2368	GO:0003675	proteins	obsolete	proteins
+2392	2408	GO:0097373	Mcm4/6/7 complex	MCM	Mcm4/6/7 complex
+2448	2469	GO:0003678	DNA helicase activity	DNA	DNA helicase activity
+2470	2478	GO:0003675	protein;	obsolete	(10–14,1
+2475	2492	GO:0097373	Mcm4/6/7 complex,	MCM	4,17–18). While M
+2511	2519	GO:0003675	proteins	obsolete	proteins
+2510	2526	GO:0097373	Mcm4/6/7 complex	MCM	 proteins make d
+2522	2539	GO:0097373	Mcm4/6/7 complex,	MCM	ke distinct contr
+2554	2571	GO:0004386	helicase activity	helicase	helicase activity
+2608	2625	GO:0004386	helicase activity	helicase	helicase activity
+2633	2649	GO:0097373	Mcm4/6/7 complex	MCM	Mcm4/6/7 complex
+2653	2663	GO:0004196	proteinase	obsolete	converting
+2653	2663	GO:0004175	proteinase	endopeptidase	converting
+2727	2734	GO:0005488	binding	binding	amer, r
+2740	2751	GO:0003677	DNA binding	DNA	ively (3,11
+2744	2754	GO:0000496	base pairs	base	y (3,11). 
+2754	2763	GO:0000785	Chromatin	chromatin	Chromatin
+2913	2927	GO:0016887	SV40 T-antigen	ATPase	t also in the 
+2928	2935	GO:0003675	protein	obsolete	NA chai
+3071	3080	GO:0003675	proteins.	obsolete	 mouse Mc
+3078	3096	GO:0097373	Mcm4/6/7 complexes	MCM	Mcm4/6/7 complexes
+3142	3149	GO:0004530	DNase I	deoxyribonuclease	uctures
+3169	3178	GO:0000496	base pair	base	uplex DNA
+3211	3216	GO:0005488	binds	binding	binds
+3251	3258	GO:0004530	DNase I	deoxyribonuclease	n ATP-d
+3265	3275	GO:0000496	base pairs	base	t manner, 
+3315	3331	GO:0097373	Mcm4/6/7 complex	MCM	, as was shown f
+3406	3410	GO:0005488	bind	binding	drol
+3400	3414	GO:0006200	ATP hydrolysis	obsolete	ATP hydrolysis
+3423	3430	GO:0005488	binding	binding	es of m
+3441	3445	GO:0005488	bind	binding	m4/6
+3499	3513	GO:0032508	(DNA unwinding	DNA	ontaining stre
+3535	3551	GO:0006260	DNA replication,	DNA	ues and proposed
+3581	3592	GO:0003677	DNA binding	DNA	ay a crucia
+3759	3775	GO:0006260	DNA replication.	DNA	o how it may fun
+3776	3783	GO:0005488	binding	binding	tion at
+3795	3803	GO:0003675	Proteins	obsolete	tion for
+3788	3805	GO:0005657	replication forks	replication	replication forks
+3874	3885	GO:0003677	DNA binding	DNA	DNA binding
+3977	3994	GO:0097373	Mcm4/6/7 complex,	MCM	addressed sequenc
+4092	4108	GO:0097373	Mcm4/6/7 complex	MCM	 the thymine seq
+4137	4144	GO:0005488	Binding	binding	nuous a
+4175	4180	GO:0005488	binds	binding	g the
+4255	4260	GO:0005488	binds	binding	binds
+4262	4269	GO:0005488	binding	binding	o singl
+4259	4281	GO:0043388	activation DNA binding	positive	s to single-stranded D
+4312	4317	GO:0005488	binds	binding	of he
+4315	4324	GO:0000785	chromatin	chromatin	helicase 
+4346	4353	GO:0005488	binding	binding	to the 
+4379	4392	GO:0003918	topoisomerase	DNA	gle-stranded 
+4379	4392	GO:0003917	topoisomerase	DNA	gle-stranded 
+4440	4445	GO:0005488	bound	binding	capab
+4488	4496	GO:0003675	proteins	obsolete	lex segm
+4512	4519	GO:0005488	binding	binding	that so
+4535	4540	GO:0005488	bound	binding	sm ma
+4530	4545	GO:0016310	phosphorylation	phosphorylation	chanism may be 
+4604	4612	GO:0004530	DNase I,	deoxyribonuclease	. MATERI
+4622	4633	GO:0003677	DNA binding	DNA	THODS Reage
+4630	4647	GO:0004386	helicase activity	helicase	agents Labeled an
+4675	4684	GO:0003887	Sequenase	DNA-directed	Sequenase
+4697	4702	GO:0005488	bound	binding	ed fr
+4779	4783	GO:0005488	bind	binding	olyn
+4780	4797	GO:0097373	Mcm4/6/7 complex,	MCM	lynucleotide kina
+4795	4800	GO:0005488	bound	binding	nase,
+4801	4808	GO:0004530	DNase I	deoxyribonuclease	DNase I
+4812	4819	GO:0004530	DNase I	deoxyribonuclease	 the Kl
+4808	4825	GO:0005657	replication forks	replication	 and the Klenow f
+4817	4832	GO:0003887	Klenow fragment	DNA-directed	Klenow fragment
+4830	4843	GO:0032508	DNA unwinding	DNA	nt were from 
+4850	4867	GO:0097373	Mcm4/6/7 complex.	MCM	 Nuclease P1 was 
+4914	4932	GO:0005657	replication forks,	replication	ose and FLAG pepti
+4938	4943	GO:0005488	bound	binding	e fro
+4952	4966	GO:0016887	SV40 T-antigen	ATPase	SV40 T-antigen
+4994	5003	GO:0003675	proteins,	obsolete	us-infect
+5013	5018	GO:0005623	cells	cell	cells
+5025	5030	GO:0031672	band.	A	orted
+5051	5058	GO:0003675	protein	obsolete	protein
+5064	5080	GO:0097373	Mcm4/6/7 complex	MCM	rovided by Dr Ta
+5092	5097	GO:0005488	binds	binding	3). O
+5235	5246	GO:0003677	DNA binding	DNA	by purifica
+5294	5305	GO:0042555	Mcm complex	MCM	s). Express
+5340	5347	GO:0005488	binding	binding	6/7 com
+5335	5351	GO:0097373	Mcm4/6/7 complex	MCM	Mcm4/6/7 complex
+5383	5400	GO:0097373	Mcm4/6/7 complex,	MCM	xpressing His6-Mc
+5421	5429	GO:0003675	proteins	obsolete	proteins
+5487	5492	GO:0005623	cells	cell	cells
+5489	5505	GO:0006260	DNA replication,	DNA	lls were culture
+5504	5509	GO:0005488	bound	binding	ed at
+5534	5545	GO:0003677	DNA binding	DNA	ife Technol
+5540	5555	GO:0016887	ATPase activity	ATPase	chnologies, Inc
+5619	5624	GO:0005488	binds	binding	xpres
+5646	5651	GO:0005488	binds	binding	rotei
+5645	5654	GO:0003675	proteins,	obsolete	proteins,
+5665	5670	GO:0005623	cells	cell	cells
+5748	5756	GO:0003675	proteins	obsolete	proteins
+5762	5776	GO:0016887	SV40 T-antigen	ATPase	hose expressin
+5773	5777	GO:0005488	bind	binding	sing
+5765	5791	GO:0006270	DNA replication initiation	DNA	e expressing the Mcm7-FLAG
+5837	5844	GO:0003675	protein	obsolete	he reco
+5852	5870	GO:0097373	Mcm4/6/7 complexes	MCM	Mcm4/6/7 complexes
+5857	5873	GO:0097373	Mcm4/6/7 complex	MCM	6/7 complexes we
+5874	5879	GO:0005488	binds	binding	e pur
+5904	5912	GO:0003675	protein,	obsolete	ibed (12
+5913	5927	GO:0016887	SV40 T-antigen	ATPase	. DNA substrat
+5953	5968	GO:0016887	SV40 T-antigen.	ATPase	he oligonucleot
+6162	6169	GO:0003675	protein	obsolete	d circu
+6166	6173	GO:0005488	binding	binding	rcular 
+6173	6186	GO:0042555	Mcm complexes	MCM	DNA or its de
+6186	6196	GO:0007586	digestion.	digestion	rivative. 
+6234	6241	GO:0003675	protein	obsolete	y Sepha
+6243	6251	GO:0003675	protein,	obsolete	se CL4B 
+6378	6395	GO:0005657	replication fork.	replication	ligonucleotides w
+6408	6413	GO:0005488	binds	binding	ottom
+7041	7057	GO:0097373	Mcm4/6/7 complex	MCM	e, labeled oligo

@@ -1,0 +1,71 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+42	58	GO:0030324	Lung Development	lung	Lung Development
+60	71	GO:0032502	development	developmental	n Mice and 
+218	227	GO:0016020	membranes	membrane	in neonat
+260	270	GO:0005694	chromosome	chromosome	of these d
+376	380	GO:0004239	maps	obsolete	N-ni
+384	394	GO:0005694	Chromosome	chromosome	ourea, we 
+415	421	GO:0004617	serum,	phosphoglycerate	 that 
+476	488	GO:0032502	development.	developmental	development.
+502	506	GO:0004239	maps	obsolete	maps
+604	610	GO:0004239	mapped	obsolete	encing
+614	624	GO:0005694	Chromosome	chromosome	Fog2 ident
+723	731	GO:0003675	protein.	obsolete	protein.
+726	734	GO:0004239	mapping,	obsolete	tein. Hu
+740	745	GO:0007114	buds.	cell	topsy
+965	972	GO:0003675	protein	obsolete	fe seco
+1025	1033	GO:0003675	protein.	obsolete	 abnorma
+1163	1180	GO:0030324	lung development,	lung	lung development,
+1223	1229	GO:0005623	cells.	cell	iated.
+1271	1283	GO:0009405	pathogenesis	pathogenesis	pathogenesis
+1294	1302	GO:0016020	membrane	membrane	romic hu
+1372	1383	GO:0032502	development	developmental	development
+1633	1639	GO:0040007	growth	growth	fibros
+1813	1822	GO:0007585	breathing	respiratory	breathing
+2008	2019	GO:0032502	development	developmental	development
+2128	2141	GO:0030484	muscle fibers	obsolete	etic mutation
+2128	2141	GO:0043292	muscle fibers	contractile	etic mutation
+2196	2205	GO:0009058	formation	biosynthetic	Friend of
+2231	2239	GO:0007519	myogenic	skeletal	diaphrag
+2231	2239	GO:0048740	myogenic	obsolete	diaphrag
+2243	2252	GO:0009058	formation	biosynthetic	velopment
+2425	2438	GO:0006351	transcription	transcription,	ected with di
+2506	2512	GO:0005634	Nuclei	nucleus	ous mu
+2557	2563	GO:0023052	signal	signaling	e hour
+2585	2594	GO:0007585	breathing	respiratory	breathing
+2725	2741	GO:0030324	lung development	lung	lung development
+3071	3091	GO:0008406	gonadal development,	gonad	 or posterolateral h
+3472	3476	GO:0019013	core	viral	n be
+3660	3672	GO:0009405	pathogenesis	pathogenesis	pathogenesis
+4070	4076	GO:0016265	deaths	death	deaths
+4091	4102	GO:0032502	Development	developmental	 or to tran
+4212	4228	GO:0030324	lung development	lung	rth, therapy has
+4363	4371	GO:0016020	membrane	membrane	membrane
+4418	4426	GO:0007114	budding.	cell	provide 
+4516	4521	GO:0031672	bands	A	 othe
+4565	4571	GO:0040007	growth	growth	rbidit
+4634	4638	GO:0007114	buds	cell	chro
+4694	4705	GO:0032502	Development	developmental	deficits, a
+4773	4784	GO:0032502	development	developmental	 associated
+4844	4852	GO:0045292	splicing	mRNA	11]. To 
+5012	5019	GO:0003675	protein	obsolete	of thes
+5261	5265	GO:0031672	band	A	ecul
+5297	5301	GO:0031672	band	A	ed f
+5318	5330	GO:0032502	development.	developmental	development.
+5421	5433	GO:0009405	pathogenesis	pathogenesis	pathogenesis
+5416	5437	GO:0060539	diaphragm development	diaphragm	 the pathogenesis of 
+5491	5512	GO:0060539	Diaphragm Development	diaphragm	evelopmental abnormal
+5511	5525	GO:0006351	transcription.	transcription,	lities in huma
+5585	5601	GO:0030324	lung development	lung	s of human birth
+5625	5637	GO:0032502	development.	developmental	c genetic ab
+5847	5858	GO:0032502	development	developmental	 in the per
+5868	5877	GO:0007585	breathing	respiratory	iod [14].
+5900	5912	GO:0009405	pathogenesis	pathogenesis	dentified a 
+5929	5945	GO:0030324	Lung Development	lung	ying a recessive
+6031	6051	GO:0007507	cardiac development.	heart	cardiac development.
+6051	6063	GO:0032502	development.	developmental	 Positional 
+6088	6112	GO:0001763	branching morphogenesis,	morphogenesis	ed Fog2 (Zfpm2) as a lik
+6135	6142	GO:0004239	mapping	obsolete	sequenc
+6248	6256	GO:0003675	protein.	obsolete	protein.
+6790	6801	GO:0032502	development	developmental	ion in Fog2
+7550	7566	GO:0030324	lung development	lung	geny from an A/J

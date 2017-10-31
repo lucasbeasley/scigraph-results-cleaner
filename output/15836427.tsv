@@ -1,0 +1,266 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+10	25	GO:0010467	Gene Expression	gene	ental Switch in
+23	33	GO:0023052	signaling,	signaling	in the Res
+34	45	GO:0032502	development	developmental	onse of DRG
+45	50	GO:0005623	cells	cell	 Neur
+54	62	GO:0003675	proteins	obsolete	to ETS T
+66	79	GO:0005163	Neurotrophins	nerve	cription Fact
+66	79	GO:0005165	Neurotrophins	neurotrophin	cription Fact
+82	91	GO:0023052	Signaling	signaling	Signaling
+79	93	GO:0019230	proprioceptive	proprioception	or Signaling A
+126	136	GO:0008219	cell death	cell	tors of th
+165	188	GO:0030182	neuron differentiation.	neuron	in subpopulations of do
+179	189	GO:0023052	signaling,	signaling	ons of dor
+181	192	GO:0060384	innervation	innervation	s of dorsal
+205	210	GO:0005623	cells	cell	n (DR
+223	230	GO:0043336	resting	site-specific	d spina
+241	254	GO:0030484	muscle fibers	obsolete	rons by targe
+241	254	GO:0043292	muscle fibers	contractile	rons by targe
+287	300	GO:0006351	transcription	transcription,	on controls l
+312	325	GO:0005883	neurofilament	neurofilament	of neuronal d
+343	357	GO:0019230	proprioceptive	proprioception	h as target in
+363	377	GO:0019230	proprioceptive	proprioception	 and branching
+387	401	GO:0019230	proprioceptive	proprioception	 show that the
+404	409	GO:0030424	axons	axon	te on
+410	424	GO:0019230	proprioceptive	proprioception	et of ETS gene
+420	435	GO:0010467	gene expression	gene	gene expression
+491	500	GO:0023052	signaling	signaling	ifferenti
+483	506	GO:0030182	neuron differentiation.	neuron	neuron differentiation.
+511	526	GO:0010467	Gene Expression	gene	rovide genetic 
+554	563	GO:0023052	Signaling	signaling	recocious
+567	571	GO:0005488	bind	binding	 exp
+650	674	GO:0048468	terminal differentiation	cell	terminal differentiation
+701	718	GO:0031175	Neurite Outgrowth	neuron	nce on neurotroph
+765	796	GO:2000144	Transcriptional transactivation	positive	t DRG sensory neurons exhibit a
+783	797	GO:0019230	proprioceptive	proprioception	ons exhibit a 
+858	869	GO:0003823	antibodies,	antigen	t responses
+858	869	GO:0019815	antibodies,	B	t responses
+858	869	GO:0042571	antibodies,	immunoglobulin	t responses
+841	872	GO:2000144	transcriptional transactivation	positive	vealed by distinct responses to
+898	907	GO:0023052	signaling	signaling	signaling
+899	918	GO:0070997	neuronal cell death	neuron	ignaling at sequent
+959	963	GO:0005623	cell	cell	ctio
+959	968	GO:0023052	Signaling	signaling	ction Neu
+1000	1009	GO:0023052	signaling	signaling	acted pro
+1052	1069	GO:0031175	neurite outgrowth	neuron	xpress distinct c
+1079	1090	GO:0003677	DNA binding	DNA	d molecular
+1076	1093	GO:0031175	neurite outgrowth	neuron	 and molecular pr
+1082	1096	GO:0019230	Proprioceptive	proprioception	olecular progr
+1156	1160	GO:0030424	axon	axon	axon
+1182	1186	GO:0005623	cell	cell	 ter
+1207	1222	GO:0010467	gene expression	gene	finally synapto
+1215	1228	GO:0005622	intracellular	intracellular	synaptogenesi
+1215	1230	GO:0007416	synaptogenesis.	synapse	synaptogenesis.
+1226	1235	GO:0097194	apoptotic	execution	sis. Many
+1226	1235	GO:0006915	apoptotic	apoptotic	sis. Many
+1240	1255	GO:2000144	transactivation	positive	rtant aspects o
+1309	1324	GO:0006351	transcriptional	transcription,	 expression of 
+1324	1337	GO:0005163	neurotrophins	nerve	transcription
+1324	1337	GO:0005165	neurotrophins	neurotrophin	transcription
+1360	1364	GO:0005623	cell	cell	cell
+1369	1384	GO:2000144	transactivation	positive	es, whereas oth
+1373	1390	GO:0031175	neurite outgrowth	neuron	whereas others de
+1426	1436	GO:0007049	cell cycle	cell	cell cycle
+1437	1444	GO:0003675	protein	obsolete	exit [1
+1498	1513	GO:0006351	transcriptional	transcription,	transcriptional
+1511	1516	GO:0005623	cells	cell	al pr
+1541	1546	GO:0005623	cells	cell	lopme
+1552	1559	GO:0003675	protein	obsolete	tages, 
+1550	1564	GO:0019230	proprioceptive	proprioception	 stages, well 
+1565	1576	GO:0003823	antibodies:	antigen	fter cell c
+1565	1576	GO:0019815	antibodies:	B	fter cell c
+1565	1576	GO:0042571	antibodies:	immunoglobulin	fter cell c
+1570	1580	GO:0007049	cell cycle	cell	cell cycle
+1609	1627	GO:0031175	neurite outgrowth.	neuron	n the progression 
+1657	1664	GO:0003675	protein	obsolete	d circu
+1673	1680	GO:0003675	protein	obsolete	ly has 
+1729	1746	GO:0031175	neurite outgrowth	neuron	y neurons of dors
+1750	1755	GO:0005623	Cells	cell	oot g
+1747	1761	GO:0019230	proprioceptive	proprioception	l root ganglia
+1833	1847	GO:0019230	proprioceptive	proprioception	t specify neur
+1853	1868	GO:0006351	transcriptional	transcription,	ate [2,3], as w
+1873	1888	GO:0010467	Gene Expression	gene	s the involveme
+1889	1906	GO:0031175	neurite outgrowth	neuron	t of late target-
+1945	1954	GO:0023052	Signaling	signaling	trol of n
+1941	1963	GO:0030182	neuron differentiation	neuron	 control of neuronal s
+1995	2009	GO:0019230	proprioceptive	proprioception	 begun to emer
+2077	2091	GO:0019230	proprioceptive	proprioception	 aspects of ne
+2136	2144	GO:0043005	neurites	neuron	, geneti
+2181	2198	GO:0031175	neurite outgrowth	neuron	ival-independent 
+2192	2202	GO:0003823	Antibodies	antigen	ndent role
+2192	2202	GO:0019815	Antibodies	B	ndent role
+2192	2202	GO:0042571	Antibodies	immunoglobulin	ndent role
+2202	2217	GO:0006351	transcriptional	transcription,	 of neurotrophi
+2234	2245	GO:0032502	development	developmental	development
+2250	2264	GO:0019230	proprioceptive	proprioception	xploiting stra
+2274	2285	GO:0044297	cell bodies	cell	e defective
+2294	2306	GO:0005163	neurotrophin	nerve	neurotrophin
+2294	2306	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+2307	2316	GO:0023052	signaling	signaling	signaling
+2323	2335	GO:0005163	neurotrophin	nerve	 the functio
+2323	2335	GO:0005165	neurotrophin	neurotrophin	 the functio
+2368	2382	GO:0019230	proprioceptive	proprioception	,9]. These stu
+2408	2423	GO:0006351	transcriptional	transcription,	vealed that neu
+2420	2432	GO:0005163	neurotrophin	nerve	neurotrophin
+2420	2432	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+2433	2442	GO:0023052	signaling	signaling	signaling
+2456	2470	GO:0019230	proprioceptive	proprioception	acquisition of
+2479	2511	GO:0043687	post-translational modifications	post-translational	gic traits in nociceptive DRG ne
+2501	2511	GO:0007049	cell cycle	cell	ive DRG ne
+2543	2554	GO:0060384	innervation	innervation	innervation
+2580	2595	GO:0006351	transcriptional	transcription,	transcriptional
+2614	2628	GO:0019230	proprioceptive	proprioception	s, however, ha
+2677	2692	GO:0010467	gene expression	gene	t the cell cycl
+2683	2694	GO:0007049	cell cycle.	cell	cell cycle.
+2691	2706	GO:0006351	transcriptional	transcription,	le. An emerging
+2700	2714	GO:0019230	proprioceptive	proprioception	erging princip
+2766	2780	GO:0019230	proprioceptive	proprioception	arget-derived 
+2787	2795	GO:0003675	protein,	obsolete	 play a 
+2834	2849	GO:0006351	transcriptional	transcription,	transcriptional
+2863	2872	GO:0023052	signaling	signaling	. In Dros
+2881	2890	GO:0023052	Signaling	signaling	etrograde
+2895	2902	GO:0023052	signals	signaling	signals
+2889	2904	GO:0006351	transcriptional	transcription,	e BMP signals f
+2899	2914	GO:0010467	Gene Expression	gene	als from the ta
+2905	2915	GO:0065007	regulation	biological	om the tar
+2938	2962	GO:0048468	terminal differentiation	cell	terminal differentiation
+2932	2963	GO:2000144	Transcriptional transactivation	positive	l the terminal differentiation 
+2963	2971	GO:0043005	neurites	neuron	of a sub
+2982	2997	GO:0006351	transcriptional	transcription,	of peptidergic 
+2995	2999	GO:0030424	axon	axon	c ne
+3011	3020	GO:0023052	signaling	signaling	sing Apte
+3061	3071	GO:0065007	regulation	biological	 periphera
+3086	3093	GO:0023052	signals	signaling	signals
+3122	3131	GO:0097194	apoptotic	execution	e onset o
+3122	3131	GO:0006915	apoptotic	apoptotic	e onset o
+3132	3137	GO:0005623	cells	cell	 expr
+3132	3141	GO:0023052	signaling	signaling	 expressi
+3195	3212	GO:0031175	neurite outgrowth	neuron	RG sensory neuron
+3217	3236	GO:0047712	luciferase activity	Cypridina-luciferin	 motor neuron pools
+3217	3236	GO:0045289	luciferase activity	luciferin	 motor neuron pools
+3217	3236	GO:0047077	luciferase activity	Photinus-luciferin	 motor neuron pools
+3217	3236	GO:0050397	luciferase activity	Watasenia-luciferin	 motor neuron pools
+3217	3236	GO:0050248	luciferase activity	Renilla-luciferin	 motor neuron pools
+3236	3248	GO:0005163	neurotrophin	nerve	 several day
+3236	3248	GO:0005165	neurotrophin	neurotrophin	 several day
+3249	3258	GO:0023052	signaling	signaling	 after th
+3284	3289	GO:0005623	cells	cell	st-mi
+3289	3294	GO:0005623	cells	cell	totic
+3306	3320	GO:0019230	Proprioceptive	proprioception	,16]. Moreover
+3358	3372	GO:0019230	proprioceptive	proprioception	proprioceptive
+3462	3470	GO:0003675	proteins	obsolete	proteins
+3506	3515	GO:0023052	Signaling	signaling	synaptic 
+3517	3525	GO:0007129	synapses	synapsis	rcuit as
+3517	3525	GO:0045202	synapses	synapse	rcuit as
+3553	3567	GO:0019230	proprioceptive	proprioception	proprioceptive
+3576	3598	GO:0030182	neuron differentiation	neuron	neuron differentiation
+3617	3630	GO:0005622	intracellular	intracellular	 motor neuron
+3670	3687	GO:0031175	neurite outgrowth	neuron	15]. In particula
+3710	3715	GO:0005623	cells	cell	81, a
+3763	3769	GO:0005623	cells.	cell	n of p
+3779	3791	GO:0005163	neurotrophin	nerve	neurotrophin
+3779	3791	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3792	3802	GO:0023052	signaling,	signaling	signaling,
+3812	3826	GO:0019230	proprioceptive	proprioception	proprioceptive
+3818	3834	GO:0010467	gene expression,	gene	oceptive afferen
+3858	3875	GO:0031175	neurite outgrowth	neuron	ntral spinal cord
+3903	3913	GO:0003823	antibodies	antigen	tic connec
+3903	3913	GO:0019815	antibodies	B	tic connec
+3903	3913	GO:0042571	antibodies	immunoglobulin	tic connec
+3914	3921	GO:0023052	signals	signaling	ions wi
+3947	3961	GO:0019230	proprioceptive	proprioception	he involvement
+3980	3987	GO:0023052	signals	signaling	signals
+4015	4024	GO:0023052	signaling	signaling	iption fa
+4029	4043	GO:0019230	proprioceptive	proprioception	expression rai
+4063	4081	GO:0008150	biological process	biological_process	the necessity for 
+4120	4129	GO:0023052	signaling	signaling	signaling
+4127	4142	GO:0010467	gene expression	gene	ng for neuronal
+4133	4150	GO:0031175	neurite outgrowth	neuron	 neuronal maturat
+4152	4161	GO:0009058	formation	biosynthetic	n. Would 
+4165	4173	GO:0007129	synapses	synapsis	ocious e
+4165	4173	GO:0045202	synapses	synapse	ocious e
+4190	4198	GO:0003675	proteins	obsolete	proteins
+4229	4241	GO:0005163	neurotrophin	nerve	irect the ap
+4229	4241	GO:0005165	neurotrophin	neurotrophin	irect the ap
+4231	4241	GO:0009058	formation.	biosynthetic	ect the ap
+4235	4244	GO:0023052	signaling	signaling	the appro
+4242	4259	GO:0007165	signaling cascade	signal	ropriate sensory 
+4287	4301	GO:0019230	proprioceptive	proprioception	s? In this stu
+4355	4360	GO:0005623	cells	cell	dea, 
+4348	4362	GO:0005163	neurotrophins,	nerve	neral idea, by
+4348	4362	GO:0005165	neurotrophins,	neurotrophin	neral idea, by
+4362	4372	GO:0023052	signaling,	signaling	 investiga
+4392	4404	GO:0005163	neurotrophin	nerve	cise timing 
+4392	4404	GO:0005165	neurotrophin	neurotrophin	cise timing 
+4399	4414	GO:0010467	gene expression	gene	ming of onset o
+4441	4450	GO:0023052	signaling	signaling	signaling
+4443	4450	GO:0023052	signal)	signaling	gnaling
+4450	4459	GO:0023052	signaling	signaling	 is essen
+4464	4478	GO:0019230	proprioceptive	proprioception	for normal sen
+4485	4494	GO:0023052	signaling	signaling	uron deve
+4488	4500	GO:0005163	neurotrophin	nerve	n developmen
+4488	4500	GO:0005165	neurotrophin	neurotrophin	n developmen
+4483	4502	GO:0048666	neuron development.	neuron	neuron development.
+4559	4568	GO:0023052	signaling	signaling	signaling
+4588	4598	GO:0023052	signaling.	signaling	ct develop
+4591	4610	GO:0040034	developmental time,	regulation	developmental time,
+4623	4637	GO:0005163	neurotrophins,	nerve	sly. We find t
+4623	4637	GO:0005165	neurotrophins,	neurotrophin	sly. We find t
+4648	4662	GO:0019230	proprioceptive	proprioception	proprioceptive
+4668	4683	GO:0006351	transcriptional	transcription,	ry neurons, the
+4670	4685	GO:0006351	transcriptional	transcription,	 neurons, the l
+4702	4711	GO:0023052	signaling	signaling	signaling
+4835	4844	GO:0023052	signaling	signaling	signaling
+4892	4899	GO:0003675	protein	obsolete	RG neur
+4898	4904	GO:0005623	cells.	cell	ron di
+4895	4905	GO:0023052	signaling.	signaling	neuron dif
+4904	4913	GO:0023052	signaling	signaling	fferentia
+4895	4917	GO:0030182	neuron differentiation	neuron	neuron differentiation
+4960	4977	GO:0031175	neurite outgrowth	neuron	neurite outgrowth
+5008	5013	GO:0019835	lysis	cytolysis	gene 
+5008	5024	GO:0010467	gene expression.	gene	gene expression.
+5052	5063	GO:0016791	phosphatase	phosphatase	rget-trigge
+5057	5066	GO:0023052	signaling	signaling	triggered
+5077	5084	GO:0023052	signals	signaling	signals
+5094	5101	GO:0003675	Protein	obsolete	n effec
+5112	5122	GO:0008219	cell death	cell	of ensurin
+5158	5172	GO:0019230	proprioceptive	proprioception	anscription fa
+5177	5187	GO:0003823	antibodies	antigen	, and thus
+5177	5187	GO:0019815	antibodies	B	, and thus
+5177	5187	GO:0042571	antibodies	immunoglobulin	, and thus
+5178	5191	GO:0005163	neurotrophins	nerve	 and thus an 
+5178	5191	GO:0005165	neurotrophins	neurotrophin	 and thus an 
+5188	5197	GO:0097194	apoptosis	execution	an orderl
+5188	5197	GO:0006915	apoptosis	apoptotic	an orderl
+5208	5223	GO:0006351	transcriptional	transcription,	transcriptional
+5252	5257	GO:0005623	(Cell	cell	 neur
+5258	5267	GO:0023052	Signaling	signaling	nal matur
+5255	5269	GO:0019230	proprioceptive	proprioception	uronal maturat
+5320	5333	GO:0030484	muscle fibers	obsolete	hesis that a 
+5320	5333	GO:0043292	muscle fibers	contractile	hesis that a 
+5340	5355	GO:0006351	transcriptional	transcription,	l delay in the 
+5364	5379	GO:0006351	transcriptional	transcription,	transcriptional
+5461	5468	GO:0003675	protein	obsolete	d the d
+5467	5478	GO:0032502	development	developmental	development
+5480	5484	GO:0005623	cell	cell	f pr
+5482	5496	GO:0019230	proprioceptive	proprioception	proprioceptive
+5521	5530	GO:0023052	signaling	signaling	criptiona
+5516	5531	GO:0006351	transcriptional	transcription,	transcriptional
+5570	5578	GO:0023052	signals,	signaling	signals,
+5619	5633	GO:0019230	proprioceptive	proprioception	ogical actions
+5633	5642	GO:0023052	signaling	signaling	, have be
+5642	5647	GO:0005623	cells	cell	en id
+5688	5701	GO:0005622	intracellular	intracellular	 propriocepti
+5692	5702	GO:0007049	cell cycle	cell	prioceptiv
+5689	5703	GO:0019230	proprioceptive	proprioception	proprioceptive
+5719	5725	GO:0005623	cells,	cell	tivity
+5775	5790	GO:0006351	transcriptional	transcription,	transcriptional
+5988	5999	GO:0008219	cell death,	cell	esigned exp
+6007	6011	GO:0005623	cell	cell	 to 
+6010	6027	GO:0031175	Neurite Outgrowth	neuron	 examine the effe
+6350	6357	GO:0031430	midline	M	project
+6357	6370	GO:0005883	neurofilament	neurofilament	ions into the
+6535	6542	GO:0031430	midline	M	ilar DN
+6683	6690	GO:0031430	midline	M	 shown;
+6955	6960	GO:0030424	axons	axon	ween 
+7083	7097	GO:0048668	axon branching	collateral	ure 1). We fou

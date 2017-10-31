@@ -1,0 +1,253 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+29	38	GO:0023052	signaling	signaling	signaling
+51	60	GO:0023052	signaling	signaling	 kidney d
+52	70	GO:0001822	kidney development	kidney	kidney development
+72	83	GO:0032502	development	developmental	bstract Bac
+116	129	GO:0048513	organogenesis	organ	phila encodes
+129	137	GO:0003675	proteins	obsolete	 an esse
+136	145	GO:0023052	signaling	signaling	ential co
+186	195	GO:0023052	signaling	signaling	scription
+182	210	GO:0005667	transcription factor complex	transcription	transcription factor complex
+206	225	GO:0002377	antibody production	immunoglobulin	plex of canonical W
+219	229	GO:0023052	signaling.	signaling	ical Wnt s
+228	238	GO:0023052	signaling.	signaling	signaling.
+234	242	GO:0003675	proteins	obsolete	ing. To 
+253	258	GO:0005623	cells	cell	rstan
+307	316	GO:0023052	signaling	signaling	 signalin
+308	317	GO:0023052	signaling	signaling	signaling
+321	330	GO:0023052	signaling	signaling	kidney de
+321	340	GO:0001822	kidney development,	kidney	kidney development,
+350	354	GO:0005488	bind	binding	muta
+396	406	GO:0003823	antibodies	antigen	logs, Pygo
+396	406	GO:0019815	antibodies	B	logs, Pygo
+396	406	GO:0042571	antibodies	immunoglobulin	logs, Pygo
+517	527	GO:0023052	signaling.	signaling	almost cer
+525	529	GO:0005488	bind	binding	erta
+598	603	GO:0005488	bound	binding	xcept
+595	604	GO:0023052	signaling	signaling	e excepti
+624	633	GO:0023052	signaling	signaling	er birth,
+665	673	GO:0003823	antibody	antigen	 agenesi
+665	673	GO:0019815	antibody	B	 agenesi
+665	673	GO:0042571	antibody	immunoglobulin	 agenesi
+683	694	GO:0032502	development	developmental	retardation
+699	709	GO:0003823	antibodies	antigen	ered kidne
+699	709	GO:0019815	antibodies	B	ered kidne
+699	709	GO:0042571	antibodies	immunoglobulin	ered kidne
+709	718	GO:0023052	signaling	signaling	y develop
+704	723	GO:0001822	kidney development,	kidney	kidney development,
+772	784	GO:0032502	development.	developmental	Pygo1 homozy
+832	842	GO:0023052	signaling.	signaling	with no de
+852	861	GO:0023052	signaling	signaling	evelopmen
+894	909	GO:0010467	gene expression	gene	omozygous mutan
+964	974	GO:0023052	signaling,	signaling	e BAT-gal 
+1010	1019	GO:0023052	signaling	signaling	signaling
+1023	1044	GO:0010467	genes with expression	gene	wed reduced levels of
+1073	1083	GO:0023052	signaling.	signaling	-/- mutant
+1113	1132	GO:0001822	kidney development.	kidney	ion in degree of di
+1126	1135	GO:0023052	signaling	signaling	 of dimin
+1221	1231	GO:0023052	signaling.	signaling	idney, wit
+1271	1279	GO:0003675	protein.	obsolete	artment.
+1275	1285	GO:0023052	signaling.	signaling	ent. Confo
+1277	1286	GO:0023052	signaling	signaling	t. Confoc
+1360	1383	GO:0001763	branching morphogenesis	morphogenesis	eteric bud and metaneph
+1423	1436	GO:0005702	constriction,	polytene	nching morpho
+1420	1443	GO:0001763	Branching morphogenesis	morphogenesis	Branching morphogenesis
+1465	1485	GO:0007507	cardiac development,	heart	as altered, with exp
+1514	1524	GO:0023052	signaling.	signaling	nsity, pro
+1546	1565	GO:0007165	signal transduction	signal	the smaller size of
+1610	1619	GO:0009058	formation	biosynthetic	 expansio
+1627	1636	GO:0023052	signaling	signaling	 zone of 
+1644	1655	GO:0032502	development	developmental	d mesenchym
+1691	1701	GO:0009058	formation,	biosynthetic	formation,
+1701	1718	GO:0006396	RNA was processed	RNA	 however, proceed
+1782	1791	GO:0023052	signaling	signaling	veral gen
+1806	1818	GO:0051179	localization	localization	xcl13, Slc5a
+1830	1838	GO:0003675	proteins	obsolete	2 and Ti
+1843	1852	GO:0023052	signaling	signaling	s, which 
+1856	1870	GO:0072006	nephrogenesis.	nephron	esent candidat
+1856	1870	GO:0001822	nephrogenesis.	kidney	esent candidat
+1887	1906	GO:0001822	kidney development.	kidney	kidney development.
+1982	1991	GO:0023052	signaling	signaling	rphogenes
+1970	1993	GO:0001763	branching morphogenesis	morphogenesis	branching morphogenesis
+1992	2002	GO:0023052	signaling.	signaling	s of the u
+2012	2016	GO:0005623	cell	cell	d du
+2021	2040	GO:0001822	kidney development.	kidney	kidney development.
+2063	2068	GO:0005623	cells	cell	tivel
+2103	2112	GO:0003675	proteins.	obsolete	dney, as 
+2138	2144	GO:0023052	signal	signaling	s, ind
+2219	2229	GO:0023052	signaling.	signaling	ls and Dro
+2265	2273	GO:0003675	proteins	obsolete	 genes a
+2318	2327	GO:0023052	signaling	signaling	signaling
+2358	2366	GO:0005634	nucleus,	nucleus	t rather
+2382	2391	GO:0023052	signaling	signaling	ntitative
+2399	2409	GO:0023052	signaling.	signaling	cers, or m
+2426	2432	GO:0023052	signal	signaling	 signa
+2427	2433	GO:0023052	signal	signaling	signal
+2441	2454	GO:0048513	organogenesis	organ	ty. Backgroun
+2460	2469	GO:0023052	signaling	signaling	signaling
+2479	2487	GO:0097649	tubules,	A	tical im
+2517	2536	GO:0001822	kidney development.	kidney	kidney development.
+2550	2559	GO:0003675	proteins,	obsolete	ive inter
+2599	2608	GO:0023052	signaling	signaling	anephric 
+2625	2638	GO:0072006	nephrogenesis	nephron	nephrogenesis
+2625	2638	GO:0001822	nephrogenesis	kidney	nephrogenesis
+2621	2641	GO:0006338	chromatin remodeling	chromatin	ive nephrogenesis [1
+2648	2657	GO:0003823	antibody.	antigen	ureteric 
+2648	2657	GO:0019815	antibody.	B	ureteric 
+2648	2657	GO:0042571	antibody.	immunoglobulin	ureteric 
+2701	2711	GO:0003675	proteins ,	obsolete	r inductio
+2722	2731	GO:0023052	signaling	signaling	senchyme 
+2748	2760	GO:0051179	localization	localization	[2]. Wnt4 is
+2768	2781	GO:0006351	transcription	transcription,	 the induced 
+2828	2837	GO:0023052	signaling	signaling	 nephroge
+2829	2842	GO:0072006	nephrogenesis	nephron	nephrogenesis
+2829	2842	GO:0001822	nephrogenesis	kidney	nephrogenesis
+2846	2856	GO:0023052	signaling,	signaling	. Furtherm
+2854	2867	GO:0072006	nephrogenesis	nephron	rmore, Wnt11,
+2854	2867	GO:0001822	nephrogenesis	kidney	rmore, Wnt11,
+2855	2868	GO:0009793	embryogenesis	embryo	more, Wnt11, 
+2855	2868	GO:0009792	embryogenesis	embryo	more, Wnt11, 
+2855	2868	GO:0009790	embryogenesis	embryo	more, Wnt11, 
+2873	2898	GO:0007444	imaginal disc development	imaginal	ted by the ureteric bud t
+2893	2906	GO:0072006	nephrogenesis	nephron	bud tips, par
+2893	2906	GO:0001822	nephrogenesis	kidney	bud tips, par
+2944	2961	GO:0001822	renal development	kidney	promoting glial c
+3025	3034	GO:0023052	signaling	signaling	tanephric
+3050	3060	GO:0003823	antibodies	antigen	 Mutations
+3050	3060	GO:0019815	antibodies	B	 Mutations
+3050	3060	GO:0042571	antibodies	immunoglobulin	 Mutations
+3116	3126	GO:0009058	formation,	biosynthetic	formation,
+3146	3154	GO:0003823	antibody	antigen	 show a 
+3146	3154	GO:0019815	antibody	B	 show a 
+3146	3154	GO:0042571	antibody	immunoglobulin	 show a 
+3192	3201	GO:0023052	signaling	signaling	r. It is 
+3205	3215	GO:0003823	Antibodies	antigen	resting to
+3205	3215	GO:0019815	Antibodies	B	resting to
+3205	3215	GO:0042571	Antibodies	immunoglobulin	resting to
+3260	3267	GO:0023052	signal,	signaling	signal,
+3266	3279	GO:0072006	nephrogenesis	nephron	, at least in
+3266	3279	GO:0001822	nephrogenesis	kidney	, at least in
+3265	3293	GO:0004565	beta-galactosidase activity.	beta-galactosidase	l, at least in some cases, t
+3375	3389	GO:0072006	nephrogenesis,	nephron	activates cano
+3375	3389	GO:0001822	nephrogenesis,	kidney	activates cano
+3394	3403	GO:0023052	signaling	signaling	 Wnt sign
+3399	3408	GO:0023052	signaling	signaling	signaling
+3416	3422	GO:0005530	lectin	obsolete	kidney
+3469	3483	GO:0072006	nephrogenesis.	nephron	fied the Pygop
+3469	3483	GO:0001822	nephrogenesis.	kidney	fied the Pygop
+3505	3509	GO:0005623	cell	cell	itic
+3535	3544	GO:0023052	signaling	signaling	Wnt signa
+3539	3548	GO:0023052	signaling	signaling	signaling
+3568	3581	GO:0072006	nephrogenesis	nephron	s interact wi
+3568	3581	GO:0001822	nephrogenesis	kidney	s interact wi
+3605	3614	GO:0009058	formation	biosynthetic	formation
+3632	3647	GO:0006351	transcriptional	transcription,	transcriptional
+3666	3676	GO:0003823	antibodies	antigen	quired for
+3666	3676	GO:0019815	antibodies	B	quired for
+3666	3676	GO:0042571	antibodies	immunoglobulin	quired for
+3690	3703	GO:0072006	nephrogenesis	nephron	of β-catenin 
+3690	3703	GO:0001822	nephrogenesis	kidney	of β-catenin 
+3692	3707	GO:0010467	gene expression	gene	 β-catenin in t
+3710	3717	GO:0005634	nucleus	nucleus	nucleus
+3728	3733	GO:0005488	binds	binding	binds
+3795	3810	GO:0010467	gene expression	gene	cts with Lgs, m
+3838	3844	GO:0005530	lectin	obsolete	argets
+3879	3898	GO:0001822	kidney development.	kidney	ygo is required for
+3904	3914	GO:0023052	signaling,	signaling	ranscripti
+3903	3918	GO:0006351	transcriptional	transcription,	transcriptional
+3970	3979	GO:0023052	signaling	signaling	 associat
+4081	4087	GO:0023052	signal	signaling	 withi
+4116	4122	GO:0005623	cells,	cell	go, su
+4138	4148	GO:0023052	signaling.	signaling	ble role o
+4149	4154	GO:0005623	cells	cell	 nucl
+4220	4226	GO:0005623	cells.	cell	of the
+4238	4249	GO:0003823	antibodies.	antigen	ant phenoty
+4238	4249	GO:0019815	antibodies.	B	ant phenoty
+4238	4249	GO:0042571	antibodies.	immunoglobulin	ant phenoty
+4251	4256	GO:0007618	mated	mating	 indi
+4251	4256	GO:1990277	mated	parasexual	 indi
+4251	4256	GO:0000747	mated	conjugation	 indi
+4251	4256	GO:0009291	mated	unidirectional	 indi
+4325	4334	GO:0023052	signaling	signaling	signaling
+4332	4341	GO:0023052	signaling	signaling	ng during
+4353	4364	GO:0032502	development	developmental	development
+4345	4368	GO:0001763	branching morphogenesis	morphogenesis	sophila development [9]
+4418	4424	GO:0007618	mating	mating	orthol
+4418	4424	GO:1990277	mating	parasexual	orthol
+4418	4424	GO:0000747	mating	conjugation	orthol
+4418	4424	GO:0009291	mating	unidirectional	orthol
+4438	4447	GO:0023052	signaling	signaling	ila Pygo,
+4558	4572	GO:0072006	nephrogenesis.	nephron	r functions, w
+4558	4572	GO:0001822	nephrogenesis.	kidney	r functions, w
+4574	4583	GO:0023052	signaling	signaling	h a parti
+4651	4660	GO:0023052	signaling	signaling	signaling
+4656	4666	GO:0023052	signaling.	signaling	ling durin
+4668	4687	GO:0001822	kidney development.	kidney	kidney development.
+4695	4709	GO:0046323	glucose uptake	glucose	ulting double-
+4711	4734	GO:0001763	branching morphogenesis	morphogenesis	mozygous mutant embryos
+4744	4758	GO:0072006	nephrogenesis,	nephron	context-depend
+4744	4758	GO:0001822	nephrogenesis,	kidney	context-depend
+4789	4798	GO:0023052	signaling	signaling	signaling
+4805	4812	GO:0097649	tubules	A	sured b
+4849	4860	GO:0032502	Development	developmental	Development
+5017	5026	GO:0023052	signaling	signaling	, which s
+5051	5061	GO:0023052	signaling.	signaling	orphogenes
+5040	5063	GO:0001763	branching morphogenesis	morphogenesis	branching morphogenesis
+5080	5098	GO:0060503	bud, and expansion	bud	bud, and expansion
+5110	5117	GO:0005530	lectins	obsolete	 of con
+5122	5133	GO:0003823	antibodies.	antigen	d mesenchym
+5122	5133	GO:0019815	antibodies.	B	d mesenchym
+5122	5133	GO:0042571	antibodies.	immunoglobulin	d mesenchym
+5133	5142	GO:0023052	signaling	signaling	e surroun
+5192	5201	GO:0023052	signaling	signaling	on format
+5195	5205	GO:0009058	formation,	biosynthetic	formation,
+5279	5289	GO:0003807	kallikrein	obsolete	croarray a
+5279	5289	GO:0004293	kallikrein	obsolete	croarray a
+5291	5296	GO:0004617	serum	phosphoglycerate	lysis
+5296	5305	GO:0023052	signaling	signaling	. The obv
+5331	5342	GO:0003807	Kallikreins	obsolete	 mammals, u
+5331	5342	GO:0004293	Kallikreins	obsolete	 mammals, u
+5331	5342	GO:0003823	antibodies.	antigen	 mammals, u
+5331	5342	GO:0019815	antibodies.	B	 mammals, u
+5331	5342	GO:0042571	antibodies.	immunoglobulin	 mammals, u
+5355	5365	GO:0003823	antibodies	antigen	ila, Pygop
+5355	5365	GO:0019815	antibodies	B	ila, Pygop
+5355	5365	GO:0042571	antibodies	immunoglobulin	ila, Pygop
+5377	5395	GO:0048771	tissue remodeling,	tissue	canonical Wnt sign
+5391	5400	GO:0023052	signaling	signaling	signaling
+5400	5428	GO:0008217	regulation of blood pressure	regulation	 is not absolutely necessary
+5476	5486	GO:0023052	signaling.	signaling	 and Pygo2
+5537	5543	GO:0007601	Vision	visual	Pygo2 
+5554	5563	GO:0023052	signaling	signaling	serting L
+5590	5600	GO:0003823	antibodies	antigen	ical codin
+5590	5600	GO:0019815	antibodies	B	ical codin
+5590	5600	GO:0042571	antibodies	immunoglobulin	ical codin
+5603	5614	GO:0032502	development	developmental	egions incl
+5641	5654	GO:0072006	nephrogenesis	nephron	resulting tar
+5641	5654	GO:0001822	nephrogenesis	kidney	resulting tar
+5670	5675	GO:0007618	mated	mating	mated
+5670	5675	GO:1990277	mated	parasexual	mated
+5670	5675	GO:0000747	mated	conjugation	mated
+5670	5675	GO:0009291	mated	unidirectional	mated
+5673	5682	GO:0023052	signaling	signaling	ed with t
+5673	5683	GO:0003823	antibodies	antigen	ed with tr
+5673	5683	GO:0019815	antibodies	B	ed with tr
+5673	5683	GO:0042571	antibodies	immunoglobulin	ed with tr
+5747	5779	GO:0042752	regulation of circadian rhythms,	regulation	 resulting in the null mutant al
+5867	5890	GO:0001763	branching morphogenesis	morphogenesis	g sequences for both ge
+5894	5904	GO:0023052	signaling,	signaling	 including
+5991	6001	GO:0023052	signaling.	signaling	s in Droso
+6050	6059	GO:0023052	signaling	signaling	tion in t
+6100	6106	GO:0023052	signal	signaling	 in Wn
+6108	6117	GO:0023052	signaling	signaling	signaling
+6163	6174	GO:0065007	regulation.	biological	homozygous 
+6307	6316	GO:0023052	signaling	signaling	ene in Wn
+6318	6327	GO:0023052	signaling	signaling	signaling
+6378	6389	GO:0032502	development	developmental	development
+6492	6511	GO:0002377	antibody production	immunoglobulin	Valerius MT, McMaho
+6566	6575	GO:0023052	signaling	signaling	ull mice 
+6601	6612	GO:0003823	antibodies,	antigen	h rare exce
+6601	6612	GO:0019815	antibodies,	B	h rare exce
+6601	6612	GO:0042571	antibodies,	immunoglobulin	h rare exce
+6633	6648	GO:0010467	Gene expression	gene	afterwards. The
+6671	6680	GO:0023052	signaling	signaling	eveloped 

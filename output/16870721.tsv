@@ -1,0 +1,126 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+73	78	GO:0005623	cells	cell	 phen
+77	84	GO:0003675	protein	obsolete	notype 
+163	168	GO:0007618	mated	mating	gulat
+163	168	GO:1990277	mated	parasexual	gulat
+163	168	GO:0000747	mated	conjugation	gulat
+163	168	GO:0009291	mated	unidirectional	gulat
+161	171	GO:0065007	regulation	biological	regulation
+171	175	GO:0005623	cell	cell	 by 
+210	217	GO:0003675	protein	obsolete	s using
+249	254	GO:0005623	cells	cell	cells
+410	414	GO:0005623	cell	cell	impr
+404	414	GO:0003823	antibodies	antigen	ed an impr
+404	414	GO:0019815	antibodies	B	ed an impr
+404	414	GO:0042571	antibodies	immunoglobulin	ed an impr
+476	486	GO:0003823	antibodies	antigen	 approach 
+476	486	GO:0019815	antibodies	B	 approach 
+476	486	GO:0042571	antibodies	immunoglobulin	 approach 
+519	524	GO:0005623	cells	cell	 cell
+520	525	GO:0005623	cells	cell	cells
+578	583	GO:0005623	cells	cell	e imp
+714	719	GO:0005623	cells	cell	t for
+743	762	GO:1901987	cell cycle control,	regulation	by showing efficien
+815	820	GO:0005623	Cells	cell	-out 
+837	848	GO:0065007	regulation.	biological	tation afte
+843	849	GO:0005623	cells.	cell	 after
+921	932	GO:0032502	development	developmental	 target sit
+955	960	GO:0005623	cells	cell	 sele
+1016	1022	GO:0005623	cells,	cell	cells,
+1030	1035	GO:0005623	cells	cell	 powe
+1180	1188	GO:0003675	proteins	obsolete	proteins
+1198	1203	GO:0005623	cells	cell	ast 2
+1232	1236	GO:0005623	cell	cell	cell
+1271	1275	GO:0005623	cell	cell	n of
+1277	1282	GO:0005623	cell,	cell	lasmi
+1284	1290	GO:0005623	cells,	cell	 expre
+1423	1433	GO:0007586	digestion,	digestion	 in vivo b
+1513	1519	GO:0005623	cells,	cell	embryo
+1533	1538	GO:0005623	cells	cell	cells
+1625	1629	GO:0005623	cell	cell	 a g
+1627	1633	GO:0005623	cells.	cell	 genom
+1695	1700	GO:0005623	cells	cell	g phy
+1806	1812	GO:0005623	cells,	cell	otypes
+1865	1869	GO:0005623	cell	cell	ata 
+2009	2028	GO:1901987	cell cycle control.	regulation	dels of p53 regulat
+2021	2032	GO:0065007	regulation.	biological	regulation.
+2079	2084	GO:0005623	cells	cell	cells
+2163	2168	GO:0031672	bands	A	i) ho
+2231	2237	GO:0005623	cells,	cell	cells,
+2279	2287	GO:0003823	antibody	antigen	 and scr
+2279	2287	GO:0019815	antibody	B	 and scr
+2279	2287	GO:0042571	antibody	immunoglobulin	 and scr
+2336	2340	GO:0031672	band	A	red 
+2347	2353	GO:0005623	cells,	cell	 (ii) 
+2546	2552	GO:0005623	cells,	cell	 costs
+2634	2640	GO:0005623	cells.	cell	nd eco
+2655	2663	GO:0003675	protein,	obsolete	ctical t
+2675	2680	GO:0005623	cells	cell	ments
+2839	2844	GO:0005623	cells	cell	cells
+2927	2939	GO:0006280	mutagenesis,	obsolete	 fibroblasts
+2972	2977	GO:0005623	cells	cell	es. I
+3026	3059	GO:0030330	p53-mediated DNA damage responses	DNA	er read-out than equivalent gene 
+3163	3176	GO:0009793	embryogenesis	embryo	e mutations, 
+3163	3176	GO:0009792	embryogenesis	embryo	e mutations, 
+3163	3176	GO:0009790	embryogenesis	embryo	e mutations, 
+3300	3305	GO:0005623	cells	cell	ely i
+3370	3381	GO:0032502	development	developmental	phenotype o
+3393	3398	GO:0005623	cells	cell	autos
+3393	3402	GO:0030849	autosomal	autosome	autosomal
+3509	3514	GO:0005623	cells	cell	cells
+3535	3541	GO:0005623	cells,	cell	ombina
+3576	3586	GO:0007586	digestion,	digestion	) approach
+3580	3586	GO:0005623	cells,	cell	proach
+3711	3716	GO:0005623	cells	cell	tion 
+3837	3849	GO:0032502	development.	developmental	-mediated re
+3957	3961	GO:0031672	band	A	d in
+4018	4023	GO:0005623	cells	cell	ties 
+4230	4235	GO:0005623	cells	cell	chang
+4338	4342	GO:0005623	cell	cell	so u
+4438	4442	GO:0031672	band	A	ntai
+4470	4476	GO:0007618	mating	mating	ion of
+4470	4476	GO:1990277	mating	parasexual	ion of
+4470	4476	GO:0000747	mating	conjugation	ion of
+4470	4476	GO:0009291	mating	unidirectional	ion of
+4484	4488	GO:0031672	band	A	ired
+4585	4590	GO:0005623	cells	cell	d the
+4640	4646	GO:0005623	cells.	cell	emove 
+4727	4731	GO:0005623	Cell	cell	uire
+4892	4897	GO:0005623	cells	cell	elect
+4908	4914	GO:0007618	mating	mating	tify t
+4908	4914	GO:1990277	mating	parasexual	tify t
+4908	4914	GO:0000747	mating	conjugation	tify t
+4908	4914	GO:0009291	mating	unidirectional	tify t
+5139	5144	GO:0005623	cells	cell	cells
+5195	5200	GO:0005623	cells	cell	trodu
+5212	5216	GO:0031672	band	A	able
+5330	5335	GO:0031672	bands	A	 addi
+5361	5366	GO:0005623	cells	cell	ycin–
+5404	5409	GO:0031672	bands	A	 freq
+5439	5444	GO:0005623	cells	cell	elect
+5477	5482	GO:0005623	cells	cell	lity,
+5529	5534	GO:0005623	cells	cell	cells
+5529	5534	GO:0005623	cells	cell	cells
+5619	5624	GO:0005623	cells	cell	rolog
+5630	5638	GO:0003823	antibody	antigen	xP sites
+5630	5638	GO:0019815	antibody	B	xP sites
+5630	5638	GO:0042571	antibody	immunoglobulin	xP sites
+5643	5648	GO:0005623	cells	cell	ositi
+5686	5691	GO:0005623	cells	cell	erves
+5720	5726	GO:0005623	cells,	cell	cells,
+5812	5819	GO:0003675	protein	obsolete	roach e
+5894	5899	GO:0005623	cells	cell	cells
+5954	5959	GO:0005623	cells	cell	dapte
+5987	5992	GO:0005623	cells	cell	ells 
+6149	6154	GO:0005623	cells	cell	rgeti
+6168	6173	GO:0005623	cells	cell	or a 
+6254	6258	GO:0031672	band	A	owin
+6255	6260	GO:0005623	cells	cell	wing 
+6315	6320	GO:0005623	cells	cell	ted f
+6377	6382	GO:0005623	cells	cell	3 is 
+6386	6392	GO:0005623	Cells,	cell	mutant
+6444	6449	GO:0005623	cells	cell	WT lo
+6655	6661	GO:0007618	mating	mating	 to re
+6655	6661	GO:1990277	mating	parasexual	 to re
+6655	6661	GO:0000747	mating	conjugation	 to re
+6655	6661	GO:0009291	mating	unidirectional	 to re

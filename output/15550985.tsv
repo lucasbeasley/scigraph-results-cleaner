@@ -1,0 +1,303 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+15	20	GO:0030424	axons	axon	nt Ro
+30	42	GO:0005163	neurotrophin	nerve	3 in Proprio
+30	42	GO:0005165	neurotrophin	neurotrophin	3 in Proprio
+38	43	GO:0030424	axons	axon	prioc
+35	49	GO:0019230	Proprioceptive	proprioception	Proprioceptive
+46	55	GO:0030425	dendrites	dendrite	ive Axon 
+50	63	GO:0007411	Axon Guidance	axon	Axon Guidance
+61	71	GO:0003823	antibodies	antigen	ce Abstrac
+61	71	GO:0019815	antibodies	B	ce Abstrac
+61	71	GO:0042571	antibodies	immunoglobulin	ce Abstrac
+101	107	GO:0060004	reflex	reflex	uired 
+110	121	GO:0007409	axon growth	axonogenesis	 propriocep
+173	179	GO:0023052	signal	signaling	ene Ba
+188	193	GO:0030424	axons	axon	 knoc
+184	198	GO:0019230	proprioceptive	proprioception	NT-3 knockout 
+199	204	GO:0030424	axons	axon	ice r
+236	241	GO:0030424	axons	axon	for e
+261	272	GO:0007409	axon growth	axonogenesis	axon growth
+259	273	GO:0019230	proprioceptive	proprioception	r axon growth 
+278	282	GO:0030424	axon	axon	e ab
+297	304	GO:0003675	protein	obsolete	ignalin
+296	306	GO:0023052	signaling.	signaling	signaling.
+299	306	GO:0031430	midline	M	naling.
+326	330	GO:0030424	axon	axon	hera
+344	349	GO:0030424	axons	axon	axons
+361	367	GO:0060004	reflex	reflex	 root 
+383	394	GO:0060384	Innervation	innervation	roper traje
+424	435	GO:0060384	innervation	innervation	oximity to 
+474	481	GO:0005819	spindle	spindle	m. Peri
+482	493	GO:0032502	development	developmental	herally, mu
+514	525	GO:0060384	innervation	innervation	ent and Trk
+536	541	GO:0030424	axons	axon	axons
+546	560	GO:0019230	proprioceptive	proprioception	ot enter their
+580	588	GO:0031430	midline,	M	trally, 
+588	602	GO:0019230	proprioceptive	proprioception	proprioceptive
+603	615	GO:0048668	axons branch	collateral	axons branch
+608	622	GO:0019230	proprioceptive	proprioception	 branch in ect
+649	663	GO:0019230	Proprioceptive	proprioception	cord, even cro
+667	674	GO:0003675	protein	obsolete	g the m
+673	681	GO:0031430	midline.	M	midline.
+696	701	GO:0030424	Axons	axon	s rev
+707	715	GO:0003823	antibody	antigen	emoattra
+707	715	GO:0019815	antibody	B	emoattra
+707	715	GO:0042571	antibody	immunoglobulin	emoattra
+708	716	GO:0003823	antibody	antigen	moattrac
+708	716	GO:0019815	antibody	B	moattrac
+708	716	GO:0042571	antibody	immunoglobulin	moattrac
+761	767	GO:0030424	axons.	axon	axons.
+795	801	GO:0005623	cells,	cell	val fa
+791	805	GO:0019230	proprioceptive	proprioception	urvival factor
+802	811	GO:0003823	antibody,	antigen	tor NT-3 
+802	811	GO:0019815	antibody,	B	tor NT-3 
+802	811	GO:0042571	antibody,	immunoglobulin	tor NT-3 
+806	811	GO:0030424	axons	axon	NT-3 
+852	860	GO:0003823	antibody	antigen	lecule f
+852	860	GO:0019815	antibody	B	lecule f
+852	860	GO:0042571	antibody	immunoglobulin	lecule f
+863	870	GO:0003675	protein	obsolete	muscle 
+892	896	GO:0005623	cell	cell	hey 
+962	970	GO:0005202	collagen	obsolete	is a key
+991	1002	GO:0032502	development	developmental	development
+1006	1020	GO:0019230	proprioceptive	proprioception	proprioceptive
+1015	1020	GO:0030424	axons	axon	ptive
+1029	1037	GO:0005819	spindles	spindle	o motor 
+1051	1059	GO:0005819	spindles	spindle	and Fran
+1059	1067	GO:0005202	Collagen	obsolete	k 1999; 
+1064	1069	GO:0030424	axons	axon	9; Ch
+1087	1100	GO:0007411	axon guidance	axon	ice deficient
+1103	1111	GO:0005202	collagen	obsolete	 NT-3, i
+1104	1118	GO:0019230	proprioceptive	proprioception	NT-3, its tyro
+1119	1124	GO:0030424	axons	axon	ine k
+1177	1182	GO:0005623	cells	cell	ific 
+1189	1204	GO:0050918	chemoattraction	positive	iption factor R
+1207	1219	GO:0005163	neurotrophin	nerve	3 display se
+1207	1219	GO:0005165	neurotrophin	neurotrophin	3 display se
+1281	1288	GO:0031430	midline	M	d loss 
+1293	1298	GO:0030424	axons	axon	oprio
+1321	1329	GO:0003823	antibody	antigen	al root 
+1321	1329	GO:0019815	antibody	B	al root 
+1321	1329	GO:0042571	antibody	immunoglobulin	al root 
+1338	1347	GO:0005202	collagen.	obsolete	DRGs) or 
+1353	1358	GO:0030424	axons	axon	axons
+1350	1363	GO:0005163	neurotrophins	nerve	ir axons (Ern
+1350	1363	GO:0005165	neurotrophins	neurotrophin	ir axons (Ern
+1438	1442	GO:0030424	axon	axon	 199
+1441	1446	GO:0030424	axons	axon	96; L
+1549	1562	GO:0043005	nerve fibers.	neuron	, in the deve
+1565	1571	GO:0030424	axons.	axon	ing li
+1572	1577	GO:0030424	axons	axon	b bud
+1608	1613	GO:0004235	pumps	obsolete	 of m
+1611	1619	GO:0005202	collagen	obsolete	 muscle 
+1637	1648	GO:0032502	development	developmental	development
+1664	1675	GO:0007409	axon growth	axonogenesis	uwer 1994; 
+1682	1688	GO:0030424	axons.	axon	 et al
+1685	1690	GO:0030424	axons	axon	 al. 
+1683	1695	GO:0031099	regeneration	regeneration	et al. 1996;
+1698	1710	GO:0032502	development.	developmental	jo et al. 19
+1728	1733	GO:0030424	axons	axon	axons
+1778	1792	GO:0019230	proprioceptive	proprioception	cle spindle di
+1793	1799	GO:0030424	axons,	axon	ferent
+1803	1808	GO:0030424	axons	axon	on, f
+1824	1829	GO:0030424	axons	axon	 spir
+1832	1845	GO:0043679	nerve endings	axon	nerve endings
+1834	1846	GO:0005163	neurotrophin	nerve	rve endings 
+1834	1846	GO:0005165	neurotrophin	neurotrophin	rve endings 
+1899	1904	GO:0030424	axons	axon	 anti
+1910	1918	GO:0003823	antibody	antigen	antibody
+1910	1918	GO:0019815	antibody	B	antibody
+1910	1918	GO:0042571	antibody	immunoglobulin	antibody
+1936	1943	GO:0031430	midline	M	imb bud
+1946	1957	GO:0032502	development	developmental	ead to elim
+1984	1989	GO:0004617	serum	phosphoglycerate	urons
+1993	1999	GO:0060004	reflex	reflex	 decre
+2004	2015	GO:0060384	innervation	innervation	innervation
+2046	2050	GO:0030424	axon	axon	. 19
+2047	2061	GO:0030484	muscle fibers.	obsolete	 1995, 1997). 
+2047	2061	GO:0043292	muscle fibers.	contractile	 1995, 1997). 
+2155	2162	GO:0031430	midline	M	tional 
+2177	2185	GO:0005819	spindles	spindle	velopmen
+2175	2186	GO:0032502	development	developmental	development
+2189	2200	GO:0060384	innervation	innervation	 the propri
+2251	2257	GO:0060004	reflex	reflex	reflex
+2316	2324	GO:0005819	spindles	spindle	ractant 
+2336	2341	GO:0030424	axons	axon	axons
+2347	2351	GO:0005488	bind	binding	g th
+2366	2380	GO:0019230	proprioceptive	proprioception	f their target
+2381	2386	GO:0030424	axons	axon	direc
+2431	2438	GO:0023052	signals	signaling	urons A
+2508	2515	GO:0003675	protein	obsolete	protein
+2513	2518	GO:0030424	axons	axon	in Ba
+2533	2540	GO:0031430	midline	M	tinguis
+2565	2578	GO:0005163	neurotrophins	nerve	neurotrophins
+2565	2578	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+2580	2595	GO:0050918	Chemoattraction	positive	rom other effec
+2607	2612	GO:0030424	Axons	axon	cient
+2621	2626	GO:0030424	axons	axon	neuro
+2626	2635	GO:0006810	transport	transport	ns no lon
+2647	2660	GO:0005163	neurotrophins	nerve	neurotrophins
+2647	2660	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+2749	2754	GO:0030424	axons	axon	onal 
+2786	2793	GO:0031430	midline	M	te and 
+2887	2901	GO:0019230	proprioceptive	proprioception	proprioceptive
+2934	2938	GO:0030424	axon	axon	 dou
+2959	2973	GO:0019230	proprioceptive	proprioception	8 h after birt
+2978	2983	GO:0030424	axons	axon	ssaro
+3023	3034	GO:0060384	Innervation	innervation	 double imm
+3029	3044	GO:0050918	Chemoattraction	positive	e immunohistoch
+3050	3056	GO:0030424	axons;	axon	y (Hua
+3047	3061	GO:0019230	proprioceptive	proprioception	stry (Huang et
+3066	3082	GO:0007411	axon pathfinding	axon	1999), enabling 
+3093	3098	GO:0030424	axons	axon	f bot
+3100	3108	GO:0003675	proteins	obsolete	proteins
+3106	3112	GO:0060004	reflex	reflex	ns in 
+3143	3148	GO:0005623	cells	cell	cells
+3142	3149	GO:0031430	midline	M	 cells 
+3180	3185	GO:0030424	axons	axon	1E) w
+3202	3216	GO:0019230	proprioceptive	proprioception	3 KOs at embry
+3217	3222	GO:0030424	axons	axon	nic d
+3223	3228	GO:0030424	axons	axon	y (E)
+3246	3254	GO:0007610	behavior	behavior	f DRG ce
+3277	3291	GO:0019230	proprioceptive	proprioception	rkA or TrkC we
+3292	3297	GO:0030424	axons	axon	e det
+3322	3331	GO:0030425	dendrites	dendrite	lar to wi
+3342	3355	GO:0005163	neurotrophins	nerve	) or Bax KO a
+3342	3355	GO:0005165	neurotrophins	neurotrophin	) or Bax KO a
+3361	3370	GO:0007129	synapses.	synapsis	. Surpris
+3361	3370	GO:0045202	synapses.	synapse	. Surpris
+3381	3386	GO:0030424	Axons	axon	ostna
+3407	3412	GO:0005623	cells	cell	cells
+3401	3415	GO:0019230	proprioceptive	proprioception	a few cells ex
+3416	3421	GO:0030424	axons	axon	resse
+3425	3430	GO:0030424	axons	axon	kC ev
+3434	3448	GO:0019230	proprioceptive	proprioception	n NT-3 KO anim
+3449	3455	GO:0005623	cells.	cell	ls in 
+3467	3473	GO:0030424	axons,	axon	enetic
+3478	3484	GO:0040007	growth	growth	ground
+3488	3495	GO:0031430	midline	M	d some 
+3495	3500	GO:0005623	cells	cell	cells
+3503	3508	GO:0030424	axons	axon	-expr
+3516	3529	GO:0007411	axon guidance	axon	kA and TrkC, 
+3516	3530	GO:0019230	Proprioceptive	proprioception	kA and TrkC, r
+3531	3536	GO:0030424	axons	axon	gardl
+3546	3551	GO:0030424	axons	axon	 geno
+3538	3552	GO:0019230	proprioceptive	proprioception	s of the genot
+3553	3558	GO:0030424	axons	axon	pe (F
+3559	3569	GO:0030425	dendrites.	dendrite	gure 1B). 
+3624	3631	GO:0031430	midline	M	 of Trk
+3626	3631	GO:0030424	axons	axon	f Trk
+3633	3646	GO:0007411	axon guidance	axon	and TrkC immu
+3632	3646	GO:0019230	proprioceptive	proprioception	 and TrkC immu
+3643	3657	GO:0019230	proprioceptive	proprioception	mmunopositive 
+3657	3662	GO:0005623	cells	cell	cells
+3658	3663	GO:0030424	axons	axon	ells 
+3675	3680	GO:0030424	axons	axon	ffere
+3713	3718	GO:0030424	axons	axon	enoty
+3730	3734	GO:0007568	ages	aging	ages
+3766	3771	GO:0030424	axons	axon	RGs h
+3822	3827	GO:0030424	axons	axon	Gs, a
+3880	3891	GO:0060384	innervation	innervation	rkC-positiv
+3918	3923	GO:0030424	axons	axon	letio
+3955	3962	GO:0003675	protein	obsolete	ate pro
+3979	3993	GO:0019230	proprioceptive	proprioception	ed by the lack
+4010	4022	GO:0043005	nerve fibers	neuron	 the proprio
+4015	4029	GO:0019230	proprioceptive	proprioception	proprioceptive
+4026	4037	GO:0032502	development	developmental	ive molecul
+4038	4053	GO:0050918	chemoattraction	positive	r marker Parval
+4041	4054	GO:0007411	axon guidance	axon	arker Parvalb
+4078	4084	GO:0030424	axons.	axon	T-3 Is
+4106	4117	GO:0060384	Innervation	innervation	Innervation
+4117	4125	GO:0031430	midline,	M	 of Moto
+4132	4137	GO:0030424	axons	axon	ns Tr
+4186	4197	GO:0007409	axon growth	axonogenesis	be detected
+4262	4277	GO:0050918	chemoattraction	positive	terminated in t
+4265	4279	GO:0019230	proprioceptive	proprioception	minated in the
+4280	4285	GO:0030424	axons	axon	dorso
+4394	4405	GO:0003823	antibodies,	antigen	ral horns i
+4394	4405	GO:0019815	antibodies,	B	ral horns i
+4394	4405	GO:0042571	antibodies,	immunoglobulin	ral horns i
+4403	4414	GO:0060384	innervation	innervation	 in WT (Oza
+4419	4426	GO:0005819	spindle	spindle	d Snide
+4431	4440	GO:0003823	antibody,	antigen	7) and Ba
+4431	4440	GO:0019815	antibody,	B	7) and Ba
+4431	4440	GO:0042571	antibody,	immunoglobulin	7) and Ba
+4443	4448	GO:0030424	Axons	axon	O emb
+4450	4464	GO:0019230	proprioceptive	proprioception	os. There was 
+4465	4471	GO:0030424	axons.	axon	o dete
+4485	4500	GO:0050918	chemoattraction	positive	pression in NT-
+4525	4530	GO:0030424	axons	axon	ing c
+4549	4563	GO:0019230	proprioceptive	proprioception	proprioceptive
+4605	4619	GO:0019230	proprioceptive	proprioception	sitive fibers 
+4620	4625	GO:0030424	axons	axon	ntere
+4664	4671	GO:0005625	soluble	obsolete	mediall
+4686	4694	GO:0005202	collagen	obsolete	imilar t
+4744	4759	GO:0050918	chemoattraction	positive	 not possible t
+4814	4819	GO:0030424	axons	axon	 term
+4899	4904	GO:0030424	axons	axon	axons
+4939	4944	GO:0030424	axons	axon	P0. I
+4958	4974	GO:0043195	terminal boutons	terminal	O pups, proprioc
+4966	4980	GO:0019230	proprioceptive	proprioception	proprioceptive
+4982	4996	GO:0019230	proprioceptive	proprioception	fferents enter
+4997	5011	GO:0007411	axon guidance.	axon	d the dorsal s
+5059	5065	GO:0040007	growth	growth	the ve
+5077	5082	GO:0030424	axons	axon	They 
+5148	5153	GO:0030424	axons	axon	olumn
+5160	5176	GO:0043195	terminal boutons	terminal	 they branched a
+5172	5178	GO:0040007	growth	growth	ed and
+5290	5297	GO:0031430	midline	M	rlier, 
+5335	5349	GO:0019230	proprioceptive	proprioception	proprioceptive
+5350	5361	GO:0060384	innervation	innervation	innervation
+5392	5406	GO:0030484	muscle fibers.	obsolete	lo et al. 1994
+5392	5406	GO:0043292	muscle fibers.	contractile	lo et al. 1994
+5424	5438	GO:0019230	proprioceptive	proprioception	proprioceptive
+5482	5496	GO:0019230	proprioceptive	proprioception	imilar to that
+5497	5502	GO:0030424	axons	axon	of WT
+5536	5541	GO:0030424	axons	axon	iled 
+5536	5541	GO:0005623	cells	cell	iled 
+5595	5600	GO:0005623	cells	cell	e lat
+5624	5629	GO:0005623	cells	cell	ad, t
+5674	5684	GO:0003823	antibodies	antigen	crossed th
+5674	5684	GO:0019815	antibodies	B	crossed th
+5674	5684	GO:0042571	antibodies	immunoglobulin	crossed th
+5686	5691	GO:0005623	cells	cell	midli
+5686	5693	GO:0031430	midline	M	midline
+5806	5811	GO:0030424	axons	axon	NT-3 
+5817	5823	GO:0005623	cells,	cell	tiatio
+5826	5836	GO:0003823	antibodies	antigen	f motor ne
+5826	5836	GO:0019815	antibodies	B	f motor ne
+5826	5836	GO:0042571	antibodies	immunoglobulin	f motor ne
+5841	5852	GO:0060384	innervation	innervation	innervation
+5875	5880	GO:0030424	Axons	axon	ance,
+5918	5929	GO:0060384	Innervation	innervation	Innervation
+5943	5949	GO:0004617	serum.	phosphoglycerate	17 spi
+5961	5968	GO:0031430	midline	M	igure 3
+5967	5974	GO:0003675	protein	obsolete	3) were
+6022	6033	GO:0007409	axon growth	axonogenesis	 of all gen
+6031	6039	GO:0003823	antibody	antigen	enotypes
+6031	6039	GO:0019815	antibody	B	enotypes
+6031	6039	GO:0042571	antibody	immunoglobulin	enotypes
+6099	6105	GO:0040007	growth	growth	growth
+6134	6139	GO:0030424	axons	axon	 axon
+6135	6141	GO:0030424	axons.	axon	axons.
+6168	6182	GO:0019230	proprioceptive	proprioception	proprioceptive
+6226	6232	GO:0030424	axons.	axon	neuron
+6254	6259	GO:0005623	cells	cell	where
+6287	6301	GO:0019230	proprioceptive	proprioception	NT-3 KO embryo
+6302	6307	GO:0030424	axons	axon	 were
+6318	6329	GO:0060384	innervation	innervation	innervation
+6337	6343	GO:0030424	axons.	axon	 3C). 
+6385	6390	GO:0030424	axons	axon	bers 
+6448	6455	GO:0031430	midline	M	midline
+6582	6596	GO:0019230	proprioceptive	proprioception	proprioceptive
+6597	6608	GO:0060384	innervation	innervation	innervation
+6622	6630	GO:0003823	antibody	antigen	l horn o
+6622	6630	GO:0019815	antibody	B	l horn o
+6622	6630	GO:0042571	antibody	immunoglobulin	l horn o
+6649	6654	GO:0030424	axons	axon	 spin
+6818	6826	GO:0003823	antibody	antigen	x arc ci
+6818	6826	GO:0019815	antibody	B	x arc ci
+6818	6826	GO:0042571	antibody	immunoglobulin	x arc ci
+6874	6882	GO:0003823	antibody	antigen	e contac
+6874	6882	GO:0019815	antibody	B	e contac
+6874	6882	GO:0042571	antibody	immunoglobulin	e contac

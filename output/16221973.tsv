@@ -1,0 +1,211 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	4	GO:0005623	Cell	cell	Two 
+15	22	GO:0005488	binding	binding	hes of 
+23	28	GO:0005623	cells	cell	nti-c
+95	102	GO:0003675	protein	obsolete	 Abstra
+152	157	GO:0004617	serum	phosphoglycerate	 regu
+197	209	GO:0005874	microtubules	microtubule	response to 
+266	273	GO:0005488	binding	binding	binding
+271	276	GO:0005623	cells	cell	ng to
+272	279	GO:0003675	protein	obsolete	g to me
+273	294	GO:0044430	cytoskeletal elements	cytoskeletal	 to metal response el
+306	311	GO:0005623	Cells	cell	) in 
+383	396	GO:0005856	cytoskeleton.	cytoskeleton	 function in 
+385	403	GO:0005515	protein that binds	protein	unction in embryon
+412	417	GO:0005623	cells	cell	devel
+396	424	GO:1990402	embryonic liver development.	embryonic	embryonic liver development.
+514	518	GO:0005623	Cell	cell	 stu
+528	541	GO:0006351	transcription	transcription,	onditional kn
+572	577	GO:0005623	Cells	cell	ates 
+586	590	GO:0005623	cell	cell	 moc
+600	610	GO:0008152	metabolism	metabolic	ium-treate
+631	644	GO:0006351	transcription	transcription,	transcription
+733	746	GO:0006351	transcription	transcription,	rget genes wi
+742	764	GO:0005373	metal ion transporters	obsolete	s with MRE motifs in t
+766	771	GO:0005623	cells	cell	 prom
+820	829	GO:0009058	synthesis	biosynthetic	sal expre
+834	847	GO:0005622	intracellular	intracellular	 of selenopro
+866	872	GO:0005623	cells.	cell	ne (Se
+901	916	GO:0010467	gene expression	gene	ne-binding and 
+898	925	GO:1903561	extracellular and vesicular	extracellular	hione-binding and putative 
+926	939	GO:0006811	ion transport	ion	ntioxidant pr
+949	959	GO:0005737	cytoplasm.	cytoplasm	porting a 
+964	972	GO:0003675	proteins	obsolete	of MTF-1
+979	983	GO:0019013	core	viral	 oxi
+1045	1050	GO:0005623	cells	cell	m-ind
+1049	1063	GO:0098754	detoxification	detoxification	duced expressi
+1057	1070	GO:0006351	transcription	transcription,	pression of N
+1088	1094	GO:0005623	cells.	cell	gulate
+1142	1147	GO:0005623	cells	cell	ress 
+1168	1181	GO:0006351	transcription	transcription,	rexpressed in
+1272	1279	GO:0005488	binding	binding	 protei
+1293	1297	GO:0005623	cell	cell	1), 
+1315	1323	GO:0003675	proteins	obsolete	d in cyt
+1381	1394	GO:0005622	intracellular	intracellular	asal expressi
+1442	1447	GO:0005623	cells	cell	a pat
+1441	1448	GO:0005488	binding	binding	 a path
+1456	1469	GO:0005622	intracellular	intracellular	pendent of MT
+1470	1479	GO:0031982	vesicles.	vesicle	-1, cadmi
+1478	1482	GO:0019013	core	viral	ium 
+1499	1512	GO:0006351	transcription	transcription,	transcription
+1521	1526	GO:0005623	cells	cell	 invo
+1538	1547	GO:0009058	synthesis	biosynthetic	synthesis
+1552	1564	GO:0031099	regeneration	regeneration	regeneration
+1559	1574	GO:0010467	Gene expression	gene	ation of glutat
+1562	1575	GO:0006351	transcription	transcription,	on of glutath
+1571	1576	GO:0043863	HpaI.	4-hydroxy-2-ketopimelate	tathi
+1581	1585	GO:0043863	HpaI	4-hydroxy-2-ketopimelate	a ca
+1587	1603	GO:0055069	zinc homeostasis	zinc	ium-binding anti
+1587	1603	GO:0006882	zinc homeostasis	cellular	ium-binding anti
+1640	1653	GO:0006351	transcription	transcription,	idence for tw
+1670	1691	GO:0006750	glutathione synthesis	glutathione	of cellular anti-cadm
+1703	1707	GO:0005623	cell	cell	 one
+1705	1710	GO:0005623	cells	cell	ne vi
+1784	1791	GO:0005488	binding	binding	athione
+1824	1839	GO:0010467	gene expression	gene	enoprotein W. I
+1844	1853	GO:0009058	Synthesis	biosynthetic	UCTION Al
+1865	1878	GO:0006351	transcription	transcription,	have evolved 
+1898	1902	GO:0005623	cell	cell	ith 
+1904	1917	GO:0006351	transcription	transcription,	variety of st
+1912	1919	GO:0005488	binding	binding	of stre
+1922	1940	GO:0008283	Cell Proliferation	cell	situations. One ty
+2001	2006	GO:0005623	cells	cell	inc, 
+1994	2013	GO:0032993	protein-DNA complex	protein-DNA	ch as zinc, copper 
+2014	2023	GO:0009058	formation	biosynthetic	nd cadmiu
+2069	2082	GO:0006351	transcription	transcription,	 cadmium are 
+2104	2111	GO:0005488	binding	binding	te Zn2+
+2188	2197	GO:0003675	proteins,	obsolete	proteins,
+2230	2241	GO:0042592	homeostasis	homeostatic	homeostasis
+2246	2260	GO:0098754	detoxification	detoxification	detoxification
+2256	2260	GO:0005623	cell	cell	tion
+2285	2289	GO:0005488	bind	binding	bind
+2378	2395	GO:0010843	promoter binding.	obsolete	signated as Mt1 t
+2396	2400	GO:0019013	core	viral	 Mt4
+2461	2474	GO:0006351	transcription	transcription,	d Mt2 is medi
+2509	2520	GO:0000008	thioredoxin	obsolete	ion factor 
+2509	2520	GO:0030508	thioredoxin	obsolete	ion factor 
+2609	2627	GO:0034976	ER stress response	response	ed metal response 
+2627	2631	GO:0004422	Hprt	hypoxanthine	elem
+2643	2647	GO:0019013	core	viral	core
+2720	2729	GO:0097194	apoptosis	execution	t genes (
+2720	2729	GO:0006915	apoptosis	apoptotic	t genes (
+2828	2832	GO:0004422	Hprt	hypoxanthine	ns (
+2843	2849	GO:0023052	signal	signaling	hila (
+2859	2870	GO:0006412	translation	translation	 fish (15,1
+2889	2893	GO:0019013	core	viral	-1 h
+2897	2904	GO:0003675	protein	obsolete	een stu
+3009	3022	GO:0006351	transcription	transcription,	ction of Mt g
+3028	3032	GO:0019013	core	viral	n re
+3051	3055	GO:0019013	core	viral	ess 
+3044	3071	GO:1990402	embryonic liver development	embryonic	her stress situations, such
+3095	3102	GO:0003675	protein	obsolete	17) and
+3096	3111	GO:0010467	gene expression	gene	7) and hypoxia 
+3203	3222	GO:0032993	protein-DNA complex	protein-DNA	ma membrane-localiz
+3223	3232	GO:0009058	formation	biosynthetic	d zinc ef
+3326	3333	GO:0005488	binding	binding	lgf), a
+3346	3353	GO:0003675	protein	obsolete	protein
+3331	3353	GO:0009790	embryonal development,	embryo	 an angiogenic protein
+3361	3395	GO:0005172	vascular endothelial growth factor	vascular	vascular endothelial growth factor
+3398	3402	GO:0031672	band	A	EGF)
+3405	3413	GO:0003675	proteins	obsolete	mily (20
+3434	3440	GO:0023052	signal	signaling	een in
+3443	3453	GO:0007519	myogenesis	skeletal	ed in tumo
+3443	3453	GO:0048740	myogenesis	obsolete	ed in tumo
+3455	3466	GO:0032502	development	developmental	development
+3489	3507	GO:0003674	molecular function	molecular_function	MTF-1 has an essen
+3517	3524	GO:0003675	protein	obsolete	ion dur
+3528	3542	GO:0009793	embryogenesis:	embryo	embryogenesis:
+3528	3542	GO:0009792	embryogenesis:	embryo	embryogenesis:
+3528	3542	GO:0009790	embryogenesis:	embryo	embryogenesis:
+3568	3575	GO:0003675	protein	obsolete	f1 resu
+3611	3615	GO:0005488	bind	binding	 day
+3619	3626	GO:0003675	protein	obsolete	st coit
+3616	3635	GO:0032993	protein-DNA complex	protein-DNA	 post coitum due to
+3629	3636	GO:0004422	(Hprt):	hypoxanthine	due to 
+3647	3655	GO:0001906	necrosis	cell	necrosis
+3647	3655	GO:0019835	necrosis	cytolysis	necrosis
+3647	3655	GO:0008220	necrosis	obsolete	necrosis
+3647	3655	GO:0070265	necrosis	necrotic	necrosis
+3647	3655	GO:0008219	necrosis	cell	necrosis
+3701	3706	GO:0005623	cells	cell	or th
+3740	3747	GO:0003675	protein	obsolete	 genes 
+3778	3785	GO:0005488	binding	binding	h sensi
+3802	3806	GO:0019013	core	viral	24,2
+3860	3873	GO:0006351	transcription	transcription,	genes are inv
+3930	3945	GO:0006351	transcriptional	transcription,	nal knockout te
+3975	3979	GO:0004422	Hprt	hypoxanthine	cumv
+3975	3982	GO:0004239	mapping	obsolete	cumvent
+3984	3991	GO:0005488	binding	binding	he embr
+4053	4060	GO:0003675	protein	obsolete	vious e
+4063	4067	GO:0019013	core	viral	rime
+4092	4105	GO:0006351	transcription	transcription,	evealed that 
+4126	4141	GO:0010467	gene expression	gene	 the liver afte
+4183	4196	GO:0006351	transcription	transcription,	ss conditions
+4225	4229	GO:0019013	core	viral	ucib
+4286	4290	GO:0004422	Hprt	hypoxanthine	 to 
+4328	4335	GO:0005488	binding	binding	s and c
+4377	4396	GO:0032993	protein-DNA complex	protein-DNA	 A number of target
+4397	4406	GO:0009058	formation	biosynthetic	gene cand
+4441	4449	GO:0003675	proteins	obsolete	 analysi
+4452	4459	GO:0023052	signals	signaling	f mock-
+4487	4494	GO:0003675	protein	obsolete	ndition
+4511	4533	GO:0005373	metal ion transporters	obsolete	and control littermate
+4527	4534	GO:0003675	Protein	obsolete	ermates
+4539	4549	GO:0006810	transport,	transport	several of
+4558	4565	GO:0005488	binding	binding	re conf
+4586	4593	GO:0003675	Protein	obsolete	tive RT
+4587	4600	GO:0006351	Transcription	transcription,	ive RT–PCR. B
+4603	4621	GO:0005886	cellular membranes	plasma	des the stress-ind
+4617	4637	GO:0019725	cellular homeostasis	cellular	-inducible metalloth
+4631	4640	GO:0005737	cytoplasm	cytoplasm	allothion
+4678	4682	GO:0005623	cell	cell	arge
+4709	4717	GO:0003675	proteins	obsolete	hat MTF-
+4794	4801	GO:0003675	protein	obsolete	scle 1 
+4796	4803	GO:0005488	binding	binding	le 1 (S
+4815	4822	GO:0003675	protein	obsolete	l as fo
+4836	4851	GO:0010467	gene expression	gene	ced expression 
+5038	5045	GO:0005488	binding	binding	ily 39,
+5073	5086	GO:0006351	transcription	transcription,	which encodes
+5114	5118	GO:0005623	cell	cell	orte
+5098	5120	GO:0005373	metal ion transporter.	obsolete	metal ion transporter.
+5171	5175	GO:0004422	Hprt	hypoxanthine	vera
+5195	5210	GO:0010467	gene expression	gene	glutathione met
+5195	5217	GO:0006749	glutathione metabolism	glutathione	glutathione metabolism
+5259	5263	GO:0019013	core	viral	dual
+5298	5302	GO:0019013	core	viral	athi
+5374	5387	GO:0006351	transcription	transcription,	oneins. MATER
+5379	5392	GO:0006351	transcription	transcription,	s. MATERIALS 
+5398	5409	GO:0000746	conjugation	conjugation	THODS Gener
+5417	5424	GO:0005488	binding	binding	 Mtf1 c
+5421	5425	GO:0019013	core	viral	1 co
+5451	5464	GO:0006351	transcription	transcription,	d liver-speci
+5537	5544	GO:0003675	protein	obsolete	on with
+5561	5577	GO:0005925	adhesion plaques	focal	en (San Carlos, 
+5580	5584	GO:0019013	core	viral	. Tw
+5587	5591	GO:0019013	core	viral	enom
+5573	5592	GO:0032993	protein-DNA complex	protein-DNA	os, CA). Two genomi
+5593	5602	GO:0009058	formation	biosynthetic	 clones c
+5602	5620	GO:0031941	filamentous actin,	filamentous	ontaining exons 3 
+5644	5659	GO:0005925	adhesion plaque	focal	o construct a g
+5650	5663	GO:0006351	transcription	transcription,	truct a gene 
+5660	5667	GO:0003675	protein	obsolete	ne targ
+5708	5715	GO:0005488	binding	binding	 (Suppl
+5710	5717	GO:0003675	protein	obsolete	Supplem
+5756	5760	GO:0005488	bind	binding	sett
+5754	5761	GO:0005488	binding	binding	assette
+5888	5892	GO:0019013	core	viral	e Sc
+5897	5904	GO:0005488	binding	binding	te 3′ o
+5924	5932	GO:0003675	proteins	obsolete	e kinase
+5941	5959	GO:0015629	actin cytoskeleton	actin	sette was inserted
+5967	5971	GO:0043863	HpaI	4-hydroxy-2-ketopimelate	HpaI
+5965	5972	GO:0003675	protein	obsolete	e HpaI 
+5998	6003	GO:0005623	cells	cell	cells
+6326	6330	GO:0004422	Hprt	hypoxanthine	by i
+6414	6418	GO:0019013	core	viral	ous 
+6537	6550	GO:0006351	transcription	transcription,	Prof. Michel 
+6579	6583	GO:0019013	core	viral	, li
+6596	6611	GO:0006351	transcriptional	transcription,	Mtf1 knockout l
+6683	6696	GO:0006351	transcription	transcription,	nth): Cre rec
+6731	6750	GO:0032993	protein-DNA complex	protein-DNA	GC-3′; 5′-CCAGGTTAC
+6751	6760	GO:0009058	formation	biosynthetic	GATATAGTT
+6863	6870	GO:0005488	binding	binding	CC-3′. 

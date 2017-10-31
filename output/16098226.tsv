@@ -1,0 +1,126 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+13	21	GO:0003675	proteins	obsolete	proteins
+49	54	GO:0005488	binds	binding	termi
+75	83	GO:0003675	proteins	obsolete	 interac
+129	136	GO:0003675	protein	obsolete	ckgroun
+147	154	GO:0003675	protein	obsolete	protein
+160	175	GO:0006351	transcriptional	transcription,	transcriptional
+232	239	GO:0003675	protein	obsolete	elopmen
+229	241	GO:0032502	development.	developmental	development.
+344	351	GO:0003675	protein	obsolete	e and b
+415	424	GO:0003675	proteins,	obsolete	proteins,
+467	475	GO:0003675	proteins	obsolete	proteins
+487	495	GO:0003675	proteins	obsolete	ct with 
+535	542	GO:0003675	protein	obsolete	hniques
+616	624	GO:0003675	protein.	obsolete	protein.
+708	716	GO:0003675	proteins	obsolete	proteins
+717	728	GO:0009056	degradation	catabolic	that intera
+851	859	GO:0003675	proteins	obsolete	proteins
+881	902	GO:0014069	post-synaptic density	postsynaptic	post-synaptic density
+909	916	GO:0003675	protein	obsolete	protein
+929	935	GO:0003777	dynein	microtubule	dynein
+964	971	GO:0003675	protein	obsolete	rtite m
+976	983	GO:0003675	protein	obsolete	protein
+998	1008	GO:0023052	signalling	signaling	C-terminal
+1027	1043	GO:0010467	gene expression.	gene	eviously identif
+1068	1079	GO:0051235	sequestered	maintenance	malformatio
+1094	1101	GO:0005488	binding	binding	 or abo
+1168	1176	GO:0003675	proteins	obsolete	at PAX6 
+1342	1351	GO:0006810	transport	transport	es in neu
+1357	1372	GO:0006351	transcriptional	transcription,	transcriptional
+1377	1395	GO:0015629	actin cytoskeleton	actin	vity, and that som
+1421	1432	GO:0003677	DNA binding	DNA	in patients
+1424	1433	GO:0006810	transport	transport	patients 
+1444	1455	GO:0005874	microtubule	microtubule	utations co
+1489	1496	GO:0005634	nucleus	nucleus	in-prot
+1534	1541	GO:0003675	protein	obsolete	protein
+1533	1552	GO:0030163	protein degradation	protein	 protein is a membe
+1586	1593	GO:0003675	protein	obsolete	f trans
+1588	1603	GO:0006351	transcriptional	transcription,	transcriptional
+1661	1672	GO:0032502	development	developmental	development
+1665	1686	GO:0014069	post-synaptic density	postsynaptic	lopment [1]. Heterozy
+1747	1754	GO:0007129	synapse	synapsis	 of the
+1747	1754	GO:0045202	synapse	synapse	 of the
+1763	1770	GO:0005634	nucleus	nucleus	d a ran
+1810	1817	GO:0003675	protein	obsolete	 [2]. N
+1978	1983	GO:0005488	binds	binding	hal a
+2109	2114	GO:0005623	cells	cell	 brai
+2121	2133	GO:0051179	localisation	localization	rmations [2,
+2158	2175	GO:0007420	brain development	brain	brain development
+2253	2265	GO:0051179	localisation	localization	sation of th
+2288	2297	GO:0009058	formation	biosynthetic	formation
+2348	2361	GO:0007411	axon guidance	axon	axon guidance
+2375	2384	GO:0005737	cytoplasm	cytoplasm	tiation o
+2412	2430	GO:0001764	neuronal migration	neuron	neuronal migration
+2432	2439	GO:0003675	protein	obsolete	n the c
+2434	2445	GO:0003677	DNA binding	DNA	the cerebel
+2438	2450	GO:0051179	localisation	localization	cerebellum [
+2511	2528	GO:0007420	brain development	brain	brain development
+2594	2601	GO:0003675	protein	obsolete	ctive b
+2593	2602	GO:0003675	proteins,	obsolete	nctive br
+2620	2625	GO:0005623	cells	cell	 unco
+3042	3050	GO:0003675	proteins	obsolete	proteins
+3077	3084	GO:0003675	protein	obsolete	mino ac
+3192	3199	GO:0003675	protein	obsolete	main, P
+3423	3438	GO:0006351	transcriptional	transcription,	transcriptional
+3463	3470	GO:0003675	protein	obsolete	protein
+3554	3561	GO:0045292	spliced	mRNA	] and g
+3594	3601	GO:0003675	protein	obsolete	 spatia
+3632	3653	GO:0014069	post-synaptic density	postsynaptic	ession pattern in the
+3660	3668	GO:0003675	proteins	obsolete	rain, na
+3704	3715	GO:0006412	translation	translation	reas [1]. A
+3707	3725	GO:0043234	protein complexes,	protein	s [1]. Although PA
+3726	3732	GO:0003777	dynein	microtubule	6 is c
+3765	3773	GO:0003675	proteins	obsolete	opmental
+3760	3784	GO:0032502	developmental processes,	developmental	developmental processes,
+3778	3791	GO:0005622	intracellular	intracellular	esses, common
+3807	3815	GO:0003675	proteins	obsolete	emerging
+3820	3830	GO:0043226	organelles	organelle	erning the
+3879	3887	GO:0003675	protein.	obsolete	6 expres
+3894	3901	GO:0003675	protein	obsolete	e impor
+4012	4023	GO:0032502	development	developmental	development
+4064	4072	GO:0003675	proteins	obsolete	he retin
+4270	4277	GO:0003675	protein	obsolete	gh acti
+4522	4530	GO:0003675	proteins	obsolete	apparent
+4537	4544	GO:0003675	protein	obsolete	ranscri
+4523	4545	GO:0014069	post-synaptic density;	postsynaptic	pparent that transcrip
+4627	4635	GO:0003675	proteins	obsolete	proteins
+4728	4738	GO:0065007	regulatory	biological	regulatory
+4962	4968	GO:0031672	band),	A	AX6 ac
+4993	5004	GO:0032502	development	developmental	development
+4995	5005	GO:0023052	signalling	signaling	velopment 
+5010	5019	GO:0006810	transport	transport	 and with
+5024	5032	GO:0003675	proteins	obsolete	proteins
+5116	5127	GO:0032502	Development	developmental	one gene [1
+5205	5213	GO:0003675	proteins	obsolete	proteins
+5231	5236	GO:0031672	bands	A	h PAX
+5285	5290	GO:0005488	binds	binding	ndary
+5337	5355	GO:0032502	neurodevelopmental	developmental	domain of 32 amino
+5356	5371	GO:0006351	transcriptional	transcription,	acids at the C-
+5396	5404	GO:0003675	protein.	obsolete	protein.
+5412	5425	GO:0005622	intracellular	intracellular	 screened a b
+5422	5430	GO:0003675	proteins	obsolete	a brain 
+5426	5434	GO:0031982	vesicles	vesicle	ain libr
+5486	5494	GO:0003675	proteins	obsolete	hnique a
+5523	5533	GO:0023052	signalling	signaling	eracting p
+5569	5584	GO:0010467	gene expression	gene	he interaction 
+5575	5585	GO:0023052	signalling	signaling	eraction b
+5582	5590	GO:0003675	proteins	obsolete	n betwee
+5607	5615	GO:0003675	proteins	obsolete	proteins
+5662	5670	GO:0003675	proteins	obsolete	l PAX6 m
+5683	5691	GO:0003675	proteins	obsolete	ults A h
+5710	5718	GO:0003675	proteins	obsolete	erminal 
+5748	5761	GO:0007411	axon guidance	axon	-33] noted th
+5769	5786	GO:0007420	brain development	brain	 is significant s
+5819	5842	GO:0046907	intracellular transport	intracellular	minal end of the PAX6 p
+5841	5849	GO:0003675	protein.	obsolete	protein.
+5843	5861	GO:0043234	protein complexes,	protein	otein. BLAST analy
+5862	5868	GO:0003777	dynein	microtubule	is of 
+5889	5895	GO:0003777	Dynein	microtubule	ce of 
+5950	5957	GO:0003675	Protein	obsolete	erved m
+5989	5998	GO:0003675	proteins,	obsolete	ids (begi
+5999	6009	GO:0043226	organelles	organelle	ning at th
+6014	6022	GO:0031982	vesicles	vesicle	ISP' mot
+6246	6253	GO:0003675	protein	obsolete	) CLUST
+6552	6563	GO:0003677	DNA binding	DNA	le beta she
+6655	6664	GO:0003675	protein).	obsolete	2 beta sh

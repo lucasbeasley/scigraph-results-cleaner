@@ -1,0 +1,83 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+19	26	GO:0005819	spindle	spindle	s and m
+21	26	GO:0005623	cells	cell	and m
+149	155	GO:0005623	cells,	cell	on-inv
+166	172	GO:0023052	signal	signaling	luores
+197	203	GO:0005623	cells.	cell	utioni
+229	234	GO:0005623	cells	cell	 arra
+256	293	GO:0048471	perinuclear regions of the cytoplasm.	perinuclear	ms. In recent years green fluorescent
+294	301	GO:0003675	protein	obsolete	protein
+299	314	GO:0009315	drug resistance	obsolete	in (GFP) from t
+299	314	GO:0042493	drug resistance	response	in (GFP) from t
+334	339	GO:0005623	cells	cell	llyfi
+416	425	GO:0030425	dendrites	dendrite	ting regi
+430	435	GO:0030424	axons	axon	1]. I
+476	481	GO:0005623	cells	cell	onal 
+542	547	GO:0005623	cells	cell	in th
+619	631	GO:0051179	localization	localization	 realized in
+705	710	GO:0005623	cells	cell	ality
+741	748	GO:0003675	protein	obsolete	protein
+779	784	GO:0005623	cells	cell	cells
+810	814	GO:0005623	cell	cell	this
+884	890	GO:0005623	cells.	cell	test t
+919	926	GO:0003675	protein	obsolete	protein
+951	956	GO:0005623	cells	cell	ow fl
+966	973	GO:0003675	protein	obsolete	protein
+1026	1031	GO:0005623	cells	cell	iants
+1109	1116	GO:0003675	protein	obsolete	protein
+1233	1238	GO:0005623	cells	cell	d lin
+1247	1252	GO:0005623	cells	cell	cells
+1275	1281	GO:0005623	cells.	cell	nd fer
+1323	1328	GO:0005623	cells	cell	eithe
+1362	1368	GO:0005623	cells.	cell	orters
+1502	1506	GO:0005623	cell	cell	 exp
+1558	1564	GO:0005623	cells.	cell	 (dipl
+1561	1565	GO:0005623	cell	cell	iplo
+1677	1682	GO:0005623	cells	cell	cells
+1706	1713	GO:0003675	protein	obsolete	rate th
+1802	1809	GO:0003675	protein	obsolete	 single
+1958	1971	GO:0009793	embryogenesis	embryo	sing transgen
+1958	1971	GO:0009792	embryogenesis	embryo	sing transgen
+1958	1971	GO:0009790	embryogenesis	embryo	sing transgen
+1977	1982	GO:0005623	cells	cell	cells
+2034	2039	GO:0005623	cells	cell	cells
+2159	2174	GO:0010467	gene expression	gene	se of manipulat
+2306	2317	GO:0006280	mutagenesis	obsolete	mutagenesis
+2398	2404	GO:0005623	cells,	cell	cells,
+2498	2504	GO:0005623	cells.	cell	rs, ar
+2562	2573	GO:0032502	development	developmental	development
+2609	2616	GO:0003675	protein	obsolete	protein
+2733	2739	GO:0005623	cells,	cell	an pla
+3013	3020	GO:0003675	protein	obsolete	protein
+3051	3058	GO:0003675	protein	obsolete	protein
+3085	3089	GO:0005623	cell	cell	ich 
+3303	3310	GO:0003675	protein	obsolete	protein
+3506	3512	GO:0005623	cells,	cell	n colo
+3657	3665	GO:0003675	proteins	obsolete	proteins
+3735	3739	GO:0005623	cell	cell	cell
+3809	3814	GO:0005623	cells	cell	cells
+4412	4419	GO:0003675	Protein	obsolete	Protein
+4434	4438	GO:0005623	cell	cell	ance
+4459	4466	GO:0003675	Protein	obsolete	Protein
+4725	4733	GO:0003675	proteins	obsolete	proteins
+4785	4796	GO:0006412	translation	translation	translation
+4822	4826	GO:0005623	cell	cell	hrou
+4856	4860	GO:0005623	cell	cell	tral
+4888	4896	GO:0003675	proteins	obsolete	proteins
+4948	4956	GO:0003675	proteins	obsolete	proteins
+5072	5079	GO:0003675	protein	obsolete	protein
+5255	5263	GO:0003675	protein.	obsolete	protein.
+5371	5376	GO:0005623	cells	cell	cells
+5411	5420	GO:0000496	base pair	base	base pair
+5529	5536	GO:0003675	protein	obsolete	protein
+5549	5554	GO:0005623	cells	cell	cells
+5570	5575	GO:0005623	cells	cell	ids w
+5663	5670	GO:0003675	protein	obsolete	protein
+5738	5749	GO:0006412	translation	translation	escribed pr
+5777	5782	GO:0005623	cells	cell	cells
+5854	5859	GO:0005623	cells	cell	frequ
+6116	6122	GO:0005623	cells)	cell	t the 
+6163	6170	GO:0023052	signal.	signaling	orters 
+6290	6296	GO:0005623	cells,	cell	 recov
+6338	6342	GO:0005623	cell	cell	cell
+6347	6352	GO:0005623	cells	cell	holog

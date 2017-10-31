@@ -1,0 +1,223 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+4	10	GO:0040007	Growth	growth	omatou
+56	67	GO:0032502	Development	developmental	Development
+84	95	GO:0032502	development	developmental	us Abstract
+100	116	GO:0008181	tumor suppressor	obsolete	tumor suppressor
+100	116	GO:0051726	tumor suppressor	regulation	tumor suppressor
+120	125	GO:0007568	aged,	aging	e Apc
+117	144	GO:0031069	Hair Follicle Morphogenesis	hair	gene Apc (adenomatous polyp
+163	174	GO:0032502	development	developmental	ber of the 
+164	188	GO:0048468	terminal differentiation	cell	er of the Wnt signaling 
+163	188	GO:0001942	hair follicle development	hair	ber of the Wnt signaling 
+174	195	GO:0016055	Wnt signaling pathway	Wnt	Wnt signaling pathway
+216	227	GO:0032502	development	developmental	development
+241	250	GO:0009058	formation	biosynthetic	esis. Het
+252	257	GO:0005623	cells	cell	ozygo
+265	276	GO:0032502	development	developmental	out mice fo
+284	295	GO:0032502	Development	developmental	ve a tumor 
+400	411	GO:0032502	development	developmental	development
+419	423	GO:0005623	cell	cell	rate
+458	463	GO:0007618	mated	mating	mated
+458	463	GO:1990277	mated	parasexual	mated
+458	463	GO:0000747	mated	conjugation	mated
+458	463	GO:0009291	mated	unidirectional	mated
+466	477	GO:0032502	development	developmental	th a strain
+462	484	GO:0033561	skin barrier function.	regulation	d with a strain carryi
+476	489	GO:0048513	Organogenesis	organ	n carrying Cr
+472	493	GO:0016055	Wnt signaling pathway	Wnt	train carrying Cre re
+488	500	GO:0051179	localization	localization	re recombina
+497	510	GO:0043473	pigmentations	pigmentation	inase under t
+557	564	GO:0023052	signal.	signaling	er, whi
+566	581	GO:0006351	transcriptional	transcription,	 is active in b
+593	603	GO:0036074	metaplasia	metaplastic	f epidermi
+613	622	GO:0023052	signaling	signaling	r stratif
+619	628	GO:0009058	formation	biosynthetic	tified ep
+754	759	GO:0005623	cells	cell	ed be
+819	830	GO:0009844	germinative	obsolete	evealed tha
+844	853	GO:0023052	signaling	signaling	ated Apc 
+879	885	GO:0040007	growth	growth	growth
+966	971	GO:0005623	cells	cell	, and
+1022	1032	GO:0036074	metaplasia	metaplastic	metaplasia
+1049	1054	GO:0005623	cells	cell	vario
+1057	1064	GO:0007114	budding	cell	epithel
+1093	1104	GO:0042640	hair growth	anagen	g the thymu
+1120	1126	GO:0040007	growth	growth	growth
+1139	1146	GO:0007114	budding	cell	icles a
+1207	1220	GO:0009653	morphogenesis	anatomical	4-cre; ApcCKO
+1215	1221	GO:0005623	cells.	cell	pcCKO/
+1268	1279	GO:0032502	development	developmental	ryonic cell
+1321	1326	GO:0016265	death	death	ns th
+1373	1380	GO:0003777	kinesin	microtubule	for the
+1383	1395	GO:0032502	development.	developmental	development.
+1394	1403	GO:0023052	signaling	signaling	. Synopsi
+1408	1422	GO:0009653	morphogenesis,	anatomical	ients with fam
+1419	1429	GO:0009058	formation,	biosynthetic	familial a
+1440	1449	GO:0009058	formation	biosynthetic	polyposis
+1589	1601	GO:0051179	localization	localization	c mutation i
+1607	1623	GO:0008181	tumor suppressor	obsolete	tumor suppressor
+1607	1623	GO:0051726	tumor suppressor	regulation	tumor suppressor
+1625	1630	GO:0005623	cells	cell	ene A
+1628	1636	GO:0003675	protein.	obsolete	 APC (ad
+1643	1648	GO:0005623	cells	cell	us po
+1643	1652	GO:0005829	cytosolic	cytosol	us polypo
+1663	1675	GO:0051179	localization	localization	These indivi
+1705	1715	GO:0009058	formation,	biosynthetic	c symptoms
+1745	1750	GO:0005623	cells	cell	ypert
+1751	1757	GO:0040007	growth	growth	ophy o
+1763	1768	GO:0005623	cells	cell	retin
+1805	1809	GO:0043336	rest	site-specific	, ep
+1810	1816	GO:0005623	cells,	cell	dermoi
+1822	1831	GO:0005829	cytosolic	cytosol	s, disord
+1827	1832	GO:0005623	cells	cell	sorde
+1832	1844	GO:0051179	localization	localization	rs of the ma
+1878	1884	GO:0005623	cells.	cell	ntal a
+1919	1931	GO:0051179	Localization	localization	ance of APC 
+1928	1937	GO:0005829	cytosolic	cytosol	PC functi
+1960	1965	GO:0005623	cells	cell	 unde
+1991	2016	GO:0048513	development and in organs	organ	development and in organs
+2009	2021	GO:0051179	localization	localization	 organs othe
+2066	2072	GO:0005623	cells,	cell	e that
+2109	2115	GO:0005623	cells.	cell	en exp
+2156	2161	GO:0007618	mated	mating	mated
+2156	2161	GO:1990277	mated	parasexual	mated
+2156	2161	GO:0000747	mated	conjugation	mated
+2156	2161	GO:0009291	mated	unidirectional	mated
+2147	2174	GO:0031069	hair follicle morphogenesis	hair	ice were mated with K14 (Ke
+2232	2237	GO:0005623	cells	cell	d its
+2349	2354	GO:0016265	death	death	ere v
+2329	2356	GO:0031069	hair follicle morphogenesis	hair	expressing tissues were via
+2437	2449	GO:0032502	development.	developmental	elopmental a
+2515	2528	GO:0006351	transcription	transcription,	tissues, incl
+2527	2539	GO:0051179	localization	localization	luding teeth
+2523	2540	GO:0007389	pattern formation	pattern	 including teeth 
+2523	2540	GO:0003002	pattern formation	regionalization	 including teeth 
+2533	2544	GO:0006412	translation	translation	 teeth and 
+2552	2557	GO:0005623	cells	cell	This 
+2568	2573	GO:0005623	cells	cell	trate
+2581	2593	GO:0032502	development,	developmental	portance of 
+2570	2597	GO:0031069	hair follicle morphogenesis	hair	ates the importance of Apc 
+2600	2611	GO:0032502	development	developmental	development
+2660	2668	GO:0003675	protein,	obsolete	iagnosis
+2670	2675	GO:0005623	cells	cell	nd ma
+2781	2802	GO:0016055	Wnt signaling pathway	Wnt	Wnt signaling pathway
+2804	2811	GO:0007114	budding	cell	nd one 
+2899	2909	GO:0065007	regulation	biological	regulation
+2901	2913	GO:0051179	localization	localization	gulation are
+2961	2966	GO:0005623	cells	cell	 asso
+2967	2971	GO:0031672	band	A	iate
+2999	3008	GO:0005829	cytosolic	cytosol	cytosolic
+3007	3011	GO:0031672	band	A	c β-
+3035	3062	GO:0031069	hair follicle morphogenesis	hair	results in its migration to
+3067	3074	GO:0005634	nucleus	nucleus	nucleus
+3129	3135	GO:0031672	band).	A	nesis.
+3155	3170	GO:0006351	transcriptional	transcription,	with a multitud
+3190	3199	GO:0003675	proteins,	obsolete	proteins,
+3219	3226	GO:0007618	Matings	mating	XIN2), 
+3219	3226	GO:1990277	Matings	parasexual	XIN2), 
+3219	3226	GO:0000747	Matings	conjugation	XIN2), 
+3219	3226	GO:0009291	Matings	unidirectional	XIN2), 
+3258	3267	GO:0009058	formation	biosynthetic	), kinesi
+3261	3268	GO:0003777	kinesin	microtubule	kinesin
+3294	3307	GO:0009793	embryogenesis	embryo	otein 3 (KIFA
+3294	3307	GO:0009792	embryogenesis	embryo	otein 3 (KIFA
+3294	3307	GO:0009790	embryogenesis	embryo	otein 3 (KIFA
+3326	3339	GO:0005874	microtubules,	microtubule	microtubules,
+3543	3553	GO:0065007	regulation	biological	regulation
+3577	3605	GO:0051726	regulation of the cell cycle	regulation	regulation of the cell cycle
+3610	3620	GO:0097194	apoptosis,	execution	apoptosis,
+3610	3620	GO:0006915	apoptosis,	apoptotic	apoptosis,
+3636	3666	GO:0098722	asymmetric stem cell division,	asymmetric	asymmetric stem cell division,
+3666	3679	GO:0010445	d. The bodies	nuclear	 and control 
+3682	3699	GO:0030010	cell polarization	establishment	cell polarization
+3716	3732	GO:0008181	tumor suppressor	obsolete	tumor suppressor
+3716	3732	GO:0051726	tumor suppressor	regulation	tumor suppressor
+3743	3755	GO:0032502	development.	developmental	tic mutation
+3816	3838	GO:0007569	cells, and at this age	cell	colon and rectum. Auto
+3845	3850	GO:0005623	cells	cell	omina
+3957	3969	GO:0051179	localization	localization	AP patients 
+3973	3978	GO:0005623	cells	cell	chara
+3990	4001	GO:0032502	development	developmental	hundreds of
+4017	4022	GO:0005623	cells	cell	orect
+4001	4025	GO:0048468	terminal differentiation	cell	 adenomatous colorectal 
+4099	4126	GO:0031069	hair follicle morphogenesis	hair	third and fourth decades of
+4126	4132	GO:0005623	cells,	cell	 life 
+4186	4213	GO:0031069	hair follicle morphogenesis	hair	iduals can develop extracol
+4232	4243	GO:0032502	development	developmental	g which are
+4231	4249	GO:0048538	thymus development	thymus	ng which are upper
+4364	4369	GO:0005623	cells	cell	 of t
+4395	4406	GO:0032502	development	developmental	bones, and 
+4498	4508	GO:0009058	formation.	biosynthetic	tems. Alth
+4539	4544	GO:0005623	cells	cell	tiati
+4573	4590	GO:0042475	Tooth development	odontogenesis	 is well establis
+4573	4590	GO:0042476	Tooth development	odontogenesis	 is well establis
+4616	4627	GO:0036074	metaplasia,	metaplastic	sue and dev
+4624	4647	GO:0032502	developmental processes	developmental	developmental processes
+4697	4707	GO:0065007	regulation	biological	regulation
+4715	4724	GO:0023052	signaling	signaling	signaling
+4735	4741	GO:0005623	cells.	cell	ic pat
+4728	4755	GO:0009880	embryonic pattern formation	embryonic	embryonic pattern formation
+4760	4773	GO:0009653	morphogenesis	anatomical	morphogenesis
+4751	4774	GO:0001709	cell fate determination	cell	tion and morphogenesis 
+4782	4793	GO:0009844	germinative	obsolete	organs, mec
+4826	4837	GO:0032502	development	developmental	development
+4838	4859	GO:0016055	Wnt signaling pathway	Wnt	and in extracolonic t
+4858	4863	GO:0005623	cells	cell	tissu
+4885	4896	GO:0032502	development	developmental	 better ass
+4888	4897	GO:0009058	formation	biosynthetic	tter asse
+4911	4917	GO:0016265	death.	death	dverse
+4981	4987	GO:0042640	anagen	anagen	 devel
+4982	4993	GO:0032502	development	developmental	development
+5001	5011	GO:0042633	hair cycle	hair	evelop mic
+5037	5050	GO:0009653	morphogenesis	anatomical	 mutation. Se
+5104	5108	GO:0007568	ages	aging	been
+5176	5204	GO:0031069	hair follicle morphogenesis,	hair	show a gastrointestinal and 
+5226	5236	GO:0065007	regulation	biological	tion pheno
+5235	5244	GO:0009058	formation	biosynthetic	otype [7–
+5247	5251	GO:0005623	cell	cell	. Mo
+5287	5292	GO:0005623	cells	cell	the g
+5323	5337	GO:0009793	embryogenesis,	embryo	embryogenesis,
+5323	5337	GO:0009792	embryogenesis,	embryo	embryogenesis,
+5323	5337	GO:0009790	embryogenesis,	embryo	embryogenesis,
+5383	5395	GO:0007369	gastrulation	gastrulation	gastrulation
+5459	5470	GO:0032502	development	developmental	development
+5577	5581	GO:0007618	mate	mating	mate
+5577	5581	GO:1990277	mate	parasexual	mate
+5577	5581	GO:0000747	mate	conjugation	mate
+5577	5581	GO:0009291	mate	unidirectional	mate
+5600	5618	GO:0042475	tooth development,	odontogenesis	rain that facilita
+5600	5618	GO:0042476	tooth development,	odontogenesis	rain that facilita
+5654	5658	GO:0019013	Core	viral	nal 
+5653	5666	GO:0007369	gastrulation.	gastrulation	onal allele i
+5677	5681	GO:0005623	cell	cell	cell
+5697	5707	GO:0036074	metaplasia	metaplastic	sess the r
+5750	5777	GO:0031069	hair follicle morphogenesis	hair	ematically, we generated mi
+5867	5872	GO:0007618	mated	mating	mated
+5867	5872	GO:1990277	mated	parasexual	mated
+5867	5872	GO:0000747	mated	conjugation	mated
+5867	5872	GO:0009291	mated	unidirectional	mated
+5917	5922	GO:0005623	cells	cell	 the 
+5998	6009	GO:0032502	development	developmental	ls of epide
+6008	6014	GO:0005623	cells,	cell	ermis 
+6019	6024	GO:0005623	cells	cell	ther 
+6046	6051	GO:0007568	ages,	aging	We re
+6039	6057	GO:0051438	Apc is a regulator	regulation	helia. We report h
+6097	6107	GO:0023052	signaling.	signaling	 resulted 
+6114	6124	GO:0003823	antibodies	antigen	rant devel
+6114	6124	GO:0019815	antibodies	B	rant devel
+6114	6124	GO:0042571	antibodies	immunoglobulin	rant devel
+6119	6130	GO:0032502	development	developmental	development
+6156	6166	GO:0003823	Antibodies	antigen	quire indu
+6156	6166	GO:0019815	Antibodies	B	quire indu
+6156	6166	GO:0042571	Antibodies	immunoglobulin	quire indu
+6181	6193	GO:0043473	pigmentation	pigmentation	l–mesenchyma
+6191	6203	GO:0009293	Transduction	transduction	mal interact
+6232	6249	GO:0005912	adherens junction	adherens	, teeth, and thym
+6353	6357	GO:0005623	cell	cell	cell
+6385	6397	GO:0032502	development,	developmental	development,
+6440	6450	GO:0065007	regulation	biological	regulation
+6477	6481	GO:0007568	ages	aging	 ski
+6492	6502	GO:0003823	antibodies	antigen	ndages, an
+6492	6502	GO:0019815	antibodies	B	ndages, an
+6492	6502	GO:0042571	antibodies	immunoglobulin	ndages, an
+6523	6529	GO:0040007	Growth	growth	lts Ge
+6651	6657	GO:0016265	death,	death	the Cr

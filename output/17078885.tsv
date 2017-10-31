@@ -1,0 +1,158 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+15	24	GO:0023052	signaling	signaling	signaling
+19	24	GO:0007618	mated	mating	aling
+19	24	GO:1990277	mated	parasexual	aling
+19	24	GO:0000747	mated	conjugation	aling
+19	24	GO:0009291	mated	unidirectional	aling
+18	27	GO:0097194	apoptosis	execution	naling in
+18	27	GO:0006915	apoptosis	apoptotic	naling in
+39	45	GO:0040007	growth	growth	crest 
+51	61	GO:0007565	gestation,	female	to increas
+96	105	GO:0097194	apoptosis	execution	apoptosis
+96	105	GO:0006915	apoptosis	apoptotic	apoptosis
+286	297	GO:0032502	development	developmental	has been as
+450	459	GO:0023052	signaling	signaling	signaling
+466	480	GO:0009653	morphogenesis.	anatomical	en strongly im
+490	499	GO:0097194	apoptotic	execution	n neural 
+490	499	GO:0006915	apoptotic	apoptotic	n neural 
+500	505	GO:0005623	cells	cell	rest 
+505	514	GO:0097194	apoptosis	execution	cell deve
+505	514	GO:0006915	apoptosis	apoptotic	cell deve
+492	522	GO:0014032	neural crest cell development,	neural	neural crest cell development,
+546	555	GO:0023052	signaling	signaling	signaling
+601	610	GO:0097194	apoptotic	execution	d. Result
+601	610	GO:0006915	apoptotic	apoptotic	d. Result
+611	616	GO:0005623	cells	cell	 We d
+653	662	GO:0097194	apoptosis	execution	 specific
+653	662	GO:0006915	apoptosis	apoptotic	 specific
+692	701	GO:0000917	Septation	barrier	 cell lin
+706	711	GO:0043198	trunk	dendritic	 Fail
+718	727	GO:0023052	signaling	signaling	signaling
+774	780	GO:0030428	septum	cell	arynge
+799	809	GO:0008219	cell death	cell	ng inappro
+882	887	GO:0005623	cells	cell	pment
+876	888	GO:0032502	development,	developmental	development,
+892	902	GO:0023052	signaling,	signaling	lure in ph
+937	942	GO:0005623	(Cell	cell	tent 
+943	953	GO:0023052	Signaling)	signaling	runcus art
+968	977	GO:0097194	apoptosis	execution	ALK5 is n
+968	977	GO:0006915	apoptosis	apoptotic	ALK5 is n
+974	979	GO:0005623	(Cell	cell	s not
+980	990	GO:0023052	Signaling)	signaling	required f
+992	997	GO:0005623	cells	cell	 neur
+992	998	GO:0030428	septum	cell	 neura
+991	1002	GO:0003823	antibodies.	antigen	r neural cr
+991	1002	GO:0019815	antibodies.	B	r neural cr
+991	1002	GO:0042571	antibodies.	immunoglobulin	r neural cr
+993	1021	GO:0001755	neural crest cell migration,	neural	neural crest cell migration,
+1043	1049	GO:0030428	septum	cell	te tha
+1097	1102	GO:0005623	cells	cell	post-
+1109	1118	GO:0000917	septation	barrier	ry cardia
+1118	1124	GO:0030428	septum	cell	c neur
+1135	1146	GO:0032502	development	developmental	lls. Conclu
+1153	1164	GO:0008219	cell death.	cell	r results d
+1194	1203	GO:0023052	signaling	signaling	signaling
+1199	1204	GO:0005623	cells	cell	ling 
+1310	1322	GO:0032502	development.	developmental	development.
+1344	1350	GO:0043198	trunk,	dendritic	able p
+1383	1389	GO:0007114	budded	cell	s is c
+1439	1444	GO:0043198	trunk	dendritic	ation
+1570	1575	GO:0005623	cells	cell	t of 
+1588	1592	GO:0044326	neck	dendritic	be a
+1586	1592	GO:0030428	septum	cell	tube a
+1744	1753	GO:0023052	signaling	signaling	tion from
+1780	1789	GO:0000917	septation	barrier	al cell t
+1911	1920	GO:0009058	formation	biosynthetic	formation
+1921	1933	GO:0032502	development,	developmental	of the smoot
+2004	2017	GO:0009653	morphogenesis	anatomical	rch arteries 
+2044	2048	GO:0044326	neck	dendritic	ntin
+2076	2086	GO:0005694	chromosome	chromosome	he aortic 
+2241	2252	GO:0032502	development	developmental	development
+2427	2432	GO:0005623	cells	cell	low t
+2452	2459	GO:0030428	septum.	cell	ncludin
+2507	2513	GO:0030428	septum	cell	ning o
+2662	2667	GO:0016265	death	death	ir fa
+2709	2716	GO:0023052	signals	signaling	signals
+2853	2858	GO:0005623	cells	cell	TGF-β
+2916	2924	GO:0023052	signals.	signaling	signals.
+2962	2968	GO:0023052	signal	signaling	th aor
+2966	2972	GO:0030428	septal	cell	ortic 
+3030	3042	GO:0032502	development,	developmental	abrogation o
+3036	3042	GO:0030428	septal	cell	tion o
+3140	3147	GO:0030428	septum.	cell	 and -7
+3172	3181	GO:0009058	formation	biosynthetic	formation
+3193	3202	GO:0023052	signaling	signaling	low tract
+3220	3225	GO:0005623	cells	cell	ile B
+3254	3263	GO:0000917	septation	barrier	 for prop
+3266	3277	GO:0032502	development	developmental	development
+3447	3457	GO:0000917	septation,	barrier	septation,
+3490	3499	GO:0023052	signaling	signaling	13]. TGF-
+3511	3518	GO:0005488	ligands	binding	ligands
+3519	3525	GO:0023052	signal	signaling	signal
+3532	3548	GO:0043235	receptor complex	receptor	receptor complex
+3515	3549	GO:0051145	smooth muscle cell differentiation	smooth	nds signal via a receptor complex 
+3617	3623	GO:0005488	Ligand	binding	Ligand
+3624	3631	GO:0005488	binding	binding	binding
+3641	3656	GO:0016310	phosphorylation	phosphorylation	phosphorylation
+3719	3728	GO:0009058	formation	biosynthetic	ate and a
+3739	3746	GO:0030428	septum,	cell	pecific
+3824	3828	GO:0005488	bind	binding	bind
+3825	3830	GO:0005623	cells	cell	ind t
+3947	3951	GO:0005488	bind	binding	bind
+4079	4086	GO:0005488	binding	binding	these s
+4085	4094	GO:0023052	signaling	signaling	signaling
+4114	4120	GO:0030428	septal	cell	re com
+4152	4161	GO:0009058	formation	biosynthetic	formation
+4242	4248	GO:0030428	septal	cell	 [16].
+4267	4276	GO:0023052	Signaling	signaling	t studies
+4313	4321	GO:0005488	ligands,	binding	ligands,
+4332	4336	GO:0005488	bind	binding	bind
+4334	4340	GO:0030428	septal	cell	nd to 
+4343	4353	GO:0000917	septation.	barrier	ire differ
+4398	4404	GO:0040007	growth	growth	growth
+4452	4456	GO:0005488	bind	binding	bind
+4460	4467	GO:0016915	Activin	obsolete	Activin
+4460	4467	GO:0005160	Activin	transforming	Activin
+4477	4483	GO:0030428	septal	cell	ecepto
+4531	4540	GO:0000917	septation	barrier	efore, we
+4512	4547	GO:0051145	smooth muscle cell differentiation,	smooth	Smads [17,18]. Therefore, we hypoth
+4590	4594	GO:0005623	cell	cell	cell
+4708	4712	GO:0005623	cell	cell	howe
+4761	4765	GO:0005623	cell	cell	spla
+4795	4801	GO:0030428	septal	cell	acial 
+4814	4823	GO:0023052	signaling	signaling	 defects,
+4955	4964	GO:0097194	apoptosis	execution	termine, 
+4955	4964	GO:0006915	apoptosis	apoptotic	termine, 
+5017	5026	GO:0023052	signaling	signaling	signaling
+5080	5090	GO:0008219	cell death	cell	ardiac and
+5109	5118	GO:0023052	signaling	signaling	pes of mo
+5166	5176	GO:0097194	apoptosis,	execution	crest cell
+5166	5176	GO:0006915	apoptosis,	apoptotic	crest cell
+5174	5181	GO:0005488	ligands	binding	lls. We
+5189	5198	GO:0023052	signaling	signaling	red that 
+5208	5220	GO:0032502	development.	developmental	t1-Cre mutan
+5263	5280	GO:0043235	receptor complex,	receptor	id) fail to migra
+5300	5309	GO:0023052	signaling	signaling	reover, t
+5308	5314	GO:0007618	mating	mating	the mu
+5308	5314	GO:1990277	mating	parasexual	the mu
+5308	5314	GO:0000747	mating	conjugation	the mu
+5308	5314	GO:0009291	mating	unidirectional	the mu
+5327	5335	GO:0005488	ligands,	binding	display 
+5368	5373	GO:0005623	cells	cell	arch 
+5418	5427	GO:0000917	septation	barrier	septation
+5512	5517	GO:0005623	cells	cell	ed ph
+5542	5547	GO:0005623	cells	cell	amati
+5725	5734	GO:0097194	apoptosis	execution	ates a wi
+5725	5734	GO:0006915	apoptosis	apoptotic	ates a wi
+5750	5759	GO:0023052	signaling	signaling	signaling
+5762	5771	GO:0097194	apoptotic	execution	ents than
+5762	5771	GO:0006915	apoptotic	apoptotic	ents than
+5786	5793	GO:0005488	binding	binding	binding
+5793	5798	GO:0005623	cells	cell	 part
+5861	5867	GO:0030428	septum	cell	arynge
+5859	5882	GO:0060465	pharyngeal development.	pharynx	pharyngeal development.
+5937	5946	GO:0097194	apoptosis	execution	ge vessel
+5937	5946	GO:0006915	apoptosis	apoptotic	ge vessel
+6164	6169	GO:0005623	cells	cell	or th
+6225	6234	GO:0000917	septation	barrier	ce hetero
+6751	6756	GO:0005623	cells	cell	 post

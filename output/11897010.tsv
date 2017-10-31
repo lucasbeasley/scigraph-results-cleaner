@@ -1,0 +1,90 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+67	73	GO:0023052	signal	signaling	ternat
+69	82	GO:0044214	transmembrane	spanning	rnatively spl
+69	82	GO:0016021	transmembrane	integral	rnatively spl
+135	140	GO:0046930	pore,	pore	d Muc
+193	200	GO:0003675	protein	obsolete	ysosoma
+202	209	GO:0051235	storage	maintenance	storage
+214	221	GO:0023052	signal.	signaling	rder ch
+264	277	GO:0051179	localization,	localization	lmologic abno
+324	334	GO:0003823	antibodies	antigen	been ident
+324	334	GO:0019815	antibodies	B	been ident
+324	334	GO:0042571	antibodies	immunoglobulin	been ident
+398	402	GO:0031672	band	A	cati
+495	499	GO:0031672	band	A	e, M
+507	537	GO:0010467PHENOTYPE	gene expression and phenotype.	gene	nd report a novel splice varia
+539	543	GO:0031672	band	A	 tha
+716	720	GO:0004239	maps	obsolete	maps
+724	734	GO:0005694	chromosome	chromosome	chromosome
+726	737	GO:0007565	gestational	female	romosome 8 
+955	963	GO:0045292	splicing	mRNA	splicing
+989	996	GO:0003675	protein	obsolete	protein
+990	1003	GO:0044214	transmembrane	spanning	rotein that d
+990	1003	GO:0016021	transmembrane	integral	rotein that d
+1068	1075	GO:0003675	protein	obsolete	 MCOLN1
+1095	1108	GO:0044214	transmembrane	spanning	transmembrane
+1095	1108	GO:0016021	transmembrane	integral	transmembrane
+1125	1129	GO:0046930	pore	pore	pore
+1183	1189	GO:0023052	signal	signaling	signal
+1196	1201	GO:0031672	bands	A	serve
+1210	1220	GO:0005694	chromosome	chromosome	ting the h
+1239	1246	GO:0003675	protein	obsolete	protein
+1269	1287	GO:0012506	vesicle membranes.	vesicle	vesicle membranes.
+1383	1391	GO:0045292	splicing	mRNA	cation o
+1418	1429	GO:0032502	development	developmental	development
+1453	1461	GO:0045292	splicing	mRNA	V, the f
+1462	1472	GO:0065007	regulation	biological	ct that th
+1692	1699	GO:0051235	storage	maintenance	storage
+1924	1931	GO:0003675	protein	obsolete	s are c
+2044	2054	GO:0007588	excretion,	excretion	excretion,
+2138	2145	GO:0051235	storage	maintenance	storage
+2142	2149	GO:0045292	splices	mRNA	age bod
+2163	2171	GO:0005773	vacuoles	vacuole	vacuoles
+2246	2253	GO:0045292	splices	mRNA	 and, p
+2449	2453	GO:0031672	band	A	 hav
+2552	2556	GO:0004239	maps	obsolete	maps
+2560	2570	GO:0005694	chromosome	chromosome	chromosome
+2604	2611	GO:0003675	protein	obsolete	protein
+2711	2718	GO:0003675	Protein	obsolete	Protein
+2759	2765	GO:0045292	splice	mRNA	 the r
+2831	2838	GO:0045292	splices	mRNA	ther mu
+2872	2880	GO:0016020	membrane	membrane	used by 
+2901	2908	GO:0045292	splices	mRNA	ydrolas
+3083	3095	GO:0006897	endocytosis,	endocytosis	endocytosis,
+3118	3127	GO:0005773	vacuoles,	vacuole	vacuoles,
+3138	3145	GO:0003675	protein	obsolete	eased r
+3164	3182	GO:0030163	protein breakdown;	protein	protein breakdown;
+3193	3206	GO:0044214	transmembrane	spanning	-expression o
+3193	3206	GO:0016021	transmembrane	integral	-expression o
+3229	3234	GO:0046930	pore,	pore	e phe
+3247	3254	GO:0003675	protein	obsolete	Cloning
+3328	3339	GO:0032502	development	developmental	development
+3431	3438	GO:0004239	mapping	obsolete	mapping
+3869	3879	GO:0005694	chromosome	chromosome	chromosome
+3912	3917	GO:0005488	bound	binding	physi
+3954	3967	GO:0044214	transmembrane	spanning	. The BAC seq
+3954	3967	GO:0016021	transmembrane	integral	. The BAC seq
+4223	4233	GO:0005694	chromosome	chromosome	chromosome
+4255	4265	GO:0005694	chromosome	chromosome	chromosome
+4270	4278	GO:0043495	anchored	protein	anchored
+4535	4540	GO:0031672	bands	A	trate
+4578	4583	GO:0031672	bands	A	n 13 
+4801	4808	GO:0003675	protein	obsolete	01 kb s
+4956	4963	GO:0003675	protein	obsolete	 into a
+5218	5228	GO:0005694	chromosome	chromosome	chromosome
+5251	5264	GO:0044214	transmembrane	spanning	e presence of
+5251	5264	GO:0016021	transmembrane	integral	e presence of
+5448	5455	GO:0023052	signal,	signaling	e of th
+5481	5489	GO:0052689	esterase	carboxylic	esterase
+5515	5525	GO:0000496	base pairs	base	base pairs
+5552	5558	GO:0023052	signal	signaling	signal
+5575	5596	GO:0051641	cellular localization	cellular	transcript map of the
+5622	5629	GO:0003675	protein	obsolete	 is sim
+5646	5660	GO:0005770	late endosomes	late	sponding regio
+5668	5678	GO:0005764	lysosomes.	lysosome	 homologou
+5812	5822	GO:0005694	chromosome	chromosome	chromosome
+5836	5846	GO:0005694	chromosome	chromosome	chromosome
+6271	6278	GO:0003675	protein	obsolete	 protei
+6338	6351	GO:0044214	transmembrane	spanning	 transmembran
+6338	6351	GO:0016021	transmembrane	integral	 transmembran
+6402	6411	GO:0005737	cytoplasm	cytoplasm	 cytoplas

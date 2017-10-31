@@ -1,0 +1,86 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	12	GO:0006954	Inflammation	inflammatory	Potential ge
+94	105	GO:0005694	chromosomes	chromosome	chromosomes
+110	122	GO:0006954	inflammation	inflammatory	, and 10 Abs
+117	126	GO:0046903	secretion	secretion	0 Abstrac
+147	152	GO:0070701	mucus	mucus	 cyst
+167	179	GO:0006954	inflammation	inflammatory	caused by mu
+194	245	GO:0005260	cystic fibrosis transmembrane conductance regulator	channel-conductance-controlling	cystic fibrosis transmembrane conductance regulator
+251	267	GO:0010467	gene expression,	gene	) gene, the seve
+339	356	GO:0042110	T cell activation	T	genes. The intest
+372	380	GO:0030246	selectin	carbohydrate	icient m
+372	380	GO:0008337	selectin	obsolete	icient m
+444	449	GO:0070701	mucus	mucus	mucus
+701	706	GO:0070701	mucus	mucus	ouse 
+717	729	GO:0006954	inflammation	inflammatory	inflammation
+838	844	GO:0004239	mapped	obsolete	r loci
+914	919	GO:0070701	mucus	mucus	mixed
+965	975	GO:0030849	autosomes.	autosome	 were comp
+967	983	GO:0010467	gene expression.	gene	ere compared to 
+991	1006	GO:0010467	gene expression	gene	congenic on the
+1077	1089	GO:0006954	inflammation	inflammatory	pe. CF mice 
+1181	1198	GO:0005173	stem cell factor,	stem	 reduced intestin
+1218	1243	GO:0060374	mast cell differentiation	mast	easured by quantitative R
+1270	1286	GO:0010467	gene expression.	gene	e near normal bo
+1319	1324	GO:0070701	mucus	mucus	mucus
+1386	1396	GO:0005618	cell walls	cell	n of a gen
+1471	1477	GO:0023052	signal	signaling	nt at 
+1574	1579	GO:0005141	IL-10	interleukin-10	and 8
+1681	1713	GO:0035556	intracellular signaling pathways	intracellular	ssociated with the milder phenot
+1861	1876	GO:0010467	Gene expression	gene	tential modifie
+1867	1879	GO:0006954	inflammation	inflammatory	l modifier r
+1956	1974	GO:0008283	cell proliferation	cell	f the CF mouse sma
+2004	2015	GO:0035264	body growth	multicellular	al. Identif
+2260	2276	GO:0006955	immune response,	immune	ane conductance 
+2234	2285	GO:0005260	cystic fibrosis transmembrane conductance regulator	channel-conductance-controlling	cystic fibrosis transmembrane conductance regulator
+2335	2340	GO:0016265	death	death	 of e
+2351	2356	GO:0005623	cells	cell	he le
+2418	2427	GO:0006810	transport	transport	transport
+2572	2577	GO:0070701	mucus	mucus	 by s
+2610	2619	GO:0030246	selectins	carbohydrate	unction r
+2610	2619	GO:0008337	selectins	obsolete	unction r
+2656	2664	GO:0003675	proteins	obsolete	 tissue 
+2766	2782	GO:0006955	immune responses	immune	rways and intest
+2812	2817	GO:0070701	mucus	mucus	ith s
+2866	2873	GO:0003675	protein	obsolete	protein
+2870	2875	GO:0070701	mucus	mucus	ein f
+2957	2966	GO:0046903	secretion	secretion	iers of t
+3052	3062	GO:0007586	digestion,	digestion	digestion,
+3085	3090	GO:0070701	mucus	mucus	e les
+3260	3276	GO:0070254	mucus secretion.	mucus	ove lipase funct
+3296	3302	GO:0016265	Deaths	death	volve 
+3316	3325	GO:0007586	digestion	digestion	digestion
+3383	3390	GO:0016265	'death'	death	r assim
+3499	3504	GO:0016265	death	death	on nu
+3564	3569	GO:0016265	death	death	ive m
+3559	3571	GO:0006954	inflammation	inflammatory	xcessive muc
+3568	3573	GO:0070701	mucus	mucus	mucus
+3626	3638	GO:0006954	inflammation	inflammatory	inflammation
+3643	3659	GO:0070254	mucus secretion,	mucus	ommon [12]. Mucu
+3655	3660	GO:0070701	Mucus	mucus	Mucus
+3732	3758	GO:0030223	neutrophil differentiation	neutrophil	ants (called meconium ileu
+3763	3771	GO:0007610	behavior	behavior	) and ad
+3839	3854	GO:0010467	gene expression	gene	And, similar to
+3884	3896	GO:0006954	inflammation	inflammatory	inflammation
+4308	4318	GO:0005694	chromosome	chromosome	ion on mou
+4321	4331	GO:0005694	chromosome	chromosome	chromosome
+4546	4556	GO:0005694	chromosome	chromosome	chromosome
+4563	4578	GO:0010467	gene expression	gene	were also shown
+4597	4616	GO:0098687	chromosomal regions	chromosomal	ith the risk of MI 
+4807	4812	GO:0070701	mucus	mucus	airwa
+4923	4928	GO:0070701	mucus	mucus	e on 
+5014	5019	GO:0016265	death	death	 mice
+5655	5660	GO:0070701	mucus	mucus	rded 
+5713	5718	GO:0070701	mucus	mucus	the B
+5734	5745	GO:0005694	chromosomes	chromosome	male and ma
+5793	5798	GO:0070701	mucus	mucus	e at 
+5898	5914	GO:0042044	fluid transport:	fluid	ot significantly
+5931	5936	GO:0070701	mucus	mucus	d typ
+6009	6014	GO:0070701	mucus	mucus	 mice
+6066	6071	GO:0070701	mucus	mucus	f age
+6194	6200	GO:0070701	mucus,	mucus	rger t
+6214	6220	GO:0070701	mucus,	mucus	ngenic
+6253	6259	GO:0070701	mucus.	mucus	By 8 w
+6358	6363	GO:0070701	mucus	mucus	rent 
+7027	7032	GO:0070701	mucus	mucus	d hav
+7303	7308	GO:0070701	mucus	mucus	ed in

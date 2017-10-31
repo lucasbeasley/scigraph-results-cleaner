@@ -1,0 +1,139 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+17	24	GO:0004239	mapping	obsolete	mmunity
+109	120	GO:0032502	development	developmental	e Abstract 
+152	160	GO:0004239	mapping.	obsolete	E) is a 
+207	217	GO:0005694	Chromosome	chromosome	x genetic 
+221	231	GO:0005694	Chromosome	chromosome	ors play a
+234	246	GO:0009405	pathogenesis	pathogenesis	mportant rol
+332	342	GO:0005694	Chromosome	chromosome	g the null
+377	388	GO:0032502	development	developmental	 However, h
+523	533	GO:0005694	Chromosome	chromosome	hermore, t
+578	588	GO:0005694	Chromosome	chromosome	 autoimmun
+627	637	GO:0005694	Chromosome	chromosome	e. This su
+690	700	GO:0005694	Chromosome	chromosome	unity of a
+775	785	GO:0005694	chromosome	chromosome	e strains.
+791	797	GO:0004239	mapped	obsolete	 genom
+814	824	GO:0005694	Chromosome	chromosome	alysis, we
+895	905	GO:0005694	Chromosome	chromosome	ice, mappe
+900	906	GO:0004239	mapped	obsolete	mapped
+941	951	GO:0005694	Chromosome	chromosome	57BL/6) mo
+974	985	GO:0032502	development	developmental	L/6 congeni
+1017	1027	GO:0005694	Chromosome	chromosome	Chromosome
+1133	1143	GO:0005694	Chromosome	chromosome	igens, whi
+1254	1262	GO:0003823	antibody	antigen	of autoi
+1254	1262	GO:0019815	antibody	B	of autoi
+1254	1262	GO:0042571	antibody	immunoglobulin	of autoi
+1282	1290	GO:0003823	antibody	antigen	57BL/6 m
+1282	1290	GO:0019815	antibody	B	57BL/6 m
+1282	1290	GO:0042571	antibody	immunoglobulin	57BL/6 m
+1425	1431	GO:0004239	mapped	obsolete	ts des
+1524	1530	GO:0004239	mapped	obsolete	s a ch
+1578	1588	GO:0005694	Chromosome	chromosome	oduction o
+1605	1615	GO:0005694	Chromosome	chromosome	(auto-Abs)
+1715	1721	GO:0004239	mapped	obsolete	 nucle
+1711	1724	GO:0005634	cell nucleus.	nucleus	cell nucleus.
+1756	1766	GO:0005694	Chromosome	chromosome	portant co
+1771	1779	GO:0004239	mapping,	obsolete	utor to 
+1775	1785	GO:0005694	Chromosome	chromosome	 to suscep
+1780	1789	GO:0043495	anchoring	protein	usceptibi
+1886	1893	GO:0004239	Mapping	obsolete	d Kono 
+1967	1973	GO:0004239	mapped	obsolete	iating
+1982	1995	GO:0009405	pathogenesis,	pathogenesis	pathogenesis,
+2029	2039	GO:0005694	Chromosome	chromosome	t these ge
+2040	2049	GO:0030849	autosomes	autosome	es influe
+2042	2052	GO:0005694	Chromosome	chromosome	 influence
+2078	2088	GO:0005694	Chromosome	chromosome	. In this 
+2085	2091	GO:0004239	mapped	obsolete	is con
+2268	2278	GO:0005694	Chromosome	chromosome	e immune s
+2276	2281	GO:0005488	binds	binding	 syst
+2297	2307	GO:0000785	chromatin,	chromatin	een used t
+2312	2321	GO:0097194	apoptotic	execution	estigate 
+2312	2321	GO:0006915	apoptotic	apoptotic	estigate 
+2322	2327	GO:0005623	cells	cell	he co
+2330	2338	GO:0004239	mapping,	obsolete	exity of
+2339	2348	GO:0043495	anchoring	protein	SLE. The 
+2416	2426	GO:0005694	Chromosome	chromosome	 pathology
+2441	2450	GO:0000785	chromatin	chromatin	aland Bla
+2455	2464	GO:0097194	apoptotic	execution	w Zealand
+2455	2464	GO:0006915	apoptotic	apoptotic	w Zealand
+2548	2555	GO:0004239	Mapping	obsolete	ation o
+2571	2582	GO:0005694	Chromosomes	chromosome	or gene; an
+2577	2587	GO:0005694	Chromosome	chromosome	e; and the
+2619	2631	GO:0000806	Y chromosome	Y	Y chromosome
+2634	2639	GO:0004617	Sera,	phosphoglycerate	toimm
+2672	2680	GO:0004239	mapping,	obsolete	ilopoulo
+2681	2690	GO:0043495	anchoring	protein	 and Dixo
+2692	2703	GO:0032502	development	developmental	1985). Exte
+2717	2724	GO:0004239	mapping	obsolete	mapping
+2746	2756	GO:0005694	Chromosome	chromosome	strains ha
+2789	2795	GO:0005623	cells,	cell	associ
+2832	2842	GO:0000785	chromatin,	chromatin	erestingly
+2862	2874	GO:0009405	pathogenesis	pathogenesis	e intervals 
+2930	2935	GO:0004617	Serum	phosphoglycerate	plexi
+3026	3036	GO:0005694	Chromosome	chromosome	ibuting to
+3041	3053	GO:0009405	pathogenesis	pathogenesis	pathogenesis
+3070	3077	GO:0004239	Mapping	obsolete	However
+3099	3109	GO:0005694	Chromosome	chromosome	loci have 
+3114	3120	GO:0004239	mapped	obsolete	mapped
+3132	3142	GO:0005694	chromosome	chromosome	chromosome
+3191	3199	GO:0004239	mapping,	obsolete	at least
+3200	3209	GO:0043495	anchoring	protein	some susc
+3203	3213	GO:0005694	Chromosome	chromosome	e suscepti
+3287	3297	GO:0005694	Chromosome	chromosome	ceptibilit
+3342	3352	GO:0005694	Chromosome	chromosome	Chromosome
+3414	3425	GO:0032502	development	developmental	New Zealand
+3433	3443	GO:0005694	Chromosome	chromosome	B models (
+3441	3446	GO:0004617	serum	phosphoglycerate	 (The
+3570	3580	GO:0005694	Chromosome	chromosome	ible for t
+3583	3594	GO:0032502	development	developmental	development
+3742	3747	GO:0004617	Serum	phosphoglycerate	s hav
+3742	3752	GO:0005694	Chromosome	chromosome	s have yet
+3778	3783	GO:0004617	serum	phosphoglycerate	e mol
+3793	3800	GO:0003675	protein	obsolete	protein
+3840	3850	GO:0005694	Chromosome	chromosome	n of candi
+3847	3852	GO:0004617	serum	phosphoglycerate	ndida
+3870	3878	GO:0003675	proteins	obsolete	proteins
+3869	3879	GO:0005694	Chromosome	chromosome	 proteins 
+3893	3904	GO:0032502	development	developmental	system has 
+3911	3921	GO:0005694	Chromosome	chromosome	tensively 
+3958	3969	GO:0065007	regulation.	biological	regulation.
+4003	4007	GO:0034023	pure	5-(carboxyamino)imidazole	lt o
+4274	4281	GO:0004239	Mapping	obsolete	spontan
+4299	4309	GO:0005694	Chromosome	chromosome	 to develo
+4303	4313	GO:0005694	Chromosome	chromosome	developmen
+4303	4314	GO:0032502	development	developmental	development
+4329	4340	GO:0032502	development	developmental	oimmunity w
+4430	4440	GO:0005694	Chromosome	chromosome	 al. 1999;
+4444	4452	GO:0004239	mapping,	obsolete	tiago-Ra
+4453	4462	GO:0043495	anchoring	protein	er et al.
+4524	4535	GO:0032502	development	developmental	s the autoi
+4577	4596	GO:0098687	chromosomal region,	chromosomal	land and Ravetch 20
+4736	4743	GO:0003675	protein	obsolete	ome gen
+4906	4917	GO:0032502	development	developmental	t with the 
+5039	5044	GO:0004617	Serum	phosphoglycerate	 of w
+5122	5132	GO:0005694	Chromosome	chromosome	-deficient
+5228	5238	GO:0030849	autosomes.	autosome	op a lupus
+5316	5321	GO:0004617	Serum	phosphoglycerate	n Apc
+5437	5443	GO:0004239	mapped	obsolete	rgeted
+5488	5498	GO:0005694	Chromosome	chromosome	ene is loc
+5506	5516	GO:0005694	Chromosome	chromosome	Chromosome
+5521	5526	GO:0004239	maps,	obsolete	pprox
+5549	5560	GO:0005698	centromere,	obsolete	centromere,
+5549	5560	GO:0000775	centromere,	chromosome,	centromere,
+5639	5646	GO:0004239	mapping	obsolete	l et al
+5762	5768	GO:0004239	mapped	obsolete	mapped
+5804	5814	GO:0005694	Chromosome	chromosome	trains, re
+5838	5848	GO:0005694	Chromosome	chromosome	contains s
+5994	6004	GO:0005694	Chromosome	chromosome	998; Bolla
+6000	6008	GO:0004239	mapping,	obsolete	olland a
+6009	6018	GO:0043495	anchoring	protein	d Ravetch
+6119	6126	GO:0003675	protein	obsolete	n inact
+6195	6199	GO:0034023	pure	5-(carboxyamino)imidazole	at t
+6253	6263	GO:0005694	Chromosome	chromosome	and C57BL/
+6347	6357	GO:0005694	Chromosome	chromosome	Chromosome
+6385	6395	GO:0005694	Chromosome	chromosome	e C57BL/6 
+6458	6463	GO:0004617	serum	phosphoglycerate	BL/6 
+6467	6472	GO:0016265	death	death	ne th
+6595	6605	GO:0005694	Chromosome	chromosome	ctive of t
+7088	7099	GO:0005694	Chromosome;	chromosome	d in the (1
+7171	7182	GO:0005694	Chromosomes	chromosome	L/6)F2 anim

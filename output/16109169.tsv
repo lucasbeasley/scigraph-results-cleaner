@@ -1,0 +1,154 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+76	85	GO:0009058	formation	biosynthetic	formation
+121	126	GO:0005623	cells	cell	mbryo
+176	183	GO:0042600	chorion	chorion	ed prot
+179	186	GO:0003675	protein	obsolete	protein
+184	197	GO:0030097	hematopoiesis	hemopoiesis	in mutated by
+201	215	GO:0001570	vasculogenesis	vasculogenesis	yglutamine exp
+218	226	GO:0023052	signals,	signaling	ion in H
+251	277	GO:0090009	primitive streak formation	primitive	equired in extraembryonic 
+296	309	GO:0007369	gastrulation,	gastrulation	gastrulation,
+322	349	GO:0048341	paraxial mesoderm formation	paraxial	its activities in nutrition
+370	382	GO:0032502	development.	developmental	 developing 
+452	461	GO:0023052	signaling	signaling	hybridiza
+502	515	GO:0009653	morphogenesis	anatomical	morphogenesis
+506	515	GO:0023052	signaling	signaling	hogenesis
+632	641	GO:0006810	transport	transport	enes appe
+646	655	GO:0046903	secretion	secretion	ormal but
+671	680	GO:0009058	formation	biosynthetic	s exhibit
+690	698	GO:0023052	signals.	signaling	combinat
+740	746	GO:0023052	signal	signaling	horten
+875	886	GO:0032502	development	developmental	ll1 express
+933	946	GO:0007369	gastrulation.	gastrulation	uced Otx2 exp
+996	1013	GO:0060322	head development.	head	head development.
+1267	1272	GO:0004617	serum	phosphoglycerate	erior
+1372	1386	GO:0048513	organogenesis,	organ	gle primitive 
+1456	1465	GO:0009058	formation	biosynthetic	d anterio
+1460	1469	GO:0023052	signaling	signaling	terior vi
+1536	1541	GO:0005623	cells	cell	tial 
+1583	1592	GO:0009058	formation	biosynthetic	formation
+1679	1688	GO:0009058	formation	biosynthetic	 dynamic 
+1688	1694	GO:0040007	growth	growth	growth
+1735	1747	GO:0038092	nodal signal	nodal	ndings provi
+1769	1779	GO:0009058	formation,	biosynthetic	g points f
+1856	1871	GO:0010467	gene expression	gene	he extraembryon
+1917	1929	GO:0032502	development.	developmental	development.
+1928	1934	GO:0004617	serum,	phosphoglycerate	. This
+2004	2015	GO:0032502	development	developmental	y which the
+2101	2109	GO:0003823	antibody	antigen	ington's
+2101	2109	GO:0019815	antibody	B	ington's
+2101	2109	GO:0042571	antibody	immunoglobulin	ington's
+2106	2129	GO:0006355	transcriptional control	regulation	n's disease. Background
+2189	2205	GO:0007417	CNS development.	central	generative disor
+2307	2314	GO:0023052	Signals	signaling	AT doma
+2317	2324	GO:0003675	protein	obsolete	protein
+2371	2382	GO:0032502	development	developmental	 by which t
+2377	2389	GO:0051179	localization	localization	ich the new 
+2402	2407	GO:0005623	cells	cell	 is c
+2441	2450	GO:0009058	formation	biosynthetic	glutamine
+2575	2583	GO:0003675	proteins	obsolete	proteins
+2614	2618	GO:0005623	cell	cell	cell
+2607	2626	GO:0001706	endoderm formation,	endoderm	uronal cell populat
+2660	2667	GO:0003675	protein	obsolete	' neuro
+2693	2705	GO:0032502	development,	developmental	is observati
+2723	2733	GO:0009058	formation,	biosynthetic	ts that th
+2730	2739	GO:0009058	formation	biosynthetic	 the stri
+2744	2748	GO:0005623	cell	cell	cell
+2860	2867	GO:0003675	protein	obsolete	ntingti
+2908	2919	GO:0032502	development	developmental	tivities [2
+3015	3024	GO:0023052	signaling	signaling	ilitate t
+3054	3066	GO:0007369	gastrulation	gastrulation	ubcellular l
+3083	3100	GO:0043234	protein complexes	protein	protein complexes
+3109	3123	GO:0016477	cell migration	cell	untingtin's la
+3121	3131	GO:0065007	regulation	biological	large numb
+3169	3184	GO:0005515	protein binding	protein	protein binding
+3192	3201	GO:0009058	formation	biosynthetic	s strongl
+3212	3221	GO:0023052	signaling	signaling	hat hunti
+3263	3270	GO:0003675	protein	obsolete	ular pr
+3271	3276	GO:0018995	hosts	host	cesse
+3259	3277	GO:0042995	cellular processes	cell	cellular processes
+3259	3277	GO:0009987	cellular processes	cellular	cellular processes
+3309	3332	GO:0036454	growth factor complexes	growth	growth factor complexes
+3337	3346	GO:0009058	formation	biosynthetic	ene trans
+3341	3354	GO:0006351	transcription	transcription,	transcription
+3349	3362	GO:0009405	pathogenesis.	pathogenesis	ption (review
+3366	3371	GO:0005623	cells	cell	n [5,
+3441	3459	GO:0001707	mesoderm formation	mesoderm	 function to our u
+3514	3543	GO:0004035	alkaline phosphatase activity	alkaline	 causes HD pathology, hunting
+3591	3602	GO:0032502	development	developmental	have not be
+3618	3627	GO:0023052	signaling	signaling	efore, we
+3757	3764	GO:0023052	signals	signaling	 Inacti
+3844	3848	GO:0005623	cell	cell	cell
+3934	3939	GO:0005623	cells	cell	t lac
+3930	3946	GO:0022001	posteriorization	negative	 that lack hunti
+3948	3952	GO:0005623	cell	cell	tin 
+3999	4008	GO:0023052	signaling	signaling	evel of t
+4032	4037	GO:0005623	cells	cell	ammal
+4051	4062	GO:0032502	development	developmental	development
+4079	4093	GO:0006351	transcription,	transcription,	lete lack of h
+4127	4140	GO:0007369	gastrulation.	gastrulation	 arrest durin
+4142	4155	GO:0007369	gastrulation,	gastrulation	gastrulation,
+4202	4209	GO:0042600	chorion	chorion	sults i
+4220	4232	GO:0022008	neurogenesis	neurogenesis	neurogenesis
+4232	4242	GO:0065007	regulation	biological	 and perin
+4328	4333	GO:0005623	cells	cell	s tha
+4404	4415	GO:0032502	development	developmental	development
+4406	4417	GO:0065007	regulation.	biological	velopment u
+4473	4480	GO:0042600	chorion	chorion	rimitiv
+4476	4481	GO:0005623	cells	cell	itive
+4530	4544	GO:0009793	embryogenesis,	embryo	node and head 
+4530	4544	GO:0009792	embryogenesis,	embryo	node and head 
+4530	4544	GO:0009790	embryogenesis,	embryo	node and head 
+4581	4591	GO:0009058	formation,	biosynthetic	y E8.0 [10
+4586	4597	GO:0065007	regulation,	biological	0 [10]. Imp
+4610	4619	GO:0009058	formation	biosynthetic	 expressi
+4654	4664	GO:0009058	formation,	biosynthetic	onic tissu
+4692	4715	GO:0007369PHENOTYPE	gastrulation phenotype,	gastrulation	gastrulation phenotype,
+4728	4734	GO:0040007	growth	growth	hat hu
+4763	4768	GO:0005623	cells	cell	cells
+4813	4817	GO:0005623	cell	cell	cell
+4863	4872	GO:0009058	formation	biosynthetic	raembryon
+4925	4932	GO:0023052	signals	signaling	signals
+4969	4978	GO:0009058	formation	biosynthetic	formation
+4969	4980	GO:0032502	development	developmental	formation a
+4987	4994	GO:0023052	Signals	signaling	erning 
+5044	5051	GO:0023052	signals	signaling	cating 
+5070	5077	GO:0023052	signals	signaling	r or bo
+5213	5227	GO:0048513	organogenesis,	organ	embryos do not
+5313	5327	GO:0006826	iron transport	iron	iron transport
+5356	5368	GO:0051179	localization	localization	ough iron up
+5366	5372	GO:0098657	uptake	import	uptake
+5391	5407	GO:0005319	apolipoproteins,	lipid	] and endocytosi
+5391	5407	GO:0005320	apolipoproteins,	obsolete	] and endocytosi
+5397	5408	GO:0006897	endocytosis	endocytosis	endocytosis
+5466	5478	GO:0007369	gastrulation	gastrulation	nic stem cel
+5541	5549	GO:0005634	nucleus,	nucleus	nucleus,
+5590	5602	GO:0051179	localization	localization	localization
+5593	5606	GO:0009405	pathogenesis.	pathogenesis	alization of 
+5641	5647	GO:0007618	mating	mating	sugges
+5641	5647	GO:1990277	mating	parasexual	sugges
+5641	5647	GO:0000747	mating	conjugation	sugges
+5641	5647	GO:0009291	mating	unidirectional	sugges
+5687	5700	GO:0006351	transcription	transcription,	transcription
+5699	5712	GO:0007369	gastrulation,	gastrulation	n cascades in
+5759	5765	GO:0023052	signal	signaling	 [18].
+5769	5784	GO:0010467	gene expression	gene	refore, we have
+5898	5907	GO:0009058	formation	biosynthetic	rphogenes
+5900	5908	GO:0042600	chorion,	chorion	hogenesi
+5896	5909	GO:0009653	morphogenesis	anatomical	morphogenesis
+5923	5930	GO:0007618	matings	mating	dhex4/5
+5923	5930	GO:1990277	matings	parasexual	dhex4/5
+5923	5930	GO:0000747	matings	conjugation	dhex4/5
+5923	5930	GO:0009291	matings	unidirectional	dhex4/5
+6064	6069	GO:0005623	cells	cell	rm pa
+6147	6153	GO:0040007	growth	growth	growth
+6197	6224	GO:0048341	paraxial mesoderm formation	paraxial	in-deficient embryos exhibi
+6337	6347	GO:0009058	formation,	biosynthetic	he develop
+6366	6371	GO:0005623	cells	cell	ed th
+6368	6377	GO:0009058	formation	biosynthetic	 the poss
+6532	6544	GO:0032502	development,	developmental	5 wild-type 
+6700	6729	GO:0048339	paraxial mesoderm development	paraxial	e" genes (Hnf4, Afp, Tfn, Apo
+7189	7204	GO:0006351	transcriptional	transcription,	 and Hdhex4/5/H
+7205	7234	GO:0043488	regulation, or mRNA stability	regulation	hex4/5 embryos by whole mount
+7473	7480	GO:0023052	signals	signaling	olds or
+7527	7542	GO:0010467	gene expression	gene	tion analysis a

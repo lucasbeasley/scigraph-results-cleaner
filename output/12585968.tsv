@@ -1,0 +1,277 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+50	59	GO:0051235	retention	maintenance	retention
+50	59	GO:0051235	retention	maintenance	retention
+55	60	GO:0005623	cells	cell	tion 
+57	66	GO:0009058	formation	biosynthetic	on of som
+87	98	GO:0060384	innervation	innervation	innervation
+87	98	GO:0060384	innervation	innervation	innervation
+164	169	GO:0005623	cells	cell	air c
+158	170	GO:0060384	innervation.	innervation	ture hair ce
+235	244	GO:0097194	apoptosis	execution	apoptosis
+235	244	GO:0006915	apoptosis	apoptotic	apoptosis
+235	244	GO:0097194	apoptosis	execution	apoptosis
+235	244	GO:0006915	apoptosis	apoptotic	apoptosis
+265	276	GO:0060384	innervation	innervation	rtial devel
+271	282	GO:0032502	development	developmental	development
+271	282	GO:0032502	development	developmental	development
+316	324	GO:0003823	antibody	antigen	h neurot
+316	324	GO:0019815	antibody	B	h neurot
+316	324	GO:0042571	antibody	immunoglobulin	h neurot
+318	330	GO:0005163	neurotrophin	nerve	neurotrophin
+318	330	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+318	330	GO:0005163	neurotrophin	nerve	neurotrophin
+318	330	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+387	399	GO:0032502	development.	developmental	development.
+387	399	GO:0032502	development.	developmental	development.
+425	438	GO:0009793	embryogenesis	embryo	gated in thes
+425	438	GO:0009792	embryogenesis	embryo	gated in thes
+425	438	GO:0009790	embryogenesis	embryo	gated in thes
+464	475	GO:0060384	innervation	innervation	innervation
+464	475	GO:0060384	innervation	innervation	innervation
+503	517	GO:0005163	neurotrophins.	nerve	neurotrophins.
+503	517	GO:0005165	neurotrophins.	neurotrophin	neurotrophins.
+503	517	GO:0005163	neurotrophins.	nerve	neurotrophins.
+503	517	GO:0005165	neurotrophins.	neurotrophin	neurotrophins.
+551	558	GO:0030061	crista;	mitochondrial	ed expr
+583	596	GO:0005163	neurotrophins	nerve	n the mutant 
+583	596	GO:0005165	neurotrophins	neurotrophin	n the mutant 
+629	638	GO:0051235	retention	maintenance	 shows no
+679	683	GO:0097683	apex	dinoflagellate	ents
+681	689	GO:0003823	antibody	antigen	ts that 
+681	689	GO:0019815	antibody	B	ts that 
+681	689	GO:0042571	antibody	immunoglobulin	ts that 
+699	711	GO:0005163	neurotrophin	nerve	neurotrophin
+699	711	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+699	711	GO:0005163	neurotrophin	nerve	neurotrophin
+699	711	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+757	768	GO:0060384	innervation	innervation	innervation
+757	768	GO:0060384	innervation	innervation	innervation
+858	863	GO:0005623	cells	cell	ature
+877	884	GO:0005634	nucleus	nucleus	e prese
+889	897	GO:0005730	nucleoli	nucleolus	 the mut
+922	927	GO:0097683	apex,	dinoflagellate	 in t
+930	934	GO:0005623	cell	cell	base
+924	937	GO:0005163	neurotrophins	nerve	n the base. A
+924	937	GO:0005165	neurotrophins	neurotrophin	n the base. A
+940	955	GO:0043524	neuron survival	negative	nd 20% of immat
+1036	1041	GO:0097683	apex.	dinoflagellate	ere l
+1046	1057	GO:0060384	innervation	innervation	f hair cell
+1062	1075	GO:0005163	neurotrophins	nerve	 compared to 
+1062	1075	GO:0005165	neurotrophins	neurotrophin	 compared to 
+1071	1077	GO:0030061	crista	mitochondrial	 to 20
+1253	1259	GO:0030061	crista	mitochondrial	helia 
+1260	1271	GO:0060384	innervation	innervation	nd many mor
+1281	1285	GO:0097683	apex	dinoflagellate	ochl
+1292	1304	GO:0005163	neurotrophin	nerve	x which lack
+1292	1304	GO:0005165	neurotrophin	neurotrophin	x which lack
+1317	1328	GO:0060384	innervation	innervation	itive hair 
+1386	1390	GO:0097683	apex	dinoflagellate	 exi
+1398	1409	GO:0032502	development	developmental	ast until P
+1422	1433	GO:0060384	innervation	innervation	 that funct
+1421	1434	GO:0005163	neurotrophins	nerve	g that functi
+1421	1434	GO:0005165	neurotrophins	neurotrophin	g that functi
+1498	1509	GO:0060384	innervation	innervation	Conclusion 
+1507	1518	GO:0060384	innervation	innervation	n The limit
+1527	1538	GO:0060384	innervation	innervation	sion of neu
+1535	1548	GO:0005163	neurotrophins	nerve	neurotrophins
+1535	1548	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+1535	1548	GO:0005163	neurotrophins	nerve	neurotrophins
+1535	1548	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+1547	1571	GO:0048468	terminal differentiation	cell	s in the cochlea of Brn3
+1586	1598	GO:0005163	neurotrophin	nerve	fices to sup
+1586	1598	GO:0005165	neurotrophin	neurotrophin	fices to sup
+1588	1599	GO:0060384	innervation	innervation	ces to supp
+1597	1608	GO:0060384	Innervation	innervation	pport many 
+1605	1610	GO:0005623	cells	cell	ny se
+1603	1615	GO:0005163	neurotrophin	nerve	many sensory
+1603	1615	GO:0005165	neurotrophin	neurotrophin	many sensory
+1676	1683	GO:0030061	cristae	mitochondrial	ular na
+1727	1739	GO:0005163	neurotrophin	nerve	ral neurons 
+1727	1739	GO:0005165	neurotrophin	neurotrophin	ral neurons 
+1758	1769	GO:0060384	innervation	innervation	ywords: ear
+1766	1782	GO:0043583	ear development,	ear	ear development,
+1766	1782	GO:0043583	ear development,	ear	ear development,
+1779	1786	GO:0030061	cristae	mitochondrial	nt, POU
+1776	1789	GO:0005163	neurotrophins	nerve	pment, POU fa
+1776	1789	GO:0005165	neurotrophins	neurotrophin	pment, POU fa
+1824	1836	GO:0060384	innervation,	innervation	innervation,
+1824	1836	GO:0060384	innervation,	innervation	innervation,
+1850	1861	GO:0060384	innervation	innervation	innervation
+1850	1861	GO:0060384	innervation	innervation	innervation
+1917	1928	GO:0060384	innervation	innervation	 for inner 
+1920	1932	GO:0005163	neurotrophin	nerve	r inner ear 
+1920	1932	GO:0005165	neurotrophin	neurotrophin	r inner ear 
+1940	1951	GO:0060384	innervation	innervation	l developme
+1922	1954	GO:0060119	inner ear hair cell development.	inner	inner ear hair cell development.
+1922	1954	GO:0060119	inner ear hair cell development.	inner	inner ear hair cell development.
+1970	1983	GO:0005163	neurotrophins	nerve	rn3c mutants 
+1970	1983	GO:0005165	neurotrophins	neurotrophin	rn3c mutants 
+2024	2036	GO:0005163	neurotrophin	nerve	amination ha
+2024	2036	GO:0005165	neurotrophin	neurotrophin	amination ha
+2037	2046	GO:0023052	signaling	signaling	 revealed
+2091	2098	GO:0030061	cristae	mitochondrial	c null 
+2135	2142	GO:0023052	signal.	signaling	such as
+2148	2154	GO:0023052	signal	signaling	n VI a
+2250	2256	GO:0023052	signal	signaling	tants 
+2254	2258	GO:0097683	apex	dinoflagellate	s un
+2264	2273	GO:0097194	apoptosis	execution	apoptosis
+2264	2273	GO:0006915	apoptosis	apoptotic	apoptosis
+2264	2273	GO:0097194	apoptosis	execution	apoptosis
+2264	2273	GO:0006915	apoptosis	apoptotic	apoptosis
+2294	2303	GO:0051235	retention	maintenance	sistent w
+2369	2380	GO:0060384	innervation	innervation	ed that all
+2409	2415	GO:0023052	signal	signaling	anglio
+2417	2422	GO:0005623	cells	cell	cells
+2417	2422	GO:0005623	cells	cell	cells
+2441	2446	GO:0097683	apex.	dinoflagellate	tal d
+2475	2484	GO:0051235	retention	maintenance	re detail
+2586	2597	GO:0060384	innervation	innervation	iral neuron
+2605	2609	GO:0097683	apex	dinoflagellate	st. 
+2610	2614	GO:0097683	apex	dinoflagellate	t wa
+2674	2685	GO:0060384	innervation	innervation	 [3]. Other
+2766	2779	GO:0005163	neurotrophins	nerve	n of loss of 
+2766	2779	GO:0005165	neurotrophins	neurotrophin	n of loss of 
+2782	2786	GO:0097683	apex	dinoflagellate	erva
+2779	2790	GO:0060384	innervation	innervation	innervation
+2779	2790	GO:0060384	innervation	innervation	innervation
+2793	2800	GO:0030061	cristae	mitochondrial	 Brn3c 
+2826	2837	GO:0032502	development	developmental	development
+2826	2837	GO:0032502	development	developmental	development
+2829	2840	GO:0060384	innervation	innervation	elopment an
+2925	2937	GO:0005163	neurotrophin	nerve	neurotrophin
+2925	2937	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+2925	2937	GO:0005163	neurotrophin	nerve	neurotrophin
+2925	2937	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+2958	2963	GO:0005623	cells	cell	cells
+2958	2963	GO:0005623	cells	cell	cells
+2955	2967	GO:0005163	neurotrophin	nerve	se cells to 
+2955	2967	GO:0005165	neurotrophin	neurotrophin	se cells to 
+2998	3011	GO:0005163	neurotrophins	nerve	 embryonic de
+2998	3011	GO:0005165	neurotrophins	neurotrophin	 embryonic de
+3009	3020	GO:0032502	development	developmental	development
+3009	3020	GO:0032502	development	developmental	development
+3061	3065	GO:0097683	apex	dinoflagellate	ompo
+3069	3081	GO:0005163	neurotrophin	nerve	neurotrophin
+3069	3081	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3069	3081	GO:0005163	neurotrophin	nerve	neurotrophin
+3069	3081	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3088	3100	GO:0043005	nerve fibers	neuron	utants have 
+3134	3146	GO:0005163	neurotrophin	nerve	neurotrophin
+3134	3146	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3134	3146	GO:0005163	neurotrophin	nerve	neurotrophin
+3134	3146	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3160	3169	GO:0009058	formation	biosynthetic	logically
+3210	3215	GO:0097683	apex,	dinoflagellate	e emb
+3285	3291	GO:0023052	signal	signaling	efore 
+3324	3336	GO:0005163	neurotrophin	nerve	neurotrophin
+3324	3336	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3324	3336	GO:0005163	neurotrophin	nerve	neurotrophin
+3324	3336	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+3338	3350	GO:0005163	neurotrophin	nerve	n immature h
+3338	3350	GO:0005165	neurotrophin	neurotrophin	n immature h
+3367	3380	GO:0005163	neurotrophins	nerve	er, recent wo
+3367	3380	GO:0005165	neurotrophins	neurotrophin	er, recent wo
+3395	3401	GO:0023052	signal	signaling	n embr
+3445	3458	GO:0005163	neurotrophins	nerve	g cells, movi
+3445	3458	GO:0005165	neurotrophins	neurotrophin	g cells, movi
+3507	3513	GO:0023052	signal	signaling	ct, th
+3531	3543	GO:0005163	neurotrophin	nerve	f vestibular
+3531	3543	GO:0005165	neurotrophin	neurotrophin	f vestibular
+3550	3556	GO:0023052	signal	signaling	pared 
+3667	3673	GO:0023052	signal	signaling	n3c nu
+3714	3725	GO:0060384	innervation	innervation	at at least
+3768	3774	GO:0023052	signal	signaling	akes p
+3821	3834	GO:0005163	neurotrophins	nerve	neurotrophins
+3821	3834	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+3821	3834	GO:0005163	neurotrophins	nerve	neurotrophins
+3821	3834	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+3888	3898	GO:0003823	antibodies	antigen	and possib
+3888	3898	GO:0019815	antibodies	B	and possib
+3888	3898	GO:0042571	antibodies	immunoglobulin	and possib
+3897	3908	GO:0060384	innervation	innervation	bly replace
+3919	3925	GO:0023052	signal	signaling	factor
+3940	3950	GO:0003823	antibodies	antigen	 investiga
+3940	3950	GO:0019815	antibodies	B	 investiga
+3940	3950	GO:0042571	antibodies	immunoglobulin	 investiga
+3957	3961	GO:0097683	apex	dinoflagellate	deta
+3960	3964	GO:0097683	apex	dinoflagellate	ail 
+3979	3990	GO:0060384	innervation	innervation	innervation
+3979	3990	GO:0060384	innervation	innervation	innervation
+4023	4029	GO:0023052	signal	signaling	 the e
+4083	4089	GO:0023052	signal	signaling	ible c
+4089	4098	GO:0023052	signaling	signaling	orrelatio
+4089	4100	GO:0060384	innervation	innervation	orrelation 
+4114	4122	GO:0030061	cristae,	mitochondrial	pology o
+4133	4142	GO:0051235	retention	maintenance	euron los
+4170	4182	GO:0005163	neurotrophin	nerve	neurotrophin
+4170	4182	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+4170	4182	GO:0005163	neurotrophin	nerve	neurotrophin
+4170	4182	GO:0005165	neurotrophin	neurotrophin	neurotrophin
+4182	4186	GO:0097683	apex	dinoflagellate	 or 
+4247	4258	GO:0060384	innervation	innervation	 This infor
+4279	4285	GO:0040007	Growth	growth	tant f
+4304	4315	GO:0060384	innervation	innervation	uation of t
+4346	4355	GO:0009058	Formation	biosynthetic	e Pou4f3 
+4399	4408	GO:0051235	retention	maintenance	retention
+4399	4408	GO:0051235	retention	maintenance	retention
+4414	4425	GO:0060384	innervation	innervation	chlear sens
+4436	4448	GO:0060384	innervation,	innervation	 for at leas
+4492	4496	GO:0097683	apex	dinoflagellate	ex, 
+4528	4537	GO:0051235	retention	maintenance	retention
+4528	4537	GO:0051235	retention	maintenance	retention
+4581	4606	GO:0035315	hair cell differentiation	hair	hair cell differentiation
+4581	4606	GO:0035315	hair cell differentiation	hair	hair cell differentiation
+4635	4639	GO:0097683	apex	dinoflagellate	lls 
+4668	4672	GO:0097683	apex	dinoflagellate	nata
+4741	4747	GO:0040007	growth	growth	 This 
+4747	4756	GO:0051235	retention	maintenance	retention
+4747	4756	GO:0051235	retention	maintenance	retention
+4786	4790	GO:0097683	apex	dinoflagellate	lso 
+4811	4824	GO:0005163	neurotrophins	nerve	neurotrophins
+4811	4824	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+4811	4824	GO:0005163	neurotrophins	nerve	neurotrophins
+4811	4824	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+4867	4880	GO:0005163	neurotrophins	nerve	ression in ne
+4867	4880	GO:0005165	neurotrophins	neurotrophin	ression in ne
+4885	4894	GO:0009058	formation	biosynthetic	l rodents
+4993	5005	GO:0060384	innervation,	innervation	innervation,
+4993	5005	GO:0060384	innervation,	innervation	innervation,
+5003	5016	GO:0005163	neurotrophins	nerve	n, we first w
+5003	5016	GO:0005165	neurotrophins	neurotrophin	n, we first w
+5146	5157	GO:0060384	innervation	innervation	innervation
+5146	5157	GO:0060384	innervation	innervation	innervation
+5190	5199	GO:0009058	formation	biosynthetic	ave a red
+5204	5215	GO:0060384	innervation	innervation	innervation
+5204	5215	GO:0060384	innervation	innervation	innervation
+5206	5218	GO:0060384	innervation.	innervation	nervation to
+5306	5317	GO:0060384	innervation	innervation	her NT-3 or
+5332	5345	GO:0005163	neurotrophins	nerve	rkC result in
+5332	5345	GO:0005165	neurotrophins	neurotrophin	rkC result in
+5348	5371	GO:0007219	Notch signaling pathway	Notch	ss of spiral neurons in
+5386	5399	GO:0005163	neurotrophins	nerve	 with formati
+5386	5399	GO:0005165	neurotrophins	neurotrophin	 with formati
+5392	5401	GO:0009058	formation	biosynthetic	formation
+5392	5401	GO:0009058	formation	biosynthetic	formation
+5463	5474	GO:0008219	cell death.	cell	 tip. Our n
+5494	5505	GO:0060384	innervation	innervation	his study w
+5502	5512	GO:0065007	regulation	biological	y would be
+5578	5591	GO:0005163	neurotrophins	nerve	neurotrophins
+5578	5591	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+5578	5591	GO:0005163	neurotrophins	nerve	neurotrophins
+5578	5591	GO:0005165	neurotrophins	neurotrophin	neurotrophins
+5602	5615	GO:0005163	neurotrophins	nerve	 therefore sh
+5602	5615	GO:0005165	neurotrophins	neurotrophin	 therefore sh
+5643	5647	GO:0097683	apex	dinoflagellate	erve
+5642	5653	GO:0043005	nerve fiber	neuron	nerve fiber
+5642	5653	GO:0043005	nerve fiber	neuron	nerve fiber
+5751	5764	GO:0005163	neurotrophins	nerve	 1b) than in 
+5751	5764	GO:0005165	neurotrophins	neurotrophin	 1b) than in 
+5813	5822	GO:0009058	formation	biosynthetic	 BDNF or 
+5818	5831	GO:0005163	neurotrophins	nerve	 or trkB null
+5818	5831	GO:0005165	neurotrophins	neurotrophin	 or trkB null
+6059	6070	GO:0060384	innervation	innervation	BDNF and tr
+6584	6592	GO:0007605	hearing.	sensory	rior cri
+6740	6752	GO:0043005	Nerve fibers	neuron	r cell; IHC,
+6780	6789	GO:0009058	formation	biosynthetic	ure hair 
+6913	6924	GO:0060384	innervation	innervation	tectorial m
+6940	6944	GO:0097683	apex	dinoflagellate	cle;

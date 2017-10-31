@@ -1,0 +1,523 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+17	27	GO:0003823	Antibodies	antigen	nal Differ
+17	27	GO:0019815	Antibodies	B	nal Differ
+17	27	GO:0042571	Antibodies	immunoglobulin	nal Differ
+25	36	GO:0044297	cell bodies	cell	erentiation
+34	40	GO:0005623	cells.	cell	on thr
+35	56	GO:0051726	cell cycle regulators	regulation	n through Cell-Cycle–
+35	56	GO:0003750	cell cycle regulators	obsolete	n through Cell-Cycle–
+59	65	GO:0023052	signal	signaling	epende
+63	67	GO:0035003	SACs	subapical	dent
+63	67	GO:0071173	SACs	spindle	dent
+68	78	GO:0065007	Regulation	biological	Regulation
+64	84	GO:0060041	retinal development.	retina	ent Regulation of E2
+88	97	GO:0006810	transport	transport	Abstract 
+95	104	GO:0097194	apoptosis	execution	t It has 
+95	104	GO:0006915	apoptosis	apoptotic	t It has 
+127	136	GO:0005737	cytoplasm	cytoplasm	ss of the
+141	148	GO:0005634	nucleus	nucleus	noblast
+195	199	GO:0035003	SACs	subapical	n, b
+195	199	GO:0071173	SACs	spindle	n, b
+195	204	GO:0097194	apoptosis	execution	n, but th
+195	204	GO:0006915	apoptosis	apoptotic	n, but th
+215	225	GO:0097194	apoptosis,	execution	g mechanis
+215	225	GO:0006915	apoptosis,	apoptotic	g mechanis
+233	238	GO:0005623	cells	cell	ver b
+246	254	GO:0007067	mitosis,	mitotic	ed. Rb a
+253	258	GO:0035003	SACs,	subapical	absen
+253	258	GO:0071173	SACs,	spindle	absen
+259	268	GO:0030425	dendrites	dendrite	e impairs
+264	269	GO:0005623	cells	cell	airs 
+270	276	GO:0023052	signal	signaling	ell cy
+269	279	GO:0007049	cell cycle	cell	cell cycle
+278	288	GO:0044297	cell body,	cell	e exit and
+285	292	GO:0003675	protein	obsolete	and tri
+298	303	GO:0016265	death	death	death
+312	321	GO:0097194	apoptosis	execution	neurons, 
+312	321	GO:0006915	apoptosis	apoptotic	neurons, 
+377	382	GO:0016265	death	death	 we s
+389	393	GO:0035003	SACs	subapical	t ab
+389	393	GO:0071173	SACs	spindle	t ab
+392	397	GO:0005623	cells	cell	bnorm
+402	406	GO:0035003	SACs	subapical	es i
+402	406	GO:0071173	SACs	spindle	es i
+438	447	GO:0097194	apoptosis	execution	-evoked e
+438	447	GO:0006915	apoptosis	apoptotic	-evoked e
+447	452	GO:0005623	cells	cell	lectr
+444	456	GO:0044297	cell bodies,	cell	d electrophy
+461	465	GO:0005623	cell	cell	gica
+487	496	GO:0097194	apoptotic	execution	cient ret
+487	496	GO:0006915	apoptotic	apoptotic	cient ret
+474	498	GO:0048468	terminal differentiation	cell	es in Rb-deficient retin
+491	500	GO:0097194	apoptosis	execution	t retinal
+491	500	GO:0006915	apoptosis	apoptotic	t retinal
+508	512	GO:0005623	cell	cell	re r
+514	519	GO:0016265	death	death	cued 
+545	554	GO:0097194	apoptosis	execution	apoptosis
+545	554	GO:0006915	apoptosis	apoptotic	apoptosis
+567	571	GO:0035003	SACs	subapical	spec
+567	571	GO:0071173	SACs	spindle	spec
+571	581	GO:0065007	regulation	biological	ifically b
+603	608	GO:0005623	cells	cell	iptio
+660	664	GO:0035003	SACs	subapical	naly
+660	664	GO:0071173	SACs	spindle	naly
+669	676	GO:0051320	S-phase	S	f the r
+668	677	GO:0006810	transport	transport	of the re
+673	679	GO:0016265	death:	death	e resc
+714	728	GO:0004861	Cdk inhibitors	cyclin-dependent	-cycle–indepen
+714	728	GO:0045736	Cdk inhibitors	negative	-cycle–indepen
+746	750	GO:0035003	SACs	subapical	on d
+746	750	GO:0071173	SACs	spindle	on d
+767	773	GO:0016265	death,	death	ly in 
+779	784	GO:0005623	cells	cell	rst a
+800	804	GO:0007568	ages	aging	ACs)
+798	805	GO:0035003	(SACs),	subapical	(SACs),
+798	805	GO:0071173	(SACs),	spindle	(SACs),
+817	821	GO:0035003	SACs	subapical	 int
+817	821	GO:0071173	SACs	spindle	 int
+816	837	GO:0051726	cell cycle regulators	regulation	c interneurons critic
+816	837	GO:0003750	cell cycle regulators	obsolete	c interneurons critic
+832	837	GO:0016265	death	death	ritic
+836	842	GO:0005634	nuclei	nucleus	cal in
+842	850	GO:0003823	antibody	antigen	 directi
+842	850	GO:0019815	antibody	B	 directi
+842	850	GO:0042571	antibody	immunoglobulin	 directi
+846	857	GO:0003823	antibodies.	antigen	ection sele
+846	857	GO:0019815	antibodies.	B	ection sele
+846	857	GO:0042571	antibodies.	immunoglobulin	ection sele
+857	864	GO:0007067	mitosis	mitotic	ctivity
+928	933	GO:0005623	cells	cell	 thou
+935	945	GO:0003823	antibodies	antigen	t to block
+935	945	GO:0019815	antibodies	B	t to block
+935	945	GO:0042571	antibodies	immunoglobulin	t to block
+962	966	GO:0007568	ages	aging	essi
+985	992	GO:0007067	mitotic	mitotic	mote di
+998	1004	GO:0005634	nuclei	nucleus	tiatio
+998	1004	GO:0005634	nuclei	nucleus	tiatio
+1036	1042	GO:0005623	cells,	cell	c fact
+1040	1050	GO:0007049	cell cycle	cell	ctors. Rem
+1051	1056	GO:0005623	cells	cell	rkabl
+1055	1064	GO:0097194	apoptotic	execution	ly, howev
+1055	1064	GO:0006915	apoptotic	apoptotic	ly, howev
+1072	1079	GO:0003675	protein	obsolete	romotes
+1083	1090	GO:0007067	mitosis	mitotic	 differ
+1095	1105	GO:0008219	cell death	cell	tion by in
+1148	1158	GO:0008219	Cell Death	cell	xist, and 
+1202	1209	GO:0007067	mitosis	mitotic	ugh int
+1211	1216	GO:0005623	cells	cell	guing
+1220	1226	GO:0005623	cells,	cell	hey sh
+1231	1237	GO:0005623	cells.	cell	stinct
+1237	1241	GO:0007568	ages	aging	 sub
+1259	1265	GO:0005634	nuclei	nucleus	ion. E
+1286	1292	GO:0005623	cells.	cell	diate 
+1288	1295	GO:0051320	S-phase	S	ate Rb 
+1296	1303	GO:0003675	protein	obsolete	unction
+1317	1323	GO:0005623	cells.	cell	cells.
+1317	1325	GO:0007067	mitosis,	mitotic	cells. H
+1320	1329	GO:0097194	apoptosis	execution	ls. Howev
+1320	1329	GO:0006915	apoptosis	apoptotic	ls. Howev
+1326	1337	GO:0008219	cell death,	cell	wever, in w
+1368	1373	GO:0005623	cells	cell	st wo
+1383	1388	GO:0005623	cells	cell	ect E
+1396	1402	GO:0005634	nuclei	nucleus	rm fun
+1415	1419	GO:0035003	SACs	subapical	 we 
+1415	1419	GO:0071173	SACs	spindle	 we 
+1426	1433	GO:0003675	protein	obsolete	at Rb p
+1438	1451	GO:0051179	localization.	localization	es SAC differ
+1438	1451	GO:0071897	DNA synthesis	DNA	es SAC differ
+1489	1495	GO:0005634	nuclei	nucleus	veal a
+1498	1502	GO:0005623	cell	cell	chan
+1586	1591	GO:0005623	cells	cell	t inv
+1652	1662	GO:0003823	antibodies	antigen	c factors.
+1652	1662	GO:0019815	antibodies	B	c factors.
+1652	1662	GO:0042571	antibodies	immunoglobulin	c factors.
+1665	1674	GO:0097194	Apoptosis	execution	thor Summ
+1665	1674	GO:0006915	Apoptosis	apoptotic	thor Summ
+1675	1680	GO:0005623	cells	cell	ry Th
+1686	1693	GO:0003675	protein	obsolete	noblast
+1689	1695	GO:0005634	nuclei	nucleus	lastom
+1712	1717	GO:0005623	cells	cell	n imp
+1710	1723	GO:0051301	cell division	cell	 an important
+1724	1741	GO:0008181	tumor suppressor,	obsolete	tumor suppressor,
+1724	1741	GO:0051726	tumor suppressor,	regulation	tumor suppressor,
+1747	1751	GO:0005623	cell	cell	s di
+1756	1760	GO:0007568	ages	aging	n an
+1762	1767	GO:0016265	death	death	death
+1799	1803	GO:0035003	SACs	subapical	tion
+1799	1803	GO:0071173	SACs	spindle	tion
+1799	1804	GO:0035003	SACs.	subapical	tion 
+1799	1804	GO:0071173	SACs.	spindle	tion 
+1831	1836	GO:0005623	cells	cell	 Rb i
+1831	1837	GO:0005634	nuclei	nucleus	 Rb is
+1862	1868	GO:0016265	death.	death	rentia
+1863	1870	GO:0051320	S-phase	S	entiati
+1888	1892	GO:0045101	Gfap	obsolete	 tis
+1886	1896	GO:0007049	cell cycle	cell	ng tissue-
+1898	1904	GO:0005634	Nuclei	nucleus	ecific
+1909	1918	GO:0097194	apoptosis	execution	scription
+1909	1918	GO:0006915	apoptosis	apoptotic	scription
+1929	1934	GO:0035003	SACs,	subapical	lthou
+1929	1934	GO:0071173	SACs,	spindle	lthou
+1950	1960	GO:0007049	cell cycle	cell	on defects
+1986	1991	GO:0005623	cells	cell	 an i
+2012	2017	GO:0005623	cells	cell	f E2f
+2034	2038	GO:0005623	cell	cell	and 
+2038	2044	GO:0016265	death.	death	death.
+2071	2076	GO:0005623	cells	cell	 mech
+2114	2120	GO:0016265	death,	death	death,
+2116	2128	GO:0051179	Localization	localization	ath, and dif
+2147	2152	GO:0035003	SACs.	subapical	 reti
+2147	2152	GO:0071173	SACs.	spindle	 reti
+2205	2210	GO:0005488	binds	binding	entia
+2225	2233	GO:0003675	proteins	obsolete	nt retin
+2256	2261	GO:0016265	death	death	death
+2255	2262	GO:0007067	Mitosis	mitotic	 death 
+2265	2270	GO:0005623	cells	cell	cells
+2268	2287	GO:1901987	cell cycle control,	regulation	ls prone to apoptos
+2280	2290	GO:0097194	apoptosis,	execution	apoptosis,
+2280	2290	GO:0006915	apoptosis,	apoptotic	apoptosis,
+2291	2301	GO:0065007	regulation	biological	and restor
+2307	2317	GO:0007049	cell cycle	cell	h normal d
+2313	2329	GO:2000144	transactivation,	positive	al differentiati
+2322	2332	GO:0097194	apoptosis.	execution	entiation 
+2322	2332	GO:0006915	apoptosis.	apoptotic	entiation 
+2335	2339	GO:0005488	bind	binding	 fun
+2346	2350	GO:0007568	ages	aging	f ma
+2354	2358	GO:0005623	cell	cell	cell
+2351	2364	GO:0009653	morphogenesis	anatomical	or cell types
+2364	2374	GO:0007049	cell cycle	cell	, such as 
+2368	2374	GO:0005634	nuclei	nucleus	ch as 
+2392	2399	GO:0000279	M-phase	M	wever, 
+2397	2410	GO:0051301	Cell Division	cell	, Rb-deficien
+2415	2420	GO:0016265	Death	death	rburs
+2425	2437	GO:0051179	Localization	localization	crine neuron
+2431	2441	GO:0007049	Cell Cycle	cell	neurons di
+2451	2456	GO:0005623	cells	cell	e abn
+2468	2474	GO:0005623	cells.	cell	 when 
+2495	2499	GO:0035003	SACs	subapical	idin
+2495	2499	GO:0071173	SACs	spindle	idin
+2511	2515	GO:0005623	cell	cell	ocal
+2510	2516	GO:0005623	cells.	cell	vocal 
+2507	2517	GO:0007049	cell cycle	cell	quivocal e
+2517	2526	GO:0097194	apoptosis	execution	xample of
+2517	2526	GO:0006915	apoptosis	apoptotic	xample of
+2532	2537	GO:0005623	cells	cell	ect r
+2557	2565	GO:0003823	antibody	antigen	al diffe
+2557	2565	GO:0019815	antibody	B	al diffe
+2557	2565	GO:0042571	antibody	immunoglobulin	al diffe
+2572	2578	GO:0005623	cells.	cell	ion. R
+2575	2580	GO:0016265	death	death	. Rat
+2593	2597	GO:0005623	cell	cell	ntia
+2595	2600	GO:0005623	cells	cell	iatin
+2624	2634	GO:0007049	cell cycle	cell	, Rb promo
+2638	2643	GO:0016265	death	death	starb
+2645	2651	GO:0016265	death.	death	st cel
+2653	2658	GO:0005488	binds	binding	diffe
+2648	2668	GO:0030154	cell differentiation	cell	cell differentiation
+2683	2691	GO:0003675	proteins	obsolete	another 
+2707	2712	GO:0016265	death	death	 cell
+2740	2747	GO:0051320	S-phase	S	broaden
+2744	2754	GO:0007049	cell cycle	cell	dens the i
+2763	2767	GO:0005623	cell	cell	 of 
+2803	2808	GO:0005488	binds	binding	shoul
+2808	2816	GO:0051320	S-phase,	S	d reasse
+2817	2825	GO:0000279	M-phase,	M	s its ro
+2830	2839	GO:0097194	apoptotic	execution	 the diff
+2830	2839	GO:0006915	apoptotic	apoptotic	 the diff
+2840	2845	GO:0005623	cells	cell	renti
+2860	2864	GO:0005623	cell	cell	cell
+2866	2871	GO:0016265	death	death	ypes.
+2868	2873	GO:0035003	SACs.	subapical	es. I
+2868	2873	GO:0071173	SACs.	spindle	es. I
+2890	2897	GO:0007067	mitosis	mitotic	implici
+2904	2911	GO:0005623	cells),	cell	he reti
+2921	2925	GO:0007568	ages	aging	t an
+2939	2947	GO:0003675	proteins	obsolete	to study
+2947	2951	GO:0005623	cell	cell	 neu
+2948	2961	GO:0022008	neurogenesis.	neurogenesis	neurogenesis.
+2957	2963	GO:0005634	nuclei	nucleus	sis. I
+2955	2967	GO:0032502	development.	developmental	nesis. Its d
+2957	2968	GO:0044297	cell bodies	cell	sis. Its de
+2966	2977	GO:0032502	development	developmental	development
+2971	2983	GO:0051179	localization	localization	opment proce
+2995	3003	GO:0003823	antibody	antigen	three ov
+2995	3003	GO:0019815	antibody	B	three ov
+2995	3003	GO:0042571	antibody	immunoglobulin	three ov
+2998	3004	GO:0016265	death.	death	ee ove
+3010	3015	GO:0005623	cells	cell	ng st
+3009	3019	GO:0007049	cell cycle	cell	ing steps 
+3042	3050	GO:0003675	proteins	obsolete	rogenito
+3069	3077	GO:0007067	mitosis,	mitotic	eration,
+3113	3120	GO:0035003	(SACs).	subapical	etinal 
+3113	3120	GO:0071173	(SACs).	spindle	etinal 
+3131	3136	GO:0005623	cells	cell	cells
+3132	3138	GO:0005623	cells,	cell	ells (
+3143	3165	GO:0001171	reverse transcription,	reverse	 also referred to as p
+3163	3168	GO:0016265	death	death	 prec
+3180	3186	GO:0005623	cells.	cell	 endin
+3175	3187	GO:0051179	localization	localization	, and ending
+3193	3217	GO:0048468	terminal differentiation	cell	terminal differentiation
+3233	3237	GO:0005623	cell	cell	cell
+3236	3242	GO:0005623	cells.	cell	l type
+3239	3243	GO:0005623	cell	cell	ypes
+3271	3282	GO:0044297	cell bodies	cell	ultipotent 
+3295	3305	GO:0007049	cell cycle	cell	cell cycle
+3298	3305	GO:0005634	nucleus	nucleus	l cycle
+3304	3313	GO:0007586	digestion	digestion	e to gene
+3309	3319	GO:0005737	cytoplasm,	cytoplasm	generate d
+3327	3333	GO:0005623	cells,	cell	 RTCs 
+3341	3347	GO:0023052	signal	signaling	fic ti
+3361	3372	GO:0032502	development	developmental	development
+3407	3412	GO:0005623	cells	cell	equir
+3397	3412	GO:0051301	cells. Division	cell	 “birth” requir
+3417	3422	GO:0016265	death	death	uplin
+3424	3428	GO:0031672	band	A	of d
+3445	3455	GO:0007049	cell cycle	cell	d cell cyc
+3451	3455	GO:0035003	SACs	subapical	 cyc
+3451	3455	GO:0071173	SACs	spindle	 cyc
+3451	3457	GO:0005623	cells,	cell	 cycle
+3469	3479	GO:0008219	cell death	cell	born, post
+3487	3498	GO:0032502	development	developmental	 RTCs migra
+3508	3517	GO:0009058	synthesis	biosynthetic	m differe
+3521	3526	GO:0005623	cells	cell	etina
+3532	3536	GO:0035003	SACs	subapical	rs. 
+3532	3536	GO:0071173	SACs	spindle	rs. 
+3538	3544	GO:0005634	nuclei	nucleus	ds and
+3587	3593	GO:0005623	cells,	cell	); hor
+3628	3639	GO:0044297	cell bodies	cell	s, as well 
+3631	3646	GO:0048469	cell maturation	cell	as well as Müll
+3652	3664	GO:0044297	cell bodies,	cell	a cell bodie
+3680	3686	GO:0005634	nuclei	nucleus	 inner
+3721	3726	GO:0005623	cells	cell	and d
+3740	3746	GO:0016265	death.	death	ine ce
+3737	3747	GO:0007049	cell cycle	cell	acrine cel
+3754	3758	GO:0035003	SACs	subapical	 the
+3754	3758	GO:0071173	SACs	spindle	 the
+3802	3815	GO:0022008	neurogenesis.	neurogenesis	outer plexifo
+3819	3824	GO:0005623	cells	cell	ayer 
+3867	3871	GO:0035003	SACs	subapical	 syn
+3867	3871	GO:0071173	SACs	spindle	 syn
+3868	3879	GO:0044297	cell bodies	cell	synaptic co
+3880	3885	GO:0031672	bands	A	necti
+3907	3919	GO:0044297	cell bodies,	cell	/INL and INL
+3918	3924	GO:0005623	cells,	cell	L/GCL,
+3927	3931	GO:0007568	ages	aging	spec
+3932	3943	GO:0044297	cell bodies	cell	ively. Figu
+3949	3955	GO:0005634	nuclei	nucleus	2f1, b
+3992	3998	GO:0016265	death,	death	opic D
+4011	4016	GO:0005623	cells	cell	ell D
+4008	4018	GO:0008219	Cell Death	cell	d Cell Dea
+4028	4034	GO:0005623	cells.	cell	Rb KO 
+4031	4040	GO:0005737	cytoplasm	cytoplasm	KO Retina
+4043	4063	GO:0060041	Retinal development.	retina	) Retinal developmen
+4063	4069	GO:0005623	cells,	cell	t. At 
+4109	4126	GO:0001906	cells, are killed	cell	 (white circle, g
+4129	4137	GO:0005634	nuclei).	nucleus	n nuclei
+4130	4140	GO:0097194	apoptosis.	execution	 nuclei). 
+4130	4140	GO:0006915	apoptosis.	apoptotic	 nuclei). 
+4142	4153	GO:0044297	cell bodies	cell	C cell bodi
+4180	4185	GO:0005623	cells	cell	s as 
+4209	4220	GO:0007049	cell cycle.	cell	e cell cycl
+4218	4223	GO:0035003	SACs,	subapical	cle. 
+4218	4223	GO:0071173	SACs,	spindle	cle. 
+4228	4232	GO:0035003	SACs	subapical	 the
+4228	4232	GO:0071173	SACs	spindle	 the
+4235	4241	GO:0005623	cells,	cell	L cont
+4236	4242	GO:0016265	death,	death	 conta
+4255	4264	GO:0097194	apoptosis	execution	 and post
+4255	4264	GO:0006915	apoptosis	apoptotic	 and post
+4281	4286	GO:0035003	SACs,	subapical	loure
+4281	4286	GO:0071173	SACs,	spindle	loure
+4285	4289	GO:0035003	SACs	subapical	ed c
+4285	4289	GO:0071173	SACs	spindle	ed c
+4303	4309	GO:0005623	cells,	cell	clei) 
+4316	4320	GO:0007568	ages	aging	sepa
+4321	4326	GO:0005623	cells	cell	ated 
+4348	4354	GO:0005634	nuclei	nucleus	L. By 
+4352	4356	GO:0035003	SACs	subapical	y P8
+4352	4356	GO:0071173	SACs	spindle	y P8
+4354	4358	GO:0035003	SACs	subapical	P8 t
+4354	4358	GO:0071173	SACs	spindle	P8 t
+4401	4406	GO:0005623	cells	cell	ore d
+4411	4420	GO:0097194	apoptosis	execution	entiated 
+4411	4420	GO:0006915	apoptosis	apoptotic	entiated 
+4428	4433	GO:0016265	Death	death	 and 
+4430	4435	GO:0005623	cells	cell	nd co
+4532	4551	GO:0060041	retinal development	retina	nd ganglion (g) and
+4545	4554	GO:0097194	apoptosis	execution	g) and di
+4545	4554	GO:0006915	apoptosis	apoptotic	g) and di
+4558	4562	GO:0035003	SACs	subapical	ced 
+4558	4562	GO:0071173	SACs	spindle	ced 
+4574	4581	GO:0007129	synapse	synapsis	ls in t
+4574	4581	GO:0045202	synapse	synapse	ls in t
+4583	4596	GO:0051301	cell division	cell	 GCL. Develop
+4587	4598	GO:0032502	Development	developmental	. Developme
+4600	4605	GO:0035003	SACs,	subapical	 is c
+4600	4605	GO:0071173	SACs,	spindle	 is c
+4597	4609	GO:0051179	localization	localization	ent is compl
+4605	4611	GO:0005623	cells.	cell	omplet
+4610	4619	GO:0097194	apoptosis	execution	te by ~P1
+4610	4619	GO:0006915	apoptosis	apoptotic	te by ~P1
+4630	4635	GO:0005623	cells	cell	s tho
+4650	4660	GO:0007049	cell cycle	cell	e cell cyc
+4661	4665	GO:0035003	SACs	subapical	e an
+4661	4665	GO:0071173	SACs	spindle	e an
+4665	4674	GO:0097194	apoptosis	execution	d apoptos
+4665	4674	GO:0006915	apoptosis	apoptotic	d apoptos
+4645	4678	GO:0043687	post-translational modifications.	post-translational	gulate cell cycle and apoptosis b
+4678	4682	GO:0035003	SACs	subapical	y re
+4678	4682	GO:0071173	SACs	spindle	y re
+4697	4704	GO:0007129	synapse	synapsis	but to 
+4697	4704	GO:0045202	synapse	synapse	but to 
+4740	4750	GO:0007049	Cell Cycle	cell	ing tissue
+4751	4759	GO:0003675	Proteins	obsolete	specific
+4769	4774	GO:0005623	cells	cell	tion 
+4835	4845	GO:0007049	cell cycle	cell	through th
+4845	4855	GO:0031982	(vesicular	vesicle	e indirect
+4867	4891	GO:0048468	terminal differentiation	cell	abnormal division or dea
+4887	4891	GO:0005623	cell	cell	 dea
+4886	4892	GO:0016265	death,	death	r deat
+4902	4906	GO:0007568	ages	aging	thro
+4916	4921	GO:0005623	cells	cell	 regu
+4915	4925	GO:0065007	regulation	biological	t regulati
+4965	4974	GO:0003675	proteins.	obsolete	and D) Ho
+4984	4989	GO:0005623	cells	cell	etina
+4994	4999	GO:0005623	cells	cell	tions
+4997	5005	GO:0003675	Proteins	obsolete	ns of th
+5026	5031	GO:0005623	cells	cell	 and 
+5029	5033	GO:0007568	ages	aging	d ag
+5032	5037	GO:0005623	cells	cell	ges w
+5051	5057	GO:0005634	nuclei	nucleus	r nucl
+5066	5077	GO:0032502	development	developmental	 blue), and
+5080	5087	GO:0051320	S-phase	S	) S-pha
+5086	5097	GO:0044297	cell bodies	cell	ase (anti-B
+5096	5102	GO:0005623	cells,	cell	BrdU, 
+5112	5117	GO:0005623	cells	cell	) apo
+5112	5121	GO:0097194	apoptosis	execution	) apoptos
+5112	5121	GO:0006915	apoptosis	apoptotic	) apoptos
+5119	5124	GO:0005623	cells	cell	osis 
+5122	5126	GO:0035003	SACs	subapical	s (T
+5122	5126	GO:0071173	SACs	spindle	s (T
+5122	5131	GO:0016020	membranes	membrane	s (TUNEL,
+5156	5161	GO:0005623	cells	cell	μm. (
+5162	5170	GO:0003823	antibody	antigen	–G) Quan
+5162	5170	GO:0019815	antibody	B	–G) Quan
+5162	5170	GO:0042571	antibody	immunoglobulin	–G) Quan
+5181	5185	GO:0035003	SACs	subapical	of (
+5181	5185	GO:0071173	SACs	spindle	of (
+5181	5186	GO:0035003	SACs,	subapical	of (E
+5181	5186	GO:0071173	SACs,	spindle	of (E
+5194	5198	GO:0007568	ages	aging	dU+ 
+5196	5202	GO:0005623	cells,	cell	+ cell
+5194	5208	GO:0051301	cell division,	cell	dU+ cells, (F)
+5221	5226	GO:0005623	cells	cell	+ cel
+5214	5229	GO:0006351	transcriptional	transcription,	ic BrdU+ cells 
+5241	5245	GO:0005623	cell	cell	, an
+5253	5261	GO:0003675	protein.	obsolete	tal TUNE
+5262	5268	GO:0005623	cells.	cell	+ cell
+5295	5304	GO:0016020	membranes	membrane	lysis of 
+5300	5304	GO:0007568	ages	aging	 of 
+5305	5310	GO:0005623	cells	cell	2fs a
+5297	5313	GO:0008021	synaptic vesicle	synaptic	sis of E2fs and 
+5314	5321	GO:0003675	protein	obsolete	2f targ
+5331	5335	GO:0035003	SACs	subapical	n P8
+5331	5335	GO:0071173	SACs	spindle	n P8
+5347	5358	GO:0065007	regulation.	biological	the indicat
+5402	5410	GO:0003823	antibody	antigen	surement
+5402	5410	GO:0019815	antibody	B	surement
+5402	5410	GO:0042571	antibody	immunoglobulin	surement
+5407	5412	GO:0016265	death	death	ents 
+5405	5414	GO:0030425	dendrites	dendrite	ements fr
+5426	5430	GO:0035003	SACs	subapical	mals
+5426	5430	GO:0071173	SACs	spindle	mals
+5443	5448	GO:0035003	SACs.	subapical	ks in
+5443	5448	GO:0071173	SACs.	spindle	ks in
+5448	5457	GO:0097194	apoptosis	execution	dicate a 
+5448	5457	GO:0006915	apoptosis	apoptotic	dicate a 
+5450	5463	GO:0071897	DNA synthesis	DNA	cate a signif
+5458	5463	GO:0005623	cells	cell	ignif
+5442	5464	GO:0051726	cell cycle regulators,	regulation	sks indicate a signifi
+5442	5464	GO:0003750	cell cycle regulators,	obsolete	sks indicate a signifi
+5502	5511	GO:0009058	synthesis	biosynthetic	icated ge
+5517	5521	GO:0035003	SACs	subapical	s (*
+5517	5521	GO:0071173	SACs	spindle	s (*
+5516	5525	GO:0006810	transport	transport	es (*, p 
+5551	5560	GO:0003675	proteins.	obsolete	and Tukey
+5580	5585	GO:0035003	SACs,	subapical	and F
+5580	5585	GO:0071173	SACs,	spindle	and F
+5583	5588	GO:0035003	SACs,	subapical	 Fish
+5583	5588	GO:0071173	SACs,	spindle	 Fish
+5592	5599	GO:0005634	nucleus	nucleus	est for
+5596	5607	GO:0032502	development	developmental	for [H]). T
+5604	5613	GO:0005737	cytoplasm	cytoplasm	. The ret
+5609	5618	GO:0003675	proteins,	obsolete	 retinobl
+5621	5633	GO:0022008	neurogenesis	neurogenesis	oma protein 
+5652	5662	GO:0007049	cell cycle	cell	r cell cyc
+5677	5687	GO:0003823	antibodies	antigen	retinal tr
+5677	5687	GO:0019815	antibodies	B	retinal tr
+5677	5687	GO:0042571	antibodies	immunoglobulin	retinal tr
+5694	5698	GO:0005623	cell	cell	n ce
+5736	5748	GO:0022008	neurogenesis	neurogenesis	ue to prolif
+5758	5762	GO:0035003	SACs	subapical	prop
+5758	5762	GO:0071173	SACs	spindle	prop
+5765	5773	GO:0007067	mitosis.	mitotic	tely and
+5777	5781	GO:0035003	SACs	subapical	e (r
+5777	5781	GO:0071173	SACs	spindle	e (r
+5777	5782	GO:0005488	binds	binding	e (ro
+5805	5811	GO:0005623	cells)	cell	r cell
+5819	5828	GO:0097194	apoptosis	execution	y apoptos
+5819	5828	GO:0006915	apoptosis	apoptotic	y apoptos
+5852	5862	GO:0007049	cell cycle	cell	e cell cyc
+5866	5873	GO:0005488	binding	binding	y bindi
+5878	5882	GO:0035003	SACs	subapical	d in
+5878	5882	GO:0071173	SACs	spindle	d in
+5896	5901	GO:0005488	binds	binding	ransc
+5931	5938	GO:0051320	S-phase	S	 1B), f
+5939	5944	GO:0005623	cells	cell	rst d
+5952	5983	GO:0008134	transcription factors that bind	transcription	s transcription factors that bi
+5978	5983	GO:0005623	cells	cell	at bi
+5987	5992	GO:0005623	cells	cell	denov
+5998	6008	GO:0065007	regulatory	biological	2 regulato
+6056	6077	GO:0051726	cell cycle regulators	regulation	l cell cycle regulato
+6056	6077	GO:0003750	cell cycle regulators	obsolete	l cell cycle regulato
+6075	6079	GO:0005623	cell	cell	tors
+6090	6094	GO:0005488	bind	binding	s bi
+6123	6131	GO:0003675	proteins	obsolete	h protei
+6165	6177	GO:0032502	development.	developmental	1, E2f2, and
+6190	6197	GO:0007067	mitotic	mitotic	ctivati
+6198	6203	GO:0005623	cells	cell	g E2f
+6216	6220	GO:0005488	bind	binding	equi
+6219	6223	GO:0035003	SACs	subapical	ired
+6219	6223	GO:0071173	SACs	spindle	ired
+6246	6256	GO:0003823	antibodies	antigen	n. They ar
+6246	6256	GO:0019815	antibodies	B	n. They ar
+6246	6256	GO:0042571	antibodies	immunoglobulin	n. They ar
+6261	6276	GO:0006351	transcriptional	transcription,	ong transcripti
+6273	6280	GO:0005488	binding	binding	ptional
+6302	6306	GO:0007568	ages	aging	rive
+6324	6330	GO:0005634	nuclei	nucleus	to cyc
+6337	6346	GO:0006810	transport	transport	 are inhi
+6345	6352	GO:0000279	M-phase	M	ibited 
+6348	6354	GO:0023052	signal	signaling	ted wh
+6353	6358	GO:0005488	bound	binding	hen b
+6356	6366	GO:0023052	signalling	signaling	 bound to 
+6367	6371	GO:0005488	bind	binding	b [4
+6397	6401	GO:0035003	SACs	subapical	b KO
+6397	6401	GO:0071173	SACs	spindle	b KO
+6395	6404	GO:0000785	chromatin	chromatin	 Rb KO em
+6403	6410	GO:0051320	S-phase	S	mbryos 
+6415	6420	GO:0005623	cells	cell	e res
+6415	6422	GO:0007067	mitosis	mitotic	e rescu
+6448	6453	GO:0005623	cells	cell	iffer
+6454	6459	GO:0005623	cells	cell	nt ti
+6509	6514	GO:0005623	cells	cell	ut wh
+6571	6580	GO:0030425	dendrites	dendrite	her membe
+6603	6608	GO:0005623	cells	cell	as E2
+6720	6725	GO:0005623	cells	cell	 in g
+6718	6732	GO:0016458	gene silencing	gene	ed in gene sil
+6739	6744	GO:0005623	cells	cell	in qu
+6764	6770	GO:0005623	cells.	cell	iated 
+6804	6813	GO:0097194	apoptosis	execution	omote apo
+6804	6813	GO:0006915	apoptosis	apoptotic	omote apo
+7033	7038	GO:0035003	SACs,	subapical	apopt
+7033	7038	GO:0071173	SACs,	spindle	apopt

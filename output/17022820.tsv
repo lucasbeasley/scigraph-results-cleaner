@@ -1,0 +1,135 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+42	52	GO:0007599	hemostasis	hemostasis	hemostasis
+64	72	GO:0005202	collagen	obsolete	sis Abst
+128	139	GO:0005694	chromosomes	chromosome	nsequence o
+146	156	GO:0008152	metabolism	metabolic	ovascular 
+160	168	GO:0005202	collagen	obsolete	ases, th
+172	192	GO:0031012	extracellular matrix	extracellular	ading cause of morta
+193	201	GO:0003675	proteins	obsolete	ity and 
+246	255	GO:0005202	collagen,	obsolete	use strai
+301	312	GO:0007599	haemostasis	hemostasis	in suscepti
+322	332	GO:0009058	formation.	biosynthetic	obesity, a
+333	341	GO:0005202	Collagen	obsolete	heroscle
+388	399	GO:0005694	chromosomes	chromosome	clear how t
+445	453	GO:0005202	collagen	obsolete	hways kn
+484	495	GO:0007599	hemostasis.	hemostasis	hemostasis.
+506	514	GO:0005202	Collagen	obsolete	ive of t
+555	565	GO:0007599	hemostasis	hemostasis	hemostasis
+639	650	GO:0005694	chromosomes	chromosome	chromosomes
+649	658	GO:0005202	collagen.	obsolete	s in the 
+758	769	GO:0007599	hemostasis.	hemostasis	hemostasis.
+904	914	GO:0007599	hemostatic	hemostasis	e vessel o
+972	981	GO:0005202	collagen.	obsolete	rs for th
+994	1005	GO:0007599	hemostasis,	hemostasis	hemostasis,
+1013	1021	GO:0005202	collagen	obsolete	termined
+1085	1095	GO:0005694	chromosome	chromosome	chromosome
+1122	1133	GO:0005694	chromosomes	chromosome	chromosomes
+1197	1208	GO:0050817	coagulation	coagulation	l bleeding 
+1215	1225	GO:0005694	chromosome	chromosome	Results Th
+1266	1277	GO:0005694	chromosomes	chromosome	sed in the 
+1368	1379	GO:0005694	chromosomes	chromosome	rebleeding 
+1377	1388	GO:0007599	hemostasis,	hemostasis	g time was 
+1392	1403	GO:0005694	chromosomes	chromosome	edly increa
+1427	1435	GO:0003675	protein,	obsolete	ared to 
+1441	1453	GO:0005694	chromosomes,	chromosome	6J mice. Coa
+1450	1461	GO:0050817	Coagulation	coagulation	Coagulation
+1469	1477	GO:0003675	proteins	obsolete	nd tail 
+1478	1488	GO:0007599	hemostasis	hemostasis	orphology 
+1493	1503	GO:0005694	chromosome	chromosome	similar, b
+1511	1519	GO:0005202	collagen	obsolete	collagen
+1541	1550	GO:0000496	base pair	base	 A/J than
+1572	1582	GO:0005694	chromosome	chromosome	chromosome
+1669	1679	GO:0065007	regulatory	biological	ncreased r
+1707	1716	GO:0009058	formation	biosynthetic	similar t
+1737	1749	GO:0005694	chromosomes,	chromosome	rosomic for 
+1749	1760	GO:0005694	chromosomes	chromosome	chromosomes
+1835	1845	GO:0005694	chromosome	chromosome	chromosome
+1880	1887	GO:0031430	midline	M	nd B6-C
+1893	1905	GO:0005694	chromosomes,	chromosome	J, were cros
+1968	1977	GO:0009058	formation	biosynthetic	 progeny.
+2038	2058	GO:0070527	platelet aggregation	platelet	erial thrombosis and
+2059	2070	GO:0007599	haemostasis	hemostasis	haemostasis
+2098	2106	GO:0005202	collagen	obsolete	C57BL/an
+2125	2136	GO:0005694	chromosomes	chromosome	/J chromoso
+2128	2138	GO:0005694	chromosome	chromosome	chromosome
+2207	2216	GO:0009058	formation	biosynthetic	lar to A/
+2447	2459	GO:0007599	haemostasis.	hemostasis	osis and the
+2658	2679	GO:0031012	extracellular matrix.	extracellular	. While a number of g
+2802	2811	GO:0009058	formation	biosynthetic	formation
+2912	2922	GO:0005694	chromosome	chromosome	bclinical 
+2967	2978	GO:0050817	coagulation	coagulation	ocardial in
+3080	3089	GO:0009058	formation	biosynthetic	 response
+3121	3152	GO:0008243	urokinase plasminogen activator	obsolete	 genetic and environmental fact
+3194	3205	GO:0050817	coagulation	coagulation	coagulation
+3192	3208	GO:0004283	plasmin activity	obsolete	n coagulation fa
+3233	3237	GO:0050817	clot	coagulation	rs, 
+3238	3244	GO:0019835	lysis,	cytolysis	latele
+3264	3276	GO:0050817	Coagulation,	coagulation	 methylenete
+3298	3309	GO:0008001	fibrinogen,	obsolete	se, endothe
+3298	3309	GO:0005577	fibrinogen,	fibrinogen	se, endothe
+3299	3309	GO:0009058	formation.	biosynthetic	e, endothe
+3441	3452	GO:0050817	coagulation	coagulation	7]. Great s
+3453	3461	GO:0003675	proteins	obsolete	rides ha
+3469	3480	GO:0005694	chromosomes	chromosome	made in the
+3548	3558	GO:0065007	regulation	biological	strategies
+3566	3580	GO:0003804	thromboplastin	obsolete	ent thrombosis
+3596	3613	GO:0007596	blood coagulation	blood	 behind due, in p
+3607	3618	GO:0005694	chromosomes	chromosome	, in part, 
+3619	3627	GO:0005202	collagen	obsolete	o the co
+3644	3655	GO:0050817	Coagulation	coagulation	tiple, and 
+3669	3680	GO:0050817	coagulation	coagulation	ed, genetic
+3678	3689	GO:0050817	coagulation	coagulation	ic factors 
+3751	3759	GO:0005202	collagen	obsolete	 genetic
+3791	3805	GO:0003804	thromboplastin	obsolete	ion of molecul
+3848	3857	GO:0009058	formation	biosynthetic	formation
+3862	3867	GO:0019835	lysis	cytolysis	lysis
+3870	3881	GO:0050817	coagulation	coagulation	d, thereby,
+3890	3898	GO:0003823	antibody	antigen	tes to t
+3890	3898	GO:0019815	antibody	B	tes to t
+3890	3898	GO:0042571	antibody	immunoglobulin	tes to t
+3905	3916	GO:0005694	chromosomes	chromosome	 of thrombo
+3964	3973	GO:0009058	formation	biosynthetic	strains, 
+4069	4080	GO:0009056	degradation	catabolic	mplex disea
+4063	4081	GO:0003804	activate Factor X,	obsolete	lar complex diseas
+4164	4174	GO:0009058	formation.	biosynthetic	(B6 suscep
+4292	4300	GO:0003823	antibody	antigen	intimal 
+4292	4300	GO:0019815	antibody	B	intimal 
+4292	4300	GO:0042571	antibody	immunoglobulin	intimal 
+4300	4311	GO:0005694	chromosomes	chromosome	hyperplasia
+4326	4337	GO:0050817	coagulation	coagulation	 A/J resist
+4346	4356	GO:0008001	fibrinogen	obsolete	 ligation 
+4346	4356	GO:0005577	fibrinogen	fibrinogen	 ligation 
+4382	4392	GO:0003823	antibodies	antigen	(B6 resist
+4382	4392	GO:0019815	antibodies	B	(B6 resist
+4382	4392	GO:0042571	antibodies	immunoglobulin	(B6 resist
+4398	4409	GO:0050817	Coagulation	coagulation	/J suscepti
+4414	4424	GO:0008001	fibrinogen	obsolete	[10]. Thes
+4414	4424	GO:0005577	fibrinogen	fibrinogen	[10]. Thes
+4429	4439	GO:0009058	formation.	biosynthetic	ditions ar
+4492	4502	GO:0008001	fibrinogen	obsolete	ave not be
+4492	4502	GO:0005577	fibrinogen	fibrinogen	ave not be
+4546	4550	GO:0050817	Clot	coagulation	Clot
+4551	4560	GO:0009058	formation	biosynthetic	formation
+4559	4570	GO:0050817	coagulation	coagulation	n and lysis
+4565	4571	GO:0019835	lysis,	cytolysis	lysis,
+4620	4641	GO:0070527	platelet aggregation,	platelet	platelet aggregation,
+4642	4654	GO:0050817	coagulation,	coagulation	coagulation,
+4668	4676	GO:0005202	collagen	obsolete	tic func
+4862	4872	GO:0008001	fibrinogen	obsolete	 by associ
+4862	4872	GO:0005577	fibrinogen	fibrinogen	 by associ
+4925	4936	GO:0005694	chromosome,	chromosome	chromosome,
+4937	4944	GO:0003675	protein	obsolete	a quant
+5221	5231	GO:0005694	chromosome	chromosome	chromosome
+5379	5384	GO:0031672	bands	A	rosse
+5497	5508	GO:0005694	chromosome.	chromosome	J chromosom
+5532	5542	GO:0005694	chromosome	chromosome	e chromoso
+5632	5641	GO:0009058	formation	biosynthetic	ore CSS a
+5688	5699	GO:0005694	chromosome.	chromosome	s chromosom
+6028	6036	GO:0007610	behavior	behavior	r behavi
+6163	6174	GO:0005694	chromosomes	chromosome	of the same
+6391	6402	GO:0050817	coagulation	coagulation	f coagulati
+6407	6420	GO:0042730	fibrinolysis.	fibrinolysis	d fibrinolysi
+6506	6515	GO:0009058	formation	biosynthetic	ve divers
+6554	6565	GO:0050817	coagulation	coagulation	o coagulati
+6569	6589	GO:0070527	platelet aggregation	platelet	r platelet aggregati
+7218	7228	GO:0005694	chromosome	chromosome	enerated a

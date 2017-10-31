@@ -1,0 +1,223 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+17	24	GO:0023052	signal,	signaling	of the 
+84	93	GO:0097194	apoptosis	execution	genesis A
+84	93	GO:0006915	apoptosis	apoptotic	genesis A
+109	118	GO:0023052	signaling	signaling	phogeneti
+110	124	GO:0051216	chondrogenesis	cartilage	hogenetic prot
+129	141	GO:0001503	osteogenesis	ossification	BMP) family 
+162	167	GO:0005623	cells	cell	P2, B
+173	182	GO:0023052	signaling	signaling	nd BMP7, 
+199	209	GO:0097194	apoptosis.	execution	oughout li
+199	209	GO:0006915	apoptosis.	apoptotic	oughout li
+190	216	GO:0001649	osteoblast differentiation	osteoblast	essed throughout limb deve
+207	224	GO:0060173	limb development.	limb	limb development.
+248	256	GO:0005202	collagen	obsolete	ed in ea
+380	389	GO:0009058	formation	biosynthetic	ic lethal
+370	396	GO:0001649	osteoblast differentiation	osteoblast	ly embryonic lethality, pa
+382	404	GO:0006915	induction of apoptosis	apoptotic	 lethality, particular
+401	415	GO:0051216	chondrogenesis	cartilage	larly for Bmp2
+420	432	GO:0001503	osteogenesis	ossification	Bmp4, and wi
+477	492	GO:0010467	gene expression	gene	 it has been di
+491	500	GO:0097194	apoptosis	execution	ifficult 
+491	500	GO:0006915	apoptosis	apoptotic	ifficult 
+496	505	GO:0023052	signaling	signaling	ult to de
+508	513	GO:0005623	cells	cell	her t
+528	538	GO:0008219	cell death	cell	es of thes
+581	598	GO:0060173	limb development.	limb	limb development.
+604	613	GO:0005202	collagen,	obsolete	rcumvent 
+599	613	GO:0051216	Chondrogenesis	cartilage	To circumvent 
+676	685	GO:0023052	Signaling	signaling	king one 
+692	698	GO:0023052	signal	signaling	 of th
+690	699	GO:0023052	signaling	signaling	re of the
+704	713	GO:0005202	collagen,	obsolete	Ps, using
+733	738	GO:0005623	cells	cell	 in t
+756	766	GO:0097194	apoptosis,	execution	d Bmp4 to 
+756	766	GO:0006915	apoptosis,	apoptotic	d Bmp4 to 
+849	858	GO:0023052	Signaling	signaling	ons, our 
+863	883	GO:0001501	Skeletal Development	skeletal	ts indicate that BMP
+884	892	GO:0005202	collagen	obsolete	 neither
+905	914	GO:0023052	signaling	signaling	dary sign
+910	917	GO:0023052	signals	signaling	signals
+928	937	GO:0097194	apoptotic	execution	 of Sonic
+928	937	GO:0006915	apoptotic	apoptotic	 of Sonic
+938	943	GO:0016265	death	death	Hedgh
+951	960	GO:0023052	signaling	signaling	 in patte
+998	1005	GO:0023052	signals	signaling	signals
+1026	1033	GO:0003675	protein	obsolete	l mesen
+1046	1055	GO:0023052	signaling	signaling	ifying di
+1069	1083	GO:0051216	chondrogenesis	cartilage	We do find tha
+1110	1119	GO:0023052	signaling	signaling	signaling
+1120	1125	GO:0005623	cells	cell	is re
+1140	1146	GO:0023052	signal	signaling	onset 
+1149	1164	GO:0051216	chondrogenesis,	cartilage	chondrogenesis,
+1171	1180	GO:0009058	formation	biosynthetic	nce some 
+1228	1235	GO:0023052	signals	signaling	 defici
+1283	1318	GO:0090269	fibroblast growth factor production	fibroblast	nsations that do form, subsequent c
+1360	1377	GO:0060173	limb development,	limb	lly even in the a
+1455	1482	GO:0002062	chondrocyte differentiation	chondrocyte	f both BMP2 and BMP4 result
+1510	1523	GO:0001503	osteogenesis.	ossification	osteogenesis.
+1512	1536	GO:0005104	fibroblast growth factor	fibroblast	teogenesis. Synopsis A g
+1539	1551	GO:0001503	Osteogenesis	ossification	p of related
+1554	1563	GO:0023052	signaling	signaling	gnaling m
+1567	1582	GO:0051216	chondrogenesis,	cartilage	ules called bon
+1582	1593	GO:0032502	Development	developmental	e morphogen
+1629	1638	GO:0023052	signaling	signaling	ay import
+1646	1660	GO:0051216	chondrogenesis	cartilage	s in the forma
+1655	1664	GO:0009058	formation	biosynthetic	formation
+1679	1693	GO:0051216	chondrogenesis	cartilage	res such as th
+1708	1728	GO:0007165	signal transduction,	signal	r, because different
+1788	1793	GO:0005623	cells	cell	cells
+1841	1851	GO:0023052	signaling,	signaling	embryo and
+1860	1873	GO:0001503	osteogenesis.	ossification	n be redundan
+1878	1887	GO:0023052	Signaling	signaling	h one ano
+1892	1909	GO:0007389	Pattern Formation	pattern	 removal of any s
+1892	1909	GO:0003002	Pattern Formation	regionalization	 removal of any s
+1927	1944	GO:0060173	limb development,	limb	e BMP family may 
+1940	1949	GO:0023052	signaling	signaling	may not r
+2001	2007	GO:0023052	signal	signaling	develo
+2001	2013	GO:0032502	development.	developmental	development.
+2074	2081	GO:0023052	signals	signaling	ing pai
+2091	2100	GO:0023052	signaling	signaling	e factors
+2162	2184	GO:0001502	cartilage condensation	cartilage	ping limb. Although so
+2214	2221	GO:0023052	signals	signaling	signals
+2265	2274	GO:0023052	signaling	signaling	ning” the
+2301	2310	GO:0023052	signaling	signaling	imb, we f
+2314	2319	GO:0005623	cells	cell	no ev
+2342	2348	GO:0023052	signal	signaling	 We do
+2355	2375	GO:0060173	limb bud development	limb	however, that a mini
+2391	2397	GO:0023052	signal	signaling	P sign
+2467	2479	GO:0001503	osteogenesis	ossification	s fail to fo
+2481	2495	GO:0051216	chondrogenesis	cartilage	 in limbs defi
+2517	2531	GO:0001503	bone formation	ossification	 BMP4. Moreove
+2525	2532	GO:0023052	signals	signaling	oreover
+2545	2554	GO:0023052	signaling	signaling	nce of th
+2554	2564	GO:0005694	chromosome	chromosome	ese two BM
+2565	2576	GO:0005694	(Chromosome	chromosome	 family mem
+2616	2627	GO:0032502	development	developmental	e developme
+2620	2635	GO:0051216	chondrogenesis.	cartilage	velopment of bo
+2676	2685	GO:0023052	signaling	signaling	 limbs. T
+2715	2729	GO:0051216	chondrogenesis	cartilage	insight into t
+2749	2756	GO:0023052	signals	signaling	P signa
+2744	2759	GO:0051216	chondrogenesis,	cartilage	se BMP signals 
+2851	2863	GO:0001503	Osteogenesis	ossification	e secreted s
+2920	2934	GO:0001503	Bone formation	ossification	actor β superf
+2947	2952	GO:0005623	cells	cell	ally 
+2984	2999	GO:0001503	bone formation,	ossification	 ability to ind
+3003	3012	GO:0023052	signaling	signaling	ectopic b
+3009	3019	GO:0008152	metabolism	metabolic	c bone for
+3024	3034	GO:0005694	chromosome	chromosome	n when imp
+3045	3066	GO:0012501	programmed cell death	programmed	in soft tissue in viv
+3060	3067	GO:0005488	ligands	binding	in vivo
+3107	3119	GO:0001503	osteogenesis	ossification	 to play an 
+3130	3142	GO:0001503	Osteogenesis	ossification	iverse set o
+3141	3167	GO:0023052	signaling in this process.	signaling	of roles in a wide variety
+3147	3172	GO:0001958	endochondral ossification	endochondral	es in a wide variety of d
+3169	3192	GO:0032502	developmental processes	developmental	f developmental process
+3189	3198	GO:0023052	signaling	signaling	esses [4]
+3198	3213	GO:0010467	gene expression	gene	. Even in the c
+3204	3218	GO:0001503	Bone Formation	ossification	 in the contex
+3225	3238	GO:0009653	morphogenesis	anatomical	e morphogenes
+3255	3264	GO:0023052	signaling	signaling	ructure, 
+3286	3292	GO:0005623	cells,	cell	ay a s
+3341	3352	GO:0005694	chromosome.	chromosome	ng limb dev
+3342	3359	GO:0060173	limb development,	limb	g limb developmen
+3450	3454	GO:0005623	cell	cell	, ce
+3438	3455	GO:0060173	limb development.	limb	f patterning, cel
+3457	3462	GO:0005623	cells	cell	type 
+3494	3499	GO:0005623	cells	cell	on of
+3509	3522	GO:0009793	embryogenesis	embryo	issues, parti
+3509	3522	GO:0009792	embryogenesis	embryo	issues, parti
+3509	3522	GO:0009790	embryogenesis	embryo	issues, parti
+3534	3545	GO:0032502	development	developmental	he skeleton
+3569	3574	GO:0005623	cells	cell	imb d
+3571	3577	GO:0016265	death,	death	b deve
+3566	3582	GO:0060173	limb development	limb	f limb developme
+3592	3602	GO:0023052	signaling,	signaling	h BMP sign
+3596	3605	GO:0023052	signaling	signaling	P signali
+3627	3643	GO:0060173	limb development	limb	 is the establis
+3677	3684	GO:0003675	protein	obsolete	mb axis
+3675	3688	GO:0001503	osteogenesis.	ossification	limb axis. Di
+3729	3735	GO:0005623	cells,	cell	re ins
+3785	3794	GO:0023052	signaling	signaling	) signali
+3899	3905	GO:0007613	memory	memory	er thi
+3931	3946	GO:0001503	bone formation.	ossification	direct. If inde
+3954	3961	GO:0023052	signals	signaling	ong-ran
+3961	3971	GO:0023052	signaling,	signaling	ge effects
+4034	4042	GO:0023052	signals,	signaling	y signal
+4033	4047	GO:0001503	bone formation	ossification	ry signals, th
+4068	4077	GO:0023052	signaling	signaling	have been
+4085	4101	GO:0045453	bone resorption.	bone	bers of the BMP 
+4124	4139	GO:0051216	chondrogenesis,	cartilage	Both are expres
+4174	4183	GO:0023052	signaling	signaling	 the earl
+4196	4201	GO:0005623	cells	cell	imb b
+4178	4202	GO:0005104	fibroblast growth factor	fibroblast	 early posterior limb bu
+4220	4226	GO:0005488	ligand	binding	, alth
+4232	4241	GO:0023052	signaling	signaling	MP7 also 
+4247	4256	GO:0023052	signaling	signaling	second, w
+4261	4270	GO:0097194	apoptotic	execution	 domain o
+4261	4270	GO:0006915	apoptotic	apoptotic	 domain o
+4271	4277	GO:0005623	cells.	cell	 expre
+4296	4311	GO:0016310	phosphorylation	phosphorylation	or limb bud mes
+4338	4344	GO:0005488	ligand	binding	[7] ca
+4381	4387	GO:0023052	signal	signaling	 expre
+4385	4400	GO:0051216	chondrogenesis.	cartilage	ression is grea
+4401	4413	GO:0001503	Osteogenesis	ossification	ly diminishe
+4419	4428	GO:0009058	formation	biosynthetic	he absenc
+4466	4471	GO:0005623	cells	cell	re th
+4482	4489	GO:0023052	signals	signaling	y signa
+4483	4492	GO:0009058	formation	biosynthetic	 signals 
+4519	4523	GO:0004707	MAPK	MAP	 act
+4521	4530	GO:0023052	signaling	signaling	ctivity. 
+4542	4551	GO:0023052	signaling	signaling	P signali
+4576	4588	GO:0001503	osteogenesis	ossification	posteriorly 
+4620	4629	GO:0023052	signaling	signaling	fting exp
+4659	4679	GO:0001501	skeletal development	skeletal	anced by prior low-l
+4666	4684	GO:0007165	signaling pathways	signal	y prior low-level 
+4727	4741	GO:0051216	chondrogenesis	cartilage	owever, whethe
+4763	4777	GO:0001503	bone formation	ossification	ty is required
+4769	4779	GO:0009058	formation,	biosynthetic	required e
+4811	4847	GO:0001649PHENOTYPE	osteoblast differentiation phenotype	osteoblast	or limb patterning by SHH. Bmp2 muta
+4850	4859	GO:0023052	signaling	signaling	embryos d
+4917	4926	GO:0023052	signaling	signaling	eletion o
+4942	4954	GO:0032502	development,	developmental	made, and Bm
+4963	4977	GO:0001503	bone formation	ossification	ent embryos di
+5013	5022	GO:0023052	signaling	signaling	mplete pe
+5040	5050	GO:0097194	apoptosis,	execution	wise pheno
+5040	5050	GO:0006915	apoptosis,	apoptotic	wise pheno
+5135	5144	GO:0097194	apoptosis	execution	t in limb
+5135	5144	GO:0006915	apoptosis	apoptotic	t in limb
+5164	5173	GO:0023052	signaling	signaling	a redunda
+5180	5202	GO:0001502	cartilage condensation	cartilage	tion in anterior-poste
+5220	5229	GO:0009058	formation	biosynthetic	th BMP2 r
+5253	5264	GO:0032502	development	developmental	 addition t
+5315	5324	GO:0009058	formation	biosynthetic	 is close
+5322	5337	GO:0051216	chondrogenesis.	cartilage	sely related to
+5345	5359	GO:0051216	chondrogenesis	cartilage	MP4, is also e
+5371	5376	GO:0005623	cells	cell	the e
+5406	5420	GO:0001503	bone formation	ossification	s expressed in
+5427	5436	GO:0009058	formation	biosynthetic	he anteri
+5438	5447	GO:0097194	apoptosis	execution	 and post
+5438	5447	GO:0006915	apoptosis	apoptotic	 and post
+5473	5487	GO:0051216	chondrogenesis	cartilage	bud mesenchyme
+5543	5553	GO:0023052	signaling,	signaling	H signalin
+5557	5571	GO:0001503	bone formation	ossification	or does its ex
+5603	5612	GO:0009058	formation	biosynthetic	 limb bud
+5659	5665	GO:0023052	signal	signaling	y sign
+5713	5723	GO:0004196	proteinase	obsolete	r, all thr
+5713	5723	GO:0004175	proteinase	endopeptidase	r, all thr
+5719	5729	GO:0004196	proteinase	obsolete	 three of 
+5719	5729	GO:0004175	proteinase	endopeptidase	 three of 
+5742	5747	GO:0030533	tRNA,	triplet	es, B
+5781	5790	GO:0023052	Signaling	signaling	gested to
+5860	5877	GO:0060173	limb development,	limb	ies are establish
+6164	6178	GO:0051216	chondrogenesis	cartilage	e limb by SHH 
+6187	6197	GO:0023052	signaling,	signaling	P signalin
+6219	6233	GO:0001503	bone formation	ossification	senchyme of th
+6306	6311	GO:0030533	tRNA,	triplet	on ex
+6372	6381	GO:0097194	apoptotic	execution	issue whi
+6372	6381	GO:0006915	apoptotic	apoptotic	issue whi
+6382	6387	GO:0005623	cells	cell	h dir
+6406	6415	GO:0023052	signaling	signaling	gy [15]. 
+6416	6429	GO:0006351	transcription	transcription,	MP2, BMP4, an
+6457	6471	GO:0051216	chondrogenesis	cartilage	the interdigit
+6839	6848	GO:0023052	Signaling	signaling	ot show e

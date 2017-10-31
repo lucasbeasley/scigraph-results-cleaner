@@ -1,0 +1,128 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+44	52	GO:0003823	antibody	antigen	in ADAM2
+44	52	GO:0019815	antibody	B	in ADAM2
+44	52	GO:0042571	antibody	immunoglobulin	in ADAM2
+108	113	GO:0005488	Bound	binding	of th
+114	124	GO:0003823	antibodies	antigen	 ADAM gene
+114	124	GO:0019815	antibodies	B	 ADAM gene
+114	124	GO:0042571	antibodies	immunoglobulin	 ADAM gene
+185	193	GO:0003823	antibody	antigen	s system
+185	193	GO:0019815	antibody	B	s system
+185	193	GO:0042571	antibody	immunoglobulin	s system
+215	220	GO:0016265	death	death	M22's
+256	276	GO:0002377	antibody production,	immunoglobulin	suggests it to be an
+312	323	GO:0007585	respiration	respiratory	role in cel
+312	323	GO:0045333	respiration	cellular	role in cel
+392	397	GO:0016265	death	death	nctio
+618	634	GO:0032288	myelin formation	myelin	xia was observed
+709	715	GO:0023052	signal	signaling	major 
+822	828	GO:0023052	signal	signaling	wever,
+1013	1018	GO:0005623	cells	cell	syste
+1056	1072	GO:0032288	myelin formation	myelin	vide clues to un
+1121	1150	GO:0014037	Schwann cell differentiation,	Schwann	 as epileptic seizures and pe
+1269	1277	GO:0003675	proteins	obsolete	proteins
+1462	1476	GO:0009566	fertilization,	fertilization	fertilization,
+1477	1487	GO:0007519	myogenesis	skeletal	myogenesis
+1477	1487	GO:0048740	myogenesis	obsolete	myogenesis
+1476	1492	GO:0032288	myelin formation	myelin	 myogenesis and 
+1492	1504	GO:0022008	neurogenesis	neurogenesis	neurogenesis
+1508	1519	GO:0006508	proteolysis	proteolysis	proteolysis
+1540	1554	GO:0016477	cell migration	cell	ypes of ADAM a
+1552	1569	GO:0032288	myelin formation,	myelin	 are catalyticall
+1608	1621	GO:0005576	extracellular	extracellular	extracellular
+1672	1679	GO:0003675	protein	obsolete	ors [1,
+1742	1758	GO:0032288	myelin formation	myelin	 substrates, inc
+1781	1790	GO:0003823	antibody.	antigen	factor al
+1781	1790	GO:0019815	antibody.	B	factor al
+1781	1790	GO:0042571	antibody.	immunoglobulin	factor al
+1817	1830	GO:0044214	transmembrane	spanning	pidermal grow
+1817	1830	GO:0016021	transmembrane	integral	pidermal grow
+1869	1901	GO:0005154	transforming growth factor alpha	epidermal	transforming growth factor alpha
+1950	1955	GO:0030424	axons	axon	hat A
+1976	1989	GO:0009793	embryogenesis	embryo	embryogenesis
+1976	1989	GO:0009792	embryogenesis	embryo	embryogenesis
+1976	1989	GO:0009790	embryogenesis	embryo	embryogenesis
+1978	1994	GO:0032288	myelin formation	myelin	bryogenesis and 
+2032	2049	GO:0032288	myelin formation.	myelin	of growth factors
+2097	2117	GO:0007160	cell-matrix adhesion	cell-matrix	cell-matrix adhesion
+2119	2124	GO:0030424	axons	axon	hroug
+2162	2172	GO:0015023	syndecans.	obsolete	syndecans.
+2220	2227	GO:0023052	signals	signaling	ntegrin
+2237	2250	GO:0007155	cell adhesion	cell	cell adhesion
+2263	2280	GO:0032288	myelin formation.	myelin	. It has been rep
+2339	2346	GO:0023052	signals	signaling	tile an
+2407	2413	GO:0030424	axons,	axon	ADAM2 
+2421	2428	GO:0023052	signals	signaling	3 are n
+2616	2627	GO:0042552	myelination	myelination	s in vivo. 
+2657	2662	GO:0030424	axons	axon	of AD
+2777	2783	GO:0005634	nuclei	nucleus	ence a
+2795	2813	GO:0003674	molecular function	molecular_function	ests that they are
+2908	2915	GO:0003675	protein	obsolete	protein
+2913	2919	GO:0023052	signal	signaling	in is 
+2936	2948	GO:0009986	cell surface	cell	cell surface
+2985	2993	GO:0003823	antibody	antigen	integrin
+2985	2993	GO:0019815	antibody	B	integrin
+2985	2993	GO:0042571	antibody	immunoglobulin	integrin
+3046	3056	GO:0003823	antibodies	antigen	n the mous
+3046	3056	GO:0019815	antibodies	B	n the mous
+3046	3056	GO:0042571	antibodies	immunoglobulin	n the mous
+3147	3152	GO:0016265	death	death	death
+3322	3328	GO:0005634	Nuclei	nucleus	and AD
+3376	3389	GO:0005576	extracellular	extracellular	extracellular
+3443	3459	GO:0005178	integrin binding	integrin	integrin binding
+3523	3534	GO:0003823	antibodies:	antigen	he disinteg
+3523	3534	GO:0019815	antibodies:	B	he disinteg
+3523	3534	GO:0042571	antibodies:	immunoglobulin	he disinteg
+3671	3676	GO:0005623	cells	cell	does 
+3956	3961	GO:0030424	axons	axon	ing e
+4137	4144	GO:0003675	protein	obsolete	protein
+4293	4298	GO:0007618	mated	mating	ike p
+4293	4298	GO:1990277	mated	parasexual	ike p
+4293	4298	GO:0000747	mated	conjugation	ike p
+4293	4298	GO:0009291	mated	unidirectional	ike p
+4400	4407	GO:0003675	protein	obsolete	protein
+4450	4457	GO:0003675	protein	obsolete	protein
+4538	4547	GO:0003823	antibody,	antigen	antibody,
+4538	4547	GO:0019815	antibody,	B	antibody,
+4538	4547	GO:0042571	antibody,	immunoglobulin	antibody,
+4602	4609	GO:0003675	protein	obsolete	protein
+4743	4762	GO:0002377	Antibody production	immunoglobulin	ates during the fir
+4800	4807	GO:0003675	protein	obsolete	st of t
+4963	4970	GO:0003675	protein	obsolete	es disp
+5074	5081	GO:0003675	protein	obsolete	type pr
+5266	5273	GO:0003675	protein	obsolete	ere ana
+5313	5320	GO:0003675	protein	obsolete	genotyp
+5372	5377	GO:0005488	bound	binding	io of
+5378	5388	GO:0003823	antibodies	antigen	each genot
+5378	5388	GO:0019815	antibodies	B	each genot
+5378	5388	GO:0042571	antibodies	immunoglobulin	each genot
+5417	5422	GO:0005488	bound	binding	ith t
+5423	5433	GO:0003823	antibodies	antigen	e Mendelia
+5423	5433	GO:0019815	antibodies	B	e Mendelia
+5423	5433	GO:0042571	antibodies	immunoglobulin	e Mendelia
+5532	5541	GO:0003823	antibody,	antigen	for embry
+5532	5541	GO:0019815	antibody,	B	for embry
+5532	5541	GO:0042571	antibody,	immunoglobulin	for embry
+5536	5550	GO:0009793	embryogenesis.	embryo	embryogenesis.
+5536	5550	GO:0009792	embryogenesis.	embryo	embryogenesis.
+5536	5550	GO:0009790	embryogenesis.	embryo	embryogenesis.
+5570	5578	GO:0003675	proteins	obsolete	 body we
+5646	5654	GO:0003823	antibody	antigen	and hete
+5646	5654	GO:0019815	antibody	B	and hete
+5646	5654	GO:0042571	antibody	immunoglobulin	and hete
+5767	5774	GO:0003675	protein	obsolete	. Of mo
+5937	5951	GO:0042552	myelinogenesis	myelination	ed for more th
+5958	5962	GO:0005623	cell	cell	year
+5963	5968	GO:0019835	lysis	cytolysis	witho
+6092	6096	GO:0005623	cell	cell	e hu
+6277	6282	GO:0016265	death	death	med u
+6607	6624	GO:0007420	brain development	brain	te similar with t
+6714	6720	GO:0016538	cyclin	cyclin-dependent	t the 
+6759	6777	GO:0001764	neuronal migration	neuron	he mouse CNS. Base
+6806	6813	GO:0003675	protein	obsolete	ttern, 
+6834	6846	GO:0009986	cell surface	cell	stopathologi
+6983	7002	GO:0001764	neuronal migration.	neuron	e cells, granule ce
+7182	7201	GO:0001764	neuronal migration.	neuron	 4I–J). These resul
+7383	7392	GO:0007585	breathing	respiratory	H) and sp
+7430	7441	GO:0007585	respiration	respiratory	uishable wi
+7430	7441	GO:0045333	respiration	cellular	uishable wi

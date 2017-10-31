@@ -1,0 +1,317 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+67	72	GO:0005623	cells	cell	s in 
+95	101	GO:0023052	signal	signaling	ary ch
+225	230	GO:0005623	cells	cell	rters
+257	262	GO:0004617	serum	phosphoglycerate	) and
+268	277	GO:0046903	secretion	secretion	 (encodin
+319	328	GO:0046903	secretion	secretion	 rare aut
+331	339	GO:0003823	antibody	antigen	mal rece
+331	339	GO:0019815	antibody	B	mal rece
+331	339	GO:0042571	antibody	immunoglobulin	mal rece
+343	364	GO:0050892	intestinal absorption	intestinal	e disorder of sterol 
+414	426	GO:0051179	Localization	localization	t sterol lev
+436	443	GO:0003675	protein	obsolete	 upon t
+451	463	GO:0071736	IgG antibody	IgG	ics of sitos
+474	481	GO:0003675	protein	obsolete	ABCG5/s
+480	485	GO:0005623	Cells	cell	stero
+519	527	GO:0003823	antibody	antigen	othesize
+519	527	GO:0019815	antibody	B	othesize
+519	527	GO:0042571	antibody	immunoglobulin	othesize
+596	605	GO:0016020	membrane.	membrane	yet been 
+605	624	GO:0002377	antibody production	immunoglobulin	described in humans
+626	635	GO:0046903	secretion	secretion	ith compl
+673	683	GO:0003823	antibodies	antigen	These prot
+673	683	GO:0019815	antibodies	B	These prot
+673	683	GO:0042571	antibodies	immunoglobulin	These prot
+675	683	GO:0003823	antibody	antigen	ese prot
+675	683	GO:0019815	antibody	B	ese prot
+675	683	GO:0042571	antibody	immunoglobulin	ese prot
+679	688	GO:0003675	proteins,	obsolete	proteins,
+714	723	GO:0046903	secretion	secretion	 humans, 
+733	742	GO:0046903	secretion	secretion	sible for
+773	783	GO:0046903	secretion,	secretion	y and bili
+775	785	GO:0003823	antibodies	antigen	and biliar
+775	785	GO:0019815	antibodies	B	and biliar
+775	785	GO:0042571	antibodies	immunoglobulin	and biliar
+794	804	GO:0046903	secretion.	secretion	secretion.
+802	810	GO:0003823	antibody	antigen	n. Metho
+802	810	GO:0019815	antibody	B	n. Metho
+802	810	GO:0042571	antibody	immunoglobulin	n. Metho
+817	825	GO:0045292	splicing	mRNA	rder to 
+850	860	GO:0003823	antibodies	antigen	we created
+850	860	GO:0019815	antibodies	B	we created
+850	860	GO:0042571	antibodies	immunoglobulin	we created
+866	875	GO:0046903	secretion	secretion	 targeted
+897	904	GO:0003675	protein	obsolete	odel of
+947	956	GO:0046903	secretion	secretion	-2 defici
+955	964	GO:0016020	membranes	membrane	iency alo
+1005	1013	GO:0016020	membrane	membrane	nd exhib
+1026	1032	GO:0004239	mapped	obsolete	emia. 
+1040	1044	GO:0005623	cell	cell	Mice
+1061	1070	GO:0046903	secretion	secretion	g8 have s
+1076	1081	GO:0019835	lysis	cytolysis	cantl
+1086	1096	GO:0003823	antibodies	antigen	reased pla
+1086	1096	GO:0019815	antibodies	B	reased pla
+1086	1096	GO:0042571	antibodies	immunoglobulin	reased pla
+1094	1104	GO:0046903	secretion,	secretion	lasma and 
+1116	1137	GO:0001171	Reverse Transcription	reverse	 sterol levels (sitos
+1137	1154	GO:0003824	enzyme activities	catalytic	terol and campest
+1188	1196	GO:0045292	splicing	mRNA	ia. Inte
+1226	1233	GO:0003675	protein	obsolete	s expre
+1282	1302	GO:0006699	bile acid synthesis,	bile	n-2 deficient mice a
+1321	1330	GO:0046903	secretion	secretion	w an apic
+1335	1344	GO:0003823	antibody,	antigen	pression.
+1335	1344	GO:0019815	antibody,	B	pression.
+1335	1344	GO:0042571	antibody,	immunoglobulin	pression.
+1354	1358	GO:0031672	band	A	y, A
+1367	1375	GO:0003675	protein,	obsolete	cient mi
+1371	1386	GO:0003824	enzyme activity	catalytic	t mice had an i
+1389	1397	GO:0003823	antibody	antigen	ired abi
+1389	1397	GO:0019815	antibody	B	ired abi
+1389	1397	GO:0042571	antibody	immunoglobulin	ired abi
+1415	1424	GO:0009058	Synthesis	biosynthetic	olesterol
+1432	1436	GO:0031672	band	A	le, 
+1495	1499	GO:0031672	band	A	also
+1578	1586	GO:0035188	(hatched	hatching	t sitost
+1610	1618	GO:0003823	antibody	antigen	reased l
+1610	1618	GO:0019815	antibody	B	reased l
+1610	1618	GO:0042571	antibody	immunoglobulin	reased l
+1622	1631	GO:0046903	secretion	secretion	 of bilia
+1641	1650	GO:0046903	secretion	secretion	secretion
+1681	1685	GO:0005623	cell	cell	nclu
+1688	1693	GO:0019835	lysis	cytolysis	n The
+1697	1706	GO:0046903	secretion	secretion	ata indic
+1702	1718	GO:0005886	Plasma membranes	plasma	ndicate that Abc
+1746	1750	GO:0031672	band	A	or b
+1763	1770	GO:0003675	Protein	obsolete	 secret
+1764	1773	GO:0046903	secretion	secretion	secretion
+1771	1779	GO:0003823	antibody	antigen	on and t
+1771	1779	GO:0019815	antibody	B	on and t
+1771	1779	GO:0042571	antibody	immunoglobulin	on and t
+1788	1792	GO:0031672	band	A	of A
+1816	1824	GO:0000224	PNGase F	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine	re profo
+1825	1832	GO:0003675	protein	obsolete	nd effe
+1839	1850	GO:0003823	antibodies,	antigen	 biliary ch
+1839	1850	GO:0019815	antibodies,	B	 biliary ch
+1839	1850	GO:0042571	antibodies,	immunoglobulin	 biliary ch
+1846	1863	GO:0003824	enzyme activities	catalytic	y cholesterol sec
+1857	1865	GO:0003823	antibody	antigen	ol secre
+1857	1865	GO:0019815	antibody	B	ol secre
+1857	1865	GO:0042571	antibody	immunoglobulin	ol secre
+1860	1869	GO:0046903	secretion	secretion	secretion
+1873	1882	GO:0046903	secretion	secretion	n sitoste
+1882	1892	GO:0046903	secretion.	secretion	rol. Since
+1902	1917	GO:0003824	enzyme activity	catalytic	itosterol secre
+1912	1921	GO:0046903	secretion	secretion	secretion
+1930	1940	GO:0005792	microsomes	obsolete	rved, alth
+1969	1974	GO:0005623	cells	cell	stero
+1997	2005	GO:0003675	Proteins	obsolete	ation su
+2033	2043	GO:0003823	antibodies	antigen	 than by A
+2033	2043	GO:0019815	antibodies	B	 than by A
+2033	2043	GO:0042571	antibodies	immunoglobulin	 than by A
+2062	2072	GO:0016020	membranes.	membrane	 be respon
+2073	2082	GO:0016020	Membranes	membrane	ible for 
+2086	2095	GO:0046903	secretion	secretion	secretion
+2077	2099	GO:0005783	endoplasmic reticulum.	endoplasmic	 for its secretion int
+2103	2108	GO:0031672	band.	A	le. B
+2125	2129	GO:0005623	cell	cell	ion 
+2165	2175	GO:0005792	Microsomes	obsolete	stine is a
+2175	2186	GO:0003823	antibodies.	antigen	n important
+2175	2186	GO:0019815	antibodies.	B	n important
+2175	2186	GO:0042571	antibodies.	immunoglobulin	n important
+2195	2218	GO:0042632	cholesterol homeostasis	cholesterol	cholesterol homeostasis
+2221	2229	GO:0003823	antibody	antigen	d repres
+2221	2229	GO:0019815	antibody	B	d repres
+2221	2229	GO:0042571	antibody	immunoglobulin	d repres
+2223	2232	GO:0009058	Synthesis	biosynthetic	represent
+2225	2233	GO:0003823	antibody	antigen	presents
+2225	2233	GO:0019815	antibody	B	presents
+2225	2233	GO:0042571	antibody	immunoglobulin	presents
+2256	2261	GO:0005623	cells	cell	allow
+2256	2264	GO:0003823	antibody	antigen	allows d
+2256	2264	GO:0019815	antibody	B	allows d
+2256	2264	GO:0042571	antibody	immunoglobulin	allows d
+2280	2284	GO:0031672	band	A	ol t
+2289	2296	GO:0051235	storage	maintenance	rt its 
+2292	2298	GO:0005623	cells,	cell	its me
+2296	2305	GO:0008152	metabolic	metabolic	metabolic
+2296	2305	GO:0007552	metabolic	metamorphosis	metabolic
+2313	2325	GO:0051179	localization	localization	. A typical 
+2371	2376	GO:0005623	cells	cell	 of c
+2376	2384	GO:0003675	proteins	obsolete	holester
+2415	2420	GO:0004617	serum	phosphoglycerate	 main
+2442	2448	GO:0031672	bands.	A	hich a
+2507	2516	GO:0046903	secretion	secretion	d compare
+2546	2550	GO:0005623	cell	cell	oles
+2588	2596	GO:0003823	antibody	antigen	gnized m
+2588	2596	GO:0019815	antibody	B	gnized m
+2588	2596	GO:0042571	antibody	immunoglobulin	gnized m
+2604	2608	GO:0005623	cell	cell	 75 
+2632	2640	GO:0003823	antibody	antigen	esterol,
+2632	2640	GO:0019815	antibody	B	esterol,
+2632	2640	GO:0042571	antibody	immunoglobulin	esterol,
+2649	2653	GO:0031672	band	A	chol
+2668	2689	GO:0001171	reverse transcription	reverse	, is absorbed in the 
+2683	2691	GO:0003823	antibody	antigen	n the in
+2683	2691	GO:0019815	antibody	B	n the in
+2683	2691	GO:0042571	antibody	immunoglobulin	n the in
+2750	2755	GO:0005623	cells	cell	refer
+2868	2872	GO:0031672	band	A	ee c
+2898	2902	GO:0031672	band	A	an p
+2932	2938	GO:0023052	signal	signaling	estero
+2962	2970	GO:0003675	protein.	obsolete	the mech
+3042	3049	GO:0003675	protein	obsolete	, throu
+3124	3132	GO:0003823	antibody	antigen	led. Sit
+3124	3132	GO:0019815	antibody	B	led. Sit
+3124	3132	GO:0042571	antibody	immunoglobulin	led. Sit
+3127	3135	GO:0003675	proteins	obsolete	. Sitost
+3163	3171	GO:0003823	antibody	antigen	nown as 
+3163	3171	GO:0019815	antibody	B	nown as 
+3163	3171	GO:0042571	antibody	immunoglobulin	nown as 
+3195	3200	GO:0004617	serum	phosphoglycerate	re au
+3198	3208	GO:0030849	autosomal,	autosome	autosomal,
+3239	3244	GO:0005623	cells	cell	 char
+3237	3245	GO:0003823	antibody	antigen	er chara
+3237	3245	GO:0019815	antibody	B	er chara
+3237	3245	GO:0042571	antibody	immunoglobulin	er chara
+3268	3276	GO:0003823	antibody	antigen	ood and 
+3268	3276	GO:0019815	antibody	B	ood and 
+3268	3276	GO:0042571	antibody	immunoglobulin	ood and 
+3376	3384	GO:0003823	antibody	antigen	emolytic
+3376	3384	GO:0019815	antibody	B	emolytic
+3376	3384	GO:0042571	antibody	immunoglobulin	emolytic
+3390	3399	GO:0003823	antibody.	antigen	des, arth
+3390	3399	GO:0019815	antibody.	B	des, arth
+3390	3399	GO:0042571	antibody.	immunoglobulin	des, arth
+3407	3422	GO:0003824	enzyme activity	catalytic	 arthritis, and
+3436	3441	GO:0005623	cells	cell	erosc
+3443	3454	GO:0004600	cyclophilin	obsolete	rosis [6,7]
+3443	3454	GO:0016018	cyclophilin	cyclosporin	rosis [6,7]
+3462	3470	GO:0003823	antibody	antigen	erolemic
+3462	3470	GO:0019815	antibody	B	erolemic
+3462	3470	GO:0042571	antibody	immunoglobulin	erolemic
+3552	3557	GO:0005623	cells	cell	toste
+3577	3592	GO:0042626	ABC transporter	ATPase	igmasterol, and
+3598	3606	GO:0003823	antibody	antigen	sterol, 
+3598	3606	GO:0019815	antibody	B	sterol, 
+3598	3606	GO:0042571	antibody	immunoglobulin	sterol, 
+3616	3624	GO:0016020	membrane	membrane	their 5-
+3676	3681	GO:0005623	cells	cell	l, wi
+3709	3718	GO:0046903	secretion	secretion	 increase
+3711	3719	GO:0003823	antibody	antigen	ncreased
+3711	3719	GO:0019815	antibody	B	ncreased
+3711	3719	GO:0042571	antibody	immunoglobulin	ncreased
+3716	3724	GO:0003675	proteins	obsolete	sed chol
+3721	3726	GO:0004617	serum	phosphoglycerate	holes
+3742	3757	GO:0003824	enzyme activity	catalytic	inical studies 
+3762	3774	GO:0004600	cyclophilin.	obsolete	shown that a
+3762	3774	GO:0016018	cyclophilin.	cyclosporin	shown that a
+3803	3808	GO:0005623	cells	cell	rb al
+3849	3857	GO:0003823	antibody	antigen	lity to 
+3849	3857	GO:0019815	antibody	B	lity to 
+3849	3857	GO:0042571	antibody	immunoglobulin	lity to 
+3853	3858	GO:0019835	lysis	cytolysis	 to r
+3931	3941	GO:0004196	Proteinase	obsolete	 sterols i
+3931	3941	GO:0004175	Proteinase	endopeptidase	 sterols i
+3941	3949	GO:0003823	antibody	antigen	nto bile
+3941	3949	GO:0019815	antibody	B	nto bile
+3941	3949	GO:0042571	antibody	immunoglobulin	nto bile
+4009	4014	GO:0004617	serum	phosphoglycerate	ndivi
+4034	4040	GO:0033867	fasted	Fas-activated	id and
+4054	4062	GO:0003823	antibody	antigen	excretio
+4054	4062	GO:0019815	antibody	B	excretio
+4054	4062	GO:0042571	antibody	immunoglobulin	excretio
+4054	4063	GO:0007588	excretion	excretion	excretion
+4055	4063	GO:0003823	antibody	antigen	xcretion
+4055	4063	GO:0019815	antibody	B	xcretion
+4055	4063	GO:0042571	antibody	immunoglobulin	xcretion
+4102	4110	GO:0003675	proteins	obsolete	erolemic
+4132	4140	GO:0023052	signals.	signaling	terol se
+4138	4147	GO:0046903	secretion	secretion	secretion
+4150	4154	GO:0033867	fast	Fas-activated	 alm
+4155	4162	GO:0003675	protein	obsolete	st abse
+4205	4213	GO:0033867	fasting,	Fas-activated	a have s
+4245	4254	GO:0046903	secretion	secretion	tative st
+4257	4266	GO:0003823	antibody,	antigen	l 'transp
+4257	4266	GO:0019815	antibody,	B	l 'transp
+4257	4266	GO:0042571	antibody,	immunoglobulin	l 'transp
+4345	4353	GO:0016020	membrane	membrane	membrane
+4401	4408	GO:0003675	protein	obsolete	igrees 
+4420	4427	GO:0004239	mapping	obsolete	mapping
+4422	4431	GO:0046903	secretion	secretion	pping of 
+4427	4437	GO:0046903	secretion.	secretion	 of the ST
+4455	4465	GO:0005694	chromosome	chromosome	chromosome
+4479	4487	GO:0003823	Antibody	antigen	 D2S2294
+4479	4487	GO:0019815	Antibody	B	 D2S2294
+4479	4487	GO:0042571	Antibody	immunoglobulin	 D2S2294
+4493	4498	GO:0005623	cells	cell	2S229
+4505	4510	GO:0005623	cells	cell	3]. B
+4507	4517	GO:0007588	excretion,	excretion	. By using
+4555	4564	GO:0046903	secretion	secretion	creening 
+4573	4582	GO:0045292	splicing,	mRNA	 induced 
+4576	4584	GO:0003823	antibody	antigen	duced by
+4576	4584	GO:0019815	antibody	B	duced by
+4576	4584	GO:0042571	antibody	immunoglobulin	duced by
+4590	4594	GO:0033867	fast	Fas-activated	ure 
+4595	4602	GO:0003675	protein	obsolete	o LXR a
+4640	4650	GO:0046903	secretion,	secretion	 but two g
+4658	4662	GO:0005623	cell	cell	CG5 
+4653	4662	GO:0046903	secretion	secretion	s, ABCG5 
+4675	4683	GO:0003675	proteins	obsolete	ich enco
+4679	4688	GO:0046903	secretion	secretion	encode th
+4689	4694	GO:0005623	cells	cell	 prot
+4690	4698	GO:0003675	proteins	obsolete	proteins
+4698	4708	GO:0046903	secretion.	secretion	 sterolin-
+4703	4712	GO:0046903	secretion	secretion	olin-1 an
+4721	4729	GO:0003823	antibody	antigen	n-2, mut
+4721	4729	GO:0019815	antibody	B	n-2, mut
+4721	4729	GO:0042571	antibody	immunoglobulin	n-2, mut
+4755	4764	GO:0046903	secretion	secretion	sterolemi
+4795	4804	GO:0046903	secretion	secretion	ete mutat
+4807	4811	GO:0033867	fast	Fas-activated	 in 
+4807	4816	GO:0046903	secretion	secretion	 in eithe
+4868	4877	GO:0046903	secretion	secretion	but suffi
+4871	4886	GO:0010467	gene expression	gene	 sufficient to 
+4891	4906	GO:0003824	enzyme activity	catalytic	 the disease [1
+4930	4940	GO:0046903	secretion,	secretion	with sitos
+5039	5057	GO:0016125	sterol metabolism,	sterol	ty of the clinical
+5090	5095	GO:0005623	cells	cell	lin-1
+5127	5132	GO:0005623	cells	cell	 to f
+5207	5216	GO:0046903	secretion	secretion	ach of th
+5220	5228	GO:0003675	proteins	obsolete	proteins
+5269	5282	GO:0044214	transmembrane	spanning	transmembrane
+5269	5282	GO:0016021	transmembrane	integral	transmembrane
+5307	5316	GO:0046903	secretion	secretion	ssical 12
+5317	5330	GO:0044214	transmembrane	spanning	transmembrane
+5317	5330	GO:0016021	transmembrane	integral	transmembrane
+5360	5377	GO:0042626	ABC transporters.	ATPase	ABC transporters.
+5379	5388	GO:0046903	secretion	secretion	he exact 
+5410	5418	GO:0003675	proteins	obsolete	proteins
+5538	5546	GO:0003675	proteins	obsolete	lts in a
+5538	5547	GO:0046903	secretion	secretion	lts in an
+5646	5655	GO:0046903	secretion	secretion	etary cho
+5731	5740	GO:0046903	secretion	secretion	erones fo
+5810	5818	GO:0003823	antibody	antigen	was requ
+5810	5818	GO:0019815	antibody	B	was requ
+5810	5818	GO:0042571	antibody	immunoglobulin	was requ
+5861	5865	GO:0005623	cell	cell	cell
+5861	5869	GO:0003675	proteins	obsolete	cell lin
+5868	5877	GO:0046903	secretion	secretion	ne, as we
+5879	5888	GO:0003823	antibody.	antigen	 in vivo 
+5879	5888	GO:0019815	antibody.	B	 in vivo 
+5879	5888	GO:0042571	antibody.	immunoglobulin	 in vivo 
+5897	5912	GO:0003824	enzyme activity	catalytic	g5/Abcg8 double
+5954	5980	GO:0042282	HMG-CoA reductase activity	hydroxymethylglutaryl-CoA	onal assay has yet been de
+5954	5980	GO:0004420	HMG-CoA reductase activity	hydroxymethylglutaryl-CoA	onal assay has yet been de
+5979	5988	GO:0046903	secretion	secretion	eveloped 
+6027	6036	GO:0046903	secretion	secretion	alf-trans
+6014	6040	GO:0042282	HMG-CoA reductase activity	hydroxymethylglutaryl-CoA	not the two half-transport
+6014	6040	GO:0004420	HMG-CoA reductase activity	hydroxymethylglutaryl-CoA	not the two half-transport
+6107	6111	GO:0004235	pump	obsolete	pump
+6137	6147	GO:0046903	secretion.	secretion	llular loc
+6135	6156	GO:0051641	cellular localization	cellular	cellular localization
+6170	6178	GO:0003675	proteins	obsolete	proteins
+6177	6186	GO:0046903	secretion	secretion	s has yet
+6561	6565	GO:0031672	band	A	only
+6590	6594	GO:0031672	band	A	ters
+6618	6623	GO:0031672	bands	A	rolem

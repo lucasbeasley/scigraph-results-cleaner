@@ -1,0 +1,126 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+40	50	GO:0005694	chromosome	chromosome	chromosome
+107	117	GO:0005694	chromosome	chromosome	tract Back
+117	134	GO:0005886	cells or membrane	plasma	ground The detect
+241	246	GO:0050909	taste	sensory	ntial
+260	265	GO:0050909	Taste	sensory	 Some
+293	301	GO:0003675	proteins	obsolete	 activat
+312	317	GO:0050909	taste	sensory	taste
+492	504	GO:0009293	transduction	transduction	transduction
+538	543	GO:0050909	taste	sensory	 stim
+657	662	GO:0050909	taste	sensory	taste
+771	776	GO:0050909	taste	sensory	taste
+844	854	GO:0005694	chromosome	chromosome	chromosome
+850	860	GO:0005694	chromosome	chromosome	some 6 tha
+941	954	GO:0022831	ion channels,	narrow	 307 coding r
+966	971	GO:0050909	taste	sensory	 nucl
+1222	1228	GO:0050909	taste.	sensory	as2r a
+1315	1325	GO:0005694	chromosome	chromosome	 to QHCl t
+1404	1409	GO:0050909	taste	sensory	es a 
+1418	1431	GO:0005576	extracellular	extracellular	lotype that c
+1579	1584	GO:0050909	taste	sensory	te th
+1603	1615	GO:0009293	transduction	transduction	transduction
+1867	1872	GO:0050909	taste	sensory	taste
+1924	1929	GO:0050909	taste	sensory	leran
+1994	1999	GO:0050909	taste	sensory	ovide
+2018	2023	GO:0050909	taste	sensory	food 
+2133	2138	GO:0050909	taste	sensory	ing f
+2164	2171	GO:0004239	mapping	obsolete	ubstanc
+2166	2171	GO:0050909	taste	sensory	stanc
+2203	2208	GO:0050909	taste	sensory	wo fa
+2270	2275	GO:0050909	taste	sensory	popul
+2288	2293	GO:0050909	taste	sensory	te re
+2331	2337	GO:0050909	taste,	sensory	pithel
+2337	2342	GO:0050909	taste	sensory	ium h
+2353	2364	GO:0005694	chromosomes	chromosome	plicated in
+2383	2395	GO:0009293	transduction	transduction	transduction
+2441	2447	GO:0050909	taste:	sensory	taste:
+2482	2494	GO:0009293	transduction	transduction	timuli [1-8]
+2549	2559	GO:0005694	chromosome	chromosome	es that en
+2567	2577	GO:0005694	chromosome	chromosome	s, the Tas
+2631	2641	GO:0005694	chromosome	chromosome	lian genom
+2639	2649	GO:0005694	chromosome	chromosome	omes near 
+2712	2717	GO:0050909	taste	sensory	taste
+2804	2809	GO:0050909	taste	sensory	dista
+2802	2810	GO:0003675	proteins	obsolete	n distal
+2811	2821	GO:0005694	chromosome	chromosome	chromosome
+2819	2829	GO:0005694	chromosome	chromosome	me 6. Thir
+2903	2913	GO:0005694	chromosome	chromosome	s (includi
+2934	2939	GO:0050909	taste	sensory	57BL/
+2948	2958	GO:0005694	chromosome	chromosome	have been 
+2950	2960	GO:0005694	chromosome	chromosome	ve been id
+3085	3092	GO:0004239	mapping	obsolete	r repre
+3115	3121	GO:0005488	ligand	binding	 gene 
+3131	3141	GO:0005694	chromosome	chromosome	ific bitte
+3143	3148	GO:0050909	taste	sensory	taste
+3156	3165	GO:0023052	signaling	signaling	ative tra
+3214	3219	GO:0050909	taste	sensory	TL) h
+3253	3266	GO:0005576	extracellular	extracellular	 two-bottle i
+3312	3319	GO:0004239	mapping	obsolete	g loci 
+3346	3352	GO:0005488	ligand	binding	], cyc
+3465	3475	GO:0005694	chromosome	chromosome	 chromosom
+3466	3476	GO:0005694	chromosome	chromosome	chromosome
+3561	3567	GO:0005488	ligand	binding	2rs in
+3568	3576	GO:0005488	binding,	binding	the C57B
+3601	3610	GO:0003675	proteins,	obsolete	28]). How
+3726	3731	GO:0050909	taste	sensory	kers 
+3789	3794	GO:0050909	taste	sensory	e ear
+3875	3885	GO:0005694	chromosome	chromosome	ach QTL. S
+3930	3935	GO:0050909	taste	sensory	taste
+3954	3964	GO:0005694	chromosome	chromosome	avioral as
+4083	4088	GO:0050909	taste	sensory	As we
+4167	4172	GO:0050909	taste	sensory	taste
+4173	4182	GO:0007610	behaviors	behavior	behaviors
+4271	4276	GO:0050909	taste	sensory	taste
+4328	4338	GO:0005694	chromosome	chromosome	cal studie
+4364	4376	GO:0009293	transduction	transduction	transduction
+4484	4489	GO:0050909	taste	sensory	 cell
+4549	4554	GO:0019013	Core.	viral	ctiva
+4550	4555	GO:0050909	taste	sensory	tivat
+4559	4568	GO:0003675	proteins,	obsolete	proteins,
+4560	4572	GO:0009293	transduction	transduction	roteins, and
+4595	4607	GO:0009293	transduction	transduction	onium can bl
+4685	4694	GO:0023052	signaling	signaling	 inhibits
+4689	4699	GO:0005694	chromosome	chromosome	ibits intr
+4695	4708	GO:0005622	intracellular	intracellular	intracellular
+4709	4726	GO:0008081	phosphodiesterase	phosphoric	phosphodiesterase
+4795	4805	GO:0005694	chromosome	chromosome	ndependent
+4851	4856	GO:0050909	taste	sensory	timul
+4879	4886	GO:0003675	protein	obsolete	use a t
+4902	4906	GO:0004239	maps	obsolete	ef-a
+4941	4946	GO:0050909	taste	sensory	taste
+4979	4984	GO:0050909	taste	sensory	DBA/2
+5020	5025	GO:0050909	taste	sensory	inbre
+5056	5066	GO:0005694	chromosome	chromosome	li, quinin
+5097	5102	GO:0050909	taste	sensory	toniu
+5103	5108	GO:0005623	cells	cell	 benz
+5107	5117	GO:0005694	chromosome	chromosome	zoate (DB)
+5200	5206	GO:0050909	taste,	sensory	 mappe
+5201	5207	GO:0004239	mapped	obsolete	mapped
+5229	5234	GO:0050909	taste	sensory	taste
+5265	5275	GO:0005694	chromosome	chromosome	chromosome
+5347	5357	GO:0005694	chromosome	chromosome	lyzed the 
+5530	5538	GO:0003675	proteins	obsolete	 these 2
+5579	5584	GO:0050909	taste	sensory	 corr
+5601	5606	GO:0050909	taste	sensory	taste
+5601	5611	GO:0005694	chromosome	chromosome	taste sens
+5628	5633	GO:0050909	Taste	sensory	Taste
+5667	5677	GO:0005694	chromosome	chromosome	TL for bit
+5681	5686	GO:0050909	taste	sensory	taste
+5740	5750	GO:0005694	chromosome	chromosome	d by the c
+5814	5819	GO:0050909	taste"	sensory	brief
+5920	5925	GO:0050909	taste	sensory	nd D2
+5954	5959	GO:0050909	taste	sensory	taste
+5965	5975	GO:0005694	chromosome	chromosome	tivity to 
+5979	5984	GO:0050909	taste	sensory	taste
+6081	6091	GO:0005694	chromosome	chromosome	ns that we
+6099	6104	GO:0050909	taste	sensory	ive b
+6144	6150	GO:0005488	ligand	binding	ligand
+6237	6242	GO:0050909	taste	sensory	taste
+6410	6417	GO:0003675	protein	obsolete	ed by t
+6436	6442	GO:0005488	ligand	binding	atio) 
+6443	6450	GO:0005488	binding	binding	n a con
+6486	6505	GO:0007165	signaling cascades;	signal	 compounds (Figure 
+6602	6609	GO:0003675	protein	obsolete	 p < 0.
+6665	6670	GO:0050909	taste	sensory	B6 mi
+6829	6834	GO:0050909	taste	sensory	s of 

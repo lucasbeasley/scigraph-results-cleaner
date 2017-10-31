@@ -1,0 +1,238 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+13	31	GO:0008584	testis development	male	 Act as Antagonist
+34	41	GO:0023052	Signals	signaling	Signals
+64	81	GO:0007530	Sex Determination	sex	Sex Determination
+106	116	GO:0065007	regulatory	biological	ing member
+137	145	GO:0003675	protein,	obsolete	ated MMT
+174	198	GO:0005104	fibroblast growth factor	fibroblast	fibroblast growth factor
+205	223	GO:0008283	cell proliferation	cell	families coordinat
+225	232	GO:0040007	growth,	growth	growth,
+233	247	GO:0009653	morphogenesis,	anatomical	morphogenesis,
+254	264	GO:0065007	regulatory	biological	fferentiat
+286	291	GO:0005623	cells	cell	cells
+299	311	GO:0032502	development.	developmental	development.
+319	328	GO:0023052	signaling	signaling	mouse, Fg
+387	405	GO:0007530	sex determination.	sex	sex determination.
+484	492	GO:0023052	signals,	signaling	 testis 
+494	499	GO:0005623	cells	cell	velop
+485	503	GO:0008584	testis development	male	testis development
+558	565	GO:0023052	signals	signaling	signals
+691	704	GO:0006351	Transcription	transcription,	rowth factor 
+738	745	GO:0023052	signals	signaling	signals
+740	748	GO:0003675	proteins	obsolete	gnals to
+758	776	GO:0007530	sex determination.	sex	sex determination.
+756	776	GO:0031012	extracellular matrix	extracellular	e sex determination.
+1089	1096	GO:0023052	signals	signaling	onad is
+1106	1115	GO:0023052	signaling	signaling	d by anta
+1132	1142	GO:0008219	cell death	cell	f9 and Wnt
+1147	1154	GO:0023052	signals	signaling	e role 
+1172	1180	GO:0003823	antibody	antigen	terminin
+1172	1180	GO:0019815	antibody	B	terminin
+1172	1180	GO:0042571	antibody	immunoglobulin	terminin
+1173	1182	GO:0097194	apoptotic	execution	ermining 
+1173	1182	GO:0006915	apoptotic	apoptotic	ermining 
+1197	1204	GO:0040007	growth,	growth	he case
+1205	1219	GO:0009653	morphogenesis,	anatomical	of mammals—is 
+1274	1282	GO:0023052	signals.	signaling	signals.
+1274	1284	GO:0005694	Chromosome	chromosome	signals. I
+1297	1314	GO:0007530	sex determination	sex	sex determination
+1317	1326	GO:0097194	apoptotic	execution	 other ve
+1317	1326	GO:0006915	apoptotic	apoptotic	 other ve
+1327	1332	GO:0005623	cells	cell	tebra
+1351	1359	GO:0003823	antibody	antigen	ough any
+1351	1359	GO:0019815	antibody	B	ough any
+1351	1359	GO:0042571	antibody	immunoglobulin	ough any
+1400	1407	GO:0003675	protein	obsolete	een the
+1414	1433	GO:0007165	signaling pathways.	signal	signaling pathways.
+1415	1433	GO:0008406	gonad development.	gonad	ignaling pathways.
+1414	1438	GO:0005104	fibroblast growth factor	fibroblast	signaling pathways. Intr
+1439	1446	GO:0003675	protein	obsolete	duction
+1451	1462	GO:0032502	development	developmental	development
+1570	1578	GO:0003823	antibody	antigen	present 
+1570	1578	GO:0019815	antibody	B	present 
+1570	1578	GO:0042571	antibody	immunoglobulin	present 
+1550	1578	GO:0060008	Sertoli cell differentiation	Sertoli	 testis and ovary represent 
+1604	1609	GO:0005623	cells	cell	devel
+1604	1615	GO:0032502	development	developmental	development
+1610	1617	GO:0003675	protein	obsolete	pment f
+1644	1649	GO:0005623	cells	cell	ic go
+1648	1654	GO:0023052	signal	signaling	onad. 
+1690	1701	GO:0032502	development	developmental	development
+1713	1720	GO:0003675	protein	obsolete	d is hi
+1730	1736	GO:0005623	cells,	cell	se amo
+1750	1768	GO:0008406	gonad development.	gonad	wever, the underly
+1883	1896	GO:0005886	cell membrane	plasma	s, the embryo
+1909	1915	GO:0023052	signal	signaling	made u
+1950	1967	GO:0007530	sex determination	sex	ls and somatic ce
+2017	2022	GO:0005623	cells	cell	cells
+2035	2063	GO:0060008	Sertoli cell differentiation	Sertoli	 to be bipotential, and can 
+2059	2068	GO:0023052	signaling	signaling	can diffe
+2080	2089	GO:0009058	formation	biosynthetic	o ovarian
+2150	2155	GO:0005623	cells	cell	cells
+2307	2324	GO:0007530	sex determination	sex	 (dosage-sensitiv
+2329	2334	GO:0005623	cells	cell	 reve
+2333	2337	GO:0005623	cell	cell	ersa
+2382	2390	GO:0023052	signals.	signaling	on on th
+2375	2393	GO:0008283	Cell Proliferation	cell	al region on the X
+2393	2397	GO:0005623	cell	cell	 chr
+2392	2404	GO:0000805	X chromosome	X	X chromosome
+2405	2412	GO:0003675	protein	obsolete	protein
+2437	2442	GO:0005623	cells	cell	ox 9)
+2423	2442	GO:0007165	signaling pathways,	signal	Sry-like HMG box 9)
+2434	2452	GO:0008283	cell proliferation	cell	G box 9), Fgf9 (fi
+2576	2594	GO:0008283	cell proliferation	cell	in XX and XY gonad
+2600	2605	GO:0005623	cells	cell	]. Th
+2638	2655	GO:0007530	sex determination	sex	sex determination
+2685	2702	GO:0048513	organ development	organ	organ development
+2714	2721	GO:0007067	mitotic	mitotic	 and th
+2722	2726	GO:0005623	cell	cell	t th
+2776	2781	GO:0005623	cells	cell	is pr
+2791	2796	GO:0007618	mated	mating	rd te
+2791	2796	GO:1990277	mated	parasexual	rd te
+2791	2796	GO:0000747	mated	conjugation	rd te
+2791	2796	GO:0009291	mated	unidirectional	rd te
+2794	2812	GO:0008584	testis development	male	testis development
+2812	2823	GO:0008219	cell death,	cell	 by simulta
+2862	2869	GO:0005623	cells).	cell	 suppor
+2885	2892	GO:0003675	protein	obsolete	e and i
+2892	2910	GO:0008283	cell proliferation	cell	nitiating a male-s
+2938	2945	GO:0003675	protein	obsolete	m. All 
+2978	2985	GO:0023052	signals	signaling	ests th
+3031	3038	GO:0023052	Signals	signaling	 For ex
+3048	3065	GO:0007530	Sex Determination	sex	h proliferation [
+3085	3090	GO:0005623	cells	cell	cells
+3096	3101	GO:0005623	cells	cell	igger
+3114	3123	GO:0009058	formation	biosynthetic	formation
+3169	3198	GO:0060008	Sertoli cell differentiation.	Sertoli	Sertoli cell differentiation.
+3184	3199	GO:0006351	transcriptional	transcription,	fferentiation. 
+3200	3210	GO:0065007	regulation	biological	ry, a Y ch
+3214	3218	GO:0005623	cell	cell	some
+3244	3250	GO:0005623	cells.	cell	ry sex
+3235	3253	GO:0007165	signaling pathways	signal	the primary sex-de
+3254	3259	GO:0005623	cells	cell	ermin
+3271	3276	GO:0005623	cells	cell	mamma
+3323	3340	GO:0007530	sex determination	sex	 XX embryos, or i
+3369	3374	GO:0005623	Cells	cell	ion o
+3367	3390	GO:0051170	import into the nucleus	nuclear	etion of Sry—cells in t
+3403	3411	GO:0023052	signals.	signaling	ow an ov
+3413	3418	GO:0005623	cells	cell	ian d
+3443	3456	GO:0005622	intracellular	intracellular	enetic eviden
+3481	3489	GO:0003675	protein.	obsolete	], and e
+3500	3505	GO:0005623	cells	cell	tudie
+3512	3520	GO:0023052	signals.	signaling	 reporte
+3524	3535	GO:0065007	regulation,	biological	ansgenes [2
+3558	3563	GO:0005623	cells	cell	 expr
+3547	3576	GO:0060008	Sertoli cell differentiation,	Sertoli	te that Sry expression is req
+3577	3599	GO:1990271	anti-Mullerian hormone	obsolete	ired only in precursor
+3606	3616	GO:0065007	regulation	biological	e somatic 
+3656	3661	GO:0005623	cells	cell	ry in
+3634	3665	GO:0005160	transforming growth factor beta	transforming	neage. Expression of Sry in the
+3666	3676	GO:0023052	signaling,	signaling	e bipotent
+3680	3685	GO:0005623	cells	cell	cells
+3674	3687	GO:0005622	intracellular	intracellular	ntial cells l
+3712	3733	GO:0030154	cell differentiation,	cell	tion as testis-specif
+3726	3734	GO:0003823	antibody	antigen	-specifi
+3726	3734	GO:0019815	antibody	B	-specifi
+3726	3734	GO:0042571	antibody	immunoglobulin	-specifi
+3743	3750	GO:0023052	signals	signaling	 cells 
+3738	3751	GO:0009653	morphogenesis	anatomical	rtoli cells r
+3777	3789	GO:0051179	localization	localization	ls, the para
+3786	3796	GO:0065007	regulation	biological	arallel ce
+3794	3798	GO:0005623	cell	cell	cell
+3806	3819	GO:0048513	organogenesis	organ	 the ovary [2
+3872	3876	GO:0005623	cell	cell	cell
+3877	3882	GO:0005623	cells	cell	type 
+3920	3935	GO:0006351	transcriptional	transcription,	ere is substant
+4033	4042	GO:0023052	signaling	signaling	ferentiat
+4063	4081	GO:0007165	signaling pathways	signal	cases where this t
+4101	4120	GO:0008584	testis development.	male	hed, ovary differen
+4140	4160	GO:0030154	cell differentiation	cell	 Sry expression begi
+4157	4162	GO:0005623	cells	cell	egins
+4165	4178	GO:0009653	morphogenesis	anatomical	xpression pat
+4344	4349	GO:0005623	cells	cell	 gene
+4384	4391	GO:0023052	signals	signaling	evelopi
+4414	4432	GO:0007530	sex determination.	sex	tion of Sox9 expre
+4427	4436	GO:0023052	signaling	signaling	expressio
+4527	4537	GO:0003823	Antibodies	antigen	f Sox9 in 
+4527	4537	GO:0019815	Antibodies	B	f Sox9 in 
+4527	4537	GO:0042571	Antibodies	immunoglobulin	f Sox9 in 
+4531	4548	GO:0038001	paracrine signals	paracrine	x9 in the XX gona
+4559	4577	GO:0008584	testis development	male	testis development
+4612	4617	GO:0005623	(Cell	cell	at So
+4618	4627	GO:0023052	Signaling	signaling	9 plays a
+4644	4662	GO:0007530	sex determination.	sex	sex determination.
+4703	4708	GO:0005623	cells	cell	, exp
+4717	4728	GO:0008219	cell death,	cell	f Sox9 is k
+4814	4819	GO:0005623	cells	cell	media
+4834	4838	GO:0005623	cell	cell	expr
+4883	4892	GO:0097194	apoptotic	execution	ressing c
+4883	4892	GO:0006915	apoptotic	apoptotic	ressing c
+4891	4896	GO:0005623	cells	cell	cells
+4893	4897	GO:0005623	cell	cell	lls 
+4906	4915	GO:0097194	Apoptotic	execution	table rep
+4906	4915	GO:0006915	Apoptotic	apoptotic	table rep
+4916	4921	GO:0005623	cells	cell	rter 
+4932	4937	GO:0005623	cells	cell	d tha
+4941	4945	GO:0005623	cell	cell	ce t
+4943	4948	GO:0005623	(Cell	cell	 test
+4949	4959	GO:0023052	Signaling;	signaling	s differen
+4968	4976	GO:0003823	Antibody	antigen	s establ
+4968	4976	GO:0019815	Antibody	B	s establ
+4968	4976	GO:0042571	Antibody	immunoglobulin	s establ
+4977	4984	GO:0005488	binding	binding	shed, a
+5038	5043	GO:0005623	cells	cell	cells
+5033	5046	GO:0005576	extracellular	extracellular	s of cells th
+5037	5047	GO:0003823	antibodies	antigen	 cells tha
+5037	5047	GO:0019815	antibodies	B	 cells tha
+5037	5047	GO:0042571	antibodies	immunoglobulin	 cells tha
+5175	5193	GO:0007165	signaling pathways	signal	signaling pathways
+5192	5200	GO:0003823	antibody	antigen	s includ
+5192	5200	GO:0019815	antibody	B	s includ
+5192	5200	GO:0042571	antibody	immunoglobulin	s includ
+5223	5228	GO:0005623	(Cell	cell	Ir (i
+5224	5229	GO:0005623	cells	cell	r (in
+5238	5248	GO:0008219	cell death	cell	e growth f
+5245	5251	GO:0005623	cells.	cell	h fact
+5302	5306	GO:0005623	cell	cell	ulin
+5297	5308	GO:0065007	regulation.	biological	r/insulin r
+5301	5309	GO:0003823	antibody	antigen	sulin re
+5301	5309	GO:0019815	antibody	B	sulin re
+5301	5309	GO:0042571	antibody	immunoglobulin	sulin re
+5330	5335	GO:0005623	cells	cell	oss o
+5415	5428	GO:0005576	extracellular	extracellular	extracellular
+5433	5441	GO:0003823	antibody	antigen	aling pa
+5433	5441	GO:0019815	antibody	B	aling pa
+5433	5441	GO:0042571	antibody	immunoglobulin	aling pa
+5429	5447	GO:0007165	signaling pathways	signal	signaling pathways
+5445	5450	GO:0005623	cells	cell	ys pl
+5479	5505	GO:0007538	primary sex determination.	primary	primary sex determination.
+5529	5547	GO:0038001	paracrine signals,	paracrine	ull mutation in Fg
+5621	5625	GO:0005623	cell	cell	spec
+5654	5659	GO:0005623	cells	cell	ng ce
+5657	5676	GO:0008283	cell proliferation,	cell	cell proliferation,
+5669	5688	GO:0008283	cell proliferation,	cell	ration, mesonephric
+5689	5704	GO:0016477	cell migration,	cell	cell migration,
+5717	5727	GO:0009058	formation,	biosynthetic	formation,
+5771	5778	GO:0023052	signals	signaling	6,27]. 
+5810	5817	GO:0023052	signals	signaling	signals
+5873	5893	GO:0031012	extracellular matrix	extracellular	 sexes, but becomes 
+5934	5950	GO:0010467	gene expression,	gene	a reciprocal man
+5940	5950	GO:0007586	digestion,	digestion	procal man
+5951	5956	GO:0005623	cells	cell	er, e
+5979	5997	GO:0008283	cell proliferation	cell	h is also initiall
+6065	6085	GO:0031012	extracellular matrix	extracellular	nads with a null mut
+6121	6126	GO:0005623	cells	cell	spect
+6137	6144	GO:0003675	protein	obsolete	ular di
+6148	6153	GO:0004617	serum	phosphoglycerate	entia
+6269	6278	GO:0023052	signaling	signaling	ly that S
+6320	6326	GO:0005623	cells,	cell	in Wnt
+6515	6540	GO:0007538	primary sex determination	primary	primary sex determination
+6559	6566	GO:0023052	signals	signaling	ntegrat
+6613	6628	GO:0006351	transcriptional	transcription,	elationship of 
+6718	6731	GO:0005622	intracellular	intracellular	w that the lo
+6736	6741	GO:0005623	cells	cell	 Fgf9
+6789	6801	GO:0032502	development,	developmental	the expressi
+6786	6813	GO:0002062	chondrocyte differentiation	chondrocyte	ct the expression of SRY or
+6838	6843	GO:0005623	cells	cell	n of 
+6840	6853	GO:0005622	intracellular	intracellular	of SOX9; howe
+6854	6860	GO:0023052	signal	signaling	er, SO

@@ -1,0 +1,98 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+73	97	GO:0048468	terminal differentiation	cell	s Abstract Although comp
+90	103	GO:0009793	embryogenesis	embryo	gh compound h
+90	103	GO:0009792	embryogenesis	embryo	gh compound h
+90	103	GO:0009790	embryogenesis	embryo	gh compound h
+187	202	GO:0006351	transcriptional	transcription,	common in human
+240	252	GO:0032502	development,	developmental	mpact diseas
+438	443	GO:0005623	cells	cell	kgrou
+591	595	GO:0005623	cell	cell	ompo
+630	635	GO:0005623	cells	cell	ratio
+677	682	GO:0005623	cells	cell	ons i
+689	699	GO:0006281	DNA repair	DNA	DNA repair
+710	724	GO:0006351	transcription,	transcription,	transcription,
+721	726	GO:0005623	cells	cell	on, r
+754	759	GO:0005623	cells	cell	 rang
+809	814	GO:0005623	cells	cell	posit
+847	852	GO:0005623	cells	cell	eria.
+900	905	GO:0005623	cells	cell	anism
+965	971	GO:0023052	signal	signaling	lleles
+983	990	GO:0023052	signal.	signaling	the fol
+989	995	GO:0005634	nuclei	nucleus	llowin
+1000	1004	GO:0005623	cell	cell	) th
+1062	1067	GO:0005623	cells	cell	 vari
+1067	1075	GO:0003675	proteins	obsolete	ety of d
+1118	1131	GO:0006351	transcription	transcription,	transcription
+1237	1241	GO:0005623	cell	cell	ecif
+1338	1344	GO:0023052	signal	signaling	n rare
+1362	1366	GO:0005623	cell	cell	nica
+1477	1483	GO:0007568	Ageing	aging	orders
+1511	1517	GO:0005623	cells.	cell	 of co
+1640	1645	GO:0005488	bound	binding	allel
+1673	1678	GO:0043863	HpaI;	4-hydroxy-2-ketopimelate	d as 
+1839	1846	GO:0003675	protein	obsolete	ts pote
+1956	1960	GO:0005623	cell	cell	comp
+1950	1978	GO:0006283	transcription-coupled repair	transcription-coupled	lelic complementation at cli
+2042	2047	GO:0005623	cells	cell	tudie
+2063	2072	GO:0008152	metabolic	metabolic	f metabol
+2063	2072	GO:0007552	metabolic	metamorphosis	f metabol
+2075	2083	GO:0003675	proteins	obsolete	disorder
+2116	2122	GO:0005623	cells.	cell	ng pro
+2177	2190	GO:0006351	transcription	transcription,	 galactose-1-
+2204	2208	GO:0005623	cell	cell	ylyl
+2291	2296	GO:0005623	cells	cell	idual
+2382	2387	GO:0005623	cells	cell	 (wil
+2412	2417	GO:0005623	Cells	cell	tic i
+2446	2460	GO:0006351	transcription,	transcription,	 alleles (refe
+2590	2594	GO:0005623	cell	cell	h am
+2641	2647	GO:0005623	cells,	cell	comple
+2666	2670	GO:0005623	cell	cell	ate 
+2679	2686	GO:0003675	protein	obsolete	ainment
+3113	3126	GO:0006351	transcription	transcription,	sal transcrip
+3266	3271	GO:0005623	cells	cell	H fun
+3426	3439	GO:0071897	DNA synthesis	DNA	dystrophy (TT
+3483	3496	GO:0032774	RNA synthesis	RNA	ntation anoma
+3581	3599	GO:0070911	(global genome NER	global	so present with gr
+3618	3628	GO:0003823	antibodies	antigen	d primary 
+3618	3628	GO:0019815	antibodies	B	d primary 
+3618	3628	GO:0042571	antibodies	immunoglobulin	d primary 
+3604	3630	GO:0006283	transcription-coupled NER)	transcription-coupled	retardation and primary ne
+3692	3706	GO:0009411	response to UV	response	ntal progeroid
+3804	3811	GO:0003675	protein	obsolete	ing in 
+3831	3840	GO:0000496	base pair	base	ion, but 
+4018	4031	GO:0006351	transcription	transcription,	sal transcrip
+4051	4055	GO:0005623	cell	cell	fic 
+4076	4089	GO:0032774	RNA synthesis	RNA	 related diso
+4141	4154	GO:0071897	DNA synthesis	DNA	ith the neuro
+4153	4158	GO:0005623	cells	cell	odeve
+4145	4163	GO:0032502	neurodevelopmental	developmental	the neurodevelopme
+4248	4254	GO:0005623	cells.	cell	D muta
+4248	4258	GO:0042633	hair cycle	hair	D mutation
+4288	4294	GO:0005623	cells,	cell	sive d
+4385	4393	GO:0003675	proteins	obsolete	ative of
+4399	4404	GO:0005623	cells	cell	orres
+4418	4428	GO:0042633	hair cycle	hair	mes. Allel
+4584	4588	GO:0005623	Cell	cell	chiz
+4679	4684	GO:0005623	cells	cell	hus c
+4740	4745	GO:0005623	cells	cell	. Thi
+4772	4779	GO:0003675	protein	obsolete	 as eit
+4896	4901	GO:0005623	cells	cell	ntifi
+4931	4944	GO:0009650	UV resistance	UV	omplementatio
+5093	5098	GO:0005623	cells	cell	radig
+5100	5105	GO:0005623	cells	cell	to ex
+5127	5132	GO:0005623	cells	cell	eneit
+5160	5173	GO:0006351	Transcription	transcription,	 Previously, 
+5422	5429	GO:0007568	ageing,	aging	gmental
+5459	5469	GO:0006281	DNA repair	DNA	ellular DN
+5451	5475	GO:0048468	terminal differentiation	cell	tures, cellular DNA repa
+5509	5514	GO:0005623	cells	cell	prese
+5647	5660	GO:0006351	transcription	transcription,	t mutation en
+5933	5938	GO:0005623	cells	cell	ransc
+6092	6099	GO:0003675	protein	obsolete	ant XPD
+6106	6110	GO:0005623	cell	cell	n (X
+6189	6204	GO:0006351	transcriptional	transcription,	d to be viable 
+6268	6292	GO:0048468	terminal differentiation	cell	t observed, neither amon
+6365	6369	GO:0005623	cell	cell	 The
+6557	6564	GO:0003675	protein	obsolete	sential
+6568	6596	GO:0006283	transcription-coupled repair	transcription-coupled	tein as a result of gene tar
+6728	6732	GO:0005623	cell	cell	st s

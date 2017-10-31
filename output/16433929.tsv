@@ -1,0 +1,216 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+32	47	GO:0035822	gene conversion	gene	lantation embry
+52	63	GO:0032502	development	developmental	development
+75	80	GO:0005623	cells	cell	tract
+112	130	GO:0004198	calpain activities	calcium-dependent	ain are ubiquitous
+130	144	GO:0009793	embryogenesis.	embryo	ly expressed p
+130	144	GO:0009792	embryogenesis.	embryo	ly expressed p
+130	144	GO:0009790	embryogenesis.	embryo	ly expressed p
+187	197	GO:0007049	cell cycle	cell	cell cycle
+197	201	GO:0005623	cell	cell	 pro
+231	236	GO:0005623	cells	cell	es an
+238	244	GO:0005623	cells.	cell	cell d
+239	248	GO:0016020	membranes	membrane	ell death
+238	249	GO:0008219	cell death.	cell	cell death.
+288	298	GO:0007565	gestation.	female	ed of dist
+326	333	GO:0023052	signal.	signaling	oded by
+341	356	GO:0035822	gene conversion	gene	μ-calpain) or C
+387	397	GO:0065007	regulatory	biological	regulatory
+407	421	GO:0009793	embryogenesis.	embryo	ncoded by Capn
+407	421	GO:0009792	embryogenesis.	embryo	ncoded by Capn
+407	421	GO:0009790	embryogenesis.	embryo	ncoded by Capn
+482	486	GO:0005623	cell	cell	n an
+512	519	GO:0023052	signal.	signaling	resulte
+522	526	GO:0005623	cell	cell	n em
+532	549	GO:0004198	calpain activity.	calcium-dependent	c lethality, ther
+630	644	GO:0009793	embryogenesis.	embryo	embryogenesis.
+630	644	GO:0009792	embryogenesis.	embryo	embryogenesis.
+630	644	GO:0009790	embryogenesis.	embryo	embryogenesis.
+653	669	GO:0004198	calpain activity	calcium-dependent	on of the Capn1 
+739	744	GO:0005623	cells	cell	d com
+796	801	GO:0005623	cells	cell	of m-
+829	834	GO:0016265	death	death	death
+921	925	GO:0004239	maps	obsolete	dele
+993	1009	GO:0004198	calpain activity	calcium-dependent	stems cells and 
+1119	1124	GO:0005623	cells	cell	homoz
+1263	1269	GO:0005623	cells,	cell	mbryos
+1557	1561	GO:0005623	cell	cell	, an
+1591	1602	GO:0032502	development	developmental	development
+1622	1626	GO:0005623	cell	cell	ion 
+1707	1721	GO:0009793	embryogenesis,	embryo	nown as μ-calp
+1707	1721	GO:0009792	embryogenesis,	embryo	nown as μ-calp
+1707	1721	GO:0009790	embryogenesis,	embryo	nown as μ-calp
+1717	1727	GO:0004196	proteinase	obsolete	calpain (c
+1717	1727	GO:0004175	proteinase	endopeptidase	calpain (c
+1722	1731	GO:0016020	Membranes	membrane	in (calpa
+1759	1771	GO:0032502	development.	developmental	2), are the 
+1795	1800	GO:0005623	cells	cell	ne fa
+1944	1950	GO:0005623	cells.	cell	 (μ-80
+2028	2034	GO:0005623	cells,	cell	a regu
+2030	2040	GO:0065007	regulatory	biological	regulatory
+2028	2041	GO:0009793	embryogenesis	embryo	a regulatory 
+2028	2041	GO:0009792	embryogenesis	embryo	a regulatory 
+2028	2041	GO:0009790	embryogenesis	embryo	a regulatory 
+2089	2103	GO:0009793	embryogenesis.	embryo	d m-80 k subun
+2089	2103	GO:0009792	embryogenesis.	embryo	d m-80 k subun
+2089	2103	GO:0009790	embryogenesis.	embryo	d m-80 k subun
+2113	2117	GO:0005623	cell	cell	62% 
+2174	2179	GO:0005623	cells	cell	ms of
+2192	2197	GO:0005623	cells	cell	rotei
+2191	2198	GO:0003675	protein	obsolete	protein
+2307	2312	GO:0005623	cells	cell	rns o
+2316	2332	GO:0035822	gene conversion.	gene	 and m-calpain i
+2353	2363	GO:0005694	chromosome	chromosome	uggest the
+2392	2397	GO:0005623	cells	cell	and d
+2432	2447	GO:0016310	phosphorylation	phosphorylation	gnations derive
+2450	2455	GO:0005623	cells	cell	om th
+2459	2467	GO:0003675	proteins	obsolete	vels of 
+2480	2500	GO:0030168	platelet activation.	platelet	 in vitro for optima
+2500	2505	GO:0005623	cells	cell	l act
+2564	2570	GO:0005623	cells,	cell	or m-c
+2598	2604	GO:0005623	cells,	cell	med th
+2654	2661	GO:0023052	signal.	signaling	nsitivi
+2735	2739	GO:0005623	cell	cell	ted.
+2747	2753	GO:0005623	cells,	cell	more, 
+2780	2786	GO:0023052	signal	signaling	Ca2+ c
+2784	2788	GO:0005623	cell	cell	 con
+2817	2833	GO:0004198	calpain activity	calcium-dependent	than 1 μM, it is
+2893	2903	GO:0065007	regulation	biological	regulation
+2942	2946	GO:0005623	cell	cell	know
+2978	2994	GO:0004198	calpain activity	calcium-dependent	calpain activity
+3052	3056	GO:0005623	cell	cell	unct
+3183	3190	GO:0040007	growth,	growth	growth,
+3191	3203	GO:0032502	development,	developmental	development,
+3231	3237	GO:0040007	growth	growth	growth
+3255	3268	GO:0000003	reproduction,	reproduction	tion [4], cel
+3265	3275	GO:0007049	cell cycle	cell	cell cycle
+3295	3310	GO:0007165	signal cascades	signal	signal cascades
+3299	3310	GO:0032502	development	developmental	al cascades
+3358	3366	GO:0016020	membrane	membrane	membrane
+3401	3413	GO:0005856	cytoskeleton	cytoskeleton	cytoskeleton
+3418	3432	GO:0016477	cell migration	cell	cell migration
+3445	3469	GO:0010941	regulation of cell death	regulation	regulation of cell death
+3479	3487	GO:0001906	necrosis	cell	necrosis
+3479	3487	GO:0019835	necrosis	cytolysis	necrosis
+3479	3487	GO:0008220	necrosis	obsolete	necrosis
+3479	3487	GO:0070265	necrosis	necrotic	necrosis
+3479	3487	GO:0008219	necrosis	cell	necrosis
+3492	3501	GO:0097194	apoptosis	execution	apoptosis
+3492	3501	GO:0006915	apoptosis	apoptotic	apoptosis
+3494	3504	GO:0065007	regulatory	biological	optosis [1
+3547	3552	GO:0030315	triad	T-tubule	omple
+3550	3562	GO:0032502	development.	developmental	lex interpla
+3594	3607	GO:0009566	fertilization	fertilization	[23,24] and i
+3627	3637	GO:0008219	cell death	cell	cell death
+3658	3669	GO:0032502	development	developmental	25]. The la
+3838	3842	GO:0005623	cell	cell	r-ex
+3873	3878	GO:0016265	dying	death	dogen
+3872	3884	GO:0032502	development:	developmental	ndogenous pr
+3882	3889	GO:0003675	protein	obsolete	protein
+3922	3927	GO:0019835	lysis	cytolysis	ovide
+3981	3991	GO:0004196	proteinase	obsolete	 distingui
+3981	3991	GO:0004175	proteinase	endopeptidase	 distingui
+4054	4064	GO:0004196	proteinase	obsolete	ed isoform
+4054	4064	GO:0004175	proteinase	endopeptidase	ed isoform
+4113	4136	GO:0005154	epidermal growth factor	epidermal	epidermal growth factor
+4138	4161	GO:0005154	Epidermal growth factor	epidermal	EGF)-induced cell motil
+4151	4164	GO:0048870	cell motility	cell	cell motility
+4222	4229	GO:0003675	protein	obsolete	protein
+4214	4234	GO:0070527	platelet aggregation	platelet	ducible protein 9-in
+4233	4238	GO:0005623	cells	cell	nduce
+4239	4243	GO:0050817	clot	coagulation	 mig
+4246	4255	GO:0000496	base pair	base	ion of ke
+4275	4279	GO:0005623	cell	cell	cell
+4357	4362	GO:0005623	cells	cell	ell) 
+4386	4391	GO:0005623	cells	cell	cells
+4405	4410	GO:0005623	cells	cell	pain 
+4398	4412	GO:0009793	embryogenesis,	embryo	g μ-calpain wh
+4398	4412	GO:0009792	embryogenesis,	embryo	g μ-calpain wh
+4398	4412	GO:0009790	embryogenesis,	embryo	g μ-calpain wh
+4497	4501	GO:0005623	cell	cell	sist
+4513	4519	GO:0005623	cells,	cell	cells,
+4571	4575	GO:0005623	cell	cell	cell
+4599	4606	GO:0003675	protein	obsolete	 gene d
+4608	4620	GO:0032502	development.	developmental	etion in mic
+4649	4656	GO:0003675	protein	obsolete	h to de
+4669	4684	GO:0051301	cell divisions.	cell	 physiological 
+4711	4725	GO:0009793	embryogenesis.	embryo	nd the opportu
+4711	4725	GO:0009792	embryogenesis.	embryo	nd the opportu
+4711	4725	GO:0009790	embryogenesis.	embryo	nd the opportu
+4830	4848	GO:0008283	cell proliferation	cell	 that loss of this
+4915	4937	GO:0007059	chromosome segregation	chromosome	apn4-/- murine embryos
+4945	4952	GO:0007067	mitosis	mitotic	tween d
+4969	4979	GO:0007565	gestation,	female	gestation,
+4976	4983	GO:0051321	meiosis	meiotic	on, and
+4976	4983	GO:0007126	meiosis	meiotic	on, and
+5033	5038	GO:0005623	cells	cell	in th
+5081	5093	GO:0032502	development.	developmental	e embryonic 
+5130	5134	GO:0005623	cell	cell	from
+5187	5191	GO:0005623	cell	cell	ivit
+5176	5192	GO:0004198	calpain activity	calcium-dependent	calpain activity
+5236	5245	GO:0009058	formation	biosynthetic	formation
+5264	5272	GO:0008091	spectrin	spectrin	spectrin
+5273	5282	GO:0009056	breakdown	catabolic	breakdown
+5355	5360	GO:0005623	cells	cell	r cal
+5365	5369	GO:0005623	cell	cell	in r
+5379	5394	GO:0005925	focal adhesions	focal	focal adhesions
+5411	5430	GO:0008283	cell proliferation,	cell	ently derived Capn4
+5437	5442	GO:0005623	cells	cell	ut, i
+5452	5456	GO:0005623	cell	cell	 mor
+5472	5476	GO:0005623	cell	cell	tion
+5476	5483	GO:0003675	protein	obsolete	 of the
+5550	5560	GO:0007049	cell cycle	cell	pre-implan
+5566	5570	GO:0005623	cell	cell	 sta
+5591	5599	GO:0003675	proteins	obsolete	t times 
+5624	5634	GO:0007049	cell cycle	cell	ggested th
+5634	5640	GO:0004617	serum,	phosphoglycerate	at the
+5649	5665	GO:0004198	calpain activity	calcium-dependent	ported Capn4-/- 
+5738	5745	GO:0005488	binding	binding	small l
+5753	5770	GO:0004198	calpain activity,	calcium-dependent	calpain activity,
+5818	5835	GO:0007340	acrosome reaction	acrosome	hile the second r
+5857	5862	GO:0004617	serum	phosphoglycerate	[32] 
+5948	5960	GO:0016049	cell growth.	cell	c subunit, w
+5963	5980	GO:0007340	acrosome reaction	acrosome	subsequently repo
+6053	6061	GO:0016020	membrane	membrane	lpain ri
+6108	6112	GO:0050817	clot	coagulation	clot
+6114	6119	GO:0007618	mated	mating	etrac
+6114	6119	GO:1990277	mated	parasexual	etrac
+6114	6119	GO:0000747	mated	conjugation	etrac
+6114	6119	GO:0009291	mated	unidirectional	etrac
+6118	6134	GO:0060473	cortical granule	cortical	ction [33]. The 
+6136	6149	GO:0009566	fertilization	fertilization	ct that Capn4
+6150	6159	GO:0007586	digestion	digestion	null mice
+6171	6184	GO:0009793	embryogenesis	embryo	embryogenesis
+6171	6184	GO:0009792	embryogenesis	embryo	embryogenesis
+6171	6184	GO:0009790	embryogenesis	embryo	embryogenesis
+6190	6196	GO:0005623	cells.	cell	ates t
+6197	6202	GO:0005623	Cells	cell	at at
+6222	6237	GO:0072687	meiotic spindle	meiotic	iquitous calpai
+6244	6258	GO:0009566	fertilization,	fertilization	ssential for d
+6257	6268	GO:0032502	development	developmental	development
+6295	6305	GO:0004196	proteinase	obsolete	Capn1-defi
+6295	6305	GO:0004175	proteinase	endopeptidase	Capn1-defi
+6288	6310	GO:0007059	chromosome segregation	chromosome	ity of Capn1-deficient
+6341	6363	GO:0007059	chromosome segregation	chromosome	ish between two possib
+6414	6426	GO:0032502	development.	developmental	ired during 
+6426	6440	GO:0009793	embryogenesis,	embryo	embryogenesis,
+6426	6440	GO:0009792	embryogenesis,	embryo	embryogenesis,
+6426	6440	GO:0009790	embryogenesis,	embryo	embryogenesis,
+6445	6459	GO:0009793	embryogenesis,	embryo	hat either for
+6445	6459	GO:0009792	embryogenesis,	embryo	hat either for
+6445	6459	GO:0009790	embryogenesis,	embryo	hat either for
+6479	6484	GO:0005623	cells	cell	s suf
+6573	6578	GO:0005623	cells	cell	e now
+6582	6599	GO:0004198	calpain activity,	calcium-dependent	cked out the Capn
+6611	6619	GO:0003675	proteins	obsolete	ing the 
+6644	6652	GO:0007618	matings,	mating	e report
+6644	6652	GO:1990277	matings,	parasexual	e report
+6644	6652	GO:0000747	matings,	conjugation	e report
+6644	6652	GO:0009291	matings,	unidirectional	e report
+6672	6680	GO:0008091	spectrin	spectrin	l embryo
+6681	6690	GO:0009056	breakdown	catabolic	 died pri
+6765	6782	GO:0004198	calpain activity,	calcium-dependent	r early embryogen
+6813	6829	GO:0048069	eye pigmentation	eye	lled by μ-calpai
+6928	6934	GO:0005623	cells.	cell	of ges
+6994	6998	GO:0005623	cell	cell	-cal
+7030	7034	GO:0005623	cell	cell	 rol

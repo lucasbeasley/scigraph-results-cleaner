@@ -1,0 +1,270 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	9	GO:0007613	). Memory	memory	Enhanced 
+8	15	GO:0003675	protein	obsolete	 Odor D
+52	58	GO:0007613	Memory	memory	Memory
+63	71	GO:0007612	learning	learning	patially
+80	90	GO:0003823	Antibodies	antigen	ed Switch 
+80	90	GO:0019815	Antibodies	B	ed Switch 
+80	90	GO:0042571	Antibodies	immunoglobulin	ed Switch 
+93	107	GO:0032281	AMPA Receptors	AMPA	AMPA Receptors
+115	121	GO:0007613	memory	memory	t Gene
+144	150	GO:0007613	memory	memory	amino-
+160	168	GO:0007612	learning	learning	5-methyl
+202	208	GO:0007613	memory	memory	AMPARs
+191	210	GO:0042048	olfactory behavior.	olfactory	receptors (AMPARs) 
+228	236	GO:0007612	learning	learning	 dissect
+235	242	GO:0003675	protein	obsolete	t molec
+235	267	GO:0007611PHENOTYPE	learning, and memory phenotypes,	learning	t molecular mechanisms of sensor
+254	273	GO:0008355	olfactory learning,	olfactory	sms of sensory codi
+263	281	GO:0007612PHENOTYPE	learning phenotype	learning	nsory coding, lear
+280	287	GO:0003675	protein	obsolete	rning, 
+277	298	GO:0007611	learning, and memory.	learning	learning, and memory.
+294	301	GO:0007613	memory,	memory	ory. In
+298	304	GO:0007613	Memory	memory	 In th
+297	307	GO:0003823	antibodies	antigen	. In this 
+297	307	GO:0019815	antibodies	B	. In this 
+297	307	GO:0042571	antibodies	immunoglobulin	. In this 
+314	320	GO:0007613	memory	memory	we inv
+344	350	GO:0007613	memory	memory	2+-per
+346	355	GO:0007610	behavior.	behavior	-permeabl
+358	366	GO:0007612	Learning	learning	MPARs in
+367	386	GO:0042048	olfactory behavior.	olfactory	olfactory behavior.
+440	446	GO:0007613	memory	memory	luR-B 
+466	472	GO:0007613	memory	memory	n of u
+488	494	GO:0007613	memory	memory	), bot
+539	548	GO:0007612	learning,	learning	MPARs. Mi
+544	550	GO:0007613	Memory	memory	. Mice
+562	567	GO:0043336	rest,	site-specific	uncti
+579	586	GO:0007613	memory.	memory	witch, 
+584	591	GO:0003675	protein	obsolete	, speci
+592	598	GO:0007613	Memory	memory	ically
+631	638	GO:0003675	Protein	obsolete	factory
+669	677	GO:0007612	learning	learning	learning
+702	708	GO:0007613	memory	memory	nditio
+703	709	GO:0007613	memory	memory	dition
+692	712	GO:0035106	operant conditioning	operant	operant conditioning
+729	736	GO:0007613	memory,	memory	memory,
+733	739	GO:0007613	memory	memory	ry, ho
+806	814	GO:0051235	storage.	maintenance	 ectopic
+869	876	GO:0003675	protein	obsolete	 correl
+891	898	GO:0007613	memory.	memory	ased ol
+900	906	GO:0007613	memory	memory	ctory 
+904	910	GO:0007613	memory	memory	y memo
+951	957	GO:0007613	memory	memory	, memo
+965	971	GO:0007613	memory	memory	escued
+981	988	GO:0007613	(memory	memory	enic Gl
+987	997	GO:0007608	olfaction,	sensory	luR-B expr
+1012	1018	GO:0007613	memory	memory	ed to 
+1036	1043	GO:0003675	protein	obsolete	d hippo
+1067	1073	GO:0007613	Memory	memory	dor di
+1086	1093	GO:0003675	protein	obsolete	was ind
+1096	1103	GO:0007613	memory,	memory	ndent o
+1098	1110	GO:0046959	habituation,	habituation	ent of both 
+1133	1139	GO:0007613	memory	memory	transg
+1160	1167	GO:0007613	memory.	memory	n. Thus
+1178	1184	GO:0007613	memory	memory	d diff
+1185	1191	GO:0007613	memory	memory	rences
+1191	1197	GO:0007613	memory	memory	 in be
+1193	1201	GO:0007610	behavior	behavior	n behavi
+1196	1203	GO:0003675	protein	obsolete	ehavior
+1235	1244	GO:0007612	learning,	learning	 allowed 
+1250	1257	GO:0003675	protein	obsolete	anistic
+1265	1272	GO:0007613	memory.	memory	tial di
+1267	1274	GO:0007613	memory,	memory	al diss
+1284	1291	GO:0007613	memory,	memory	olfacto
+1282	1301	GO:0008355	olfactory learning,	olfactory	f olfactory learnin
+1322	1328	GO:0007613	memory	memory	d memo
+1335	1341	GO:0007613	memory	memory	biliti
+1329	1347	GO:0008355	Olfactory Learning	olfactory	y capabilities. In
+1353	1359	GO:0007613	memory	memory	tion T
+1353	1360	GO:0003675	protein	obsolete	tion Th
+1360	1366	GO:0007613	Memory	memory	e sens
+1360	1374	GO:0007608	sense of smell	sensory	e sense of sme
+1375	1382	GO:0007613	memory,	memory	l is of
+1387	1393	GO:0007613	memory	memory	mount 
+1390	1394	GO:0033867	fast	Fas-activated	nt i
+1388	1394	GO:0007613	memory	memory	ount i
+1406	1423	GO:0007268	neurotransmission	synaptic	r rodents [1], fo
+1458	1464	GO:0007613	memory	memory	nd lon
+1482	1488	GO:0007613	memory	memory	y memo
+1492	1500	GO:0007612	learning	learning	ermits r
+1520	1527	GO:0003675	protein	obsolete	 and pr
+1537	1543	GO:0007613	memory	memory	l for 
+1564	1571	GO:0003675	protein	obsolete	y, the 
+1589	1595	GO:0007613	memory	memory	s of o
+1663	1670	GO:0007613	memory,	memory	produci
+1664	1671	GO:0003675	protein	obsolete	roducib
+1692	1701	GO:0009058	formation	biosynthetic	e formati
+1706	1713	GO:0051235	storage	maintenance	d stora
+1723	1729	GO:0007613	memory	memory	ctory 
+1727	1733	GO:0007613	memory	memory	y memo
+1754	1760	GO:0007613	memory	memory	–7], h
+1767	1774	GO:0003675	protein	obsolete	pus [8,
+1768	1776	GO:0007612	Learning	learning	us [8,9]
+1808	1816	GO:0003823	antibody	antigen	 all imp
+1808	1816	GO:0019815	antibody	B	 all imp
+1808	1816	GO:0042571	antibody	immunoglobulin	 all imp
+1872	1880	GO:0045292	splicing	mRNA	e not be
+1879	1886	GO:0007613	memory,	memory	een cle
+1903	1910	GO:0003675	protein	obsolete	The con
+1924	1932	GO:0007612	learning	learning	he hippo
+1950	1956	GO:0007613	memory	memory	y memo
+1976	1982	GO:0007613	memory	memory	rovers
+1981	1989	GO:0007612	learning	learning	sial [2,
+2036	2040	GO:0005623	cell	cell	tory
+2041	2049	GO:0007129	synapses	synapsis	discrimi
+2041	2049	GO:0045202	synapses	synapse	discrimi
+2051	2058	GO:0003675	protein	obsolete	tion ta
+2118	2124	GO:0007613	memory	memory	ar cor
+2136	2143	GO:0003675	protein	obsolete	factory
+2142	2148	GO:0007613	memory	memory	y memo
+2161	2167	GO:0007613	memory	memory	be the
+2166	2172	GO:0007613	Memory	memory	e neur
+2213	2219	GO:0007613	memory	memory	ue to 
+2249	2255	GO:0007613	memory	memory	 [5] a
+2254	2265	GO:0046959	habituation	habituation	and the exp
+2261	2267	GO:0007613	memory	memory	 expre
+2363	2371	GO:0007612	Learning	learning	tion its
+2413	2419	GO:0007613	Memory	memory	are of
+2432	2440	GO:0007129	synapses	synapsis	d to the
+2432	2440	GO:0045202	synapses	synapse	d to the
+2446	2462	GO:0007616	long-term memory	long-term	itory circuitry 
+2486	2492	GO:0007613	memory	memory	24–30]
+2556	2562	GO:0007613	memory	memory	ted, i
+2557	2563	GO:0098657	uptake	import	ed, in
+2594	2600	GO:0007613	memory	memory	mediat
+2618	2624	GO:0007613	memory	memory	ment [
+2622	2628	GO:0098657	uptake	import	 [24],
+2629	2635	GO:0007613	memory	memory	for wh
+2638	2644	GO:0007613	Memory	memory	 physi
+2672	2679	GO:0007613	memory,	memory	7] and 
+2714	2721	GO:0007612	learned	learning	own ana
+2742	2760	GO:0008355	olfactory learning	olfactory	ditional support. 
+2788	2792	GO:0043336	rest	site-specific	y re
+2792	2800	GO:0007612	learning	learning	st in la
+2842	2851	GO:0007608	olfaction	sensory	endrodend
+2855	2863	GO:0007129	synapses	synapsis	c synaps
+2855	2863	GO:0045202	synapses	synapse	c synaps
+2865	2871	GO:0007613	memory	memory	 betwe
+2866	2873	GO:0007129	synapse	synapsis	between
+2866	2873	GO:0045202	synapse	synapse	between
+2933	2939	GO:0007613	memory	memory	itory 
+2952	2968	GO:0008542	spatial learning	visual	ule cells) of th
+2960	2968	GO:0003675	protein,	obsolete	s) of th
+3002	3011	GO:0007129	synapses,	synapsis	t synapse
+3002	3011	GO:0045202	synapses,	synapse	t synapse
+3015	3023	GO:0007612	learning	learning	ateral a
+3062	3068	GO:0007613	memory	memory	 gamma
+3069	3076	GO:0051235	storage	maintenance	aminobu
+3075	3081	GO:0007613	memory	memory	utyric
+3121	3131	GO:0045120	pronucleus	pronucleus	activity o
+3151	3158	GO:0007613	memory.	memory	tioned 
+3175	3194	GO:0042048	olfactory behaviors	olfactory	t, perhaps triggeri
+3213	3220	GO:0007613	memory,	memory	aminobu
+3223	3243	GO:0035106	operant conditioning	operant	ic acid release by C
+3251	3265	GO:0007608	sense of smell	sensory	ux through glu
+3321	3327	GO:0007613	Memory	memory	ven th
+3330	3340	GO:0045120	pronucleus	pronucleus	neuronal c
+3346	3354	GO:0007129	synapses	synapsis	s underl
+3346	3354	GO:0045202	synapses	synapse	s underl
+3367	3375	GO:0007612	learning	learning	criminat
+3363	3383	GO:1990021	Schaffer collaterals	Schaffer	 discrimination, as 
+3391	3397	GO:0007613	memory	memory	olfact
+3397	3403	GO:0007613	memory	memory	ory me
+3399	3406	GO:0007613	memory,	memory	y memor
+3429	3433	GO:0033867	fast	Fas-activated	f fa
+3445	3462	GO:0007268	neurotransmission	synaptic	y neurotransmissi
+3488	3494	GO:0007613	memory	memory	ydroxy
+3546	3554	GO:0007612	learning	learning	we sough
+3605	3612	GO:0003675	protein	obsolete	al cont
+3607	3614	GO:0007613	memory.	memory	 contri
+3629	3645	GO:0007613PHENOTYPE	memory phenotype	memory	no-3-hydroxy-5-m
+3690	3698	GO:0007129	synapses	synapsis	ontainin
+3690	3698	GO:0045202	synapses	synapse	ontainin
+3757	3775	GO:0008355	olfactory learning	olfactory	ts, GluR-A to D (G
+3771	3780	GO:0007129	synapses.	synapsis	D (GluR1 
+3771	3780	GO:0045202	synapses.	synapse	D (GluR1 
+3806	3812	GO:0007613	Memory	memory	ic cha
+3808	3815	GO:0007613	memory,	memory	 channe
+3845	3854	GO:0023052	signaling	signaling	it combin
+3932	3938	GO:0007613	memory	memory	volved
+3939	3949	GO:0009058	formation.	biosynthetic	in the for
+3944	3953	GO:0009058	formation	biosynthetic	e formati
+3945	3964	GO:0042048	olfactory behavior,	olfactory	 formation and traf
+3975	3981	GO:0007613	Memory	memory	AMPARs
+4017	4024	GO:0003675	protein	obsolete	e and g
+4029	4035	GO:0007613	Memory	memory	 prope
+4032	4039	GO:0007613	memory.	memory	opertie
+4059	4065	GO:0007613	memory	memory	the no
+4058	4065	GO:0007613	memory.	memory	 the no
+4095	4101	GO:0007613	memory	memory	f AMPA
+4126	4141	GO:0016310	phosphorylation	phosphorylation	urons is solely
+4136	4151	GO:0032281	AMPA receptors.	AMPA	olely mediated 
+4165	4171	GO:0007613	memory	memory	 to a 
+4187	4193	GO:0007613	memory	memory	residu
+4235	4241	GO:0007613	Memory	memory	amine/
+4277	4283	GO:0007613	memory	memory	ing se
+4313	4319	GO:0007613	Memory	memory	 from 
+4317	4328	GO:0009451	RNA editing	RNA	m RNA editi
+4404	4410	GO:0007613	memory	memory	ncy, o
+4464	4470	GO:0007613	memory	memory	utamin
+4475	4482	GO:0007613	(memory	memory	idue at
+4502	4515	GO:0005622	intracellular	intracellular	l site, leads
+4540	4546	GO:0007613	Memory	memory	bility
+4543	4549	GO:0007613	memory	memory	ity of
+4555	4563	GO:0007610	Behavior	behavior	channels
+4565	4571	GO:0007613	memory	memory	as amp
+4575	4590	GO:0010467	Gene Expression	gene	emonstrated in 
+4578	4593	GO:0006351	transcriptional	transcription,	nstrated in gen
+4637	4645	GO:0007612	learning	learning	ence of 
+4647	4653	GO:0007613	memory	memory	uR-B, 
+4671	4677	GO:0007613	memory	memory	of Glu
+4672	4680	GO:0007612	learning	learning	f GluR-B
+4699	4715	GO:0007613PHENOTYPE	memory phenotype	memory	y bulb, may gene
+4718	4724	GO:0007613	memory	memory	e incr
+4720	4738	GO:0008355	olfactory learning	olfactory	increased inhibiti
+4768	4774	GO:0007613	memory	memory	the ab
+4815	4833	GO:0008355	olfactory learning	olfactory	 extent of Q/R sit
+4833	4839	GO:0007613	memory	memory	e edit
+4852	4859	GO:0003675	protein	obsolete	, can a
+4878	4884	GO:0007613	memory	memory	f exci
+4888	4894	GO:0007613	memory	memory	ry syn
+4889	4910	GO:0007268	synaptic transmission	synaptic	y synaptic transmissi
+4902	4910	GO:0007610	behavior	behavior	ansmissi
+4957	4963	GO:0007613	Memory	memory	tions 
+4974	4980	GO:0007613	memory	memory	 thus 
+4987	4993	GO:0007613	memory	memory	ally s
+5078	5084	GO:0007613	memory	memory	s. Sim
+5107	5113	GO:0007613	memory	memory	ptic p
+5149	5154	GO:0005623	cells	cell	Rs [5
+5181	5188	GO:0003675	protein	obsolete	 cortex
+5225	5231	GO:0007613	memory	memory	sses. 
+5266	5276	GO:0003823	antibodies	antigen	es in thes
+5266	5276	GO:0019815	antibodies	B	es in thes
+5266	5276	GO:0042571	antibodies	immunoglobulin	es in thes
+5315	5321	GO:0007613	memory	memory	n and 
+5328	5334	GO:0007613	memory	memory	y sepa
+5355	5360	GO:0005623	cells	cell	under
+5366	5375	GO:0007608	olfaction	sensory	these beh
+5398	5404	GO:0007613	memory	memory	ing th
+5417	5422	GO:0005623	cells	cell	witch
+5507	5515	GO:0007612	learning	learning	in behav
+5508	5517	GO:0007610	behavior,	behavior	n behavio
+5549	5555	GO:0007613	memory	memory	rdinat
+5581	5587	GO:0007613	memory	memory	 in ex
+5611	5617	GO:0007613	memory	memory	 which
+5679	5695	GO:0008542	spatial learning	visual	sing (in the ent
+5717	5723	GO:0007613	memory	memory	al par
+5746	5752	GO:0007613	memory	memory	ion in
+5763	5769	GO:0007613	memory	memory	te-une
+5951	5963	GO:0046959	habituation,	habituation	n particular
+6039	6050	GO:0003823	antibodies,	antigen	of gene-tar
+6039	6050	GO:0019815	antibodies,	B	of gene-tar
+6039	6050	GO:0042571	antibodies,	immunoglobulin	of gene-tar
+6186	6193	GO:0007613	memory.	memory	R site-
+6208	6219	GO:0003823	antibodies.	antigen	 to forebra
+6208	6219	GO:0019815	antibodies.	B	 to forebra
+6208	6219	GO:0042571	antibodies.	immunoglobulin	 to forebra
+6336	6344	GO:0003823	antibody	antigen	luR-B de
+6336	6344	GO:0019815	antibody	B	luR-B de
+6336	6344	GO:0042571	antibody	immunoglobulin	luR-B de

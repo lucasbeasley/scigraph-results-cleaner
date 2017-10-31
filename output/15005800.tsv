@@ -1,0 +1,289 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+18	26	GO:0097649	tubules,	A	ung hypo
+36	43	GO:0040007	growth.	growth	a mouse
+65	81	GO:0030324	lung development	lung	mli-Opitz syndro
+76	85	GO:0009058	formation	biosynthetic	yndrome A
+83	90	GO:0003675	protein	obsolete	 Abstra
+91	101	GO:0003823	antibodies	antigen	t Backgrou
+91	101	GO:0019815	antibodies	B	t Backgrou
+91	101	GO:0042571	antibodies	immunoglobulin	t Backgrou
+112	124	GO:0032502	development,	developmental	ost-squalene
+125	149	GO:0006695	cholesterol biosynthesis	cholesterol	cholesterol biosynthesis
+156	167	GO:0032502	development	developmental	ortant for 
+159	170	GO:0007565	gestational	female	ant for mam
+182	198	GO:0030324	lung development	lung	onic development
+187	199	GO:0032502	development.	developmental	development.
+207	217	GO:0007565	gestation.	female	l mice lac
+230	237	GO:0097649	tubules	A	al dehy
+230	242	GO:0032502	development,	developmental	al dehydroch
+224	248	GO:0001568	blood vessel development	blood	nctional dehydrocholeste
+269	281	GO:0032502	development.	developmental	r7), a model
+265	282	GO:0042446	hormone synthesis	hormone	(Dhcr7), a model 
+338	349	GO:0032502	development	developmental	 within 24 
+371	380	GO:0009058	formation	biosynthetic	gh they h
+382	394	GO:0032502	development,	developmental	e a number o
+451	456	GO:0016265	death	death	death
+452	463	GO:0007565	gestational	female	eath is fro
+493	510	GO:0007165	signaling cascade	signal	 due to developme
+502	518	GO:0010467	gene expression,	gene	evelopmental pul
+515	526	GO:0007565	gestational	female	pulmonary a
+559	565	GO:0005623	cells,	cell	dy, we
+558	567	GO:0009058	synthesis	biosynthetic	udy, we c
+552	568	GO:0030324	lung development	lung	his study, we ch
+566	577	GO:0032502	development	developmental	characteriz
+572	581	GO:0046903	secretion	secretion	terized f
+618	636	GO:0060425	lung morphogenesis	lung	ency in lung devel
+626	642	GO:0030324	lung development	lung	lung development
+633	642	GO:0000917	septation	barrier	velopment
+645	656	GO:0007565	gestational	female	 these mice
+655	679	GO:0001763	branching morphogenesis,	morphogenesis	e. Significant growth re
+702	727	GO:0001568	blood vessel development,	blood	 E14.5~E16.5, was observe
+825	830	GO:0005623	cells	cell	dy we
+816	835	GO:0007165	signal transduction	signal	ung-to-body weight 
+844	853	GO:0023052	signaling	signaling	 noted in
+896	900	GO:0005623	cell	cell	ng b
+894	922	GO:0060441	Lung branching morphogenesis	epithelial	Lung branching morphogenesis
+914	925	GO:0007565	gestational	female	ogenesis wa
+915	926	GO:0032502	development	developmental	genesis was
+931	955	GO:0006695	cholesterol biosynthesis	cholesterol	arable between Dhcr7-/- 
+941	959	GO:0008283	cell proliferation	cell	ween Dhcr7-/- and 
+955	961	GO:0016265	dying,	death	and co
+1006	1017	GO:0032502	development	developmental	development
+1007	1017	GO:0023052	signaling.	signaling	evelopment
+990	1024	GO:0003892	proliferating cell nuclear antigen	obsolete	elayed saccular development was vi
+1025	1031	GO:0003892	(PCNA)	obsolete	ible i
+1035	1050	GO:0005886	plasma membrane	plasma	l Dhcr7-/- embr
+1069	1080	GO:0007565	gestational	female	rds. Impair
+1096	1107	GO:0032502	development	developmental	development
+1104	1119	GO:0005886	plasma membrane	plasma	ent of varying 
+1122	1126	GO:0003892	PCNA	obsolete	erit
+1115	1139	GO:0006695	cholesterol biosynthesis	cholesterol	ing severity, inhibited 
+1137	1146	GO:0016020	membrane)	membrane	d cell pr
+1139	1158	GO:0008283	cell proliferation,	cell	cell proliferation,
+1159	1169	GO:0003823	antibodies	antigen	delayed di
+1159	1169	GO:0019815	antibodies	B	delayed di
+1159	1169	GO:0042571	antibodies	immunoglobulin	delayed di
+1158	1173	GO:0010467	gene expression	gene	 delayed differ
+1209	1218	GO:0023052	signaling	signaling	ial cells
+1231	1252	GO:0006695	cholesterol synthesis	cholesterol	elayed vascular devel
+1247	1258	GO:0032502	development	developmental	development
+1273	1292	GO:0007165	signal transduction	signal	nt in knockout lung
+1298	1302	GO:0018995	host	host	fere
+1338	1355	GO:0007165	signaling cascade	signal	tly normal as jud
+1361	1366	GO:0005623	cells	cell	 surf
+1360	1368	GO:0003675	proteins	obsolete	y surfac
+1382	1393	GO:0007565	gestational	female	SP) mRNAs a
+1394	1398	GO:0007568	ages	aging	d SP
+1403	1412	GO:0003675	proteins,	obsolete	munostain
+1416	1425	GO:0000917	septation	barrier	 A signif
+1414	1430	GO:0030324	lung development	lung	g. A significant
+1445	1456	GO:0032502	development	developmental	esterol was
+1473	1483	GO:0023052	signaling.	signaling	ockout lun
+1495	1503	GO:0003823	antibody	antigen	ing some
+1495	1503	GO:0019815	antibody	B	ing some
+1495	1503	GO:0042571	antibody	immunoglobulin	ing some
+1509	1515	GO:0040007	growth	growth	nal tr
+1568	1596	GO:0060441	lung branching morphogenesis	epithelial	the spatial-temporal localiz
+1589	1601	GO:0051179	localization	localization	localization
+1604	1615	GO:0007565	gestational	female	 sonic hedg
+1620	1628	GO:0003823	antibody	antigen	(Shh) or
+1620	1628	GO:0019815	antibody	B	(Shh) or
+1620	1628	GO:0042571	antibody	immunoglobulin	(Shh) or
+1632	1641	GO:0000917	septation	barrier	 downstre
+1649	1674	GO:0060430	lung saccular development	lung	ts by immunohistochemistr
+1673	1683	GO:0008219	Cell death	cell	ry were de
+1692	1703	GO:0007565	gestational	female	tween knock
+1709	1721	GO:0032502	development.	developmental	d wild-type 
+1737	1744	GO:0097649	tubules	A	toproce
+1766	1778	GO:0032502	development.	developmental	y in tissues
+1772	1781	GO:0016020	membranes	membrane	issues fr
+1777	1788	GO:0032502	development	developmental	s from Dhcr
+1811	1821	GO:0008219	Cell Death	cell	n Our data
+1864	1873	GO:0000917	septation	barrier	ed by Dhc
+1853	1873	GO:0007165	signal transduction.	signal	ciency caused by Dhc
+1905	1920	GO:0006351	transcriptional	transcription,	stinct lung sac
+1921	1930	GO:0007565	gestation	female	ular hypo
+1928	1933	GO:0005623	cells	cell	popla
+1925	1944	GO:0007165	signal transduction	signal	 hypoplasia, charac
+1975	1986	GO:0007565	gestational	female	y different
+1982	1989	GO:0097649	tubules	A	rentiat
+2034	2042	GO:0097649	tubules,	A	 type I 
+2065	2083	GO:0016485	protein processing	protein	scular network at 
+2077	2088	GO:0007565	gestational	female	rk at late 
+2088	2099	GO:0007565	gestational	female	gestational
+2105	2117	GO:0032502	development.	developmental	s. The molec
+2114	2119	GO:0019835	lysis	cytolysis	lecul
+2112	2123	GO:0007565	gestational	female	molecular m
+2133	2145	GO:0032502	development.	developmental	f impaired l
+2144	2160	GO:0030324	lung development	lung	lung development
+2153	2162	GO:0023052	signaling	signaling	lopment a
+2196	2207	GO:0032502	development	developmental	y Dhcr7 los
+2222	2233	GO:0007565	gestational	female	own, but th
+2236	2248	GO:0009405	pathogenesis	pathogenesis	 results do 
+2260	2278	GO:0008283	cell proliferation	cell	the involvement of
+2269	2280	GO:0060437	lung growth	lung	vement of d
+2287	2298	GO:0007565	gestational	female	ated Shh-Pa
+2300	2318	GO:0008283	Cell proliferation	cell	hed-Gli pathway in
+2342	2348	GO:0005623	cells,	cell	ckgrou
+2333	2350	GO:0007165	signaling cascade	signal	efect. Background
+2338	2362	GO:0006695	cholesterol biosynthesis	cholesterol	. Background Cholesterol
+2378	2386	GO:0016020	membrane	membrane	membrane
+2388	2392	GO:0005623	cell	cell	onst
+2402	2406	GO:0005623	cell	cell	all 
+2407	2417	GO:0097194	apoptosis.	execution	ammalian, 
+2407	2417	GO:0006915	apoptosis.	apoptotic	ammalian, 
+2419	2430	GO:0008219	cell death?	cell	ptile and a
+2435	2441	GO:0005623	cells,	cell	cells,
+2431	2449	GO:0008283	Cell proliferation	cell	ian cells, as well
+2442	2454	GO:0032502	development.	developmental	as well as a
+2456	2465	GO:0007565	gestation	female	ew other 
+2459	2475	GO:0044215	other organisms,	other	other organisms,
+2485	2489	GO:0003892	PCNA	obsolete	ll e
+2527	2531	GO:0003892	PCNA	obsolete	es, 
+2525	2550	GO:0030308	inhibition of cell growth	negative	ases, such as plants and 
+2582	2587	GO:0005623	cells	cell	(phyt
+2591	2602	GO:0007565	gestational	female	rols, ergos
+2631	2638	GO:0003675	protein	obsolete	e for c
+2693	2702	GO:0016020	membranes	membrane	membranes
+2707	2711	GO:0003892	PCNA	obsolete	l re
+2758	2763	GO:0005623	cells	cell	odoma
+2769	2778	GO:0009058	formation	biosynthetic	ariously 
+2789	2800	GO:0007565	gestational	female	s, caveoli 
+2770	2802	GO:0043687	post-translational modifications	post-translational	riously termed rafts, caveoli et
+2835	2840	GO:0031672	bands	A	. Alt
+2858	2862	GO:0003892	PCNA	obsolete	tion
+2875	2884	GO:0007585	breathing	respiratory	ol in ath
+2921	2930	GO:0007585	breathing	respiratory	oncept th
+2931	2951	GO:0030258	lipid modifications,	lipid	t 'too much' cholest
+2953	2958	GO:0005623	cells	cell	ol ma
+2976	2983	GO:0003675	protein	obsolete	too lit
+2997	3011	GO:0051301	cell division,	cell	l has now been
+3020	3027	GO:0097649	tubules	A	athophy
+3061	3065	GO:0031672	band	A	deve
+3061	3073	GO:0032502	development.	developmental	development.
+3064	3073	GO:0007585	breathing	respiratory	elopment.
+3073	3080	GO:0003675	protein	obsolete	 Smith-
+3130	3136	GO:0005623	cells)	cell	e comm
+3154	3160	GO:0004617	serum,	phosphoglycerate	isorde
+3166	3177	GO:0007565	gestational	female	caused by m
+3193	3199	GO:0040007	growth	growth	7 [2-5
+3218	3222	GO:0005623	cell	cell	r 7-
+3223	3232	GO:0097194	apoptosis	execution	ehydrocho
+3223	3232	GO:0006915	apoptosis	apoptotic	ehydrocho
+3228	3237	GO:0016020	membrane,	membrane	ocholeste
+3261	3269	GO:0003823	antibody	antigen	alyzes a
+3261	3269	GO:0019815	antibody	B	alyzes a
+3261	3269	GO:0042571	antibody	immunoglobulin	alyzes a
+3282	3291	GO:0007565	gestation	female	f cholest
+3284	3309	GO:0006695	cholesterol biosynthesis.	cholesterol	cholesterol biosynthesis.
+3340	3348	GO:0003823	antibody	antigen	logy syn
+3340	3348	GO:0019815	antibody	B	logy syn
+3340	3348	GO:0042571	antibody	immunoglobulin	logy syn
+3347	3358	GO:0007565	gestational	female	ndromes cau
+3367	3371	GO:0005623	cell	cell	fect
+3376	3381	GO:0004617	Serum	phosphoglycerate	the p
+3394	3398	GO:0031672	band	A	chol
+3394	3418	GO:0006695	cholesterol biosynthesis	cholesterol	cholesterol biosynthesis
+3469	3480	GO:0032502	development	developmental	 X-linked c
+3487	3506	GO:0008283	cell proliferation,	cell	ysplasia punctanta 
+3507	3520	GO:0051301	cell division	cell	nd CHILD synd
+3525	3536	GO:0008219	cell death.	cell	[6-15], has
+3535	3539	GO:0019013	Core	viral	s st
+3537	3555	GO:0008283	Cell proliferation	cell	strengthened this 
+3556	3562	GO:0003892	(PCNA:	obsolete	oncept
+3568	3590	GO:0016540	protein autoprocessing	protein	tic disruption of the 
+3614	3627	GO:0051301	cell division	cell	l lethality [
+3623	3629	GO:0040007	growth	growth	ty [16
+3670	3677	GO:0097649	tubules	A	 gene d
+3735	3740	GO:0005623	cells	cell	accum
+3763	3774	GO:0007565	gestational	female	rol precurs
+3788	3792	GO:0003892	PCNA	obsolete	oles
+3810	3815	GO:0005623	cells	cell	ough 
+3821	3832	GO:0003823	antibodies.	antigen	ryonic leth
+3821	3832	GO:0019815	antibodies.	B	ryonic leth
+3821	3832	GO:0042571	antibodies.	immunoglobulin	ryonic leth
+3842	3851	GO:0023052	signaling	signaling	noted, th
+3850	3858	GO:0003675	proteins	obsolete	hese kno
+3872	3877	GO:0005623	cells	cell	ibite
+3877	3883	GO:0040007	growth	growth	d a nu
+3885	3890	GO:0005623	cells	cell	er of
+3902	3906	GO:0003892	PCNA	obsolete	al a
+3904	3910	GO:0040007	growth	growth	 abnor
+3915	3926	GO:0007565	gestational	female	ies and die
+3918	3929	GO:0032502	development	developmental	 and died w
+3977	3998	GO:0023052	signal) and processed	signaling	el, generated by repl
+3996	4001	GO:0005623	cells	cell	placi
+3995	4019	GO:0006695	cholesterol biosynthesis	cholesterol	eplacing exons 3, 4 and 
+4029	4036	GO:0023052	signal,	signaling	on 5 of
+4043	4047	GO:0003892	PCNA	obsolete	rine
+4048	4059	GO:0032502	development	developmental	Dhcr7 gene,
+4067	4076	GO:0023052	signaling	signaling	milar bio
+4099	4105	GO:0005623	cells.	cell	 defec
+4124	4134	GO:0023052	signaling,	signaling	atal letha
+4131	4136	GO:0031672	bands	A	thali
+4115	4139	GO:0006695	cholesterol biosynthesis	cholesterol	00 % neonatal lethality,
+4136	4140	GO:0003892	PCNA	obsolete	ty, 
+4148	4154	GO:0040007	growth	growth	 been 
+4163	4168	GO:0005623	cells	cell	[17].
+4174	4190	GO:0030324	lung development	lung	lung development
+4197	4205	GO:0003675	proteins	obsolete	fuse lun
+4217	4229	GO:0032502	development.	developmental	telectasis w
+4221	4240	GO:0030258	lipid modifications	lipid	ctasis with cyanoti
+4256	4265	GO:0007585	breathing	respiratory	breathing
+4268	4272	GO:0031672	band	A	e co
+4278	4302	GO:0001763	branching morphogenesis,	morphogenesis	nt between both Dhcr7 nu
+4334	4341	GO:0097649	tubules	A	 is the
+4405	4410	GO:0016265	death	death	death
+4416	4420	GO:0005623	cell	cell	cr7-
+4413	4437	GO:0001763	branching morphogenesis.	morphogenesis	 Dhcr7-/- pups. These Dh
+4435	4444	GO:0003823	antibody.	antigen	Dhcr7 kno
+4435	4444	GO:0019815	antibody.	B	Dhcr7 kno
+4435	4444	GO:0042571	antibody.	immunoglobulin	Dhcr7 kno
+4457	4465	GO:0003675	proteins	obsolete	e models
+4480	4485	GO:0004617	serum	phosphoglycerate	, esp
+4486	4514	GO:0060441	lung branching morphogenesis	epithelial	cially the more severely aff
+4515	4521	GO:0005623	cells,	cell	cted p
+4528	4538	GO:0003823	antibodies	antigen	, since ea
+4528	4538	GO:0019815	antibodies	B	, since ea
+4528	4538	GO:0042571	antibodies	immunoglobulin	, since ea
+4612	4617	GO:0005623	cells	cell	re SL
+4614	4638	GO:0006695	cholesterol biosynthesis	cholesterol	 SLOS cases [4,5]. Devel
+4637	4648	GO:0032502	development	developmental	lopmental l
+4683	4695	GO:0032502	development.	developmental	ly common in
+4704	4713	GO:0023052	signaling	signaling	ients, in
+4730	4737	GO:0003675	protein	obsolete	 hypopl
+4742	4753	GO:0032502	development	developmental	 abnormal p
+4773	4784	GO:0032502	development	developmental	d pulmonary
+4823	4834	GO:0007565	gestational	female	racheal dev
+4835	4839	GO:0007568	ages	aging	lopm
+4831	4842	GO:0032502	development	developmental	development
+4867	4892	GO:0006695	cholesterol biosynthesis.	cholesterol	unique in that it is full
+4958	4980	GO:0006695	cholesterol synthesis,	cholesterol	oment of birth; the ma
+5001	5012	GO:0032502	development	developmental	development
+5040	5051	GO:0032502	development	developmental	in utero. L
+5050	5066	GO:0030324	Lung development	lung	Lung development
+5091	5101	GO:0003823	antibodies	antigen	t involves
+5091	5101	GO:0019815	antibodies	B	t involves
+5091	5101	GO:0042571	antibodies"36       41      GO:0005623        cell                          "cells	immunoglobulin	t involves
+5101	5112	GO:0007565	gestational	female	 branching 
+5112	5140	GO:0002009	morphogenesis of epithelium,	morphogenesis	morphogenesis of epithelium,
+5133	5149	GO:0030324	lung development	lung	helium, intersti
+5154	5165	GO:0032502	development	developmental	development
+5176	5191	GO:0001570	vasculogenesis,	vasculogenesis	vasculogenesis,
+5210	5218	GO:0003823	antibody	antigen	iation, 
+5210	5218	GO:0019815	antibody	B	iation, 
+5210	5218	GO:0042571	antibody	immunoglobulin	iation, 
+5247	5258	GO:0007565	gestational	female	ysical grow
+5289	5301	GO:0032502	development.	developmental	evelopment h
+5292	5313	GO:0007224	Shh signaling pathway	smoothened	lopment have been des
+5310	5321	GO:0007565	gestational	female	described, 
+5331	5347	GO:0030324	Lung development	lung	 the histologica
+5403	5412	GO:0009058	formation	biosynthetic	minal sac
+5415	5424	GO:0003675	proteins.	obsolete	ar and al
+5429	5438	GO:0023052	signaling	signaling	r stages 
+5466	5479	GO:0006351	transcription	transcription,	tion has been
+5494	5501	GO:0003675	protein	obsolete	mechani
+5545	5554	GO:0023052	signaling	signaling	edgehog f
+5722	5732	GO:0000917	septation,	barrier	ascade has
+6163	6176	GO:0048513	organogenesis	organ	l and mesench
+6639	6650	GO:0032502	development	developmental	velopment i

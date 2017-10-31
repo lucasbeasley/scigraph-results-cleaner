@@ -1,0 +1,282 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+0	13	GO:0030097	hematopoiesis	hemopoiesis	The Zebrafish
+14	19	GO:0005623	cells	cell	moons
+30	34	GO:0005623	Cell	cell	ncod
+68	79	GO:0006412	translation	translation	ctor 1γ, an
+103	116	GO:0030097	Hematopoiesis	hemopoiesis	Hematopoiesis
+126	139	GO:0030097	Hematopoiesis	hemopoiesis	Hematopoiesis
+122	143	GO:0012501	programmed cell death	programmed	act Hematopoiesis is 
+122	146	GO:0035162	embryonic hematopoiesis.	embryonic	act Hematopoiesis is pre
+147	152	GO:0016265	dying	death	isely
+144	155	GO:0006412	translation	translation	recisely or
+202	207	GO:0005623	cells	cell	eins 
+221	234	GO:0006351	transcription	transcription,	transcription
+240	245	GO:0005623	cells	cell	ncert
+275	280	GO:0005623	cells	cell	ssors
+261	281	GO:0043249	erythroid maturation	erythrocyte	rs and corepressors.
+290	295	GO:0005623	cells	cell	s in 
+296	303	GO:0003675	protein	obsolete	he zebr
+334	348	GO:0033620	nuclear bodies	Mei2	ifically disru
+334	348	GO:1990251	nuclear bodies	Mmi1	ifically disru
+334	348	GO:0016604	nuclear bodies	nuclear	ifically disru
+338	349	GO:0003823	Antibodies,	antigen	ally disrup
+338	349	GO:0019815	Antibodies,	B	ally disrup
+338	349	GO:0042571	Antibodies,	immunoglobulin	ally disrup
+357	366	GO:0097194	apoptotic	execution	mbryonic 
+357	366	GO:0006915	apoptotic	apoptotic	mbryonic 
+367	372	GO:0005623	cells	cell	nd ad
+376	390	GO:0030097	hematopoiesis,	hemopoiesis	hematopoiesis,
+388	392	GO:0005623	cell	cell	s, r
+410	414	GO:0005623	cell	cell	 red
+412	424	GO:0032502	development,	developmental	ed blood cel
+457	472	GO:0010467	gene expression	gene	odes the zebraf
+472	478	GO:0005623	cells,	cell	ish or
+485	495	GO:0009058	Synthesis,	biosynthetic	of mammali
+498	513	GO:0006351	transcriptional	transcription,	transcriptional
+506	522	GO:0048468	cell development	cell	ptional intermed
+604	629	GO:0060318	Definitive Erythropoiesis	definitive	d corepressors. During de
+627	639	GO:0032502	development,	developmental	development,
+685	697	GO:0032502	development,	developmental	 fail to exp
+714	726	GO:0007369	gastrulation	gastrulation	s of hematop
+725	733	GO:0003675	protein,	obsolete	poietic 
+731	738	GO:0090504	epiboly	epiboly	c trans
+737	742	GO:0005623	cells	cell	scrip
+730	745	GO:0010467	gene expression	gene	ic transcriptio
+750	759	GO:0097194	apoptosis	execution	tors, inc
+750	759	GO:0006915	apoptosis	apoptotic	tors, inc
+785	795	GO:0097194	apoptosis.	execution	apoptosis.
+785	795	GO:0006915	apoptosis.	apoptotic	apoptosis.
+811	825	GO:0009793	embryogenesis,	embryo	 mon mutant al
+811	825	GO:0009792	embryogenesis,	embryo	 mon mutant al
+811	825	GO:0009790	embryogenesis,	embryo	 mon mutant al
+847	852	GO:0004617	serum	phosphoglycerate	ature
+861	866	GO:0005623	cells	cell	ons, 
+879	889	GO:0097194	apoptosis,	execution	expression
+879	889	GO:0006915	apoptosis,	apoptotic	expression
+906	916	GO:0003823	antibodies	antigen	1γ mRNA re
+906	916	GO:0019815	antibodies	B	1γ mRNA re
+906	916	GO:0042571	antibodies	immunoglobulin	1γ mRNA re
+927	932	GO:0005623	cells	cell	onic 
+931	937	GO:0005634	nuclei	nucleus	 hemat
+932	937	GO:0005623	cells	cell	hemat
+922	945	GO:0035162	embryonic hematopoiesis	embryonic	embryonic hematopoiesis
+977	985	GO:0003675	proteins	obsolete	risingly
+1001	1011	GO:0003823	antibodies	antigen	f zygotic 
+1001	1011	GO:0019815	antibodies	B	f zygotic 
+1001	1011	GO:0042571	antibodies	immunoglobulin	f zygotic 
+1044	1056	GO:0051179	localization	localization	ventral meso
+1066	1073	GO:0003675	protein	obsolete	g hemat
+1101	1106	GO:0005623	Cells	cell	nitor
+1107	1116	GO:0009058	formation	biosynthetic	formation
+1131	1155	GO:0060216	definitive hematopoiesis	definitive	 expression. Transplanta
+1167	1172	GO:0005623	cells	cell	 reve
+1181	1202	GO:0012501	programmed cell death	programmed	if1γ functions in a c
+1304	1308	GO:0005623	cell	cell	cell
+1323	1328	GO:0043198	trunk	dendritic	ate t
+1324	1337	GO:0030097	hematopoiesis	hemopoiesis	te that Tif1γ
+1338	1345	GO:0003675	protein	obsolete	protein
+1344	1349	GO:0004617	serum	phosphoglycerate	n is 
+1333	1353	GO:0030154	cell differentiation	cell	if1γ protein is loca
+1358	1371	GO:0048513	organogenesis	organ	 within novel
+1389	1401	GO:0051179	localization	localization	 expression 
+1428	1436	GO:0003675	proteins	obsolete	cell mat
+1428	1444	GO:0048469	cell maturation.	cell	cell maturation.
+1437	1446	GO:0007567	eggs laid	parturition	ration. O
+1437	1446	GO:0018991	eggs laid	oviposition	ration. O
+1473	1485	GO:0032502	development.	developmental	r role for t
+1470	1493	GO:0032502	developmental processes	developmental	ajor role for this tran
+1496	1501	GO:0005623	cells	cell	iptio
+1489	1504	GO:0006351	transcriptional	transcription,	transcriptional
+1568	1583	GO:0030218	erythropoiesis,	erythrocyte	ls in vertebrat
+1584	1595	GO:0032502	development	developmental	s. Introduc
+1594	1610	GO:0000792	heterochromatin,	heterochromatin	ction Hematopoie
+1600	1613	GO:0030097	Hematopoiesis	hemopoiesis	Hematopoiesis
+1616	1623	GO:0003675	protein	obsolete	volves 
+1649	1655	GO:0043198	trunk,	dendritic	of cel
+1648	1659	GO:0008219	cell death.	cell	 of cell pr
+1658	1667	GO:0097194	apoptosis	execution	roliferat
+1658	1667	GO:0006915	apoptosis	apoptotic	roliferat
+1652	1670	GO:0008283	cell proliferation	cell	cell proliferation
+1723	1737	GO:0030218	erythropoiesis	erythrocyte	progenitor cel
+1734	1739	GO:0005623	cells	cell	cells
+1745	1750	GO:0005623	cells	cell	billi
+1742	1763	GO:0016605	(PML) nuclear bodies,	PML	to billions of circul
+1764	1776	GO:0032502	development,	developmental	ting red and
+1764	1784	GO:1990391	DNA repair complexes	DNA	ting red and white b
+1808	1823	GO:0006351	transcriptional	transcription,	on 2002). Hemat
+1818	1831	GO:0030097	Hematopoiesis	hemopoiesis	Hematopoiesis
+1886	1891	GO:0005623	cells	cell	ionar
+1913	1920	GO:0003675	protein	obsolete	that pr
+1955	1961	GO:0005623	cells,	cell	tor ce
+1959	1964	GO:0005623	cells	cell	cells
+1975	1984	GO:0097194	apoptosis	execution	r both in
+1975	1984	GO:0006915	apoptosis	apoptotic	r both in
+1987	1991	GO:0005623	cell	cell	eir 
+1988	1993	GO:0005623	Cells	cell	ir em
+2013	2018	GO:0043198	trunk	dendritic	in th
+2022	2033	GO:0032502	Development	developmental	neages of d
+2087	2094	GO:0003675	protein	obsolete	01; Ork
+2089	2103	GO:0030097	hematopoiesis.	hemopoiesis	; Orkin and Zo
+2109	2120	GO:0032502	development	developmental	; Galloway 
+2112	2132	GO:0043627	response to estrogen	response	alloway and Zon 2003
+2143	2158	GO:0030218	erythropoiesis.	erythrocyte	t, or primitive
+2168	2181	GO:0030097	hematopoiesis	hemopoiesis	hematopoiesis
+2209	2216	GO:0003675	protein	obsolete	oderm a
+2244	2249	GO:0005623	cells	cell	cells
+2229	2253	GO:0060216	definitive hematopoiesis	definitive	 to progenitor cells tha
+2252	2277	GO:0030218	erythroid differentiation	erythrocyte	at differentiate in embry
+2298	2311	GO:0030097	hematopoiesis	hemopoiesis	he primitive 
+2319	2332	GO:0030097	hematopoiesis	hemopoiesis	hematopoiesis
+2358	2363	GO:0005623	Cells	cell	onic 
+2367	2378	GO:0032502	development	developmental	hrocytes an
+2392	2403	GO:0032502	Development	developmental	 The second
+2396	2404	GO:0003675	proteins	obsolete	 second,
+2428	2441	GO:0030097	hematopoiesis	hemopoiesis	hematopoiesis
+2495	2499	GO:0005623	cell	cell	mari
+2515	2538	GO:0035162	Embryonic Hematopoiesis	embryonic	mbryonic aorta–gonad–me
+2556	2561	GO:0005623	cells	cell	These
+2584	2596	GO:0032502	development,	developmental	ic stem cell
+2596	2603	GO:0003675	protein	obsolete	s seed 
+2633	2641	GO:0003675	protein.	obsolete	aces, to
+2640	2652	GO:0051179	localization	localization	o produce al
+2652	2664	GO:0032502	development,	developmental	l lineages o
+2663	2673	GO:0005694	Chromosome	chromosome	of adult b
+2690	2703	GO:0030097	hematopoiesis	hemopoiesis	ding definiti
+2795	2801	GO:0004239	mapped	obsolete	aracte
+2788	2801	GO:0006351	transcription	transcription,	h to characte
+2809	2835	GO:0030218	erythroid differentiation.	erythrocyte	es that control hematopoie
+2825	2838	GO:0030097	hematopoiesis	hemopoiesis	hematopoiesis
+2857	2882	GO:0060318	Definitive Erythropoiesis	definitive	h as a model system (This
+2912	2926	GO:0030218	erythropoiesis	erythrocyte	 large-scale f
+2939	2954	GO:0010467	gene expression	gene	c screen, we pr
+2962	2975	GO:0030097	hematopoiesis	hemopoiesis	 identified b
+3024	3040	GO:0010467	gene expression.	gene	 the erythroid t
+3074	3081	GO:0003675	protein	obsolete	 in emb
+3083	3088	GO:0005623	cells	cell	onic 
+3097	3112	GO:0006351	transcriptional	transcription,	etic precursors
+3121	3147	GO:0060318	definitive erythropoiesis.	definitive	et al. 1996). We named one
+3155	3170	GO:0030218	erythropoiesis,	erythrocyte	e zebrafish gen
+3307	3322	GO:0006351	transcriptional	transcription,	tions in the mo
+3356	3361	GO:0005623	cells	cell	primi
+3353	3367	GO:0006351	transcription.	transcription,	th primitive e
+3372	3384	GO:0032502	development.	developmental	nic and defi
+3397	3411	GO:0030097	hematopoiesis,	hemopoiesis	hematopoiesis,
+3425	3430	GO:0005623	cells	cell	a sev
+3452	3458	GO:0005623	cells.	cell	cells.
+3449	3459	GO:0005694	Chromosome	chromosome	id cells. 
+3506	3514	GO:0003675	proteins	obsolete	nitially
+3527	3537	GO:0065007	regulatory	biological	 fail to e
+3542	3555	GO:0030097	Hematopoiesis	hemopoiesis	s normal leve
+3573	3580	GO:0003675	Protein	obsolete	c trans
+3594	3608	GO:0033620	Nuclear Bodies	Mei2	rs and undergo
+3594	3608	GO:1990251	Nuclear Bodies	Mmi1	rs and undergo
+3594	3608	GO:0016604	Nuclear Bodies	nuclear	rs and undergo
+3609	3619	GO:0097194	apoptosis.	execution	apoptosis.
+3609	3619	GO:0006915	apoptosis.	apoptotic	apoptosis.
+3623	3638	GO:0000792	Heterochromatin	heterochromatin	itional cloning
+3702	3717	GO:0006351	transcriptional	transcription,	transcriptional
+3702	3717	GO:0033620	nuclear bodies,	Mei2	transcriptional
+3702	3717	GO:1990251	nuclear bodies,	Mmi1	transcriptional
+3702	3717	GO:0016604	nuclear bodies,	nuclear	transcriptional
+3713	3725	GO:0005634	cell nucleus	nucleus	onal interme
+3728	3739	GO:0016605	PML bodies.	PML	ry factor 1
+3740	3752	GO:0051179	Localization	localization	 (TIF1γ), a 
+3753	3761	GO:0003823	antibody	antigen	ember of
+3753	3761	GO:0019815	antibody	B	ember of
+3753	3761	GO:0042571	antibody	immunoglobulin	ember of
+3771	3785	GO:0033620	nuclear bodies	Mei2	family of tran
+3771	3785	GO:1990251	nuclear bodies	Mmi1	family of tran
+3771	3785	GO:0016604	nuclear bodies	nuclear	family of tran
+3781	3796	GO:0006351	transcriptional	transcription,	transcriptional
+3792	3800	GO:0003823	antibody	antigen	onal coa
+3792	3800	GO:0019815	antibody	B	onal coa
+3792	3800	GO:0042571	antibody	immunoglobulin	onal coa
+3820	3829	GO:0009058	formation	biosynthetic	essors (L
+3806	3836	GO:0043687	posttranslational modification	post-translational	ors and corepressors (Le Douar
+3889	3896	GO:0005634	nucleus	nucleus	; Ventu
+3902	3909	GO:0003675	protein	obsolete	t al. 1
+3943	3957	GO:0048513	organogenesis.	organ	members of the
+3968	3980	GO:0032502	development,	developmental	 TIF1 family
+3967	3982	GO:0000792	heterochromatin	heterochromatin	e TIF1 family (
+3985	3995	GO:0005694	Chromosome	chromosome	β, and γ) 
+4030	4040	GO:0005694	Chromosome	chromosome	h contain 
+4049	4054	GO:0005623	cells	cell	inal 
+4087	4094	GO:0003675	protein	obsolete	l. 2001
+4102	4108	GO:0005623	cells)	cell	ed of 
+4093	4108	GO:0006351	transcriptional	transcription,	1) composed of 
+4134	4138	GO:0004239	maps	obsolete	, an
+4169	4176	GO:0051321	meioses	meiotic	mily me
+4169	4176	GO:0007126	meioses	meiotic	mily me
+4166	4192	GO:0030218	erythroid differentiation.	erythrocyte	 family members also conta
+4182	4193	GO:0006402	mRNA decay.	mRNA	also contai
+4186	4206	GO:0043249	erythroid maturation	erythrocyte	 contain a C-termina
+4229	4233	GO:0004239	maps	obsolete	ger 
+4227	4250	GO:0060215	Primitive Hematopoiesis	primitive	inger and bromodomain t
+4261	4269	GO:0003675	proteins	obsolete	racteris
+4268	4276	GO:0003675	protein.	obsolete	stic of 
+4273	4286	GO:0009793	embryogenesis	embryo	of chromatin 
+4273	4286	GO:0009792	embryogenesis	embryo	of chromatin 
+4273	4286	GO:0009790	embryogenesis	embryo	of chromatin 
+4335	4344	GO:0097194	apoptosis	execution	iate with
+4335	4344	GO:0006915	apoptosis	apoptotic	iate with
+4347	4364	GO:0048468	cell development.	cell	variety of ligand
+4371	4396	GO:0004879	nuclear hormone receptors	RNA	nuclear hormone receptors
+4411	4424	GO:0030097	hematopoiesis	hemopoiesis	 al. 1995) an
+4461	4474	GO:0030097	hematopoiesis	hemopoiesis	oic acid rece
+4542	4551	GO:0097194	apoptosis	execution	or for th
+4542	4551	GO:0006915	apoptosis	apoptotic	or for th
+4570	4575	GO:0043198	trunk	dendritic	rüppe
+4663	4678	GO:0006351	transcriptional	transcription,	Abrink et al. 2
+4670	4681	GO:0032502	development	developmental	et al. 2001
+4708	4722	GO:0030097	hematopoiesis.	hemopoiesis	not associate 
+4744	4751	GO:0004239	Mapping	obsolete	uclear 
+4754	4768	GO:0030218	Erythropoiesis	erythrocyte	eptors or KRAB
+4764	4786	GO:0035851	KRAB domains that bind	Krueppel-associated	KRAB domains that bind
+4780	4786	GO:0007618	mating	mating	t bind
+4780	4786	GO:1990277	mating	parasexual	t bind
+4780	4786	GO:0000747	mating	conjugation	t bind
+4780	4786	GO:0009291	mating	unidirectional	t bind
+4794	4801	GO:0003675	protein	obsolete	other T
+4833	4838	GO:0005623	cells	cell	 al. 
+4890	4896	GO:0005623	cells,	cell	demons
+4898	4911	GO:0030097	Hematopoiesis	hemopoiesis	ate that TIF1
+4899	4914	GO:0010467	gene expression	gene	te that TIF1γ f
+4973	4983	GO:0005694	Chromosome	chromosome	t not with
+4981	4986	GO:0005623	Cells	cell	th TI
+5023	5028	GO:0005623	cells	cell	f1α a
+5029	5034	GO:0005623	cells	cell	d Tif
+5042	5052	GO:0005694	Chromosome	chromosome	 have not 
+5070	5077	GO:0003675	protein	obsolete	 to gen
+5170	5176	GO:0004239	mapped	obsolete	d for 
+5166	5190	GO:0060216	Definitive Hematopoiesis	definitive	uired for postimplantati
+5199	5205	GO:0005623	cells.	cell	genesi
+5193	5206	GO:0009793	embryogenesis	embryo	embryogenesis
+5193	5206	GO:0009792	embryogenesis	embryo	embryogenesis
+5193	5206	GO:0009790	embryogenesis	embryo	embryogenesis
+5200	5230	GO:0008134	transcription factors it binds	transcription	enesis and mesoderm induction 
+5280	5285	GO:0005623	cells	cell	, the
+5301	5306	GO:0005623	cells	cell	st th
+5327	5335	GO:0004239	mapping,	obsolete	f TIF1 f
+5416	5420	GO:0018995	host	host	sors
+5428	5440	GO:0032502	development.	developmental	development.
+5513	5518	GO:0005623	cells	cell	embry
+5514	5519	GO:0005623	cells	cell	mbryo
+5561	5575	GO:0030097	hematopoiesis.	hemopoiesis	. Cell transpl
+5602	5607	GO:0005623	cells	cell	e tha
+5601	5610	GO:0097194	Apoptosis	execution	te that t
+5601	5610	GO:0006915	Apoptosis	apoptotic	te that t
+5657	5661	GO:0005623	Cell	cell	bryo
+5669	5685	GO:0010467	gene expression,	gene	topoiesis. The t
+5686	5696	GO:0097194	apoptosis,	execution	f1γ gene i
+5686	5696	GO:0006915	apoptosis,	apoptotic	f1γ gene i
+5698	5703	GO:0005623	cells	cell	expre
+5700	5705	GO:0005623	cells	cell	press
+5737	5747	GO:0005694	Chromosome	chromosome	erm and he
+5793	5798	GO:0005623	cells	cell	 eryt
+5819	5824	GO:0005623	cells	cell	rs. T
+5823	5829	GO:0004617	serum,	phosphoglycerate	Tif1γ 
+5916	5921	GO:0005623	cells	cell	blast
+5942	5949	GO:0003675	protein	obsolete	 cell l
+6008	6012	GO:0005623	Cell	cell	 req
+6230	6245	GO:0006351	transcriptional	transcription,	 we first exami
+6296	6310	GO:0030097	hematopoiesis.	hemopoiesis	zebrafish homo

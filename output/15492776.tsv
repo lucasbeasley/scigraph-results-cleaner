@@ -1,0 +1,273 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+14	18	GO:0005623	cell	cell	igna
+13	22	GO:0023052	Signaling	signaling	Signaling
+39	46	GO:0003675	protein	obsolete	Postnat
+58	73	GO:0010467	gene expression	gene	ce of Articular
+83	88	GO:0005623	cells	cell	 Abst
+120	132	GO:0035282	segmentation	segmentation	n essential 
+127	137	GO:0008219	Cell death	cell	tial role 
+173	185	GO:0032502	development,	developmental	ently damage
+188	197	GO:0009058	formation	biosynthetic	r lost in
+227	232	GO:0005623	cells	cell	op ar
+256	264	GO:0003675	protein,	obsolete	echanism
+294	303	GO:0009058	formation	biosynthetic	s thin la
+354	366	GO:0035282	segmentation	segmentation	n joint regi
+360	366	GO:0005623	cells.	cell	t regi
+362	372	GO:0008219	Cell Death	cell	regions ar
+380	389	GO:0009058	formation	biosynthetic	 understo
+429	444	GO:0010467	gene expression	gene	gene expression
+438	447	GO:0023052	signaling	signaling	ession sp
+468	480	GO:0032502	development.	developmental	ssue have no
+475	487	GO:0032502	development.	developmental	ve not been 
+510	520	GO:0065007	regulatory	biological	regulatory
+517	523	GO:0004617	serum,	phosphoglycerate	ory in
+519	528	GO:0009058	formation	biosynthetic	y informa
+522	531	GO:0023052	Signaling	signaling	nformatio
+520	532	GO:0032502	development,	developmental	 information
+535	545	GO:0008219	cell death	cell	om the mou
+543	558	GO:0010467	gene expression	gene	ouse Gdf5 gene 
+549	567	GO:0008283	cell proliferation	cell	df5 gene (a bone m
+582	591	GO:0009058	formation	biosynthetic	otein [BM
+610	618	GO:0003823	antibody	antigen	o develo
+610	618	GO:0019815	antibody	B	o develo
+610	618	GO:0042571	antibody	immunoglobulin	o develo
+614	619	GO:0007568	Aging	aging	velop
+626	633	GO:0007067	Mitosis	mitotic	use lin
+632	653	GO:0012501	programmed cell death	programmed	nes that can be used 
+715	720	GO:0005623	cells	cell	ing j
+724	732	GO:0007067	mitosis.	mitotic	s. Expre
+764	773	GO:0023052	signaling	signaling	f5 bacter
+767	775	GO:0003823	antibody	antigen	bacteria
+767	775	GO:0019815	antibody	B	bacteria
+767	775	GO:0042571	antibody	immunoglobulin	bacteria
+799	808	GO:0003823	antibody.	antigen	clones le
+799	808	GO:0019815	antibody.	B	clones le
+799	808	GO:0042571	antibody.	immunoglobulin	clones le
+807	812	GO:0005623	cells	cell	eads 
+809	820	GO:0005634	Cell nuclei	nucleus	ds to speci
+831	836	GO:0005623	cells	cell	ion o
+910	919	GO:0097194	Apoptosis	execution	y joint i
+910	919	GO:0006915	Apoptosis	apoptotic	y joint i
+1019	1024	GO:0005623	cells	cell	le of
+1038	1047	GO:0023052	signaling	signaling	signaling
+1060	1065	GO:0005623	cells	cell	elopm
+1057	1069	GO:0032502	development.	developmental	development.
+1093	1102	GO:0023052	signaling	signaling	s in Bmpr
+1115	1121	GO:0005634	nuclei	nucleus	to die
+1131	1144	GO:0009793	embryogenesis	embryo	embryogenesis
+1131	1144	GO:0009792	embryogenesis	embryo	embryogenesis
+1131	1144	GO:0009790	embryogenesis	embryo	embryogenesis
+1189	1196	GO:0003675	protein	obsolete	floxed 
+1206	1219	GO:0005203	proteoglycans	obsolete	ele with the 
+1199	1220	GO:0030509	BMP signaling pathway	BMP	r1a allele with the G
+1244	1249	GO:0005623	cells	cell	this 
+1273	1278	GO:0005623	cells	cell	 lead
+1303	1314	GO:0032502	development	developmental	development
+1332	1343	GO:0032502	Development	developmental	he Bmpr1a g
+1395	1404	GO:0097194	apoptosis	execution	rm normal
+1395	1404	GO:0006915	apoptosis	apoptotic	rm normal
+1397	1405	GO:0003675	proteins	obsolete	 normall
+1443	1455	GO:0032502	development,	developmental	nction. Howe
+1492	1501	GO:0097194	apoptosis	execution	oints gra
+1492	1501	GO:0006915	apoptosis	apoptotic	oints gra
+1505	1510	GO:0005623	cells	cell	ly we
+1498	1513	GO:0016310	phosphorylation	phosphorylation	gradually wears
+1562	1567	GO:0005623	cells	cell	 proc
+1584	1589	GO:0005623	cells	cell	man o
+1605	1614	GO:0023052	signaling	signaling	df5-Cre m
+1643	1647	GO:0005623	cell	cell	that
+1643	1649	GO:0040007	growth	growth	that c
+1642	1651	GO:0009058	synthesis	biosynthetic	 that can
+1650	1660	GO:0009058	formation.	biosynthetic	n be used 
+1663	1670	GO:0007067	mitotic	mitotic	test th
+1671	1676	GO:0005623	cells	cell	 role
+1672	1686	GO:0005203	proteoglycans.	obsolete	role of genes 
+1691	1702	GO:0006412	translation	translation	ticular reg
+1718	1723	GO:0005623	cells	cell	or si
+1721	1730	GO:0023052	signaling	signaling	signaling
+1760	1767	GO:0007067	mitotic	mitotic	y devel
+1762	1773	GO:0032502	development	developmental	development
+1768	1773	GO:0005623	cells	cell	pment
+1824	1829	GO:0005623	cells	cell	oing 
+1830	1843	GO:0006351	transcription	transcription,	aintenance of
+1882	1891	GO:0051235	retention	maintenance	ic variat
+1927	1936	GO:0023052	signaling	signaling	signaling
+1938	1943	GO:0005623	cells	cell	ay be
+1987	1991	GO:0007568	aged	aging	riti
+2028	2034	GO:0005623	cells,	cell	nt BMP
+2044	2053	GO:0023052	signaling	signaling	signaling
+2106	2111	GO:0005623	cells	cell	ategy
+2098	2118	GO:0000150	recombinase activity	recombinase	utic strategy for ma
+2112	2136	GO:0006468	protein phosphorylation,	protein	for maintaining the heal
+2171	2180	GO:0003675	proteins,	obsolete	hin layer
+2200	2215	GO:0010467	gene expression	gene	lage line the b
+2225	2240	GO:0006351	transcriptional	transcription,	novial joints a
+2277	2286	GO:0009058	formation	biosynthetic	tructure 
+2322	2331	GO:0009058	formation	biosynthetic	pact forc
+2384	2388	GO:0033867	Fast	Fas-activated	cart
+2555	2570	GO:0010467	gene expression	gene	 arthritis, and
+2598	2612	GO:0001503	bone formation	ossification	than half of p
+2626	2635	GO:0023052	signaling	signaling	 age of 6
+2635	2640	GO:0005623	cells	cell	5 (Ba
+2659	2663	GO:0033867	Fast	Fas-activated	d Ca
+2674	2714	GO:0043687	post-translational protein modification,	post-translational	). A better understanding of the molecul
+2708	2717	GO:0023052	signaling	signaling	olecular 
+2740	2745	GO:0005623	cells	cell	and m
+2758	2763	GO:0005623	cells	cell	ular 
+2762	2773	GO:0032502	development	developmental	 cartilage 
+2814	2823	GO:0023052	signaling	signaling	joint dis
+2866	2875	GO:0009058	formation	biosynthetic	nts. Join
+2877	2886	GO:0009058	formation	biosynthetic	formation
+2901	2915	GO:0009793	embryogenesis,	embryo	embryogenesis,
+2901	2915	GO:0009792	embryogenesis,	embryo	embryogenesis,
+2901	2915	GO:0009790	embryogenesis,	embryo	embryogenesis,
+2937	2941	GO:0005623	cell	cell	cell
+2933	2950	GO:0006310	DNA recombination	DNA	igh cell density 
+2987	2995	GO:0005202	Collagen	obsolete	ing skel
+2986	2996	GO:0004196	proteinase	obsolete	ping skele
+2986	2996	GO:0004175	proteinase	endopeptidase	ping skele
+3011	3019	GO:0005202	Collagen	obsolete	(Haines 
+3026	3047	GO:0012501	Programmed cell death	programmed	Programmed cell death
+3102	3111	GO:0023052	signaling	signaling	zone form
+3105	3114	GO:0097194	apoptosis	execution	e forms t
+3105	3114	GO:0006915	apoptosis	apoptotic	e forms t
+3102	3117	GO:0016310	phosphorylation	phosphorylation	zone forms that
+3123	3135	GO:0032502	development.	developmental	wo layers of
+3132	3144	GO:0032502	development,	developmental	 of higher c
+3143	3147	GO:0005623	cell	cell	cell
+3154	3163	GO:0009058	Formation	biosynthetic	y flankin
+3176	3184	GO:0005202	Collagen	obsolete	 lower c
+3183	3187	GO:0005623	cell	cell	cell
+3236	3247	GO:0032502	development	developmental	pically dev
+3246	3251	GO:0005623	cells	cell	velop
+3250	3256	GO:0023052	signal	signaling	p into
+3314	3325	GO:0032502	development	developmental	owever, cel
+3322	3327	GO:0005623	cells	cell	cells
+3374	3384	GO:0009058	formation,	biosynthetic	e are excl
+3411	3421	GO:0009058	formation,	biosynthetic	develop in
+3432	3441	GO:0051235	retention	maintenance	anent lay
+3460	3465	GO:0005623	cells	cell	rtila
+3471	3481	GO:0045120	pronucleus	pronucleus	nd in the 
+3511	3522	GO:0032502	development	developmental	Studies ove
+3510	3526	GO:0010467	gene expression,	gene	 Studies over th
+3552	3561	GO:0023052	signaling	signaling	elucidate
+3574	3592	GO:0007165	signaling pathways	signal	signaling pathways
+3638	3648	GO:0009058	formation.	biosynthetic	formation.
+3703	3712	GO:0023052	signaling	signaling	s will fo
+3745	3760	GO:0010467	gene expression	gene	 expression of 
+3784	3793	GO:0023052	signaling	signaling	 misexpre
+3804	3818	GO:0009793	embryogenesis,	embryo	 locations in 
+3804	3818	GO:0009792	embryogenesis,	embryo	 locations in 
+3804	3818	GO:0009790	embryogenesis,	embryo	 locations in 
+3820	3824	GO:0005623	cell	cell	e li
+3869	3874	GO:0016265	death	death	 of t
+3883	3893	GO:0023052	signaling,	signaling	orphogenet
+3987	3994	GO:0007618	Matings	mating	 where 
+3987	3994	GO:1990277	Matings	parasexual	 where 
+3987	3994	GO:0000747	Matings	conjugation	 where 
+3987	3994	GO:0009291	Matings	unidirectional	 where 
+4011	4016	GO:0005623	cells	cell	 incl
+4083	4104	GO:0001501	skeletal development.	skeletal	Storm and Kingsley 19
+4100	4109	GO:0009058	formation	biosynthetic	y 1996; W
+4124	4129	GO:0005623	cells	cell	997; 
+4152	4161	GO:0023052	signaling	signaling	9; Settle
+4225	4230	GO:0005623	cells	cell	ted t
+4235	4244	GO:0009058	formation	biosynthetic	ions wher
+4278	4284	GO:0004617	serum,	phosphoglycerate	f the 
+4299	4319	GO:0031012	extracellular matrix	extracellular	markers of joint for
+4316	4326	GO:0009058	formation.	biosynthetic	formation.
+4326	4336	GO:0003823	antibodies	antigen	 Mutations
+4326	4336	GO:0019815	antibodies	B	 Mutations
+4326	4336	GO:0042571	antibodies	immunoglobulin	 Mutations
+4363	4378	GO:0006351	transcriptional	transcription,	ely related Gdf
+4385	4390	GO:0016265	dying	death	also 
+4387	4392	GO:0004617	serum	phosphoglycerate	so bl
+4391	4396	GO:0005623	cells	cell	lock 
+4396	4405	GO:0009058	formation	biosynthetic	formation
+4398	4417	GO:0051216	cartilage formation	cartilage	rmation of joints a
+4422	4431	GO:0023052	signaling	signaling	cific loc
+4437	4447	GO:0003823	antibodies	antigen	, providin
+4437	4447	GO:0019815	antibodies	B	, providin
+4437	4447	GO:0042571	antibodies	immunoglobulin	, providin
+4452	4461	GO:0097194	apoptosis	execution	ong evide
+4452	4461	GO:0006915	apoptosis	apoptotic	ong evide
+4469	4480	GO:0032502	development	developmental	 these mole
+4503	4515	GO:0032502	development.	developmental	 the joint f
+4514	4523	GO:0009058	formation	biosynthetic	formation
+4524	4529	GO:0005623	cells	cell	proce
+4552	4573	GO:0030509	BMP signaling pathway	BMP	Settle et al. 2003). 
+4584	4589	GO:0005623	cells	cell	tatio
+4586	4596	GO:0003823	antibodies	antigen	tions in B
+4586	4596	GO:0019815	antibodies	B	tions in B
+4586	4596	GO:0042571	antibodies	immunoglobulin	tions in B
+4613	4620	GO:0003675	protein	obsolete	 early 
+4636	4641	GO:0007618	mated	mating	ity, 
+4636	4641	GO:1990277	mated	parasexual	ity, 
+4636	4641	GO:0000747	mated	conjugation	ity, 
+4636	4641	GO:0009291	mated	unidirectional	ity, 
+4689	4698	GO:0009058	formation	biosynthetic	formation
+4719	4726	GO:0005488	ligands	binding	; Zhang
+4738	4747	GO:0023052	signaling	signaling	 1996). M
+4777	4786	GO:0097194	apoptosis	execution	gnaling p
+4777	4786	GO:0006915	apoptosis	apoptotic	gnaling p
+4775	4793	GO:0007165	signaling pathways	signal	signaling pathways
+4795	4804	GO:0023052	signaling	signaling	unction d
+4815	4826	GO:0032502	development	developmental	ubsequent m
+4824	4832	GO:0007618	matings.	mating	 maturat
+4824	4832	GO:1990277	matings.	parasexual	 maturat
+4824	4832	GO:0000747	matings.	conjugation	 maturat
+4824	4832	GO:0009291	matings.	unidirectional	 maturat
+4812	4833	GO:0012501	programmed cell death	programmed	e subsequent maturati
+4855	4862	GO:0023052	signal.	signaling	adult j
+4886	4891	GO:0005623	cells	cell	ntly,
+4896	4905	GO:0023052	signaling	signaling	signaling
+4941	4951	GO:0023052	signaling.	signaling	icular car
+4949	4959	GO:0009058	formation,	biosynthetic	artilage, 
+4975	4984	GO:0009058	Formation	biosynthetic	they may 
+5009	5020	GO:0032502	development	developmental	development
+5069	5076	GO:0005488	ligands	binding	her et 
+5069	5080	GO:0032502	development	developmental	her et al. 
+5177	5181	GO:0005488	bind	binding	bind
+5178	5187	GO:0023052	signaling	signaling	ind tetra
+5214	5225	GO:0003823	antibodies;	antigen	 I and two 
+5214	5225	GO:0019815	antibodies;	B	 I and two 
+5214	5225	GO:0042571	antibodies;	immunoglobulin	 I and two 
+5233	5246	GO:0044214	transmembrane	spanning	transmembrane
+5233	5246	GO:0016021	transmembrane	integral	transmembrane
+5287	5299	GO:0036122	BMP binding,	BMP	BMP binding,
+5290	5299	GO:0009058	formation	biosynthetic	 binding,
+5328	5334	GO:0023052	signal	signaling	signal
+5442	5451	GO:0023052	signaling	signaling	have impl
+5460	5465	GO:0005623	cells	cell	o dif
+5490	5499	GO:0009058	formation	biosynthetic	rs in ske
+5555	5559	GO:0005488	bind	binding	bind
+5644	5649	GO:0005623	cells	cell	1994;
+5695	5704	GO:0009058	formation	biosynthetic	shitoh et
+5696	5708	GO:0001503	ossification	ossification	hitoh et al.
+5719	5728	GO:0023052	signaling	signaling	aux et al
+5745	5753	GO:0005202	collagen	obsolete	eptors a
+5739	5758	GO:0016049	cells in the growth	cell	th receptors are al
+5754	5761	GO:0003675	protein	obsolete	e also 
+5782	5787	GO:0005623	cells	cell	patte
+5805	5817	GO:0032502	development.	developmental	development.
+5832	5850	GO:0098687	chromosome regions	chromosomal	1a expression beco
+5978	5984	GO:0023052	signal	signaling	enchym
+6041	6059	GO:0098687	chromosome regions	chromosomal	condensing precart
+6105	6125	GO:0031012	extracellular matrix	extracellular	joint interzones, pe
+6108	6130	GO:0030509	BMP signaling pathway,	BMP	nt interzones, pericho
+6149	6164	GO:0010467	gene expression	gene	icular cartilag
+6164	6174	GO:0005694	chromosome	chromosome	e (Dewulf 
+6228	6238	GO:0005694	chromosome	chromosome	r et al. 2
+6325	6335	GO:0005694	chromosome	chromosome	int format
+6329	6338	GO:0009058	formation	biosynthetic	formation
+6355	6366	GO:0032502	development	developmental	emble those
+6419	6423	GO:0005623	cell	cell	Baur
+6528	6540	GO:0007369	gastrulation	gastrulation	gastrulation
+6558	6567	GO:0023052	signaling	signaling	seen in m
+6588	6601	GO:0006954	inflammation.	inflammatory	 Bmp4 (Mishin
+6694	6705	GO:0032502	Development	developmental	s also requ
+6709	6720	GO:0032502	development	developmental	 for many l
+6741	6751	GO:0023052	signaling,	signaling	ents, but 
+6779	6788	GO:0009058	formation	biosynthetic	formation
+6880	6892	GO:0032502	development.	developmental	nes specific
+6972	6981	GO:0009058	formation	biosynthetic	formation

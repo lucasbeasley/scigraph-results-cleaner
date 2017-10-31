@@ -1,0 +1,221 @@
+StartIndex	EndIndex	GO:ID	Term	OntologyTerm	MyTerm
+13	24	GO:0032502	development	developmental	yloidosis f
+89	95	GO:0023052	signal	signaling	zheime
+115	119	GO:0031672	band	A	ackg
+131	137	GO:0023052	signal	signaling	otease
+190	200	GO:0003823	antibodies	antigen	m the amyl
+190	200	GO:0019815	antibodies	B	m the amyl
+190	200	GO:0042571	antibodies	immunoglobulin	m the amyl
+285	296	GO:0032502	development	developmental	development
+337	345	GO:0003823	antibody	antigen	 predict
+337	345	GO:0019815	antibody	B	 predict
+337	345	GO:0042571	antibody	immunoglobulin	 predict
+392	400	GO:0003823	antibody	antigen	 brain, 
+392	400	GO:0019815	antibody	B	 brain, 
+392	400	GO:0042571	antibody	immunoglobulin	 brain, 
+450	461	GO:0032502	development	developmental	development
+522	531	GO:0007586	digestion	digestion	ed tissue
+583	590	GO:0003675	protein	obsolete	rm stud
+675	679	GO:0046930	pore	pore	othe
+700	707	GO:0003675	protein	obsolete	ings We
+699	707	GO:0043005	neurites	neuron	dings We
+715	724	GO:0009058	synthesis	biosynthetic	nerated a
+721	729	GO:0016020	membrane	membrane	d a tran
+785	792	GO:0003675	protein	obsolete	 Aβ pro
+804	817	GO:0005576	extracellular	extracellular	cted from tre
+826	834	GO:0043005	neurites	neuron	th secre
+866	870	GO:1990038	halo	Lewy	expr
+878	884	GO:0019013	cored,	viral	nt APP
+928	938	GO:0065007	regulation	biological	cycline. U
+984	989	GO:0007568	Aging	aging	of AP
+1077	1086	GO:0009058	synthesis	biosynthetic	nhibits t
+1090	1094	GO:0045101	GFAP	obsolete	geni
+1130	1139	GO:0031386	ubiquitin	protein	 and redu
+1206	1212	GO:0023052	signal	signaling	n of t
+1225	1234	GO:0009058	synthesis	biosynthetic	synthesis
+1288	1297	GO:0009058	formation	biosynthetic	id pathol
+1311	1320	GO:0009058	formation	biosynthetic	formation
+1376	1384	GO:0003823	antibody	antigen	disequil
+1376	1384	GO:0019815	antibody	B	disequil
+1376	1384	GO:0042571	antibody	immunoglobulin	disequil
+1409	1417	GO:0003823	antibody	antigen	uire far
+1409	1417	GO:0019815	antibody	B	uire far
+1409	1417	GO:0042571	antibody	immunoglobulin	uire far
+1436	1445	GO:0009058	formation	biosynthetic	 than to 
+1473	1482	GO:0009058	synthesis	biosynthetic	synthesis
+1528	1537	GO:0009058	formation	biosynthetic	formation
+1559	1572	GO:0006909	phagocytosis,	phagocytosis	 a considerab
+1582	1588	GO:0023052	signal	signaling	 load,
+1652	1663	GO:0003823	antibodies,	antigen	onstrates t
+1652	1663	GO:0019815	antibodies,	B	onstrates t
+1652	1663	GO:0042571	antibodies,	immunoglobulin	onstrates t
+1738	1745	GO:0003675	protein	obsolete	 that a
+1789	1799	GO:0003823	antibodies	antigen	t that arr
+1789	1799	GO:0019815	antibodies	B	t that arr
+1789	1799	GO:0042571	antibodies	immunoglobulin	t that arr
+1809	1819	GO:0045120	Pronuclear	pronucleus	production
+1883	1892	GO:0003823	antibody,	antigen	of pathol
+1883	1892	GO:0019815	antibody,	B	of pathol
+1883	1892	GO:0042571	antibody,	immunoglobulin	of pathol
+1900	1905	GO:0007568	ages,	aging	 that
+1921	1930	GO:0003823	antibody.	antigen	 may be i
+1921	1930	GO:0019815	antibody.	B	 may be i
+1921	1930	GO:0042571	antibody.	immunoglobulin	 may be i
+1977	1986	GO:0007586	digestion	digestion	 once for
+2029	2041	GO:0006954	inflammation	inflammatory	o clear. Int
+2040	2050	GO:0045120	pronucleus	pronucleus	troduction
+2062	2070	GO:0003823	antibody	antigen	de ago t
+2062	2070	GO:0019815	antibody	B	de ago t
+2062	2070	GO:0042571	antibody	immunoglobulin	de ago t
+2095	2103	GO:0007618	matings.	mating	esis pre
+2095	2103	GO:1990277	matings.	parasexual	esis pre
+2095	2103	GO:0000747	matings.	conjugation	esis pre
+2095	2103	GO:0009291	matings.	unidirectional	esis pre
+2140	2145	GO:0019013	cored	viral	id-β 
+2241	2246	GO:0007568	Aging	aging	iseas
+2271	2276	GO:0019013	cored	viral	 for 
+2344	2348	GO:0007568	ages	aging	muta
+2381	2388	GO:0005625	soluble	obsolete	otein (
+2561	2577	GO:0008088	axonal transport	axon	 as predicted, o
+2557	2581	GO:0097418	neurofibrillary tangles,	neurofibrillary	 If, as predicted, overp
+2629	2637	GO:0003823	antibody	antigen	leading 
+2629	2637	GO:0019815	antibody	B	leading 
+2629	2637	GO:0042571	antibody	immunoglobulin	leading 
+2698	2702	GO:1990038	halo	Lewy	shou
+2726	2731	GO:0019013	cored	viral	rse t
+2728	2735	GO:0003675	protein	obsolete	e the p
+2768	2775	GO:0003675	protein	obsolete	ia. Ear
+2837	2844	GO:0003675	protein	obsolete	e, one 
+2846	2855	GO:0031386	ubiquitin	protein	 the firs
+2900	2904	GO:0045101	GFAP	obsolete	gges
+2907	2938	GO:0045098	glial fibrillary acidic protein	type	 that treatments designed to re
+2907	2938	GO:0045101	glial fibrillary acidic protein	obsolete	 that treatments designed to re
+2938	2948	GO:0031386	Ubiquitin,	protein	duce amylo
+2949	2981	GO:0045098	glial fibrillary acidic protein,	type	d burden may indeed be beneficia
+2949	2981	GO:0045101	glial fibrillary acidic protein,	obsolete	d burden may indeed be beneficia
+2983	2987	GO:0045101	GFAP	obsolete	 Alt
+3009	3017	GO:0003823	antibody	antigen	halted b
+3009	3017	GO:0019815	antibody	B	halted b
+3009	3017	GO:0042571	antibody	immunoglobulin	halted b
+3010	3017	GO:0003675	protein	obsolete	alted b
+3095	3102	GO:0003675	protein	obsolete	 severa
+3112	3119	GO:0003675	protein	obsolete	 found 
+3118	3125	GO:0003675	protein	obsolete	 eviden
+3132	3140	GO:0003823	antibody	antigen	 amyloid
+3132	3140	GO:0019815	antibody	B	 amyloid
+3132	3140	GO:0042571	antibody	immunoglobulin	 amyloid
+3163	3169	GO:0040007	growth	growth	sser d
+3185	3192	GO:0003675	protein	obsolete	functio
+3180	3199	GO:0004601	peroxidase activity	peroxidase	tive function, was 
+3220	3224	GO:0046930	pore	pore	n to
+3227	3236	GO:0009058	formation	biosynthetic	e patient
+3246	3255	GO:0009058	Formation	biosynthetic	f Aβ-spec
+3253	3261	GO:0003823	antibody	antigen	ecific a
+3253	3261	GO:0019815	antibody	B	ecific a
+3253	3261	GO:0042571	antibody	immunoglobulin	ecific a
+3260	3268	GO:0003823	antibody	antigen	antibody
+3260	3268	GO:0019815	antibody	B	antibody
+3260	3268	GO:0042571	antibody	immunoglobulin	antibody
+3266	3273	GO:0003675	protein	obsolete	dy [6,7
+3289	3295	GO:0023052	signal	signaling	proach
+3294	3301	GO:0003675	protein	obsolete	h is pr
+3312	3321	GO:0009056	breakdown	catabolic	nstant ex
+3317	3330	GO:0005576	extracellular	extracellular	t exposure to
+3331	3341	GO:0003823	antibodies	antigen	antibodies
+3331	3341	GO:0019815	antibodies	B	antibodies
+3331	3341	GO:0042571	antibodies	immunoglobulin	antibodies
+3410	3415	GO:0004617	serum	phosphoglycerate	pecte
+3430	3439	GO:0009058	synthesis	biosynthetic	that will
+3456	3465	GO:0050890	cognition	cognition	erm use. 
+3460	3469	GO:0009058	formation	biosynthetic	use. An a
+3483	3491	GO:0003823	antibody	antigen	roach th
+3483	3491	GO:0019815	antibody	B	roach th
+3483	3491	GO:0042571	antibody	immunoglobulin	roach th
+3486	3493	GO:0003675	protein	obsolete	ch that
+3527	3536	GO:0003823	antibody,	antigen	ure treat
+3527	3536	GO:0019815	antibody,	B	ure treat
+3527	3536	GO:0042571	antibody,	immunoglobulin	ure treat
+3541	3548	GO:0003675	protein	obsolete	of AD s
+3589	3593	GO:0031672	band	A	rodu
+3589	3594	GO:0019013	cored	viral	roduc
+3609	3616	GO:0003675	protein	obsolete	recurso
+3618	3625	GO:0003675	protein	obsolete	protein
+3647	3655	GO:0003823	antibody	antigen	leased f
+3647	3655	GO:0019815	antibody	B	leased f
+3647	3655	GO:0042571	antibody	immunoglobulin	leased f
+3649	3659	GO:0043205	fibrillary	fibril	ased from 
+3667	3674	GO:0003675	protein	obsolete	he acti
+3675	3681	GO:0045101	(GFAP)	obsolete	n of t
+3693	3704	GO:0003823	antibodies,	antigen	the β-APP c
+3693	3704	GO:0019815	antibodies,	B	the β-APP c
+3693	3704	GO:0042571	antibodies,	immunoglobulin	the β-APP c
+3742	3750	GO:0036268	swimming	swimming	se, whic
+3746	3754	GO:0003823	antibody	antigen	which cl
+3746	3754	GO:0019815	antibody	B	which cl
+3746	3754	GO:0042571	antibody	immunoglobulin	which cl
+3792	3797	GO:0004617	serum	phosphoglycerate	ermin
+3802	3809	GO:0003675	protein	obsolete	Aβ, res
+3831	3837	GO:0023052	signal	signaling	ibitor
+3858	3862	GO:0036268	swim	swimming	 alr
+3880	3888	GO:0003823	antibody	antigen	 [8,9], 
+3880	3888	GO:0019815	antibody	B	 [8,9], 
+3880	3888	GO:0042571	antibody	immunoglobulin	 [8,9], 
+3899	3905	GO:0023052	signal	signaling	olecul
+3910	3916	GO:0023052	signal	signaling	ibitor
+4019	4029	GO:0009058	formation,	biosynthetic	 approach 
+4070	4078	GO:0036268	swimming	swimming	r, has n
+4078	4085	GO:0003675	protein	obsolete	ot been
+4162	4173	GO:0032502	development	developmental	development
+4185	4198	GO:0006351	transcription	transcription,	in transgenic
+4196	4215	GO:0007611	learning and memory	learning	ic mouse models for
+4250	4258	GO:0003823	Antibody	antigen	personal
+4250	4258	GO:0019815	Antibody	B	personal
+4250	4258	GO:0042571	Antibody	immunoglobulin	personal
+4257	4263	GO:0023052	signal	signaling	l comm
+4259	4266	GO:0005488	binding	binding	communi
+4355	4361	GO:0023052	signal	signaling	roduct
+4366	4374	GO:0003675	protein.	obsolete	f Aβ has
+4399	4408	GO:0009058	formation	biosynthetic	, the amy
+4553	4562	GO:0009058	formation	biosynthetic	se inhibi
+4614	4626	GO:0032502	development.	developmental	development.
+4674	4682	GO:0016020	membrane	membrane	mer-type
+4772	4781	GO:0009058	synthesis	biosynthetic	et-off sy
+4826	4834	GO:0003823	antibody	antigen	line adm
+4826	4834	GO:0019815	antibody	B	line adm
+4826	4834	GO:0042571	antibody	immunoglobulin	line adm
+4883	4887	GO:0031672	band	A	pres
+4955	4967	GO:0032502	development.	developmental	lity to redu
+5011	5019	GO:0016020	membrane	membrane	itude wi
+5007	5020	GO:0006909	phagocytosis.	phagocytosis	magnitude wit
+5031	5049	GO:0043043	peptide synthesis,	peptide	ine [14], allowed 
+5062	5069	GO:0003675	protein	obsolete	nt test
+5122	5131	GO:0016020	membranes	membrane	f Aβ prod
+5143	5147	GO:0005623	cell	cell	 imp
+5196	5204	GO:0003823	antibody	antigen	her reve
+5196	5204	GO:0019815	antibody	B	her reve
+5196	5204	GO:0042571	antibody	immunoglobulin	her reve
+5205	5212	GO:0005488	binding	binding	sal of 
+5246	5256	GO:0009058	synthesis,	biosynthetic	llowing su
+5359	5369	GO:0008152	metabolism	metabolic	APP695Swed
+5421	5433	GO:0009056	degradation,	catabolic	er region of
+5446	5458	GO:0006909	phagocytosis	phagocytosis	oI vector (a
+5459	5464	GO:0019013	cored	viral	so kn
+5457	5465	GO:0007610	behavior	behavior	also kno
+5521	5530	GO:0009058	formation	biosynthetic	sive prom
+5551	5558	GO:0003675	protein	obsolete	ife Tec
+5570	5579	GO:0009058	synthesis	biosynthetic	ockville,
+5667	5676	GO:0009058	formation	biosynthetic	APP695) c
+5758	5765	GO:0003675	protein	obsolete	(bp 6–4
+5853	5862	GO:0009058	formation	biosynthetic	 5′ end a
+5868	5876	GO:0003675	Proteins	obsolete	amHI sit
+5866	5883	GO:0007623	circadian rhythms	circadian	 BamHI site to th
+5905	5917	GO:0006909	phagocytosis	phagocytosis	ying XhoI an
+6181	6192	GO:0003823	antibodies:	antigen	5′ end of e
+6181	6192	GO:0019815	antibodies:	B	5′ end of e
+6181	6192	GO:0042571	antibodies:	immunoglobulin	5′ end of e
+6273	6278	GO:0005623	cells	cell	 ACC 
+6335	6347	GO:0032502	development,	developmental	. This 2-kb 
+6417	6425	GO:0003675	proteins	obsolete	bad, Cal
+6717	6725	GO:0003823	antibody	antigen	t the Ba
+6717	6725	GO:0019815	antibody	B	t the Ba
+6717	6725	GO:0042571	antibody	immunoglobulin	t the Ba
